@@ -4,8 +4,7 @@ import datetime
 import os
 import main
 
-BASE_FILE_PATH = '/workspaces/streamlit-regulation-prediction-prototype/'
-OUTPUT_FILE_PATH = f'{BASE_FILE_PATH}Output/'
+OUTPUT_FILE_PATH = main.OUTPUT_FILE_PATH
 
 # Title of the app
 st.title("Ciso SVM Prototype")

@@ -4,9 +4,15 @@ from joblib import dump, load
 import pandas as pd
 import re
 
-BASE_FILE_PATH = '/workspaces/streamlit-regulation-prediction-prototype/'
+#Codespaces path
+# BASE_FILE_PATH = '/workspaces/streamlit-regulation-prediction-prototype/'
+
+#Streamlit Serverless path
+BASE_FILE_PATH = '/mount/src/streamlit-regulation-prediction-prototype/'
+
 RAW_FILE_PATH = f'{BASE_FILE_PATH}Raw/'
 MODEL_FILE_PATH = f'{BASE_FILE_PATH}Model/'
+OUTPUT_FILE_PATH = f'{BASE_FILE_PATH}Output/'
 
 def clean_pasal(df_input):
   stopword = StopWord()
