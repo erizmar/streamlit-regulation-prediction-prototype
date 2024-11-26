@@ -1,5 +1,5 @@
 streamlit
 nlp-id
 sqlalchemy
-psycopg2
+psycopg2-binary
 python-dotenv
