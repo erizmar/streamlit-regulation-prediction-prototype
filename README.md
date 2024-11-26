@@ -16,4 +16,5 @@ A simple Streamlit app showing an internal tool that lets you create, manage, an
 
    ```
    $ streamlit run streamlit_app.py
+   $ streamlit run streamlit_app.py --server.enableCORS false --server.enableXsrfProtection false
    ```

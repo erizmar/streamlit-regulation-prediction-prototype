@@ -4,8 +4,9 @@ from joblib import dump, load
 import pandas as pd
 import re
 
-RAW_FILE_PATH = '/content/drive/My Drive/Cisometric/Raw/'
-SVM_FILE_PATH = '/content/drive/My Drive/Cisometric/SVM/'
+BASE_FILE_PATH = '/workspaces/streamlit-regulation-prediction-prototype/'
+RAW_FILE_PATH = f'{BASE_FILE_PATH}Raw/'
+MODEL_FILE_PATH = f'{BASE_FILE_PATH}Model/'
 
 def clean_pasal(df_input):
   stopword = StopWord()
@@ -26,13 +27,13 @@ def clean_pasal(df_input):
 
   return clean_data
 
-def get_svm_model():
-  model = load(f'{SVM_FILE_PATH}Model/svm_model.joblib')
+def get_svm_model(topic_name):
+  model = load(f'{MODEL_FILE_PATH}svm_{topic_name}_model.joblib')
 
   return model
 
 def get_tfidf_model():
-  model = load(f'{SVM_FILE_PATH}Model/tfidf_model.joblib')
+  model = load(f'{MODEL_FILE_PATH}tfidf_model.joblib')
 
   return model
 
@@ -41,14 +42,14 @@ def get_pasal(regulation_name):
 
   return df_pasal
 
-def predict_pasal(regulation_name):
+def predict_pasal(topic_name, regulation_name):
   df_pasal = get_pasal(regulation_name)
   clean_data = clean_pasal(df_pasal)
 
   vectorizer = get_tfidf_model()
   features = vectorizer.transform(clean_data)
 
-  model = get_svm_model()
+  model = get_svm_model(topic_name)
   predictions = model.predict(features)
 
   df_pasal['regulation_name'] = regulation_name
@@ -56,15 +57,18 @@ def predict_pasal(regulation_name):
 
   return df_pasal
 
-def get_prediction(regulation_name):
-  df_prediction = predict_pasal(regulation_name)
+def get_prediction(topic_name, regulation_name):
+  df_prediction = predict_pasal(topic_name, regulation_name)
+  df_prediction['topic_name'] = topic_name
   df_prediction = df_prediction[df_prediction['prediction'] == 1]
 
-  result = f'Total Prediction for {regulation_name.upper()}: {len(df_prediction)}\n\n'
-  for index, row in df_prediction.iterrows():
-    result += str(row['pasal'])+'\n\n'
+  df_output = df_prediction[['topic_name', 'regulation_name', 'pasal', 'pasal_text']]
 
-  return result
+#   result = f'Total Prediction for {regulation_name.upper()}: {len(df_prediction)}\n\n'
+#   for index, row in df_prediction.iterrows():
+#     result += str(row['pasal'])+'\n\n'
+
+  return df_output
 
 def parse_name(item):
   no_index = item.find('No')

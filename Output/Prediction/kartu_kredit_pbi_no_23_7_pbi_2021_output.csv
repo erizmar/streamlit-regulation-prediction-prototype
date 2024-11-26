@@ -1,0 +1,596 @@
+topic_name,regulation_name,pasal,pasal_text,feedback
+kartu_kredit,pbi_no_23_7_pbi_2021,6,"Pasal 6
+PIP dalam penyelenggaraan Sistem Pembayaran, dapat bekerja
+sama dengan Penyelenggara Penunjang.",
+kartu_kredit,pbi_no_23_7_pbi_2021,7,"Pasal 7
+Untuk mendukung aktivitas PIP, Penyelenggara Penunjang
+menyelenggarakan aktivitas dengan ketentuan:
+a. kendali pemrosesan transaksi pembayaran tetap berada
+pada PIP;
+b. Penyelenggara Penunjang hanya menyediakan layanan
+pendukung yang bersifat teknis atau memberikan solusi;
+dan
+c. Penyelenggara Penunjang tidak diperbolehkan mengakses
+dan/atau menatausahakan Sumber Dana.",
+kartu_kredit,pbi_no_23_7_pbi_2021,8,"Pasal 8
+Aktivitas Penyelenggara Penunjang dalam pemrosesan transaksi
+pembayaran meliputi penyediaan:
+a. teknologi untuk pemrosesan transaksi pembayaran
+berupa:
+1. penyediaan teknologi untuk pemrosesan transaksi
+pembayaran meliputi penyediaan layanan teknologi,
+sistem, dan/atau platform yang digunakan oleh PIP-8-
+dalam pelaksanaan pemrosesan transaksi pembayaran
+pada tahapan Kliring dan/atau Penyelesaian Akhir;
+dan/atau
+2. penyediaan layanan teknologi untuk pemrosesan
+transaksi pembayaran yang meliputi penyediaan
+teknologi pengelolaan fraud (fraud management
+system), penyediaan teknologi komputasi awan (cloud
+computing), dan penyediaan card management system;
+dan/atau
+b. layanan penunjang kegiatan penyelenggaraan Sistem
+Pembayaran lainnya yang meliputi:
+1. layanan penyelenggaraan pada Pratransaksi dan
+Pascatransaksi;
+2. kegiatan pemasaran produk dan/atau layanan
+pembayaran;
+3. penyelenggara perdagangan melalui sistem elektronik
+yang memfasilitasi pembayaran;
+4. pemanfaatan infrastruktur dan sistem bagi PIP lain
+untuk melakukan pemrosesan transaksi pembayaran
+(white labelling); dan
+5. layanan penunjang lainnya yang terkait dengan
+penyelenggaraan aktivitas PIP.",
+kartu_kredit,pbi_no_23_7_pbi_2021,16,"Pasal 16
+Pihak yang akan ditetapkan menjadi PIP harus memenuhi
+persyaratan yang meliputi aspek:
+a. kelembagaan;
+b. permodalan dan keuangan;
+c. manajemen risiko; dan
+d. kapabilitas sistem informasi.",
+kartu_kredit,pbi_no_23_7_pbi_2021,28,"Pasal 28
+(1) Aspek manajemen risiko sebagaimana dimaksud dalam
+Pasal 16 huruf c meliputi risiko hukum, risiko operasional,
+dan risiko likuiditas.
+(2) Penerapan aspek manajemen risiko sebagaimana
+dimaksud pada ayat (1) dinilai melalui:
+a. pengawasan aktif oleh direksi dan dewan komisaris
+bagi pihak yang akan ditetapkan menjadi PIP
+berbadan hukum perseroan terbatas;
+b. ketersediaan kebijakan dan prosedur serta
+pemenuhan kecukupan struktur organisasi;
+c. proses manajemen risiko dan fungsi manajemen
+risiko, serta sumber daya manusia; dan
+d. pengendalian intern.",
+kartu_kredit,pbi_no_23_7_pbi_2021,29,"Pasal 29
+Persyaratan penetapan terkait aspek manajemen risiko
+sebagaimana dimaksud dalam Pasal 28 harus didukung dengan
+pemenuhan dokumen:
+a. yang menunjukkan kebijakan dan prosedur penerapan
+manajemen risiko hukum, risiko operasional, dan risiko
+likuiditas;-21-
+b. yang menunjukkan rencana kerja sama antara perusahaan
+dan pihak lain dalam penyelenggaraan aktivitas Sistem
+Pembayaran yang akan dijalankan oleh perusahaan
+termasuk namun tidak terbatas pada:
+1. ringkasan atas seluruh kerja sama antara pihak yang
+akan ditetapkan menjadi PIP dan pihak lain terkait
+dengan penyelenggaraan aktivitas Sistem Pembayaran
+yang akan dilakukan; dan
+2. perjanjian kerja sama atau konsep final perjanjian
+kerja sama dengan seluruh pihak yang bekerja sama
+dalam penyelenggaran aktivitas Sistem Pembayaran
+yang akan dilakukan;
+c. yang menunjukkan kebijakan dan prosedur operasional
+serta ketersediaan perangkat dalam rangka perlindungan
+konsumen;
+d. yang menunjukkan prosedur operasional dalam rangka
+pemantauan anti pencucian uang dan pencegahan
+pendanaan terorisme;
+e. yang menjelaskan produk atau aktivitas Sistem
+Pembayaran yang akan diselenggarakan;
+f. yang menunjukkan kesiapan operasional termasuk
+prosedur operasional standar serta spesifikasi perangkat
+keras dan perangkat lunak dalam menjalankan produk
+atau aktivitas Sistem Pembayaran yang akan
+diselenggarakan; dan
+g. yang menunjukkan prosedur operasional dalam rangka
+pemantauan likuiditas perusahaan berkaitan dengan
+aktivitas penyelenggaraan Sistem Pembayaran.",
+kartu_kredit,pbi_no_23_7_pbi_2021,30,"Pasal 30
+Aspek kapabilitas sistem informasi sebagaimana dimaksud
+dalam Pasal 16 huruf d paling sedikit dinilai melalui:
+a. prosedur pengendalian pengamanan sistem informasi
+(security control);
+b. pengelolaan fraud (fraud management system);
+c. audit sistem informasi dan pengujian keamanan; dan
+d. tingkat kapabilitas dan ketersediaan sistem informasi.",
+kartu_kredit,pbi_no_23_7_pbi_2021,31,"Pasal 31
+Persyaratan penetapan terkait aspek kapabilitas sistem
+informasi sebagaimana dimaksud dalam Pasal 30 harus
+dilengkapi dengan dokumen yang menunjukkan:
+a. prosedur pengendalian pengamanan terhadap sistem yang
+digunakan untuk penyelenggaraan aktivitas Sistem
+Pembayaran;
+b. prosedur, mekanisme, dan infrastruktur pengelolaan fraud
+(fraud management system);
+c. hasil uji terhadap keandalan sistem yang dilakukan oleh
+pihak eksternal maupun internal; dan
+d. prosedur, mekanisme, dan infrastruktur penanganan
+kesinambungan kegiatan usaha (business continuity) dan
+keadaan darurat (disaster recovery) yang efektif.",
+kartu_kredit,pbi_no_23_7_pbi_2021,67,"Pasal 67
+(1) PIP wajib memenuhi prinsip umum dalam penyelenggaraan
+Sistem Pembayaran yang terdiri atas:
+a. kewajiban penyelenggaraan yang meliputi aspek:
+1. tata kelola;
+2. manajemen risiko termasuk prinsip kehati-
+hatian;
+3. standar keamanan sistem informasi;
+4. interkoneksi dan interoperabilitas; dan
+5. pemenuhan ketentuan peraturan perundang-
+undangan;
+b. kebijakan Bank Indonesia mengenai skema harga
+dalam penyelenggaraan Sistem Pembayaran; dan
+c. kapabilitas sumber daya manusia dan organisasi,
+serta kode etik dan tata perilaku praktik bisnis yang
+sehat.-38-
+(2) PIP yang melanggar ketentuan sebagaimana dimaksud
+pada ayat (1) dikenai sanksi administratif berupa:
+a. teguran;
+b. penghentian sementara, sebagian, atau seluruh
+kegiatan termasuk pelaksanaan kerja sama; dan/atau
+c. pencabutan penetapan sebagai PIP.
+(3) Ketentuan lebih lanjut mengenai tata cara pengenaan
+sanksi administratif sebagaimana dimaksud pada ayat (2)
+diatur dalam Peraturan Anggota Dewan Gubernur.",
+kartu_kredit,pbi_no_23_7_pbi_2021,68,"Pasal 68
+(1) Pemenuhan kewajiban aspek tata kelola sebagaimana
+dimaksud dalam Pasal 67 ayat (1) huruf a angka 1
+dilakukan berdasarkan prinsip:
+a. keterbukaan;
+b. akuntabilitas;
+c. tanggung jawab;
+d. independensi; dan
+e. kewajaran.
+(2) PIP menerapkan prinsip tata kelola sebagaimana dimaksud
+pada ayat (1) dalam setiap kegiatan usahanya.
+(3) Penerapan prinsip tata kelola sebagaimana dimaksud pada
+ayat (1) diwujudkan paling sedikit dalam:
+a. pelaksanaan tugas dan tanggung jawab direksi dan
+dewan komisaris;
+b. pemenuhan aspek kelembagaan berupa kewajiban:
+1. memelihara pemenuhan aspek kelembagaan
+meliputi legalitas badan hukum, kepemilikan,
+pengendalian, dan kepengurusan sebagaimana
+dimaksud dalam Pasal 17 sampai dengan Pasal
+22; dan-39-
+2. menyampaikan rencana tindak lanjut dalam hal
+terjadi pelanggaran pemenuhan aspek
+kelembagaan sebagaimana dimaksud pada angka
+1 dan harus memperoleh persetujuan dari Bank
+Indonesia.
+c. penerapan fungsi kepatuhan, audit internal, dan audit
+eksternal;
+d. penerapan manajemen risiko;
+e. rencana strategis; dan
+f. transparansi kondisi keuangan dan non keuangan.",
+kartu_kredit,pbi_no_23_7_pbi_2021,69,"Pasal 69
+Pemenuhan kewajiban aspek manajemen risiko termasuk
+prinsip kehati-hatian sebagaimana dimaksud dalam Pasal 67
+huruf a angka 2 paling sedikit meliputi:
+a. pengawasan aktif oleh direksi dan dewan komisaris;
+b. ketersediaan kebijakan dan prosedur serta pemenuhan
+kecukupan struktur organisasi;
+c. proses manajemen risiko dan fungsi manajemen risiko,
+serta sumber daya manusia; dan
+d. pengendalian intern.",
+kartu_kredit,pbi_no_23_7_pbi_2021,70,"Pasal 70
+(1) Pemenuhan kewajiban aspek standar keamanan sistem
+informasi sebagaimana dimaksud dalam Pasal 67 ayat (1)
+huruf a angka 3 paling sedikit meliputi:
+a. ketersediaan kebijakan dan prosedur tertulis sistem
+informasi;
+b. penggunaan sistem yang aman dan andal paling
+sedikit untuk:
+1. pengamanan dan perlindungan kerahasiaan
+data;
+2. pengelolaan fraud;
+3. pemenuhan sertifikasi dan/atau standar
+keamanan dan keandalan sistem;-40-
+4. pemeliharaan dan peningkatan keamanan
+teknologi; dan
+5. ketersediaan sistem informasi;
+c. penerapan standar keamanan siber;
+d. pengamanan data dan/atau informasi; dan
+e. pelaksanaan audit sistem informasi secara berkala.
+(2) Pengelolaan fraud sebagaimana dimaksud pada ayat (1)
+huruf b angka 2 meliputi tahap pencegahan, deteksi,
+penanganan, dan pemantauan.
+(3) Implementasi pengelolaan fraud sebagaimana dimaksud
+pada ayat (2) dilakukan paling sedikit dengan menerapkan
+sistem deteksi fraud pada level akun dan transaksi.
+(4) Sertifikasi dan/atau standar keamanan dan keandalan
+sistem sebagaimana dimaksud pada ayat (1) huruf b angka
+3 merupakan sertifikasi dan/atau standar yang berlaku
+umum, yang ditetapkan oleh Bank Indonesia, otoritas, atau
+lembaga terkait yang disesuaikan dengan jenis aktivitas
+yang diselenggarakan PIP dan/atau klasifikasi PIP.
+(5) Pengamanan data dan/atau informasi sebagaimana
+dimaksud pada ayat (1) huruf d, termasuk namun tidak
+terbatas pada pengamanan data dan/atau informasi terkait
+instrumen pembayaran dan transaksi pembayaran.",
+kartu_kredit,pbi_no_23_7_pbi_2021,71,"Pasal 71
+(1) Pemenuhan kewajiban aspek interkoneksi dan
+interoperabilitas sebagaimana dimaksud dalam Pasal 67
+ayat (1) huruf a angka 4 paling sedikit meliputi:
+a. kepatuhan terhadap mekanisme interkoneksi dan
+interoperabilitas, termasuk standar yang ditetapkan
+oleh Bank Indonesia;
+b. pemenuhan terhadap mekanisme keterhubungan
+dengan infrastruktur data dan infrastruktur Sistem
+Pembayaran; dan
+c. pemrosesan transaksi pembayaran secara domestik.-41-
+(2) Pemrosesan transaksi pembayaran secara domestik
+sebagaimana dimaksud pada ayat (1) huruf c berlaku
+untuk tahapan Inisiasi, Otorisasi, Kliring, dan Penyelesaian
+Akhir.
+(3) Pemrosesan transaksi pembayaran secara domestik
+sebagaimana dimaksud pada ayat (2) dilakukan untuk
+setiap transaksi yang:
+a. menggunakan akses ke Sumber Dana berupa
+instrumen dan/atau layanan yang diselenggarakan
+oleh anggota PIP; dan
+b. dilakukan di wilayah Negara Kesatuan Republik
+Indonesia.
+(4) Sistem elektronik yang digunakan untuk pemrosesan
+transaksi pada tahapan Inisiasi, Otorisasi, Kliring, dan
+Penyelesaian Akhir ditempatkan pada pusat data dan pusat
+pemulihan bencana di wilayah Negara Kesatuan Republik
+Indonesia.
+(5) Bank Indonesia menetapkan jenis akses ke Sumber Dana
+dan tahapan pemberlakuan pemrosesan transaksi secara
+domestik.
+(6) Transaksi pembayaran dapat diproses di luar wilayah
+Negara Kesatuan Republik Indonesia sepanjang
+memperoleh persetujuan Bank Indonesia.
+(7) Persetujuan Bank Indonesia untuk pemrosesan transaksi
+pembayaran di luar wilayah Negara Kesatuan Republik
+Indonesia sebagaimana dimaksud pada ayat (6) dapat
+diberikan dengan mempertimbangkan:
+a. penggunaan sistem elektronik dan/atau aktivitas yang
+terintegrasi dengan kantor pusat PIP yang berada di
+luar wilayah Negara Kesatuan Republik Indonesia;
+b. penggunaan sistem elektronik yang terintegrasi
+dengan kantor pusat PIP yang berada di luar wilayah
+Negara Kesatuan Republik Indonesia;
+c. tingkat kesiapan industri dan infrastruktur nasional;
+dan/atau
+d. aspek lainnya yang ditetapkan Bank Indonesia.-42-
+(8) Persetujuan Bank Indonesia diberikan sepanjang terdapat
+jaminan dari PIP bahwa pemrosesan di luar wilayah Negara
+Kesatuan Republik Indonesia tidak mengurangi efektivitas
+pengawasan, perolehan data, dan pelindungan data
+pribadi.",
+kartu_kredit,pbi_no_23_7_pbi_2021,88,"Pasal 88
+(1) Pemenuhan kewajiban manajemen risiko dan standar
+keamanan sistem informasi sebagaimana dimaksud dalam
+Pasal 79 ayat (2) huruf b bagi PSPS paling sedikit meliputi:
+a. memiliki kecukupan kebijakan dan standar
+operasional prosedur dalam mengelola risiko;
+b. memiliki kemampuan untuk menjaga tingkat
+ketersediaan layanan;
+c. memiliki satuan atau unit kerja audit internal, satuan
+atau unit kerja kepatuhan, dan satuan atau unit kerja
+manajemen risiko yang terpisah;
+d. memiliki pusat data dan pusat pemulihan bencana
+pada lokasi terpisah, dengan kapasitas infrastruktur
+sistem informasi yang sama dan aktif secara
+bersamaan sesuai analisis dampak bisnis;
+e. melakukan uji coba atas rencana pemulihan bencana
+sistem aplikasi dan infrastruktur pendukung sistem
+pembayaran ke pusat pemulihan bencana paling
+sedikit 1 (satu) kali dalam 1 (satu) tahun termasuk
+simulasi ketahanan siber;
+f. memiliki pengelolaan fraud (fraud management
+system) yang dapat mendeteksi aktivitas fraud pada
+tingkat akun, aktivitas jaringan, dan transaksi;-52-
+g. pelaksanaan audit teknologi informasi oleh auditor
+teknologi informasi independen eksternal yang
+terdaftar di otoritas atau SRO, paling sedikit 1 (satu)
+kali dalam 1 (satu) tahun;
+h. pelaksanaan pengujian keamanan (penetration test)
+secara menyeluruh oleh auditor teknologi informasi
+independen eksternal yang terdaftar di otoritas atau
+SRO, paling sedikit 1 (satu) kali dalam 1 (satu) tahun;
+i. pelaksanaan audit keuangan oleh kantor akuntan
+publik yang terdaftar di otoritas; dan
+j. memiliki sertifikasi standar internasional terkait
+keamanan informasi aktivitas Sistem Pembayaran
+utama.
+(2) Pemenuhan kewajiban manajemen risiko dan standar
+keamanan sistem informasi sebagaimana dimaksud dalam
+Pasal 79 ayat (2) huruf b bagi PSPK paling sedikit meliputi:
+a. memiliki kecukupan kebijakan dan prosedur
+operasional standar dalam mengelola risiko;
+b. memiliki kemampuan untuk menjaga tingkat
+ketersediaan layanan;
+c. memiliki paling sedikit satuan atau unit kerja audit
+internal serta satuan atau unit kerja yang
+melaksanakan fungsi kepatuhan dan fungsi
+manajemen risiko;
+d. memiliki pusat data dan pusat pemulihan bencana
+pada lokasi terpisah, dengan kapasitas infrastruktur
+sistem informasi yang sama, sesuai analisis dampak
+bisnis;
+e. melakukan uji coba atas rencana pemulihan bencana
+sistem aplikasi dan infrastruktur pendukung sistem
+pembayaran ke pusat pemulihan bencana, paling
+sedikit 1 (satu) kali dalam 1 (satu) tahun termasuk
+simulasi ketahanan siber;
+f. memiliki pengelolaan fraud (fraud management
+system) yang dapat mendeteksi aktivitas fraud pada
+tingkat akun, aktivitas jaringan, dan transaksi;-53-
+g. pelaksanaan audit teknologi informasi oleh auditor
+teknologi informasi independen eksternal yang
+terdaftar di otoritas atau SRO, paling sedikit 1 (satu)
+kali dalam 1 (satu) tahun;
+h. pelaksanaan pengujian keamanan (penetration test)
+secara menyeluruh oleh auditor teknologi informasi
+independen eksternal yang terdaftar di otoritas atau
+SRO, paling sedikit 1 (satu) kali dalam 1 (satu) tahun;
+i. pelaksanaan audit keuangan oleh kantor akuntan
+publik yang terdaftar di otoritas; dan
+j. memiliki paling sedikit sertifikasi standar nasional
+terkait keamanan informasi aktivitas Sistem
+Pembayaran utama.
+(3) Pemenuhan kewajiban manajemen risiko dan standar
+keamanan sistem informasi sebagaimana dimaksud dalam
+Pasal 79 ayat (2) huruf b bagi PSPU paling sedikit meliputi:
+a. memiliki kecukupan kebijakan dan standar
+operasional prosedur dalam mengelola risiko;
+b. memiliki kemampuan untuk menjaga tingkat
+ketersediaan layanan;
+c. memiliki paling sedikit satuan atau unit kerja audit
+internal, fungsi kepatuhan dan fungsi manajemen
+risiko;
+d. memiliki pusat data dan pusat pemulihan bencana
+pada lokasi terpisah dengan kapasitas infrastruktur
+sistem informasi yang setara sesuai analisis dampak
+bisnis;
+e. melakukan uji coba atas rencana pemulihan bencana
+sistem aplikasi dan infrastruktur pendukung sistem
+pembayaran ke pusat pemulihan bencana paling
+sedikit 1 (satu) kali dalam 1 (satu) tahun termasuk
+simulasi ketahanan siber;
+f. memiliki pengelolaan fraud (fraud management
+system) yang dapat mendeteksi aktivitas fraud pada
+tingkat akun, aktivitas jaringan maupun transaksi
+g. pelaksanaan audit teknologi informasi oleh auditor
+teknologi informasi independen eksternal yang-54-
+terdaftar di otoritas atau SRO atau auditor tekonologi
+informasi independen internal, paling sedikit 1 (satu)
+kali dalam 1 (satu) tahun;
+h. pelaksanaan pengujian keamanan (penetration test)
+secara menyeluruh oleh auditor teknologi informasi
+independen eksternal yang terdaftar di otoritas atau
+SRO, paling sedikit 1 (satu) kali dalam 1 (satu) tahun;
+i. pelaksanaan audit keuangan oleh kantor akuntan
+publik yang terdaftar di otoritas; dan
+j. paling sedikit mengadopsi praktik yang berlaku umum
+di industri terkait keamanan informasi.
+(4) Ketentuan lebih lanjut mengenai penerapan manajemen
+risiko dan sistem informasi berdasarkan klasifikasi PIP
+diatur dalam Peraturan Anggota Dewan Gubernur.",
+kartu_kredit,pbi_no_23_7_pbi_2021,89,"Pasal 89
+(1) Selain pemenuhan kewajiban manajemen risiko dan
+standar keamanan sistem informasi sebagaimana
+dimaksud dalam Pasal 88, PIP wajib memastikan
+penerapan standar keamanan siber paling sedikit
+menggunakan pendekatan:
+a. aspek tata kelola;
+b. aspek pencegahan; dan
+c. aspek penanganan.
+(2) Penerapan aspek tata kelola sebagaimana dimaksud pada
+ayat (1) huruf a meliputi:
+a. memiliki kerangka kerja dan kebijakan terkait
+manajemen risiko siber yang terpisah dari manajemen
+teknologi informasi;
+b. memiliki fungsi atau organ manajemen risiko siber
+yang independen terhadap fungsi bisnis dan
+pengelolaan sistem informasi; dan
+c. memastikan terpenuhinya sumber daya manusia yang
+memiliki kompetensi ketahanan dan keamanan siber
+untuk mendukung budaya risiko siber.-55-
+(3) Penerapan aspek pencegahan sebagaimana dimaksud pada
+ayat (1) huruf b meliputi:
+a. tersedianya mekanisme pemantauan ketahanan dan
+keamanan siber secara berkelanjutan; dan
+b. memiliki kapabilitas manajemen data dan/atau
+analisis terkait ketahanan dan keamanan siber.
+(4) Penerapan aspek penanganan sebagaimana dimaksud
+pada ayat (1) huruf c meliputi fungsi untuk penanganan
+insiden siber termasuk infrastruktur pendukung sesuai
+skala bisnis dan pelaksanaan pengujian kemanan berkala.
+(5) Penerapan aspek standar keamanan siber sebagaimana
+dimaksud pada ayat (1) sampai dengan ayat (4) dilakukan
+berdasarkan klasifikasi PIP sebagaimana dimaksud dalam
+Pasal 76.
+(6) PIP yang melanggar ketentuan sebagaimana dimaksud
+pada ayat (1) dikenai sanksi administratif berupa:
+a. teguran;
+b. penghentian sementara, sebagian, atau seluruh
+kegiatan termasuk pelaksanaan kerja sama; dan/atau
+c. pencabutan penetapan sebagai PIP.
+(7) Ketentuan lebih lanjut mengenai tata cara pengenaan
+sanksi administratif sebagaimana dimaksud pada ayat (6)
+diatur dalam Peraturan Anggota Dewan Gubernur.",
+kartu_kredit,pbi_no_23_7_pbi_2021,90,"Pasal 90
+PIP berupa Lembaga Selain Bank harus memenuhi ketentuan
+kewajiban penyediaan modal selama penyelenggaraan kegiatan
+usaha (ongoing capital) serta manajemen risiko dan standar
+keamanan sistem informasi yang diatur dalam Peraturan Bank
+Indonesia ini dengan memperhatikan ketentuan mengenai
+permodalan serta manajemen risiko dan standar keamanan
+sistem informasi yang diatur oleh otoritas lain.",
+kartu_kredit,pbi_no_23_7_pbi_2021,143,"Pasal 143
+(1) PIP yang melakukan kerja sama dengan Penyelenggara
+Penunjang harus:
+a. melakukan asesmen terhadap Penyelenggara
+Penunjang; dan
+b. bertanggung jawab penuh atas keamanan dan
+kelancaran pemrosesan transaksi pembayaran.
+(2) Tanggung jawab atas keamanan dan kelancaran
+pemrosesan transaksi pembayaran sebagaimana dimaksud
+pada ayat (1) huruf b dilakukan paling sedikit:
+a. memiliki mekanisme pemantauan kinerja
+Penyelenggara Penunjang;
+b. memastikan penerapan manajemen risiko; dan
+c. memastikan ketersediaan akses ke Penyelenggara
+Penunjang bagi Bank Indonesia.",
+kartu_kredit,pbi_no_23_7_pbi_2021,144,"Pasal 144
+Asesmen terhadap Penyelenggara Penunjang sebagaimana
+dimaksud dalam Pasal 143 ayat (1) huruf a dilakukan sebelum
+pelaksanaan kerja sama, untuk paling sedikit memastikan:
+a. legalitas dan profil perusahaan Penyelenggara Penunjang;
+b. kinerja Penyelenggara Penunjang;
+c. pemenuhan prinsip keamanan dan keandalan sistem
+informasi dan infrastruktur;
+d. kemampuan atau kompetensi Penyelenggara Penunjang;
+dan
+e. pemenuhan ketentuan peraturan perundang-undangan.",
+kartu_kredit,pbi_no_23_7_pbi_2021,145,"Pasal 145
+PIP harus melakukan evaluasi secara berkala atas kinerja
+Penyelenggara Penunjang.",
+kartu_kredit,pbi_no_23_7_pbi_2021,146,"Pasal 146
+(1) Penerapan manajemen risiko oleh Penyelenggara
+Penunjang sebagaimana dimaksud dalam Pasal 143 ayat (2)
+huruf b berupa pelaksanaan audit sistem informasi secara
+berkala, penguatan rencana keberlangsungan bisnis
+(business continuity plan), dan mitigasi terhadap single point
+of failure.
+(2) Penerapan manajemen risiko dilakukan secara terintegrasi
+dalam setiap tahapan penggunaan Penyelenggara
+Penunjang pada proses perencanaan, pengadaan,
+pengembangan, operasional, pemeliharaan, hingga
+pengakhiran kerja sama.",
+kartu_kredit,pbi_no_23_7_pbi_2021,147,"Pasal 147
+PIP harus memastikan ketersediaan akses bagi Bank Indonesia
+terhadap data atau informasi, sistem dan infrastruktur, dan
+sumber daya manusia dari Penyelenggara Penunjang.",
+kartu_kredit,pbi_no_23_7_pbi_2021,222,"Pasal 222
+(1) Dalam pemrosesan data dan/atau informasi terkait Sistem
+Pembayaran, PIP dan/atau pihak yang bekerja sama
+dengan PIP wajib:
+a. menerapkan prinsip pelindungan data pribadi
+termasuk memenuhi aspek persetujuan anggota PIP
+atas penggunaan data pribadinya yang meliputi:
+1. pengumpulan data pribadi dilakukan secara
+terbatas dan spesifik, sah secara hukum, patut,
+dan transparan;
+2. pemrosesan data pribadi dilakukan sesuai
+dengan tujuannya;
+3. pemrosesan data pribadi dilakukan dengan
+menjamin hak pemilik data pribadi;
+4. pemrosesan data pribadi dilakukan secara
+akurat, lengkap, tidak menyesatkan, mutakhir,
+dapat dipertanggungjawabkan, dan
+memperhatikan tujuan pemrosesan data pribadi;
+5. pemrosesan data pribadi dilakukan dengan
+melindungi keamanan data pribadi dari
+kehilangan, penyalahgunaan, akses dan
+pengungkapan yang tidak sah, serta pengubahan
+atau perusakan data pribadi;
+6. pemrosesan data pribadi dilakukan dengan
+memberitahukan tujuan pengumpulan, aktivitas
+pemrosesan, dan kegagalan pelindungan data
+pribadi; dan
+7. pemrosesan data pribadi dimusnahkan dan/atau
+dihapus kecuali masih dalam masa retensi sesuai
+dengan kebutuhan berdasarkan ketentuan
+peraturan perundang-undangan.
+b. memenuhi mekanisme pemrosesan data dan/atau
+informasi terkait Sistem Pembayaran yang ditetapkan
+oleh Bank Indonesia, termasuk mekanisme-132-
+pemrosesan melalui infrastruktur data dan
+infrastruktur Sistem Pembayaran Bank Indonesia;
+c. memenuhi mekanisme pemanfaatan infrastruktur
+data pihak ketiga yang ditetapkan oleh Bank
+Indonesia;
+d. menerapkan manajemen risiko siber dalam
+penyelenggaraan Sistem Pembayaran, termasuk
+standar keamanan sistem informasi;
+e. memperhatikan integritas data yang
+merepresentasikan fakta atau keadaan yang
+sebenarnya dan konsisten dengan menggunakan
+metode yang transparan; dan
+f. memenuhi ketentuan peraturan perundang-
+undangan.
+(2) Penerapan prinsip pelindungan data pribadi sebagaimana
+dimaksud pada ayat (1) huruf a, dilakukan dengan
+mempertimbangkan aspek kepentingan publik dan/atau
+persyaratan lain yang ditetapkan oleh otoritas.
+(3) Mekanisme pemrosesan data dan/atau informasi terkait
+Sistem Pembayaran sebagaimana dimaksud pada ayat (1)
+huruf b terdiri atas:
+a. mekanisme pemrosesan data dan/atau informasi
+pembayaran antara anggota dengan PIP;
+b. mekanisme pemrosesan data dan/atau informasi
+pembayaran antar-PIP;
+c. mekanisme pemrosesan data dan/atau informasi
+pembayaran antara PIP dengan Bank Indonesia;
+d. mekanisme pemrosesan data dan/atau informasi
+pembayaran antaranggota; dan
+e. mekanisme pemrosesan data dan/atau informasi
+pembayaran antara anggota dengan Bank Indonesia.
+(4) PIP yang melanggar ketentuan sebagaimana dimaksud
+pada ayat (1) dikenai sanksi administratif berupa:
+a. teguran;
+b. penghentian sementara, sebagian, atau seluruh
+kegiatan termasuk pelaksanaan kerja sama; dan/atau
+c. pencabutan penetapan sebagai PIP.-133-
+(5) Ketentuan lebih lanjut mengenai tata cara pengenaan
+sanksi administratif sebagaimana dimaksud pada ayat (4)
+diatur dalam Peraturan Anggota Dewan Gubernur.",
+kartu_kredit,pbi_no_23_7_pbi_2021,223,"Pasal 223
+Mekanisme pemrosesan data dan/atau informasi terkait Sistem
+Pembayaran sebagaimana dimaksud dalam Pasal 222 ayat (1)
+huruf b meliputi:
+a. akses dan tata cara pemrosesan;
+b. standardisasi data, standardisasi teknis, standardisasi
+keamanan, dan standardisasi tata kelola; dan/atau
+c. mekanisme lainnya yang ditetapkan Bank Indonesia.",
+kartu_kredit,pbi_no_23_7_pbi_2021,224,"Pasal 224
+(1) PIP dan/atau pihak lain dalam pelaksanaan standardisasi
+data, standardisasi teknis, standardisasi keamanan, dan
+standardisasi tata kelola sebagaimana dimaksud dalam
+Pasal 223 huruf b wajib memenuhi:
+a. penerapan standar;
+b. pengujian dan verifikasi standar;
+c. pengembangan, perubahan dan pemeliharaan sistem;
+dan
+d. kewajiban lain yang ditetapkan Bank Indonesia.
+(2) Ketentuan mengenai kewajiban lain sebagaimana
+dimaksud pada ayat (1) huruf d diatur dalam peraturan
+Bank Indonesia.
+(3) PIP dan/atau pihak lain yang tidak memenuhi kewajiban
+sebagaimana dimaksud pada ayat (1), dikenai sanksi
+administratif berupa:
+a. teguran;
+b. penghentian sementara, sebagian, atau seluruh
+kegiatan termasuk pelaksanaan kerja sama; dan/atau
+c. pencabutan penetapan sebagai PIP.
+(4) Ketentuan lebih lanjut mengenai tata cara pengenaan
+sanksi administratif sebagaimana dimaksud pada ayat (3)
+diatur dalam Peraturan Anggota Dewan Gubernur.",
+kartu_kredit,pbi_no_23_7_pbi_2021,225,"Pasal 225
+Dalam hal pemrosesan data dan/atau informasi terkait Sistem
+Pembayaran yang dilakukan melalui pemanfaatan infrastruktur
+data pihak ketiga, PIP dan/atau pihak yang bekerja sama
+dengan PIP harus memenuhi paling sedikit:
+a. akses dan surveilans Bank Indonesia;
+b. manajemen risiko dan keamanan sistem informasi;
+c. pelindungan data;
+d. keandalan layanan; dan
+e. integritas data.",
