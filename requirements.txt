@@ -1,2 +1,5 @@
 streamlit
 nlp-id
+sqlalchemy
+psycopg2
+python-dotenv

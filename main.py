@@ -4,10 +4,10 @@ from joblib import dump, load
 import pandas as pd
 import re
 
-#Codespaces path
+#Codespaces
 # BASE_FILE_PATH = '/workspaces/streamlit-regulation-prediction-prototype/'
 
-#Streamlit Serverless path
+#Streamlit Serverless
 BASE_FILE_PATH = '/mount/src/streamlit-regulation-prediction-prototype/'
 
 RAW_FILE_PATH = f'{BASE_FILE_PATH}Raw/'
@@ -69,10 +69,6 @@ def get_prediction(topic_name, regulation_name):
   df_prediction = df_prediction[df_prediction['prediction'] == 1]
 
   df_output = df_prediction[['topic_name', 'regulation_name', 'pasal', 'pasal_text']]
-
-#   result = f'Total Prediction for {regulation_name.upper()}: {len(df_prediction)}\n\n'
-#   for index, row in df_prediction.iterrows():
-#     result += str(row['pasal'])+'\n\n'
 
   return df_output
 

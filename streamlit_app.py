@@ -1,10 +1,22 @@
+from sqlalchemy import create_engine
 import streamlit as st
 import pandas as pd
 import datetime
-import os
 import main
+import os
+from dotenv import load_dotenv
 
-OUTPUT_FILE_PATH = main.OUTPUT_FILE_PATH
+load_dotenv()
+
+#Codespaces
+# SUPABASE_USER = os.environ.get('SUPABASE_USER')
+# SUPABASE_PASSWORD = os.environ.get('SUPABASE_PASSWORD')
+
+#Streamlit Serverless
+SUPABASE_USER = st.secrets['SUPABASE_USER']
+SUPABASE_PASSWORD = st.secrets['SUPABASE_PASSWORD']
+
+SUPABASE_CONNECTION = f"postgresql://{SUPABASE_USER}:{SUPABASE_PASSWORD}@aws-0-ap-southeast-1.pooler.supabase.com:6543/postgres"
 
 # Title of the app
 st.title("Ciso SVM Prototype")
@@ -15,6 +27,14 @@ st.header("Input Section")
 if "output" not in st.session_state:
   st.session_state.output = {}
 
+def save_to_supabase(df, table_name):
+  try:
+    engine = create_engine(SUPABASE_CONNECTION)
+    df.to_sql(table_name, engine, if_exists='append', index=False)
+    return "Data saved successfully to Supabase!"
+  except Exception as e:
+    return f"An error occurred: {e}"
+
 topic_option = [
   "E-Money",
   "Kartu Kredit"
@@ -23,7 +43,13 @@ selected_topic = st.multiselect("Choose topic (mandatory)*:", topic_option)
 
 regulation_option = [
   "Peraturan Anggota Dewan Gubernur No.24:7:PADG:2022",
-  "Peraturan Bank Indonesia No.23:7:PBI:2021"
+  # "Peraturan Bank Indonesia No.23:6:PBI:2021",
+  "Peraturan Bank Indonesia No.2 tahun 2024",
+  "Peraturan Bank Indonesia No.3 tahun 2023",
+  "Peraturan Bank Indonesia No.18:40:PBI:2016",
+  "Peraturan Bank Indonesia No.19:8:PBI:2017",
+  "Peraturan Bank Indonesia No.23:7:PBI:2021",
+  "Peraturan Bank Indonesia No.23:11:PBI:2021",
   ]
 selected_regulation = st.multiselect("Choose one or more for specific regulation (default is all):", regulation_option)
 
@@ -55,24 +81,24 @@ else:
 for topic in st.session_state.output:
   st.write(topic.upper())
   for regulation in st.session_state.output[topic]:
-
     df_output = st.session_state.output[topic][regulation]
     st.write(f"Total Prediction for {regulation.upper()}: `{len(df_output)}`")
-    df_edited = st.data_editor(
-      df_output,
-      use_container_width=True,
-      hide_index=True,
-      column_config={
-        "feedback": st.column_config.SelectboxColumn(
-          "feedback",
-          help="Feedback for the prediction",
-          options=["Correct", "Wrong"],
-          required=False,
-        ),
-      },
-      disabled=["topic_name", "regulation_name", "pasal", "pasal_text"],
-    )
-    csv = df_edited.to_csv(f"{OUTPUT_FILE_PATH}Prediction/{topic}_{regulation}_output.csv", index=False)
+    if len(df_output) != 0:
+      df_edited = st.data_editor(
+        df_output,
+        use_container_width=True,
+        hide_index=True,
+        column_config={
+          "feedback": st.column_config.SelectboxColumn(
+            "feedback",
+            help="Feedback for the prediction",
+            options=["Correct", "Wrong"],
+            required=False,
+          ),
+        },
+        disabled=["topic_name", "regulation_name", "pasal", "pasal_text"],
+      )
+      st.session_state.output[topic][regulation] = df_edited
 
 if st.session_state.output != {}:
   st.header("Describe your feedback")
@@ -80,15 +106,22 @@ if st.session_state.output != {}:
   # We're adding tickets via an `st.form` and some input widgets. If widgets are used
   # in a form, the app will only rerun once the submit button is pressed.
   with st.form("add_ticket_form"):
-    issue = st.text_area("Please mark any missing correct pasal here")
+    feedback = st.text_area("Please mark any missing correct pasal here")
     submitted = st.form_submit_button("Submit")
 
   if submitted:
-    # Make a dataframe for the new ticket and append it to the dataframe in session
-    # state.\
-    time_submitted = datetime.datetime.now().strftime("%Y-%m-%d_%H:%M:%S")
-    with open(f'{OUTPUT_FILE_PATH}Feedback/feedback_{time_submitted}.txt', 'w') as f:
-      f.write(issue)
+    with st.spinner("Submitting feedback..."):
+      # Make a dataframe for the new ticket and append it to the dataframe in session
+      # state.\
+      time_submitted = datetime.datetime.now().strftime("%Y-%m-%d_%H:%M:%S")
+      data = [feedback]
+      df_issue = pd.DataFrame(data, columns=["feedback"])
 
-    # Show a little success message.
-    st.write("Feedback submitted!")
+      result = save_to_supabase(df_issue, "ciso_prediction_feedback")  # Replace with your table name
+      for topic in st.session_state.output:
+        for regulation in st.session_state.output[topic]:
+          df_output = st.session_state.output[topic][regulation]
+          result = save_to_supabase(df_output, "ciso_prediction_result")  # Replace with your table name
+
+      # Show a little success message.
+      st.success("Feedback submitted!")
