@@ -27,6 +27,9 @@ st.header("Input Section")
 if "output" not in st.session_state:
   st.session_state.output = {}
 
+if "feedback" not in st.session_state:
+  st.session_state.feedback = ""
+
 def save_to_supabase(df, table_name):
   try:
     engine = create_engine(SUPABASE_CONNECTION)
@@ -106,7 +109,7 @@ if st.session_state.output != {}:
   # We're adding tickets via an `st.form` and some input widgets. If widgets are used
   # in a form, the app will only rerun once the submit button is pressed.
   with st.form("add_ticket_form"):
-    feedback = st.text_area("Please mark any missing correct pasal here")
+    st.session_state.feedback = st.text_area("Please mark any missing correct pasal here")
     submitted = st.form_submit_button("Submit")
 
   if submitted:
@@ -114,7 +117,7 @@ if st.session_state.output != {}:
       # Make a dataframe for the new ticket and append it to the dataframe in session
       # state.\
       time_submitted = datetime.datetime.now().strftime("%Y-%m-%d_%H:%M:%S")
-      data = [feedback]
+      data = [st.session_state.feedback]
       df_issue = pd.DataFrame(data, columns=["feedback"])
 
       result = save_to_supabase(df_issue, "ciso_prediction_feedback")  # Replace with your table name
