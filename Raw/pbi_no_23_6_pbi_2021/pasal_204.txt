@@ -1,0 +1,38 @@
+Pasal 204
+(1) Nilai yang dapat dipersamakan dengan uang yang tidak
+memenuhi unsur Sumber Dana sebagaimana dimaksud
+dalam Pasal 144 meliputi:
+a. nilai yang direpresentasikan secara digital atau media
+lainnya; dan
+b. uang digital yang diterbitkan oleh pihak selain
+otoritas moneter (virtual currency) yang memiliki
+karakteristik:
+1. dinyatakan dalam suatu satuan;
+2. menggunakan kriptografi dan buku besar yang
+terdistribusi, atau teknologi terkini lainnya
+untuk mengatur penciptaan unit baru dan
+mekanisme pemrosesan transaksinya;
+3. digunakan untuk tujuan pembayaran atau
+pemenuhan kegiatan ekonomi;
+4. dapat dialihkan, disimpan atau diperdagangkan
+secara elektronik; dan
+5. memenuhi karakteristik lainnya yang ditetapkan
+oleh Bank Indonesia.
+(2) Nilai yang direpresentasikan secara digital atau media
+lainnya sebagaimana dimaksud pada ayat (1) huruf a
+harus memiliki batasan:
+a. tidak dapat diklaim kepada penerbit;
+b. tidak dapat dialihkan atau dijual untuk ditukarkan
+dengan rupiah;
+c. hanya dapat digunakan di penerbit atau Penyedia
+Barang dan/atau Jasa tertentu yang ditunjuk oleh
+penerbit;
+d. memiliki masa berlaku;
+e. dijamin dengan dana yang memadai sesuai nilai yang
+dapat digunakan oleh konsumen; dan
+f. batasan lainnya yang ditetapkan Bank Indonesia.
+(3) Bank Indonesia dapat melakukan pemeriksaan dan/atau
+meminta laporan, dokumen, data, informasi, keterangan,
+dan/atau penjelasan terhadap penerbit nilai yang dapat
+dipersamakan dengan uang yang digunakan untuk tujuan
+pembayaran dan/atau pemenuhan kegiatan ekonomi.

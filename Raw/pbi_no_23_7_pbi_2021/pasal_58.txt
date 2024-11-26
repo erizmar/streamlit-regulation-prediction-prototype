@@ -1,0 +1,4 @@
+Pasal 58
+Pihak dalam GPN meliputi:
+a. penyelenggara GPN; dan
+b. pihak yang terhubung dengan GPN.

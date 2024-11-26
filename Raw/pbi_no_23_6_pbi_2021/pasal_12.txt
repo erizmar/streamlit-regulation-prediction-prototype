@@ -1,0 +1,15 @@
+Pasal 12
+Izin kepada PJP untuk melakukan aktivitas PJP diberikan
+berdasarkan kategori izin yang terdiri atas:
+a. kategori izin satu meliputi aktivitas:
+1. penatausahaan Sumber Dana;
+2. penyediaan informasi Sumber Dana;
+3. payment initiation dan/atau acquiring services; dan
+4. layanan remitansi;
+b. kategori izin dua meliputi aktivitas:
+1. penyediaan informasi Sumber Dana; dan
+2. payment initiation dan/atau acquiring services;
+dan/atau
+c. kategori izin tiga meliputi aktivitas:
+1. layanan remitansi; dan/atau
+2. lainnya yang ditetapkan Bank Indonesia.

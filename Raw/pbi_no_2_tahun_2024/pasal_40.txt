@@ -1,0 +1,20 @@
+Pasal 40
+Penanganan Insiden Siber sebagaimana dimaksud dalam Pasal
+36 ayat (1) huruf c dilaksanakan paling sedikit dengan:
+a. mengaktifkan tim tanggap Insiden Siber di level organisasi;
+b. menyampaikan:
+1. notifikasi awal Insiden Siber paling lama 1 (satu) jam
+setelah Insiden Siber diketahui oleh Penyelenggara;
+dan
+2. laporan Insiden Siber paling lama 3 (tiga) hari
+kalender setelah Insiden Siber terjadi,
+kepada Bank Indonesia;
+c. melakukan pendalaman Insiden Siber yang mencakup
+sumber, jenis, dan waktu serangan, analisis dampak, serta
+forensik terhadap Insiden Siber;
+d. melakukan mitigasi Insiden Siber dan pembatasan
+dampak;
+e. melaksanakan eskalasi dan penanganan Insiden Siber
+sesuai dengan tingkat dampak Insiden Siber; dan
+f. melaksanakan penanganan Insiden Siber dengan
+menggunakan sumber daya internal dan/atau eksternal.

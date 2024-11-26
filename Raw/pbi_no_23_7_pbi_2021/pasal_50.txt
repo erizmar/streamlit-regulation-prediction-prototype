@@ -1,0 +1,10 @@
+Pasal 50
+Prinsip penyelenggaraan infrastruktur Sistem Pembayaran oleh
+Bank Indonesia meliputi:
+a. penyediaan layanan dalam penyelenggaraan infrastruktur;
+b. transaksi dapat dilakukan secara seketika (real time gross
+settlement) atau menggunakan mekanisme kliring (deffered
+net setllement);
+c. penyelesaian akhir bersifat final dan tidak dapat
+dibatalkan; dan
+d. prinsip lainnya.

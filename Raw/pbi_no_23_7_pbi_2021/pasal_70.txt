@@ -1,0 +1,35 @@
+Pasal 70
+(1) Pemenuhan kewajiban aspek standar keamanan sistem
+informasi sebagaimana dimaksud dalam Pasal 67 ayat (1)
+huruf a angka 3 paling sedikit meliputi:
+a. ketersediaan kebijakan dan prosedur tertulis sistem
+informasi;
+b. penggunaan sistem yang aman dan andal paling
+sedikit untuk:
+1. pengamanan dan perlindungan kerahasiaan
+data;
+2. pengelolaan fraud;
+3. pemenuhan sertifikasi dan/atau standar
+keamanan dan keandalan sistem;-40-
+4. pemeliharaan dan peningkatan keamanan
+teknologi; dan
+5. ketersediaan sistem informasi;
+c. penerapan standar keamanan siber;
+d. pengamanan data dan/atau informasi; dan
+e. pelaksanaan audit sistem informasi secara berkala.
+(2) Pengelolaan fraud sebagaimana dimaksud pada ayat (1)
+huruf b angka 2 meliputi tahap pencegahan, deteksi,
+penanganan, dan pemantauan.
+(3) Implementasi pengelolaan fraud sebagaimana dimaksud
+pada ayat (2) dilakukan paling sedikit dengan menerapkan
+sistem deteksi fraud pada level akun dan transaksi.
+(4) Sertifikasi dan/atau standar keamanan dan keandalan
+sistem sebagaimana dimaksud pada ayat (1) huruf b angka
+3 merupakan sertifikasi dan/atau standar yang berlaku
+umum, yang ditetapkan oleh Bank Indonesia, otoritas, atau
+lembaga terkait yang disesuaikan dengan jenis aktivitas
+yang diselenggarakan PIP dan/atau klasifikasi PIP.
+(5) Pengamanan data dan/atau informasi sebagaimana
+dimaksud pada ayat (1) huruf d, termasuk namun tidak
+terbatas pada pengamanan data dan/atau informasi terkait
+instrumen pembayaran dan transaksi pembayaran.

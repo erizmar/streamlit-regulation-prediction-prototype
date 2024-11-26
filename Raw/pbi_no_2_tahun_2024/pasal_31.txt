@@ -1,0 +1,6 @@
+Pasal 31
+Analisis hasil pemantauan sebagaimana dimaksud dalam Pasal
+29 ayat (1) huruf b dilakukan paling sedikit dengan:
+a. menganalisis catatan aktivitas Siber; dan
+b. menganalisis Kerentanan Siber dan potensi Serangan
+Siber.

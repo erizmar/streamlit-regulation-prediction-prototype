@@ -1,0 +1,15 @@
+Pasal 118
+Persyaratan aspek keamanan dan keandalan sistem untuk
+pengembangan aktivitas dan/atau pengembangan produk yang
+disertai kerja sama dengan kategori risiko tinggi dengan
+pemenuhan paling sedikit dokumen yang menunjukkan:
+a. prosedur pengendalian pengamanan terhadap sistem yang
+digunakan;
+b. hasil audit sistem informasi dan pengujian keamanan dari
+auditor independen internal atau eksternal;
+c. infrastruktur pengelolaan fraud;
+d. prosedur, mekanisme, dan infrastruktur penanganan
+kesinambungan kegiatan usaha (business continuity) dan
+keadaan darurat (disaster recovery) yang efektif; dan
+e. hasil penilaian PIP terhadap keamanan dan keandalan
+sistem dari pihak yang akan diajak bekerja sama.

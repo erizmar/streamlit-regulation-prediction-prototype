@@ -1,0 +1,14 @@
+Pasal 182
+Kartu kredit merupakan alat pembayaran menggunakan kartu
+yang dapat digunakan untuk melakukan pembayaran atas
+kewajiban yang timbul dari suatu kegiatan ekonomi, termasuk
+transaksi pembayaran dan/atau untuk melakukan penarikan
+tunai, dimana kewajiban pembayaran pengguna alat
+pembayaran menggunakan kartu dipenuhi terlebih dahulu oleh
+PJP yang menyelenggarakan aktivitas payment initiation
+dan/atau acquiring services atau PJP yang menyelenggarakan
+aktivitas penatausahaan Sumber Dana, dan pengguna alat
+pembayaran menggunakan kartu berkewajiban untuk
+melakukan pembayaran pada waktu yang disepakati baik
+dengan pelunasan secara sekaligus ataupun dengan
+pembayaran secara angsuran.

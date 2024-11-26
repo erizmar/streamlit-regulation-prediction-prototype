@@ -1,0 +1,11 @@
+Pasal 2
+(1) Pemrosesan transaksi pembayaran dilakukan oleh
+Penyelenggara Jasa Sistem Pembayaran dan
+Penyelenggara Penunjang.
+(2) Pemrosesan transaksi pembayaran sebagaimana
+dimaksud pada ayat (1) meliputi kegiatan:
+a. pratransaksi;
+b. otorisasi;
+c. kliring;
+d. penyelesaian akhir (setelmen); dan
+e. pascatransaksi.

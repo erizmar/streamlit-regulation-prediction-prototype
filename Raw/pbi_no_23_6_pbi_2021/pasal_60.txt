@@ -1,0 +1,30 @@
+Pasal 60
+(1) Dalam menetapkan klasifikasi PJP sebagaimana
+dimaksud dalam Pasal 58, Bank Indonesia
+mempertimbangkan kriteria:
+a. ukuran;
+b. keterhubungan;
+c. kompleksitas; dan/atau
+d. ketergantian.
+(2) Penetapan klasifikasi PJP dengan kriteria sebagaimana
+dimaksud pada ayat (1) ditujukan untuk mengidentifikasi
+struktur industri Sistem Pembayaran berdasarkan
+peranan dan/atau kontribusinya dalam ekosistem Sistem
+Pembayaran nasional.
+(3) Kriteria ukuran sebagaimana dimaksud pada ayat (1)
+huruf a merupakan kriteria yang menggambarkan ukuran
+PJP dalam satu ekosistem yang diukur dengan
+menggunakan kinerja transaksi yang diproses.
+(4) Kriteria keterhubungan sebagaimana dimaksud pada ayat
+(1) huruf b merupakan kriteria yang menggambarkan
+keterhubungan antara PJP dengan PJP lainnya, PIP,
+dan/atau Penyelenggara Penunjang yang diukur dengan
+menggunakan kinerja transaksi yang diproses.
+(5) Kriteria kompleksitas sebagaimana dimaksud pada ayat
+(1) huruf c merupakan kriteria yang menjelaskan
+kompleksitas layanan pembayaran yang disediakan dalam
+penyelenggaraan aktivitas PJP.
+(6) Kriteria ketergantian sebagaimana dimaksud pada ayat (1)
+huruf d merupakan kriteria yang menggambarkan tingkat
+ketergantian fungsi dan/atau layanan pembayaran yang
+disediakan PJP dalam penyelenggaraan aktivitas PJP.

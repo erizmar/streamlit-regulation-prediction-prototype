@@ -1,0 +1,11 @@
+Pasal 22
+(1) Identifikasi Risiko Siber sebagaimana dimaksud dalam
+Pasal 21 ayat (2) huruf a dilakukan dengan
+memperhatikan paling sedikit:
+a. Kerentanan Siber dan Ancaman Siber dari aspek
+manusia, proses, dan teknologi; dan
+b. objek yang akan dilindungi.
+(2) Informasi Kerentanan Siber dan Ancaman Siber
+sebagaimana dimaksud pada ayat (1) huruf a dapat
+bersumber dari sarana pertukaran informasi yang
+dibentuk Bank Indonesia atau sarana informasi lain.

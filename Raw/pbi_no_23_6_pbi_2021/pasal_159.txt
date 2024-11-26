@@ -1,0 +1,11 @@
+Pasal 159
+Akses ke Sumber Dana berupa uang elektronik dapat
+dibedakan berdasarkan:
+a. media penyimpan nilai uang elektronik berupa:
+1. server based; dan
+2. chip based;
+dan
+b. pencatatan data identitas pengguna uang elektronik
+berupa:
+1. registered; dan
+2. unregistered.

@@ -1,0 +1,10 @@
+Pasal 28
+Pengamanan dan pelindungan data dan/atau informasi
+sebagaimana dimaksud dalam Pasal 26 ayat (1) huruf b
+dilakukan paling sedikit dengan:
+a. mengamankan data dan/atau informasi pada setiap
+tahapan siklus hidup data dan/atau informasi
+berdasarkan klasifikasi data dan/atau informasi yang
+ditetapkan oleh Penyelenggara; dan
+b. memastikan kepatuhan pelindungan data pribadi sesuai
+dengan ketentuan peraturan perundang-undangan.

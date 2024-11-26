@@ -1,0 +1,9 @@
+Pasal 35
+(1) Penanganan sebagaimana dimaksud dalam Pasal 6 huruf
+c meliputi:
+a. respons; dan
+b. pemulihan.
+(2) Penanganan sebagaimana dimaksud pada ayat (1)
+dilaksanakan oleh Penyelenggara untuk:
+a. memitigasi Insiden Siber; dan
+b. mengembalikan layanan sebagaimana kondisi normal.

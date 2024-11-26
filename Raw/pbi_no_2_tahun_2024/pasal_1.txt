@@ -1,0 +1,97 @@
+Pasal 1
+Dalam Peraturan Bank Indonesia ini yang dimaksud dengan:
+1. Sistem Informasi adalah keterpaduan antara komponen
+data, informasi, sistem aplikasi, infrastruktur teknologi
+informasi, proses, dan/atau manusia yang saling
+berinteraksi untuk mencapai suatu tujuan.
+2. Siber adalah ruang yang bersifat virtual yang dibentuk dari
+Sistem Informasi.
+3. Sistem Pembayaran adalah suatu sistem yang mencakup
+seperangkat aturan, lembaga, mekanisme, infrastruktur,
+sumber dana untuk pembayaran, dan akses ke sumber
+dana untuk pembayaran, yang digunakan untuk
+melaksanakan pemindahan dana guna memenuhi suatu
+kewajiban yang timbul dari suatu kegiatan ekonomi.
+4. Sistem Keuangan adalah suatu kesatuan yang terdiri atas
+lembaga jasa keuangan, pasar keuangan, dan infrastruktur
+keuangan, termasuk Sistem Pembayaran, yang berinteraksi
+dalam memfasilitasi pengumpulan dana masyarakat dan
+pengalokasiannya untuk mendukung aktivitas
+perekonomian nasional, serta korporasi dan rumah tangga
+yang terhubung dengan lembaga jasa keuangan.
+5. Pasar Uang adalah bagian dari Sistem Keuangan yang
+berkaitan dengan:
+a. kegiatan penerbitan dan perdagangan instrumen
+keuangan atau efek bersifat utang yang berjangka
+waktu tidak lebih dari 1 (satu) tahun;
+b. transaksi pinjam-meminjam uang;
+c. transaksi derivatif suku bunga; dan
+d. transaksi lainnya yang memenuhi karakteristik di
+pasar uang,
+dalam mata uang rupiah atau valuta asing.
+6. Pasar Valuta Asing adalah bagian dari Sistem Keuangan
+yang berkaitan dengan kegiatan transaksi yang melibatkan
+pertukaran mata uang dari 2 (dua) negara yang berbeda
+beserta derivatifnya, tetapi tidak termasuk penukaran bank
+notes yang diselenggarakan oleh kegiatan usaha penukaran
+valuta asing.
+7. Penyedia Jasa Pembayaran yang selanjutnya disingkat PJP
+adalah sebagaimana dimaksud dalam Peraturan Bank
+Indonesia mengenai Penyedia Jasa Pembayaran.
+8. Penyelenggara Infrastruktur Sistem Pembayaran yang
+selanjutnya disebut PIP adalah pihak yang
+menyelenggarakan infrastruktur sebagai sarana yang dapat
+digunakan untuk melakukan pemindahan dana bagi
+kepentingan anggotanya.
+9. Pelaku Usaha Sektor Keuangan yang Bergerak di Pasar
+Uang dan/atau Pasar Valuta Asing yang selanjutnya
+disebut PUSK PUVA adalah pelaku usaha di Pasar Uang
+dan/atau Pasar Valuta Asing yang memperoleh izin
+kelembagaan dari Bank Indonesia.
+10. Lembaga Pendukung Pasar Uang adalah pihak yang
+memberikan jasa terkait penerbitan instrumen Pasar Uang,
+perantara pelaksanaan transaksi instrumen Pasar Uang,
+penyelesaian transaksi, penatausahaan instrumen dan
+transaksi Pasar Uang, dan pihak lainnya yang ditetapkan
+oleh Bank Indonesia.
+11. Lembaga Pendukung Pasar Valuta Asing adalah pihak yang
+dapat memberikan jasa terkait perantara pelaksanaan
+transaksi, penyelesaian transaksi, penatausahaan
+transaksi di Pasar Valuta Asing, dan pihak lainnya yang
+ditetapkan oleh Bank Indonesia.
+12. Penyelenggara Kegiatan Usaha Penukaran Valuta Asing
+Bukan Bank adalah sebagaimana dimaksud dalam
+Peraturan Bank Indonesia mengenai Kegiatan Usaha
+Penukaran Valuta Asing Bukan Bank.
+13. Penyelenggara adalah pihak yang diatur dan diawasi Bank
+Indonesia yang mempunyai risiko Siber baik secara
+sistemik maupun nonsistemik bagi Sistem Keuangan.
+14. Kerentanan Siber adalah kelemahan, kerawanan, atau
+kekurangan yang terdapat pada Siber sehingga berdampak
+negatif terhadap bisnis dan/atau layanan operasional
+Penyelenggara.
+15. Ancaman Siber adalah suatu keadaan yang berpotensi
+mengeksploitasi Kerentanan Siber.
+16. Serangan Siber adalah upaya untuk mengeksploitasi
+Kerentanan Siber.
+17. Insiden Siber adalah Serangan Siber yang mengganggu
+kelancaran bisnis dan/atau layanan operasional
+Penyelenggara yang memerlukan respons dan/atau
+pemulihan.
+18. Risiko Siber adalah kemungkinan terjadinya Insiden Siber
+dan dampak yang diakibatkan dari Insiden Siber.
+19. Keamanan Sistem Informasi dan Ketahanan Siber yang
+selanjutnya disebut KKS adalah kondisi terjaganya
+kerahasiaan, keutuhan, serta ketersediaan informasi
+dan/atau Sistem Informasi Penyelenggara dari Serangan
+Siber dan terjaganya kelangsungan bisnis Penyelenggara
+melalui tindakan antisipatif, adaptif, dan proaktif terhadap
+Ancaman Siber serta kemampuan Penyelenggara untuk
+melakukan respons dan pemulihan dengan cepat terhadap
+Insiden Siber.
+20. Self-Regulatory Organization yang selanjutnya disingkat
+SRO adalah suatu forum atau institusi yang berbadan
+hukum Indonesia yang ditetapkan oleh Bank Indonesia
+untuk mendukung penyelenggaraan Sistem Pembayaran,
+Pasar Uang dan Pasar Valuta Asing, dan/atau kegiatan
+lainnya yang diatur dan diawasi Bank Indonesia.

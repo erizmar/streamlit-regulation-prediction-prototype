@@ -1,0 +1,25 @@
+Pasal 8
+(1) Lembaga Standar memiliki fungsi menyusun,
+mengembangkan, dan mengelola Standar untuk
+interkoneksi dan interoperabilitas instrumen
+pembayaran, kanal pembayaran, dan Switching, serta
+security.
+(2) Dalam rangka mengelola Standar sebagaimana
+dimaksud pada ayat (1), Lembaga Standar memiliki
+tugas:
+a. mengelola dan melaksanakan proses sertifikasi
+untuk memastikan kesesuaian instrumen dan/atau
+kanal pembayaran dengan Standar;
+b. mengelola dan menatausahakan vendor dan produk
+terkait instrumen dan/atau kanal pembayaran yang
+telah memenuhi Standar;
+c. mengelola dan melaksanakan key management
+sebagai certificate authority; dan
+d. melaksanakan tugas lain yang ditetapkan oleh Bank
+Indonesia.
+www.peraturan.go.id2017, No.134
+-8-
+(3) Dalam rangka melindungi kepentingan publik,
+kepemilikan atas Standar yang disusun, dikembangkan,
+dan dikelola oleh Lembaga Standar berada pada Bank
+Indonesia.

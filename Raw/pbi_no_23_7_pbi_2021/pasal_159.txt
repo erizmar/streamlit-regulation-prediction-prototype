@@ -1,0 +1,24 @@
+Pasal 159
+(1) Dalam penyelenggaraan interface pembayaran terintegrasi
+sebagaimana dimaksud dalam Pasal 158, Bank Indonesia
+berwenang menetapkan termasuk namun tidak terbatas
+pada:
+a. skema harga dan biaya;
+b. pihak yang terhubung dengan interface pembayaran
+terintegrasi;
+c. akses ke Sumber Dana yang akan diproses melalui
+interface pembayaran terintegrasi;
+d. keterhubungan dengan infrastruktur Sistem
+Pembayaran dan infrastruktur data yang ditetapkan
+oleh Bank Indonesia;
+e. fitur dan jenis layanan interface pembayaran
+terintegrasi seperti fungsi dalam memfasilitasi
+pemrosesan pembayaran dan perolehan data
+dan/atau informasi; dan/atau
+f. aspek lainnya terkait akses, standar, keamanan,
+branding, penyelenggaraan, dan pengakhiran
+keterhubungan dengan interface pembayaran
+terintegrasi.
+(2) Ketentuan lebih lanjut mengenai penyelenggaraan interface
+pembayaran terintegrasi sebagaimana dimaksud pada ayat
+(1) diatur dengan Peraturan Anggota Dewan Gubernur.

@@ -1,0 +1,10 @@
+Pasal 34
+Penyelenggara Jasa Sistem Pembayaran dilarang:
+a. melakukan pemrosesan transaksi pembayaran dengan
+menggunakan virtual currency;
+b. menyalahgunakan data dan informasi nasabah maupun
+data dan informasi transaksi pembayaran; dan/atau
+c. memiliki dan/atau mengelola nilai yang dapat
+dipersamakan dengan nilai uang yang dapat digunakan
+di luar lingkup Penyelenggara Jasa Sistem Pembayaran
+yang bersangkutan.

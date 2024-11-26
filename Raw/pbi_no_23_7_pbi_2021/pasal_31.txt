@@ -1,0 +1,14 @@
+Pasal 31
+Persyaratan penetapan terkait aspek kapabilitas sistem
+informasi sebagaimana dimaksud dalam Pasal 30 harus
+dilengkapi dengan dokumen yang menunjukkan:
+a. prosedur pengendalian pengamanan terhadap sistem yang
+digunakan untuk penyelenggaraan aktivitas Sistem
+Pembayaran;
+b. prosedur, mekanisme, dan infrastruktur pengelolaan fraud
+(fraud management system);
+c. hasil uji terhadap keandalan sistem yang dilakukan oleh
+pihak eksternal maupun internal; dan
+d. prosedur, mekanisme, dan infrastruktur penanganan
+kesinambungan kegiatan usaha (business continuity) dan
+keadaan darurat (disaster recovery) yang efektif.

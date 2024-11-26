@@ -1,0 +1,47 @@
+Pasal 4
+(1) Penyelenggara di bidang Sistem Pembayaran sebagaimana
+dimaksud dalam Pasal 3 huruf a merupakan Penyedia Jasa
+Pembayaran.
+(2) Penyedia Jasa Pembayaran sebagaimana dimaksud pada
+ayat (1) menyelenggarakan aktivitas berupa:
+a. penyediaan informasi sumber dana;
+b. payment initiation dan/atau acquiring services;
+c. penatausahaan sumber dana;
+d. layanan remitansi; dan/atau
+e. aktivitas lainnya yang ditetapkan oleh Bank Indonesia.
+(3) Dalam penyelenggaraan aktivitas sebagaimana dimaksud
+pada ayat (2), Penyedia Jasa Pembayaran melakukan
+penyelenggaraan akses ke sumber dana untuk pembayaran
+berupa:
+a. instrumen;
+b. kanal; dan/atau
+c. akses ke sumber dana lainnya yang ditetapkan oleh
+Bank Indonesia.
+(4) Akses ke sumber dana untuk pembayaran berupa
+instrumen sebagaimana dimaksud pada ayat (3) huruf a
+meliputi:
+a. uang elektronik;
+b. perintah transfer;
+c. alat pembayaran menggunakan kartu atau bentuk
+virtual yang memiliki karakteristik seperti alat
+pembayaran menggunakan kartu;
+d. cek;
+e. bilyet giro; dan
+f. instrumen perpindahan dana lainnya yang ditetapkan
+oleh Bank Indonesia.
+(5) Akses ke sumber dana untuk pembayaran berupa kanal
+sebagaimana dimaksud pada ayat (3) huruf b meliputi:
+a. kanal pembayaran menggunakan teknologi quick
+response code dengan skema merchant presented mode
+atau skema lainnya yang ditetapkan oleh Bank
+Indonesia;
+b. mesin electronic data capture;
+c. mesin anjungan tunai mandiri;
+d. kanal pembayaran online menggunakan teknologi
+berbasis mobile atau internet, termasuk proprietary
+channel atau shared channel oleh Penyedia Jasa
+Pembayaran yang menyelenggarakan aktivitas
+penatausahaan sumber dana; dan
+e. kanal pembayaran menggunakan metode atau
+penggunaan teknologi tertentu lainnya untuk
+perpindahan dana transfer debit dan transfer kredit.

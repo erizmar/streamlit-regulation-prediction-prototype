@@ -1,0 +1,50 @@
+Pasal 20
+(1) Penerapan standar keamanan sistem informasi oleh
+Prinsipal, Penerbit, Acquirer, Penyelenggara Kliring,
+www.peraturan.go.id2016, No.236
+-16-
+Penyelenggara Penyelesaian Akhir, dan Penyelenggara
+Transfer Dana mengacu pada ketentuan Bank Indonesia
+yang mengatur mengenai penyelenggaraan kegiatan alat
+pembayaran dengan menggunakan kartu, ketentuan
+Bank Indonesia yang mengatur mengenai uang
+elektronik, dan/atau ketentuan Bank Indonesia yang
+mengatur mengenai transfer dana.
+(2) Penerapan standar keamanan sistem informasi oleh
+Penyelenggara Switching, Penyelenggara Payment
+Gateway, Penyelenggara Dompet Elektronik, dan Bank
+yang menyelenggarakan Proprietary Channel paling
+sedikit:
+a. pemenuhan sertifikasi dan/atau standar keamanan
+dan keandalan sistem yang berlaku umum atau
+yang ditetapkan oleh Bank Indonesia atau
+otoritas/lembaga terkait;
+b. pemeliharaan dan peningkatan keamanan teknologi;
+dan
+c. pelaksanaan audit yang diselenggarakan secara
+berkala paling sedikit 3 (tiga) tahun sekali atau
+setiap terdapat perubahan yang signifikan.
+(3) Pemenuhan sertifikasi dan/atau standar keamanan
+sistem sebagaimana dimaksud pada ayat (2) huruf a oleh
+Penyelenggara Switching paling sedikit:
+a. pengamanan data dan informasi terkait transaksi
+pembayaran yang diproses; dan
+b. pengamanan jaringan.
+(4) Pemenuhan sertifikasi dan/atau standar keamanan
+sistem sebagaimana dimaksud pada ayat (2) huruf a bagi
+Penyelenggara Payment Gateway paling sedikit:
+a. pengamanan data dan informasi terkait transaksi
+pembayaran yang diproses;
+b. pengamanan jaringan; dan
+c. penerapan fraud detection system.
+(5) Pemenuhan sertifikasi dan/atau standar keamanan
+sistem sebagaimana dimaksud pada ayat (2) huruf a bagi
+Penyelenggara Dompet Elektronik paling sedikit:
+www.peraturan.go.id2016, No.236
+-17-
+a. pengamanan data dan informasi pengguna serta
+data dan informasi instrumen pembayaran yang
+disimpan dalam Dompet Elektronik;
+b. sistem dan prosedur aktivasi dan penggunaan
+Dompet Elektronik; dan
+c. penerapan fraud detection system.

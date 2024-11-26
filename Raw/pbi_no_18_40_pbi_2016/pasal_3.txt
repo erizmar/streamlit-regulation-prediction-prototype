@@ -1,0 +1,40 @@
+Pasal 3
+(1) Penyelenggara Jasa Sistem Pembayaran sebagaimana
+dimaksud dalam Pasal 2 ayat (1) terdiri atas:
+a. Prinsipal;
+b. Penyelenggara Switching;
+c. Penerbit;
+d. Acquirer;
+e. Penyelenggara Payment Gateway;
+f. Penyelenggara Kliring;
+g. Penyelenggara Penyelesaian Akhir;
+h. Penyelenggara Transfer Dana;
+www.peraturan.go.id2016, No.236
+-6-
+i. Penyelenggara Dompet Elektronik; dan
+j. Penyelenggara Jasa Sistem Pembayaran lainnya
+yang ditetapkan oleh Bank Indonesia.
+(2) Acquirer sebagaimana dimaksud pada ayat (1) huruf d
+dan Penyelenggara Payment Gateway sebagaimana
+dimaksud pada ayat (1) huruf e merupakan
+penyelenggara yang termasuk dalam kategori merchant
+acquiring services.
+(3) Penyelenggara Penunjang sebagaimana dimaksud dalam
+Pasal 2 ayat (1) merupakan perusahaan yang
+menyelenggarakan kegiatan antara lain:
+a. pencetakan kartu;
+b. personalisasi pembayaran;
+c. penyediaan pusat data (data center) dan/atau pusat
+pemulihan bencana (disaster recovery center);
+d. penyediaan terminal;
+e. penyediaan fitur keamanan instrumen pembayaran
+dan/atau transaksi pembayaran;
+f. penyediaan teknologi pendukung transaksi
+nirkontak (contactless); dan/atau
+g. penyediaan penerusan ( routing) data pendukung
+pemrosesan transaksi pembayaran.
+(4) Ketentuan lebih lanjut mengenai Penyelenggara Jasa
+Sistem Pembayaran sebagaimana dimaksud pada ayat (1)
+dan Penyelenggara Penunjang sebagaimana dimaksud
+pada ayat (3) diatur dalam Surat Edaran Bank Indonesia.
+www.peraturan.go.id2016, No.

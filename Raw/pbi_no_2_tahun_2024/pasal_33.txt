@@ -1,0 +1,8 @@
+Pasal 33
+Analisis kode jahat atau kode tidak sah sebagaimana dimaksud
+dalam Pasal 29 ayat (1) huruf d dilakukan paling sedikit
+dengan:
+a. menganalisis kode jahat atau kode tidak sah yang
+berpotensi menimbulkan Serangan Siber; dan
+b. melakukan eskalasi tindak lanjut dan/atau evaluasi atas
+deteksi kode jahat atau kode tidak sah.

@@ -1,0 +1,24 @@
+Pasal 253
+(1) Mekanisme perolehan data dan/atau informasi terkait
+Sistem Pembayaran dari PJP dan/atau pihak lain yang
+bekerja sama dengan PJP dilakukan dengan cara:
+a. penyampaian laporan kepada Bank Indonesia;
+b. pengambilan data melalui koneksi antarsistem (data
+capturing); dan/atau
+c. mekanisme lain yang ditetapkan Bank Indonesia.
+(2) Penyampaian laporan kepada Bank Indonesia
+sebagaimana dimaksud pada ayat (1) huruf a dapat
+dilakukan secara daring (online) melalui sistem Bank
+Indonesia dan/atau luring (offline) secara berkala atau
+insidental.
+(3) Pengambilan data melalui koneksi antarsistem (data
+capturing) sebagaimana dimaksud pada ayat (1) huruf b
+dapat dilakukan secara langsung dan seketika (real time).
+(4) Penyampaian data dan/atau informasi melalui mekanisme
+lain sebagaimana dimaksud pada ayat (1) huruf c, dapat
+berupa pertemuan dengan Bank Indonesia atau media
+lainnya yang ditetapkan oleh Bank Indonesia.
+(5) Tata cara dan mekanisme perolehan data dan/atau
+informasi sebagaimana dimaksud pada ayat (1) dilakukan
+sesuai dengan ketentuan peraturan Bank Indonesia
+mengenai perolehan data.

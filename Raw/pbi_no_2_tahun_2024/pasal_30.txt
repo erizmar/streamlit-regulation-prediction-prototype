@@ -1,0 +1,9 @@
+Pasal 30
+Pemantauan sebagaimana dimaksud dalam Pasal 29 ayat (1)
+huruf a dilakukan paling sedikit dengan:
+a. memantau akses logis dan fisik yang berpotensi
+menimbulkan Serangan Siber;
+b. menetapkan indikator ambang batas sebagai pemicu
+aktivasi sistem peringatan dini; dan
+c. melakukan pemindaian Kerentanan Siber,
+secara konsisten dan berkelanjutan.

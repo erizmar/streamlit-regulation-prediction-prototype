@@ -1,0 +1,7 @@
+Pasal 17
+(1) Lembaga Switching dapat melakukan kerja sama dengan
+penyelenggara Switching di luar GPN (NPG) sepanjang
+telah memperoleh persetujuan dari Bank Indonesia.
+(2) Lembaga Switching harus memastikan bahwa transaksi
+pembayaran domestik melalui pihak yang bekerja sama
+dengan Lembaga Switching diproses melalui GPN (NPG).

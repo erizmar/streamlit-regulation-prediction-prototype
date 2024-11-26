@@ -1,0 +1,29 @@
+Pasal 9
+(1) Pihak yang akan menjadi Penyelenggara Switching
+dan/atau Penyelenggara Payment Gateway sebagaimana
+dimaksud dalam Pasal 6 dan/atau Penyelenggara
+Dompet Elektronik sebagaimana dimaksud dalam Pasal
+7, harus memenuhi persyaratan aspek kelayakan sebagai
+Penyelenggara Jasa Sistem Pembayaran yang meliputi:
+a. legalitas dan profil perusahaan;
+b. hukum;
+c. kesiapan operasional;
+d. keamanan dan keandalan sistem;
+e. kelayakan bisnis;
+f. kecukupan manajemen risiko; dan
+g. perlindungan konsumen.
+(2) Bagi pihak yang akan mengajukan izin untuk menjadi
+Penyelenggara Dompet Elektronik yang dapat juga
+menampung dana maka pemenuhan persyaratan:
+a. kecukupan manajemen risiko sebagaimana
+dimaksud pada ayat (1) huruf f; dan
+b. perlindungan konsumen sebagaimana dimaksud
+pada ayat (1) huruf g,
+harus mencakup pula manajemen risiko dan
+perlindungan konsumen terkait pengelolaan dana yang
+ditampung dalam Dompet Elektronik.
+(3) Ketentuan lebih lanjut mengenai pemenuhan persyaratan
+sebagai Penyelenggara Jasa Sistem Pembayaran
+sebagaimana dimaksud pada ayat (1) dan ayat (2) diatur
+dalam Surat Edaran Bank Indonesia.
+www.peraturan.go.id2016, No.

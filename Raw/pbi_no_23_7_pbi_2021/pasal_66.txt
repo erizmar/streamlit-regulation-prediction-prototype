@@ -1,0 +1,34 @@
+Pasal 66
+(1) PJP yang menyelenggarakan aktivitas payment initiation
+dan/atau acquiring services yang melakukan pemrosesan
+transaksi pembayaran menggunakan berbagai instrumen
+dapat terhubung secara tidak langsung dengan PIP yang
+ditetapkan sebagai Lembaga Switching melalui:
+a. PJP yang menyelenggarakan aktivitas payment
+initiation dan/atau acquiring services yang menalangi
+pembayaran kepada penyedia barang dan/atau jasa;
+atau
+b. PJP yang menyelenggarakan aktivitas penatausahaan
+Sumber Dana.
+(2) Keterhubungan secara tidak langsung dengan PIP yang
+ditetapkan sebagai Lembaga Switching sebagaimana
+dimaksud pada ayat (1) dilakukan dengan memenuhi
+persyaratan:
+a. bahwa capturing seluruh data terkait PJP yang
+menyelenggarakan aktivitas payment initiation
+dan/atau acquiring services yang melakukan
+pemrosesan transaksi pembayaran menggunakan
+berbagai instrumen tetap dapat diperoleh Bank
+Indonesia melalui keterhubungan:
+1. PJP yang menyelenggarakan aktivitas payment
+initiation dan/atau acquiring services yang
+menalangi pembayaran kepada penyedia barang
+dan/atau jasa; atau-37-
+2. PJP yang menyelenggarakan aktivitas
+penatausahaan Sumber Dana; dan
+b. PJP yang menyelenggarakan aktivitas payment
+initiation dan/atau acquiring services yang melakukan
+pemrosesan transaksi pembayaran menggunakan
+berbagai instrumen tidak melakukan aktivitas seperti
+yang dilakukan PIP dalam pemrosesan transaksi
+pembayaran.

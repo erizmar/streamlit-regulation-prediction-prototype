@@ -1,0 +1,20 @@
+Pasal 51
+(1) PJP wajib melakukan edukasi dan pembinaan terhadap
+Penyedia Barang dan/atau Jasa yang bekerja sama
+dengan PJP.
+(2) PJP wajib menghentikan kerja sama dengan Penyedia
+Barang dan/atau Jasa yang melakukan tindakan yang
+dapat merugikan dan/atau tidak sesuai peruntukan
+dalam pemrosesan transaksi pembayaran menggunakan
+akses ke Sumber Dana tertentu.
+(3) PJP dapat melakukan tukar-menukar informasi atau data
+dengan PJP lainnya mengenai Penyedia Barang dan/atau
+Jasa yang melakukan tindakan yang merugikan dan dapat
+mengusulkan pencantuman nama Penyedia Barang
+dan/atau Jasa tersebut dalam suatu daftar hitam
+Penyedia Barang dan/atau Jasa (merchant black list).
+(4) Ketentuan teknis dan mikro terkait dengan klausul
+minimum yang harus dicantumkan dalam perjanjian
+kerjasama antara PJP dengan Penyedia Barang dan/atau
+Jasa dapat diatur oleh SRO dengan persetujuan Bank
+Indonesia.

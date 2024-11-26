@@ -1,0 +1,141 @@
+Pasal 71
+(1) Pemenuhan kewajiban manajemen risiko dan standar
+keamanan sistem informasi sebagaimana dimaksud dalam
+Pasal 62 ayat (2) huruf b bagi PSPS paling sedikit meliputi:
+a. memiliki kecukupan kebijakan dan standar
+operasional prosedur dalam mengelola risiko;
+b. memiliki kemampuan untuk menjaga tingkat
+ketersediaan layanan;
+c. memiliki satuan atau unit kerja audit internal, satuan
+atau unit kerja kepatuhan, dan satuan atau unit
+kerja manajemen risiko yang terpisah;
+d. memiliki pusat data dan pusat pemulihan bencana
+pada lokasi terpisah, dengan kapasitas infrastruktur
+sistem informasi yang sama dan aktif secara
+bersamaan sesuai analisis dampak bisnis;
+e. melakukan uji coba atas rencana pemulihan bencana
+sistem aplikasi dan infrastruktur pendukung sistem
+pembayaran ke pusat pemulihan bencana, paling
+sedikit 1 (satu) kali dalam 1 (satu) tahun termasuk
+simulasi ketahanan siber;
+f. memiliki pengelolaan fraud (fraud management
+system) yang dapat mendeteksi aktivitas fraud pada
+tingkat akun, aktivitas jaringan, dan transaksi;
+g. pelaksanaan audit teknologi informasi oleh auditor
+teknologi informasi independen eksternal yang
+terdaftar di otoritas atau SRO, paling sedikit 1 (satu)
+kali dalam 1 (satu) tahun;
+h. pelaksanaan pengujian keamanan (penetration test)
+secara menyeluruh oleh auditor teknologi informasi
+independen eksternal yang terdaftar di otoritas atau
+SRO, paling sedikit 1 (satu) kali dalam 1 (satu) tahun;
+i. pelaksanaan audit keuangan oleh kantor akuntan
+publik yang terdaftar di otoritas; dan
+j. memiliki sertifikasi standar internasional terkait
+keamanan informasi aktivitas Sistem Pembayaran
+utama.
+(2) Pemenuhan kewajiban manajemen risiko dan standar
+keamanan sistem informasi sebagaimana dimaksud dalam
+Pasal 62 ayat (2) huruf b bagi PSPK paling sedikit meliputi:
+a. memiliki kecukupan kebijakan dan prosedur
+operasional standar dalam mengelola risiko;
+b. memiliki kemampuan untuk menjaga tingkat
+ketersediaan layanan;
+c. memiliki paling sedikit satuan atau unit kerja audit
+internal serta satuan atau unit kerja yang
+melaksanakan fungsi kepatuhan dan fungsi
+manajemen risiko;
+d. memiliki pusat data dan pusat pemulihan bencana
+pada lokasi terpisah, dengan kapasitas infrastruktur
+sistem informasi yang sama, sesuai analisis dampak
+bisnis;
+e. melakukan uji coba atas rencana pemulihan bencana
+sistem aplikasi dan infrastruktur pendukung sistem
+pembayaran ke pusat pemulihan bencana, paling
+sedikit 1 (satu) kali dalam 1 (satu) tahun termasuk
+simulasi ketahanan siber;
+f. memiliki pengelolaan fraud (fraud management
+system) yang dapat mendeteksi aktivitas fraud pada
+tingkat akun, aktivitas jaringan, dan transaksi;
+g. pelaksanaan audit teknologi informasi oleh auditor
+teknologi informasi independen eksternal yang
+terdaftar di otoritas atau SRO, paling sedikit 1 (satu)
+kali dalam 1 (satu) tahun;
+h. pelaksanaan pengujian keamanan (penetration test)
+secara menyeluruh oleh auditor teknologi informasi
+independen eksternal yang terdaftar di otoritas atau
+SRO, paling sedikit 1 (satu) kali dalam 1 (satu) tahun;
+i. pelaksanaan audit keuangan oleh kantor akuntan
+publik yang terdaftar di otoritas; dan
+j. memiliki paling sedikit sertifikasi standar nasional
+terkait keamanan informasi aktivitas Sistem
+Pembayaran utama.
+(3) Pemenuhan kewajiban manajemen risiko dan standar
+keamanan sistem informasi sebagaimana dimaksud dalam
+Pasal 62 ayat (2) huruf b bagi PSPU paling sedikit meliputi:
+a. memiliki kecukupan kebijakan dan standar
+operasional prosedur dalam mengelola risiko;
+b. memiliki kemampuan untuk menjaga tingkat
+ketersediaan layanan;
+c. memiliki paling sedikit satuan atau unit kerja audit
+internal, fungsi kepatuhan dan fungsi manajemen
+risiko;
+d. memiliki pusat data dan pusat pemulihan bencana
+pada lokasi terpisah dengan kapasitas infrastruktur
+sistem informasi yang setara sesuai analisis dampak
+bisnis;
+e. melakukan uji coba atas rencana pemulihan bencana
+sistem aplikasi dan infrastruktur pendukung sistem
+pembayaran ke pusat pemulihan bencana paling
+sedikit 1 (satu) kali dalam 1 (satu) tahun termasuk
+simulasi ketahanan siber;
+f. memiliki pengelolaan fraud (fraud management
+system) yang dapat mendeteksi aktivitas fraud pada
+tingkat akun, aktivitas jaringan maupun transaksi;
+g. pelaksanaan audit teknologi informasi oleh auditor
+teknologi informasi independen eksternal yang
+terdaftar di otoritas atau SRO atau auditor tekonologi
+informasi independen internal, paling sedikit 1 (satu)
+kali dalam 1 (satu) tahun;
+h. pelaksanaan pengujian keamanan (penetration test)
+secara menyeluruh oleh auditor teknologi informasi
+independen eksternal yang terdaftar di otoritas atau
+SRO, paling sedikit 1 (satu) kali dalam 1 (satu) tahun;
+i. pelaksanaan audit keuangan oleh kantor akuntan
+publik yang terdaftar di otoritas; dan
+j. paling sedikit mengadopsi praktik yang berlaku umum
+di industri terkait keamanan informasi.
+(4) Pemenuhan kewajiban manajemen risiko dan standar
+keamanan sistem informasi sebagaimana dimaksud dalam
+Pasal 62 ayat (2) huruf b bagi PSPU berupa PJP kategori
+izin tiga yang tidak menyediakan sistem yang dapat
+digunakan PJP kategori izin tiga lain, paling sedikit
+meliputi:
+a. memiliki kecukupan kebijakan dan standar
+operasional prosedur dalam mengelola risiko;
+b. memiliki kemampuan untuk menjaga tingkat
+ketersediaan layanan;
+c. memiliki fungsi audit internal, fungsi kepatuhan,
+atau fungsi manajemen risiko;
+d. melaksanakan praktik pengelolaan fraud;
+e. dalam hal layanan didukung oleh sistem informasi,
+paling sedikit memiliki:
+1. infrastruktur sistem informasi pada pusat data
+dan pusat pemulihan bencana secara terpisah;
+2. melakukan uji coba atas rencana pemulihan
+bencana sistem aplikasi dan infrastruktur
+pendukung sistem pembayaran ke pusat
+pemulihan bencana, paling sedikit 1 (satu) kali
+dalam 1 (satu) tahun; dan
+3. melakukan pelaksanaan audit teknologi
+informasi oleh auditor teknologi informasi
+independen paling sedikit 1 (satu) kali dalam 1
+(satu) tahun termasuk melakukan asesmen
+keamanan sistem informasi layanan Sistem
+Pembayaran utama;
+f. pelaksanaan audit laporan keuangan oleh fungsi
+audit internal; dan
+g. melakukan praktik pengamanan informasi.
+(5) Ketentuan lebih lanjut mengenai penerapan manajemen
+risiko dan sistem informasi berdasarkan klasifikasi PJP
+diatur dalam Peraturan Anggota Dewan Gubernur.

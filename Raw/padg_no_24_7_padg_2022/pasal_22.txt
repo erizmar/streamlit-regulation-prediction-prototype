@@ -1,0 +1,21 @@
+Pasal 22
+(1) Batas nilai uang elektronik yang dapat disimpan pada
+uang elektronik ditetapkan:19
+a. untuk uang elektronik unregistered paling banyak
+Rp2.000.000,00 (dua juta rupiah); dan
+b. untuk uang elektronik registered paling banyak
+Rp20.000.000,00 (dua puluh juta rupiah).
+(2) Batas nilai transaksi uang elektronik dalam 1 (satu) bulan
+ditetapkan:
+a. untuk uang elektronik unregistered paling banyak
+Rp20.000.000,00 (dua puluh juta rupiah); dan
+b. untuk uang elektronik registered paling banyak
+Rp40.000.000,00 (empat puluh juta rupiah).
+(3) Batas nilai transaksi uang elektronik sebagaimana
+dimaksud pada ayat (2) diperhitungkan dari transaksi
+yang bersifat incoming.
+(4) Batas nilai uang elektronik sebagaimana dimaksud pada
+ayat (1) yang dapat disimpan dan batas nilai transaksi
+uang elektronik sebagaimana dimaksud pada ayat (2),
+tidak berlaku bagi akun pencatatan nilai uang elektronik
+dari Penyedia Barang dan/atau Jasa.

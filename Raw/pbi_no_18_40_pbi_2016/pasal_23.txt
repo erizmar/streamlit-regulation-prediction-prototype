@@ -1,0 +1,12 @@
+Pasal 23
+Penyelenggara Payment Gateway yang dalam penyelenggaraan
+kegiatannya melakukan fungsi untuk menyelesaikan
+pembayaran kepada pedagang, wajib:
+a. memiliki dan menjalankan mekanisme dan prosedur
+mengenai:
+1. pemilihan pedagang ( merchant acquisition ) yang
+difasilitasi dengan penyediaan Payment Gateway ;
+dan
+2. penyelesaian pembayaran kepada pedagang; dan
+b. melakukan evaluasi terhadap kelancaran dan keamanan
+transaksi pembayaran yang dilakukan melalui pedagang.

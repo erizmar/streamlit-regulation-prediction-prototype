@@ -1,0 +1,18 @@
+Pasal 128
+Persyaratan aspek keamanan dan keandalan sistem untuk
+pengembangan aktivitas dan/atau produk yang disertai kerja
+sama dengan kategori risiko sedang dengan pemenuhan paling
+sedikit dokumen yang menunjukkan:
+a. hasil audit sistem informasi dan/atau pengujian keamanan
+dari auditor independen internal atau eksternal;-78-
+b. hasil penilaian PIP mengenai dampak pengembangan
+aktivitas dan/atau pengembangan produk terhadap
+perubahan prosedur pengendalian pengamanan, sistem
+pengelolaan fraud (fraud management system) dan
+prosedur, mekanisme, dan infrastruktur penanganan
+kesinambungan kegiatan usaha (business continuity) dan
+keadaan darurat (disaster recovery);
+c. hasil penilaian PIP terhadap keamanan dan keandalan
+sistem dari pihak yang akan diajak bekerja sama; dan
+d. hasil penyesuaian prosedur dan mekanisme berdasarkan
+hasil penilaian sebagaimana dimaksud dalam huruf b.

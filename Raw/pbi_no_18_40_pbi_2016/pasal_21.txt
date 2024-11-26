@@ -1,0 +1,13 @@
+Pasal 21
+(1) Dalam hal terjadi permintaan pengembalian dana (refund)
+atas pembatalan transaksi pembayaran, Penyelenggara
+Dompet Elektronik wajib segera melaksanakan
+pengembalian dana ( refund) tersebut kepada pengguna
+Dompet Elektronik.
+(2) Penyelenggara Dompet Elektronik wajib memiliki
+prosedur untuk memastikan terlaksananya pengembalian
+dana (refund) sebagaimana dimaksud pada ayat (1).
+(3) Dana hasil pengembalian sebagaimana dimaksud pada
+ayat (1) wajib segera dikembalikan ke dalam sumber dana
+asal yang digunakan untuk melakukan transaksi
+pembayaran.

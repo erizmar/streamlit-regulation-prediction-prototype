@@ -1,0 +1,14 @@
+Pasal 29
+(1) Deteksi sebagaimana dimaksud dalam Pasal 20 ayat (1)
+huruf c meliputi:
+a. pemantauan;
+b. analisis hasil pemantauan;
+c. analisis Serangan Siber;
+d. analisis kode jahat atau kode tidak sah; dan
+e. pemeliharaan dan pengujian sistem deteksi.
+(2) Deteksi sebagaimana dimaksud pada ayat (1)
+dilaksanakan oleh Penyelenggara untuk:
+a. mengetahui Kerentanan Siber, Serangan Siber,
+dan/atau Insiden Siber yang terjadi;
+b. memberikan peringatan dini; dan
+c. melakukan penguatan KKS secara berkelanjutan.

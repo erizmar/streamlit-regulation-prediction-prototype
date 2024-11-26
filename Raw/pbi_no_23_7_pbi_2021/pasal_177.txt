@@ -1,0 +1,33 @@
+Pasal 177
+(1) Dokumen pendukung sebagaimana dimaksud dalam Pasal
+176 ayat (2) meliputi:
+a. profil calon peserta mencakup informasi entitas;
+b. narahubung (conctact person); dan
+c. data dan informasi.
+(2) Data dan informasi sebagaimana dimaksud pada ayat (1)
+huruf c, terdiri atas:
+a. fitur produk, aktivitas, layanan, dan model bisnis yang
+akan diuji coba;
+b. unsur inovasi dalam produk, aktivitas, layanan, dan
+model bisnis yang akan diuji coba;
+c. manfaat bagi konsumen dan/atau perekonomian;
+d. aspek manajemen risiko, keamanan informasi,
+perlindungan konsumen, anti pencucian uang dan
+pencegahan pendanaan terorisme, serta kesiapan
+infrastruktur dan operasional;
+e. usulan skenario uji coba pengembangan inovasi
+teknologi Sistem Pembayaran;
+f. ruang lingkup uji coba mencakup batasan jumlah
+user atau merchant, batasan nominal transaksi,
+batasan nominal wilayah, dan batasan lainnya;
+dan/atau
+g. jangka waktu pelaksanaan uji coba pengembangan
+inovasi teknologi Sistem Pembayaran.
+(3) Untuk permohonan uji coba industrial sandbox, selain
+dokumen pendukung sebagaimana dimaksud pada ayat (2)
+juga mencakup informasi daftar pihak yang mengikuti uji
+coba dan profil seluruh calon peserta.
+(4) Dalam hal diperlukan, Bank Indonesia dapat meminta
+dokumen pendukung tambahan untuk permohonan uji
+coba pengembangan inovasi teknologi Sistem Pembayaran
+sebagaimana dimaksud pada ayat (1) dan ayat (2).

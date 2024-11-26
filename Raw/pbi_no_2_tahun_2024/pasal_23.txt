@@ -1,0 +1,11 @@
+Pasal 23
+Asesmen Risiko Siber sebagaimana dimaksud dalam Pasal 21
+ayat (2) huruf b dilakukan paling sedikit dengan:
+a. menentukan metodologi asesmen Risiko Siber yang
+relevan;
+b. melakukan penilaian dampak Kerentanan Siber dan
+Ancaman Siber yang memengaruhi layanan operasional;
+dan
+c. melakukan prioritasi mitigasi terhadap Kerentanan Siber
+dan Ancaman Siber mulai dari yang paling tinggi sampai
+dengan yang paling rendah.

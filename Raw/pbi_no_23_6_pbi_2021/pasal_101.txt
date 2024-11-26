@@ -1,0 +1,13 @@
+Pasal 101
+Persyaratan aspek keamanan dan keandalan sistem untuk
+pengembangan aktivitas dan/atau pengembangan produk
+dengan kategori risiko tinggi disertai dengan pemenuhan paling
+sedikit dokumen yang menunjukkan:
+a. prosedur pengendalian pengamanan terhadap sistem yang
+digunakan;
+b. hasil audit sistem informasi dan pengujian keamanan dari
+auditor independen internal atau eksternal;
+c. infrastruktur pengelolaan fraud; dan
+d. prosedur, mekanisme, dan infrastruktur penanganan
+kesinambungan kegiatan usaha (business continuity) dan
+keadaan darurat (disaster recovery) yang efektif.

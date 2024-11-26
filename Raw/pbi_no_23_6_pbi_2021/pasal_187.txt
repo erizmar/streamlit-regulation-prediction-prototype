@@ -1,0 +1,15 @@
+Pasal 187
+(1) PJP yang menyelenggarakan aktivitas penatausahaan
+Sumber Dana berupa penerbitan kartu kredit wajib
+meningkatkan standar keamanan untuk transaksi dengan
+kriteria tertentu.
+(2) Peningkatan standar keamanan transaksi kartu kredit
+sebagaimana dimaksud pada ayat (1) diterapkan melalui
+penyediaan transaction alert kepada pengguna kartu kredit
+melalui media yang disetujui oleh pengguna kartu kredit
+dan/atau standar keamanan lainnya.
+(3) Ketentuan teknis dan mikro terkait dengan transaksi
+dengan kriteria tertentu sebagaimana dimaksud pada ayat
+(1) dan standar keamanan transaksi kartu kredit
+sebagaimana dimaksud pada ayat (2) dapat diatur oleh
+SRO dengan persetujuan Bank Indonesia.

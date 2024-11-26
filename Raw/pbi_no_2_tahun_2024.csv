@@ -1,0 +1,747 @@
+pasal,pasal_text
+1,"Pasal 1
+Dalam Peraturan Bank Indonesia ini yang dimaksud dengan:
+1. Sistem Informasi adalah keterpaduan antara komponen
+data, informasi, sistem aplikasi, infrastruktur teknologi
+informasi, proses, dan/atau manusia yang saling
+berinteraksi untuk mencapai suatu tujuan.
+2. Siber adalah ruang yang bersifat virtual yang dibentuk dari
+Sistem Informasi.
+3. Sistem Pembayaran adalah suatu sistem yang mencakup
+seperangkat aturan, lembaga, mekanisme, infrastruktur,
+sumber dana untuk pembayaran, dan akses ke sumber
+dana untuk pembayaran, yang digunakan untuk
+melaksanakan pemindahan dana guna memenuhi suatu
+kewajiban yang timbul dari suatu kegiatan ekonomi.
+4. Sistem Keuangan adalah suatu kesatuan yang terdiri atas
+lembaga jasa keuangan, pasar keuangan, dan infrastruktur
+keuangan, termasuk Sistem Pembayaran, yang berinteraksi
+dalam memfasilitasi pengumpulan dana masyarakat dan
+pengalokasiannya untuk mendukung aktivitas
+perekonomian nasional, serta korporasi dan rumah tangga
+yang terhubung dengan lembaga jasa keuangan.
+5. Pasar Uang adalah bagian dari Sistem Keuangan yang
+berkaitan dengan:
+a. kegiatan penerbitan dan perdagangan instrumen
+keuangan atau efek bersifat utang yang berjangka
+waktu tidak lebih dari 1 (satu) tahun;
+b. transaksi pinjam-meminjam uang;
+c. transaksi derivatif suku bunga; dan
+d. transaksi lainnya yang memenuhi karakteristik di
+pasar uang,
+dalam mata uang rupiah atau valuta asing.
+6. Pasar Valuta Asing adalah bagian dari Sistem Keuangan
+yang berkaitan dengan kegiatan transaksi yang melibatkan
+pertukaran mata uang dari 2 (dua) negara yang berbeda
+beserta derivatifnya, tetapi tidak termasuk penukaran bank
+notes yang diselenggarakan oleh kegiatan usaha penukaran
+valuta asing.
+7. Penyedia Jasa Pembayaran yang selanjutnya disingkat PJP
+adalah sebagaimana dimaksud dalam Peraturan Bank
+Indonesia mengenai Penyedia Jasa Pembayaran.
+8. Penyelenggara Infrastruktur Sistem Pembayaran yang
+selanjutnya disebut PIP adalah pihak yang
+menyelenggarakan infrastruktur sebagai sarana yang dapat
+digunakan untuk melakukan pemindahan dana bagi
+kepentingan anggotanya.
+9. Pelaku Usaha Sektor Keuangan yang Bergerak di Pasar
+Uang dan/atau Pasar Valuta Asing yang selanjutnya
+disebut PUSK PUVA adalah pelaku usaha di Pasar Uang
+dan/atau Pasar Valuta Asing yang memperoleh izin
+kelembagaan dari Bank Indonesia.
+10. Lembaga Pendukung Pasar Uang adalah pihak yang
+memberikan jasa terkait penerbitan instrumen Pasar Uang,
+perantara pelaksanaan transaksi instrumen Pasar Uang,
+penyelesaian transaksi, penatausahaan instrumen dan
+transaksi Pasar Uang, dan pihak lainnya yang ditetapkan
+oleh Bank Indonesia.
+11. Lembaga Pendukung Pasar Valuta Asing adalah pihak yang
+dapat memberikan jasa terkait perantara pelaksanaan
+transaksi, penyelesaian transaksi, penatausahaan
+transaksi di Pasar Valuta Asing, dan pihak lainnya yang
+ditetapkan oleh Bank Indonesia.
+12. Penyelenggara Kegiatan Usaha Penukaran Valuta Asing
+Bukan Bank adalah sebagaimana dimaksud dalam
+Peraturan Bank Indonesia mengenai Kegiatan Usaha
+Penukaran Valuta Asing Bukan Bank.
+13. Penyelenggara adalah pihak yang diatur dan diawasi Bank
+Indonesia yang mempunyai risiko Siber baik secara
+sistemik maupun nonsistemik bagi Sistem Keuangan.
+14. Kerentanan Siber adalah kelemahan, kerawanan, atau
+kekurangan yang terdapat pada Siber sehingga berdampak
+negatif terhadap bisnis dan/atau layanan operasional
+Penyelenggara.
+15. Ancaman Siber adalah suatu keadaan yang berpotensi
+mengeksploitasi Kerentanan Siber.
+16. Serangan Siber adalah upaya untuk mengeksploitasi
+Kerentanan Siber.
+17. Insiden Siber adalah Serangan Siber yang mengganggu
+kelancaran bisnis dan/atau layanan operasional
+Penyelenggara yang memerlukan respons dan/atau
+pemulihan.
+18. Risiko Siber adalah kemungkinan terjadinya Insiden Siber
+dan dampak yang diakibatkan dari Insiden Siber.
+19. Keamanan Sistem Informasi dan Ketahanan Siber yang
+selanjutnya disebut KKS adalah kondisi terjaganya
+kerahasiaan, keutuhan, serta ketersediaan informasi
+dan/atau Sistem Informasi Penyelenggara dari Serangan
+Siber dan terjaganya kelangsungan bisnis Penyelenggara
+melalui tindakan antisipatif, adaptif, dan proaktif terhadap
+Ancaman Siber serta kemampuan Penyelenggara untuk
+melakukan respons dan pemulihan dengan cepat terhadap
+Insiden Siber.
+20. Self-Regulatory Organization yang selanjutnya disingkat
+SRO adalah suatu forum atau institusi yang berbadan
+hukum Indonesia yang ditetapkan oleh Bank Indonesia
+untuk mendukung penyelenggaraan Sistem Pembayaran,
+Pasar Uang dan Pasar Valuta Asing, dan/atau kegiatan
+lainnya yang diatur dan diawasi Bank Indonesia."
+2,"Pasal 2
+Bank Indonesia melakukan pengaturan dan pengawasan KKS
+dengan tujuan menciptakan KKS pada Penyelenggara dalam
+mendukung tujuan Bank Indonesia."
+3,"Pasal 3
+Sasaran pengaturan dan pengawasan KKS meliputi:
+a. peningkatan KKS Penyelenggara untuk mencegah dan
+menangani dampak Serangan Siber;
+b. peningkatan manajemen Risiko Siber Penyelenggara; dan
+c. penguatan pengawasan dan kolaborasi dalam pencegahan
+Insiden Siber dan/atau penanganan Insiden Siber yang
+terjadi pada Penyelenggara."
+4,"Pasal 4
+Prinsip dasar pelaksanaan KKS meliputi:
+a. kejelasan peran dan tanggung jawab;
+b. strategi yang komprehensif;
+c. manajemen Risiko Siber terintegrasi dengan enterprise risk
+management;
+d. integrasi dengan budaya KKS; dan
+e. kesiapan menghadapi Insiden Siber."
+5,"Pasal 5
+Penyelenggara yang menjadi objek pengaturan dan pengawasan
+KKS meliputi:
+a. PJP;
+b. PIP;
+c. PUSK PUVA;
+d. Lembaga Pendukung Pasar Uang;
+e. Lembaga Pendukung Pasar Valuta Asing;
+f. Penyelenggara Kegiatan Usaha Penukaran Valuta Asing
+Bukan Bank; dan
+g. pihak lain yang diatur dan diawasi Bank Indonesia."
+6,"Pasal 6
+Ruang lingkup pengaturan dan pengawasan KKS meliputi:
+a. tata kelola;
+b. pencegahan;
+c. penanganan;
+d. pengawasan; dan
+e. kolaborasi."
+7,"Pasal 7
+Tata kelola sebagaimana dimaksud dalam Pasal 6 huruf a
+meliputi:
+a. strategi dan kebijakan KKS; dan
+b. budaya KKS."
+8,"Pasal 8
+(1) Strategi dan kebijakan KKS sebagaimana dimaksud dalam
+Pasal 7 huruf a meliputi:
+a. rencana strategis KKS;
+b. kebijakan, standar, dan prosedur KKS; dan
+c. fungsi organisasi KKS.
+(2) Strategi dan kebijakan KKS sebagaimana dimaksud pada
+ayat (1) disusun dan dilaksanakan oleh Penyelenggara
+untuk memperkuat KKS."
+9,"Pasal 9
+(1) Rencana strategis KKS sebagaimana dimaksud dalam
+Pasal 8 ayat (1) huruf a meliputi:
+a. arah strategis penguatan KKS;
+b. peta jalan penguatan KKS; dan
+c. perkiraan kebutuhan sumber daya,
+yang mencakup aspek manusia, proses, dan teknologi.
+(2) Penyelenggara melakukan evaluasi secara berkala
+terhadap rencana strategis KKS sebagaimana dimaksud
+pada ayat (1) sesuai dengan perkembangan Risiko Siber.
+(3) Ketentuan lebih lanjut mengenai rencana strategis KKS
+sebagaimana dimaksud pada ayat (1) diatur dalam
+Peraturan Anggota Dewan Gubernur."
+10,"Pasal 10
+(1) Kebijakan, standar, dan prosedur KKS sebagaimana
+dimaksud dalam Pasal 8 ayat (1) huruf b mencakup aspek
+manusia, proses, dan teknologi yang paling sedikit terdiri
+atas:
+a. pengamanan data, sistem aplikasi, dan infrastruktur
+teknologi informasi;
+b. pengamanan pihak ketiga; dan
+c. pelindungan konsumen dan manajemen fraud.
+(2) Penyelenggara melakukan evaluasi secara berkala
+terhadap kebijakan, standar, dan prosedur KKS
+sebagaimana dimaksud pada ayat (1) untuk memastikan
+kecukupan dan efektivitas kebijakan, standar, dan
+prosedur KKS sesuai perkembangan terkini.
+(3) Ketentuan lebih lanjut mengenai kebijakan, standar, dan
+prosedur KKS sebagaimana dimaksud pada ayat (1) diatur
+dalam Peraturan Anggota Dewan Gubernur."
+11,"Pasal 11
+Fungsi organisasi KKS sebagaimana dimaksud dalam Pasal 8
+ayat (1) huruf c meliputi:
+a. manajemen KKS;
+b. manajemen Risiko Siber; dan
+c. audit KKS."
+12,"Pasal 12
+(1) Dalam menjalankan fungsi organisasi KKS sebagaimana
+dimaksud dalam Pasal 11, Penyelenggara memperhatikan:
+a. efektivitas dan efisiensi;
+b. akuntabilitas; dan
+c. kapasitas dan kapabilitas sumber daya manusia.
+(2) Dalam menjalankan fungsi organisasi KKS sebagaimana
+dimaksud pada ayat (1), Penyelenggara dapat bekerja
+sama dengan pihak lain."
+13,"Pasal 13
+(1) Penyelenggara menerapkan manajemen KKS sebagaimana
+dimaksud dalam Pasal 11 huruf a meliputi:
+a. perencanaan strategis KKS;
+b. penyusunan kebijakan, standar, dan prosedur KKS;
+c. penerapan budaya KKS; dan
+d. pelaksanaan pencegahan dan penanganan KKS.
+(2) Manajemen KKS bertanggung jawab pada manajemen
+tertinggi dalam implementasi aktivitas KKS.
+(3) Dalam penerapan manajemen KKS sebagaimana
+dimaksud pada ayat (1), manajemen KKS dapat bekerja
+sama dengan pihak lain."
+14,"Pasal 14
+(1) Penyelenggara menerapkan manajemen Risiko Siber
+sebagaimana dimaksud dalam Pasal 11 huruf b sesuai
+praktik terbaik.
+(2) Manajemen Risiko Siber sebagaimana dimaksud pada ayat
+(1) mencakup aspek pelindungan terhadap:
+a. kerahasiaan;
+b. integritas; dan
+c. ketersediaan,
+informasi dalam mendukung kelangsungan proses bisnis."
+15,"Pasal 15
+(1) Penyelenggara menerapkan manajemen Risiko Siber
+sebagaimana dimaksud dalam Pasal 14 paling sedikit
+melalui:
+a. integrasi manajemen Risiko Siber ke dalam proses
+manajemen risiko Penyelenggara;
+b. identifikasi, asesmen, mitigasi, dan evaluasi Risiko
+Siber terhadap Ancaman Siber atau Serangan Siber;
+dan
+c. pengukuran tingkat kematangan KKS secara berkala.
+(2) Ketentuan lebih lanjut mengenai pengukuran tingkat
+kematangan KKS sebagaimana dimaksud pada ayat (1)
+huruf c diatur dalam Peraturan Anggota Dewan Gubernur."
+16,"Pasal 16
+(1) Penyelenggara melaksanakan audit KKS sebagaimana
+dimaksud dalam Pasal 11 huruf c sebagai sarana untuk
+memastikan kepatuhan terhadap regulasi, kebijakan,
+standar, dan prosedur, serta efektivitas pengendalian
+dalam implementasi KKS.
+(2) Audit KKS sebagaimana dimaksud pada ayat (1) paling
+sedikit mencakup:
+a. tata kelola;
+b. pencegahan; dan
+c. penanganan."
+17,"Pasal 17
+(1) Penyelenggara melakukan audit KKS sebagaimana
+dimaksud dalam Pasal 16 secara berkala.
+(2) Pelaksanaan audit KKS sebagaimana dimaksud pada ayat
+(1) dilakukan oleh pihak internal dan/atau pihak eksternal
+secara independen.
+(3) Ketentuan lebih lanjut mengenai pelaksanaan audit KKS
+sebagaimana dimaksud pada ayat (1) diatur dalam
+Peraturan Anggota Dewan Gubernur."
+18,"Pasal 18
+(1) Budaya KKS sebagaimana dimaksud dalam Pasal 7 huruf
+b diterapkan sebagai sarana untuk meningkatkan
+kesadaran Risiko Siber serta perilaku positif dan etika
+Siber.
+(2) Budaya KKS sebagaimana dimaksud pada ayat (1)
+dilaksanakan oleh Penyelenggara melalui program
+peningkatan budaya KKS.
+(3) Program peningkatan budaya KKS sebagaimana dimaksud
+pada ayat (2) diberikan kepada:
+a. pihak internal;
+b. pihak ketiga; dan
+c. konsumen.
+(4) Program peningkatan budaya KKS sebagaimana dimaksud
+pada ayat (2) dilaksanakan secara berkala dengan
+melibatkan manajemen tertinggi sebagai teladan."
+19,"Pasal 19
+Ketentuan lebih lanjut mengenai budaya KKS sebagaimana
+dimaksud dalam Pasal 18 diatur dalam Peraturan Anggota
+Dewan Gubernur."
+20,"Pasal 20
+(1) Pencegahan sebagaimana dimaksud dalam Pasal 6 huruf
+b meliputi:
+a. identifikasi;
+b. proteksi; dan
+c. deteksi.
+(2) Pencegahan sebagaimana dimaksud pada ayat (1)
+dilaksanakan oleh Penyelenggara untuk mengantisipasi
+Insiden Siber."
+21,"Pasal 21
+(1) Identifikasi sebagaimana dimaksud dalam Pasal 20 ayat
+(1) huruf a meliputi:
+a. penyusunan profil Risiko Siber; dan
+b. penginian profil Risiko Siber secara berkala.
+(2) Penyusunan profil Risiko Siber sebagaimana dimaksud
+pada ayat (1) huruf a meliputi:
+a. identifikasi Risiko Siber;
+b. asesmen Risiko Siber; dan
+c. analisis dampak bisnis.
+(3) Identifikasi sebagaimana dimaksud pada ayat (1)
+dilaksanakan oleh Penyelenggara untuk memahami profil
+Risiko Siber guna memperoleh gambaran menyeluruh
+terkait Risiko Siber yang dihadapi serta prioritisasi
+pengendalian yang dibutuhkan.
+(4) Ketentuan lebih lanjut mengenai identifikasi sebagaimana
+dimaksud pada ayat (1) diatur dalam Peraturan Anggota
+Dewan Gubernur."
+22,"Pasal 22
+(1) Identifikasi Risiko Siber sebagaimana dimaksud dalam
+Pasal 21 ayat (2) huruf a dilakukan dengan
+memperhatikan paling sedikit:
+a. Kerentanan Siber dan Ancaman Siber dari aspek
+manusia, proses, dan teknologi; dan
+b. objek yang akan dilindungi.
+(2) Informasi Kerentanan Siber dan Ancaman Siber
+sebagaimana dimaksud pada ayat (1) huruf a dapat
+bersumber dari sarana pertukaran informasi yang
+dibentuk Bank Indonesia atau sarana informasi lain."
+23,"Pasal 23
+Asesmen Risiko Siber sebagaimana dimaksud dalam Pasal 21
+ayat (2) huruf b dilakukan paling sedikit dengan:
+a. menentukan metodologi asesmen Risiko Siber yang
+relevan;
+b. melakukan penilaian dampak Kerentanan Siber dan
+Ancaman Siber yang memengaruhi layanan operasional;
+dan
+c. melakukan prioritasi mitigasi terhadap Kerentanan Siber
+dan Ancaman Siber mulai dari yang paling tinggi sampai
+dengan yang paling rendah."
+24,"Pasal 24
+Analisis dampak bisnis sebagaimana dimaksud dalam Pasal 21
+ayat (2) huruf c dilakukan paling sedikit dengan:
+a. melakukan penilaian dampak bisnis terkait Kerentanan
+Siber terhadap finansial dan nonfinansial, termasuk
+dampaknya pada stabilitas Sistem Keuangan;
+b. menganalisis kritikalitas fungsi bisnis dan Sistem
+Informasi beserta prioritasi pengendalian risiko; dan
+c. menganalisis Sistem Informasi kritikal yang berdampak
+luas terhadap stabilitas Sistem Keuangan."
+25,"Pasal 25
+Sistem Informasi kritikal yang berdampak luas sebagaimana
+dimaksud dalam Pasal 24 huruf c dikategorikan sebagai
+infrastruktur informasi vital."
+26,"Pasal 26
+(1) Proteksi sebagaimana dimaksud dalam Pasal 20 ayat (1)
+huruf b meliputi:
+a. pembangunan sistem pertahanan; dan
+b. pengamanan dan pelindungan data dan/atau
+informasi.
+(2) Proteksi sebagaimana dimaksud pada ayat (1) dilakukan
+oleh Penyelenggara untuk membangun sistem pertahanan
+yang dapat mencegah terjadinya Serangan Siber
+berdasarkan profil risiko serta mengamankan data
+dan/atau informasi pada setiap tahapan siklus
+pengelolaan data dan/atau informasi."
+27,"Pasal 27
+Pembangunan sistem pertahanan sebagaimana dimaksud
+dalam Pasal 26 ayat (1) huruf a pada aspek manusia, proses,
+dan teknologi dilakukan paling sedikit dengan:
+a. memastikan keamanan pihak internal dan pihak ketiga
+pada setiap tahapan siklus kerja serta memberikan
+edukasi KKS sesuai dengan peran dan tanggung jawab;
+b. menerapkan pengendalian keamanan untuk proses bisnis
+serta melaksanakan kebijakan, standar, dan prosedur
+pengamanan secara efektif; dan
+c. mengimplementasikan konfigurasi pengamanan terhadap
+Sistem Informasi yang digunakan."
+28,"Pasal 28
+Pengamanan dan pelindungan data dan/atau informasi
+sebagaimana dimaksud dalam Pasal 26 ayat (1) huruf b
+dilakukan paling sedikit dengan:
+a. mengamankan data dan/atau informasi pada setiap
+tahapan siklus hidup data dan/atau informasi
+berdasarkan klasifikasi data dan/atau informasi yang
+ditetapkan oleh Penyelenggara; dan
+b. memastikan kepatuhan pelindungan data pribadi sesuai
+dengan ketentuan peraturan perundang-undangan."
+29,"Pasal 29
+(1) Deteksi sebagaimana dimaksud dalam Pasal 20 ayat (1)
+huruf c meliputi:
+a. pemantauan;
+b. analisis hasil pemantauan;
+c. analisis Serangan Siber;
+d. analisis kode jahat atau kode tidak sah; dan
+e. pemeliharaan dan pengujian sistem deteksi.
+(2) Deteksi sebagaimana dimaksud pada ayat (1)
+dilaksanakan oleh Penyelenggara untuk:
+a. mengetahui Kerentanan Siber, Serangan Siber,
+dan/atau Insiden Siber yang terjadi;
+b. memberikan peringatan dini; dan
+c. melakukan penguatan KKS secara berkelanjutan."
+30,"Pasal 30
+Pemantauan sebagaimana dimaksud dalam Pasal 29 ayat (1)
+huruf a dilakukan paling sedikit dengan:
+a. memantau akses logis dan fisik yang berpotensi
+menimbulkan Serangan Siber;
+b. menetapkan indikator ambang batas sebagai pemicu
+aktivasi sistem peringatan dini; dan
+c. melakukan pemindaian Kerentanan Siber,
+secara konsisten dan berkelanjutan."
+31,"Pasal 31
+Analisis hasil pemantauan sebagaimana dimaksud dalam Pasal
+29 ayat (1) huruf b dilakukan paling sedikit dengan:
+a. menganalisis catatan aktivitas Siber; dan
+b. menganalisis Kerentanan Siber dan potensi Serangan
+Siber."
+32,"Pasal 32
+Analisis Serangan Siber sebagaimana dimaksud dalam Pasal 29
+ayat (1) huruf c dilakukan paling sedikit dengan:
+a. melakukan asesmen terhadap sumber, jenis, dan waktu
+terjadinya Serangan Siber termasuk fraud;
+b. melakukan asesmen terhadap dampak Serangan Siber
+terhadap sistem dan sistem lainnya yang terhubung; dan
+c. melakukan eskalasi jika terdapat potensi terjadi Insiden
+Siber."
+33,"Pasal 33
+Analisis kode jahat atau kode tidak sah sebagaimana dimaksud
+dalam Pasal 29 ayat (1) huruf d dilakukan paling sedikit
+dengan:
+a. menganalisis kode jahat atau kode tidak sah yang
+berpotensi menimbulkan Serangan Siber; dan
+b. melakukan eskalasi tindak lanjut dan/atau evaluasi atas
+deteksi kode jahat atau kode tidak sah."
+34,"Pasal 34
+(1) Pemeliharaan dan pengujian sistem deteksi sebagaimana
+dimaksud dalam Pasal 29 ayat (1) huruf e dilakukan
+secara berkala paling sedikit dengan memastikan:
+a. sistem pemantauan terpelihara dengan versi
+perangkat lunak terkini; dan
+b. keandalan sistem pemantauan telah teruji.
+(2) Ketentuan lebih lanjut mengenai pemeliharaan dan
+pengujian sistem deteksi sebagaimana dimaksud pada
+ayat (1) diatur dalam Peraturan Anggota Dewan Gubernur."
+35,"Pasal 35
+(1) Penanganan sebagaimana dimaksud dalam Pasal 6 huruf
+c meliputi:
+a. respons; dan
+b. pemulihan.
+(2) Penanganan sebagaimana dimaksud pada ayat (1)
+dilaksanakan oleh Penyelenggara untuk:
+a. memitigasi Insiden Siber; dan
+b. mengembalikan layanan sebagaimana kondisi normal."
+36,"Pasal 36
+(1) Respons sebagaimana dimaksud dalam Pasal 35 ayat (1)
+huruf a meliputi:
+a. penyusunan rencana penanganan dan pemulihan
+Insiden Siber;
+b. pelaksanaan simulasi dan uji coba penanganan dan
+pemulihan Insiden Siber;
+c. penanganan Insiden Siber; dan
+d. pelaksanaan komunikasi tindakan penanganan
+Insiden Siber.
+(2) Respons sebagaimana dimaksud pada ayat (1)
+dilaksanakan oleh Penyelenggara untuk:
+a. mempersiapkan proses penanganan Insiden Siber;
+b. mencegah perluasan dampak Insiden Siber; dan
+c. melakukan komunikasi penanganan Insiden Siber."
+37,"Pasal 37
+(1) Penyusunan rencana penanganan dan pemulihan Insiden
+Siber sebagaimana dimaksud dalam Pasal 36 ayat (1)
+huruf a paling sedikit memuat:
+a. penetapan status Insiden Siber;
+b. respons Insiden Siber;
+c. pembatasan dampak; dan
+d. rencana pemulihan yang mempertimbangkan
+sasaran waktu pemulihan dan sasaran titik
+pemulihan.
+(2) Rencana penanganan dan pemulihan Insiden Siber
+sebagaimana dimaksud pada ayat (1) disusun oleh
+Penyelenggara sebagai bagian dari rencana
+keberlangsungan bisnis Penyelenggara.
+(3) Penyelenggara membentuk tim tanggap Insiden Siber di
+level organisasi yang berperan dalam penanganan Insiden
+Siber.
+(4) Tim tanggap Insiden Siber sebagaimana dimaksud pada
+ayat (3) dapat melibatkan personel lintas departemen, unit
+kerja, dan bagian."
+38,"Pasal 38
+(1) Pelaksanaan simulasi dan uji coba penanganan dan
+pemulihan Insiden Siber sebagaimana dimaksud dalam
+Pasal 36 ayat (1) huruf b dilakukan secara komprehensif
+dan berkala.
+(2) Simulasi dan uji coba penanganan dan pemulihan Insiden
+Siber sebagaimana dimaksud pada ayat (1) dapat
+dilakukan dengan melibatkan pihak lain.
+(3) Ketentuan lebih lanjut mengenai simulasi dan uji coba
+penanganan dan pemulihan Insiden Siber sebagaimana
+dimaksud pada ayat (1) diatur dalam Peraturan Anggota
+Dewan Gubernur."
+39,"Pasal 39
+Penyelenggara melakukan evaluasi efektivitas dan perbaikan
+rencana penanganan dan pemulihan Insiden Siber atas dasar
+hasil simulasi dan uji coba penanganan dan pemulihan Insiden
+Siber."
+40,"Pasal 40
+Penanganan Insiden Siber sebagaimana dimaksud dalam Pasal
+36 ayat (1) huruf c dilaksanakan paling sedikit dengan:
+a. mengaktifkan tim tanggap Insiden Siber di level organisasi;
+b. menyampaikan:
+1. notifikasi awal Insiden Siber paling lama 1 (satu) jam
+setelah Insiden Siber diketahui oleh Penyelenggara;
+dan
+2. laporan Insiden Siber paling lama 3 (tiga) hari
+kalender setelah Insiden Siber terjadi,
+kepada Bank Indonesia;
+c. melakukan pendalaman Insiden Siber yang mencakup
+sumber, jenis, dan waktu serangan, analisis dampak, serta
+forensik terhadap Insiden Siber;
+d. melakukan mitigasi Insiden Siber dan pembatasan
+dampak;
+e. melaksanakan eskalasi dan penanganan Insiden Siber
+sesuai dengan tingkat dampak Insiden Siber; dan
+f. melaksanakan penanganan Insiden Siber dengan
+menggunakan sumber daya internal dan/atau eksternal."
+41,"Pasal 41
+Pelaksanaan komunikasi tindakan penanganan Insiden Siber
+sebagaimana dimaksud dalam Pasal 36 ayat (1) huruf d
+dilakukan paling sedikit dengan:
+a. menyusun strategi dan metode komunikasi penanganan
+dan pemulihan Insiden Siber;
+b. mengomunikasikan penanganan Insiden Siber kepada
+pemangku kepentingan berdasarkan strategi dan metode
+komunikasi sebagaimana dimaksud dalam huruf a; dan
+c. mengomunikasikan kemajuan penanganan Insiden Siber
+kepada Bank Indonesia."
+42,"Pasal 42
+(1) Pemulihan sebagaimana dimaksud dalam Pasal 35 ayat (1)
+huruf b dilakukan paling sedikit dengan:
+a. pengembalian layanan sebagaimana kondisi normal;
+b. perbaikan berkelanjutan; dan
+c. pelaksanaan komunikasi pemulihan Insiden Siber.
+(2) Pemulihan sebagaimana dimaksud pada ayat (1)
+dilakukan oleh Penyelenggara untuk:
+a. mengembalikan layanan sebagaimana kondisi normal
+sesuai prioritas; dan
+b. penguatan KKS agar Insiden Siber tidak terulang
+kembali."
+43,"Pasal 43
+(1) Dalam melakukan pengembalian layanan sebagaimana
+kondisi normal sebagaimana dimaksud dalam Pasal 42
+ayat (1) huruf a, Penyelenggara menetapkan:
+a. lokasi kerja alternatif;
+b. pusat data yang terpisah; dan/atau
+c. jaringan komunikasi data alternatif,
+sesuai hasil analisis dampak penanganan Insiden Siber.
+(2) Pengembalian layanan sebagaimana kondisi normal
+sebagaimana dimaksud pada ayat (1) sesuai dengan
+rencana pemulihan Insiden Siber dan mengacu pada
+prioritas pemulihan."
+44,"Pasal 44
+Perbaikan berkelanjutan sebagaimana dimaksud dalam Pasal 42
+ayat (1) huruf b dilakukan paling sedikit dengan:
+a. melakukan evaluasi efektivitas dan perbaikan rencana
+penanganan dan pemulihan Insiden Siber atas dasar
+penanganan dan pemulihan Insiden Siber yang telah
+dilakukan; dan
+b. melakukan upaya penguatan KKS untuk memitigasi risiko
+Insiden Siber serupa."
+45,"Pasal 45
+Pelaksanaan komunikasi pemulihan Insiden Siber
+sebagaimana dimaksud dalam Pasal 42 ayat (1) huruf c
+dilakukan paling sedikit dengan:
+a. mengomunikasikan pemulihan Insiden Siber kepada
+pemangku kepentingan mengacu pada strategi dan
+metode komunikasi sebagaimana dimaksud dalam Pasal
+41 huruf a; dan
+b. mengomunikasikan kemajuan pemulihan Insiden Siber
+kepada Bank Indonesia."
+46,"Pasal 46
+Pengawasan sebagaimana dimaksud dalam Pasal 6 huruf d
+meliputi:
+a. mekanisme pengawasan; dan
+b. penyampaian data dan/atau informasi."
+47,"Pasal 47
+Bank Indonesia melakukan pengawasan untuk memastikan
+tercapainya KKS pada Penyelenggara."
+48,"Pasal 48
+Bank Indonesia melakukan pengawasan terhadap
+Penyelenggara dengan menggunakan pendekatan pengawasan
+berbasis risiko dan/atau kepatuhan."
+49,"Pasal 49
+Mekanisme pengawasan terhadap Penyelenggara dilakukan
+melalui:
+a. pengawasan tidak langsung; dan
+b. pengawasan langsung."
+50,"Pasal 50
+(1) Pengawasan tidak langsung sebagaimana dimaksud dalam
+Pasal 49 huruf a dilakukan melalui pemantauan,
+identifikasi, dan/atau asesmen terhadap laporan, data
+dan/atau informasi yang disampaikan oleh Penyelenggara
+kepada Bank Indonesia.
+(2) Pengawasan tidak langsung sebagaimana dimaksud pada
+ayat (1) dapat dilakukan secara terintegrasi termasuk
+terhadap perusahaan induk, perusahaan anak, dan/atau
+pihak terafiliasi lain."
+51,"Pasal 51
+(1) Mekanisme pengawasan langsung sebagaimana dimaksud
+dalam Pasal 49 huruf b dilakukan melalui tatap muka
+atau mekanisme lain yang ditetapkan oleh Bank
+Indonesia.
+(2) Pengawasan langsung sebagaimana dimaksud pada ayat
+(1) dapat dilakukan secara terintegrasi termasuk terhadap
+perusahaan induk, perusahaan anak, dan/atau pihak
+terafiliasi lain.
+(3) Objek pengawasan langsung sebagaimana dimaksud pada
+ayat (1) meliputi dokumen, infrastruktur, Sistem
+Informasi, dan objek lain yang digunakan oleh
+Penyelenggara.
+(4) Periode pengawasan langsung sebagaimana dimaksud
+pada ayat (1) dilakukan secara berkala dan/atau sewaktu-
+waktu.
+(5) Dalam melakukan pengawasan langsung, Bank Indonesia
+dapat menugaskan pihak lain untuk dan atas nama Bank
+Indonesia."
+52,"Pasal 52
+Berdasarkan hasil pengawasan tidak langsung sebagaimana
+dimaksud dalam Pasal 50 dan pengawasan langsung
+sebagaimana dimaksud dalam Pasal 51, Bank Indonesia
+melakukan tindak lanjut pengawasan berupa meminta
+Penyelenggara untuk:
+a. melakukan atau tidak melakukan sesuatu; dan/atau
+b. membatasi kegiatan dan/atau layanan Penyelenggara."
+53,"Pasal 53
+Bank Indonesia dapat berkoordinasi dengan otoritas lain jika
+perusahaan induk Penyelenggara, perusahaan anak
+Penyelenggara, dan/atau pihak terafiliasi lain berada di bawah
+pengawasan otoritas lain."
+54,"Pasal 54
+(1) Penyelenggara menyampaikan data dan/atau informasi
+sebagaimana dimaksud dalam Pasal 46 huruf b kepada
+Bank Indonesia.
+(2) Data dan/atau informasi sebagaimana dimaksud pada
+ayat (1) terkait penerapan KKS meliputi area:
+a. tata kelola;
+b. pencegahan; dan
+c. penanganan.
+(3) Data dan/atau informasi sebagaimana dimaksud pada
+ayat (2) disampaikan dalam bentuk dokumen, data
+mentah, dan/atau data olahan.
+(4) Data dan/atau informasi sebagaimana dimaksud pada
+ayat (3) disampaikan melalui pelaporan secara:
+a. tahunan, meliputi:
+1. tingkat kematangan KKS; dan
+2. hasil identifikasi infrastruktur informasi vital, dan
+b. Insidental pada saat terjadi Insiden Siber.
+(5) Ketentuan lebih lanjut mengenai tata cara penyampaian
+data dan/atau informasi sebagaimana dimaksud pada
+ayat (1) diatur dalam Peraturan Anggota Dewan Gubernur."
+55,"Pasal 55
+(1) Laporan sebagaimana dimaksud dalam Pasal 54 ayat (4)
+wajib disampaikan oleh Penyelenggara kepada Bank
+Indonesia.
+(2) Penyelenggara yang melanggar ketentuan sebagaimana
+dimaksud pada ayat (1) dikenai sanksi administratif
+berupa:
+a. teguran;
+b. kewajiban membayar;
+c. penghentian sementara, sebagian, atau seluruh
+kegiatan termasuk pelaksanaan kerja sama;
+dan/atau
+d. pencabutan izin dan/atau persetujuan yang telah
+diberikan.
+(3) Sanksi administratif berupa kewajiban membayar
+sebagaimana dimaksud pada ayat (2) huruf b, dikenakan
+paling banyak Rp5.000.000,00 (lima juta rupiah) per
+laporan.
+(4) Ketentuan lebih lanjut mengenai tata cara penyampaian
+laporan dan pengenaan sanksi administratif diatur dalam
+Peraturan Anggota Dewan Gubernur."
+56,"Pasal 56
+(1) Kolaborasi sebagaimana dimaksud dalam Pasal 6 huruf e
+meliputi:
+a. pertukaran informasi;
+b. pencegahan Insiden Siber dan efek penularan; dan
+c. kerja sama dengan SRO.
+(2) Bank Indonesia melakukan kolaborasi sebagaimana
+dimaksud pada ayat (1) untuk:
+a. memperkuat kerja sama dengan Penyelenggara
+dan/atau asosiasi Penyelenggara; dan
+b. memperkuat KKS dalam pencegahan dan
+penanganan Insiden Siber."
+57,"Pasal 57
+(1) Penyelenggara melakukan pertukaran informasi
+sebagaimana dimaksud dalam Pasal 56 ayat (1) huruf a
+terkait hasil identifikasi Kerentanan Siber, Ancaman Siber,
+Serangan Siber, dan Insiden Siber yang dapat mengganggu
+stabilitas Sistem Keuangan ke Bank Indonesia.
+(2) Informasi hasil identifikasi yang dipertukarkan
+sebagaimana dimaksud pada ayat (1) paling sedikit
+meliputi:
+a. sumber dan pola Ancaman Siber dan Serangan Siber;
+b. celah keamanan yang berdampak pada Kerentanan
+Siber; dan
+c. pembelajaran dari cara penanganan Insiden Siber.
+(3) Bank Indonesia dapat meneruskan informasi hasil
+identifikasi Kerentanan Siber, Ancaman Siber, Serangan
+Siber, dan Insiden Siber sebagaimana dimaksud pada ayat
+(1) kepada otoritas terkait dan/atau Penyelenggara lain."
+58,"Pasal 58
+Bank Indonesia dapat membentuk sarana berbagi sebagai
+sarana pertukaran informasi Kerentanan Siber, Ancaman Siber,
+Serangan Siber, dan Insiden Siber antar-Penyelenggara."
+59,"Pasal 59
+Dalam mencegah Insiden Siber dan efek penularan
+sebagaimana dimaksud dalam Pasal 56 ayat (1) huruf b, Bank
+Indonesia dapat:
+a. mengisolasi akses terhadap infrastruktur Bank Indonesia;
+dan
+b. melakukan kolaborasi dan koordinasi dengan otoritas,
+lembaga, dan/atau Penyelenggara lain dalam penanganan
+Insiden Siber pada Penyelenggara."
+60,"Pasal 60
+Bank Indonesia dapat berkolaborasi dan berkoordinasi dengan
+otoritas, lembaga, dan/atau Penyelenggara untuk memastikan
+kesiapan penanganan Insiden Siber."
+61,"Pasal 61
+(1) Bank Indonesia dapat menugaskan SRO untuk menyusun
+dan menetapkan prosedur KKS yang bersifat teknis dan
+spesifik.
+(2) SRO dalam menetapkan prosedur KKS sebagaimana
+dimaksud pada ayat (1) harus mendapat persetujuan Bank
+Indonesia.
+(3) Bank Indonesia dapat menunjuk SRO sebagai
+narahubung dengan Penyelenggara.
+(4) Ketentuan lebih lanjut mengenai mekanisme pengajuan
+permohonan persetujuan atas prosedur KKS diatur dalam
+Peraturan Anggota Dewan Gubernur."
+62,"Pasal 62
+(1) Penyelenggara melakukan penerapan KKS sesuai dengan
+klasifikasi Penyelenggara.
+(2) Klasifikasi Penyelenggara sebagaimana dimaksud pada
+ayat (1) untuk:
+a. PJP mengacu pada Peraturan Bank Indonesia
+mengenai Sistem Pembayaran dan Peraturan Bank
+Indonesia mengenai PJP;
+b. PIP mengacu pada Peraturan Bank Indonesia
+mengenai Sistem Pembayaran dan Peraturan Bank
+Indonesia mengenai PIP;
+c. PUSK PUVA, Lembaga Pendukung Pasar Uang, dan
+Lembaga Pendukung Pasar Valuta Asing dilakukan
+berdasarkan tingkatan risiko infrastruktur pasar
+keuangan yang mengacu pada Peraturan Bank
+Indonesia mengenai Pasar Uang dan Pasar Valuta
+Asing; dan
+d. Penyelenggara selain Penyelenggara sebagaimana
+dimaksud dalam huruf a sampai dengan huruf c
+dilakukan dengan mempertimbangkan tingkatan
+risiko infrastruktur teknologi informasi dan/atau
+berdasarkan tingkatan risiko yang ditetapkan oleh
+Bank Indonesia.
+(3) Ketentuan lebih lanjut mengenai penerapan KKS sesuai
+dengan klasifikasi Penyelenggara sebagaimana dimaksud
+pada ayat (1) diatur dalam Peraturan Anggota Dewan
+Gubernur."
+63,"Pasal 63
+Peraturan Bank Indonesia ini mulai berlaku pada tanggal
+diundangkan."

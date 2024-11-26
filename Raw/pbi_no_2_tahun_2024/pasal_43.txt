@@ -1,0 +1,12 @@
+Pasal 43
+(1) Dalam melakukan pengembalian layanan sebagaimana
+kondisi normal sebagaimana dimaksud dalam Pasal 42
+ayat (1) huruf a, Penyelenggara menetapkan:
+a. lokasi kerja alternatif;
+b. pusat data yang terpisah; dan/atau
+c. jaringan komunikasi data alternatif,
+sesuai hasil analisis dampak penanganan Insiden Siber.
+(2) Pengembalian layanan sebagaimana kondisi normal
+sebagaimana dimaksud pada ayat (1) sesuai dengan
+rencana pemulihan Insiden Siber dan mengacu pada
+prioritas pemulihan.

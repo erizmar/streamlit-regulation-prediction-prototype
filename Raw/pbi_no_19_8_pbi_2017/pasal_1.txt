@@ -1,0 +1,54 @@
+Pasal 1
+Dalam Peraturan Bank Indonesia ini yang dimaksud dengan:
+1. Gerbang Pembayaran Nasional (National Payment
+Gateway) yang selanjutnya disingkat GPN (NPG) adalah
+sistem yang terdiri atas standar, switching, dan services
+yang dibangun melalui seperangkat aturan dan
+mekanisme (arrangement) untuk mengintegrasikan
+berbagai instrumen dan kanal pembayaran secara
+nasional.
+2. Standar adalah spesifikasi teknis dan operasional yang
+dibakukan.
+3. Switching adalah switching sebagaimana dimaksud
+dalam ketentuan Bank Indonesia yang mengatur
+mengenai penyelenggaraan pemrosesan transaksi
+pembayaran.
+4. Services adalah layanan yang disediakan untuk
+memenuhi kebutuhan industri sistem pembayaran ritel.
+5. Lembaga Standar adalah lembaga yang menyusun dan
+mengelola Standar dalam GPN (NPG).
+6. Lembaga Switching adalah lembaga yang
+menyelenggarakan Switching dalam GPN (NPG).
+www.peraturan.go.id2017, No.134
+-4-
+7. Lembaga Services adalah lembaga yang mengelola fungsi
+Services dalam GPN (NPG).
+8. Bank adalah bank sebagaimana dimaksud dalam
+Undang-Undang yang mengatur mengenai perbankan,
+dan bank syariah sebagaimana dimaksud dalam
+Undang-Undang yang mengatur mengenai perbankan
+syariah.
+9. Lembaga Selain Bank adalah badan usaha bukan Bank
+yang berbadan hukum dan didirikan berdasarkan
+hukum Indonesia.
+10. Penerbit adalah penerbit sebagaimana dimaksud dalam
+ketentuan Bank Indonesia yang mengatur mengenai alat
+pembayaran dengan menggunakan kartu dan ketentuan
+Bank Indonesia yang mengatur mengenai uang
+elektronik.
+11. Acquirer adalah acquirer sebagaimana dimaksud dalam
+ketentuan Bank Indonesia yang mengatur mengenai alat
+pembayaran dengan menggunakan kartu dan ketentuan
+Bank Indonesia yang mengatur mengenai uang
+elektronik.
+12. Penyelenggara Payment Gateway adalah penyelenggara
+payment gateway sebagaimana dimaksud dalam
+ketentuan Bank Indonesia yang mengatur mengenai
+penyelenggaraan pemrosesan transaksi pembayaran.
+13. Anjungan Tunai Mandiri (Automated Teller Machine) yang
+selanjutnya disingkat ATM adalah mesin yang dipakai
+untuk kartu ATM dan/atau kartu debet sebagaimana
+dimaksud dalam ketentuan Bank Indonesia yang
+mengatur mengenai alat pembayaran dengan
+menggunakan kartu.
+www.peraturan.go.id2017, No.

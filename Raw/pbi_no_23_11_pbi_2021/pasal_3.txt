@@ -1,0 +1,12 @@
+Pasal 3
+(1) Ruang lingkup Standar Nasional terdiri atas aspek:
+a. tata kelola;
+b. manajemen risiko;
+c. standar keamanan sistem informasi;
+d. interkoneksi dan interoperabilitas; dan/atau
+e. aspek lain yang ditetapkan Bank Indonesia.
+(2) Standar Nasional sebagaimana dimaksud pada ayat (1)
+memuat:
+a. spesifikasi teknis;
+b. spesifikasi operasional; dan/atau
+c. pedoman pelaksanaan (code of practice).

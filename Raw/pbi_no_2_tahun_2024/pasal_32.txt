@@ -1,0 +1,9 @@
+Pasal 32
+Analisis Serangan Siber sebagaimana dimaksud dalam Pasal 29
+ayat (1) huruf c dilakukan paling sedikit dengan:
+a. melakukan asesmen terhadap sumber, jenis, dan waktu
+terjadinya Serangan Siber termasuk fraud;
+b. melakukan asesmen terhadap dampak Serangan Siber
+terhadap sistem dan sistem lainnya yang terhubung; dan
+c. melakukan eskalasi jika terdapat potensi terjadi Insiden
+Siber.

@@ -1,0 +1,8 @@
+Pasal 2
+(1) PJP menyelenggarakan aktivitas yang meliputi:
+a. penyediaan informasi Sumber Dana;
+b. payment initiation dan/atau acquiring services;
+c. penatausahaan Sumber Dana; dan/atau
+d. layanan remitansi.
+(2) Bank Indonesia dapat menetapkan aktivitas PJP selain
+sebagaimana dimaksud pada ayat (1).

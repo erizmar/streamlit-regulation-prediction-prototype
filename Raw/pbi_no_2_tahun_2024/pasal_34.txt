@@ -1,0 +1,10 @@
+Pasal 34
+(1) Pemeliharaan dan pengujian sistem deteksi sebagaimana
+dimaksud dalam Pasal 29 ayat (1) huruf e dilakukan
+secara berkala paling sedikit dengan memastikan:
+a. sistem pemantauan terpelihara dengan versi
+perangkat lunak terkini; dan
+b. keandalan sistem pemantauan telah teruji.
+(2) Ketentuan lebih lanjut mengenai pemeliharaan dan
+pengujian sistem deteksi sebagaimana dimaksud pada
+ayat (1) diatur dalam Peraturan Anggota Dewan Gubernur.

@@ -1,0 +1,12 @@
+Pasal 42
+(1) Pemulihan sebagaimana dimaksud dalam Pasal 35 ayat (1)
+huruf b dilakukan paling sedikit dengan:
+a. pengembalian layanan sebagaimana kondisi normal;
+b. perbaikan berkelanjutan; dan
+c. pelaksanaan komunikasi pemulihan Insiden Siber.
+(2) Pemulihan sebagaimana dimaksud pada ayat (1)
+dilakukan oleh Penyelenggara untuk:
+a. mengembalikan layanan sebagaimana kondisi normal
+sesuai prioritas; dan
+b. penguatan KKS agar Insiden Siber tidak terulang
+kembali.

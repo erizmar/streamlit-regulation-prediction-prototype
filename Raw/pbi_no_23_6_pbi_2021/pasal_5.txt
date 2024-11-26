@@ -1,0 +1,22 @@
+Pasal 5
+(1) Aktivitas penatausahaan Sumber Dana sebagaimana
+dimaksud dalam Pasal 2 ayat (1) huruf c mencakup
+penatausahaan akun Sumber Dana dan pelaksanaan
+otorisasi transaksi pembayaran.
+(2) Otorisasi transaksi pembayaran sebagaimana dimaksud
+pada ayat (1) merupakan persetujuan atas transaksi
+setelah dilakukan aktivitas penerusan data transaksi
+pembayaran yang dilakukan dengan cara:
+a. melakukan verifikasi atau otentikasi identitas pemilik
+Sumber Dana yang melakukan transaksi
+pembayaran;
+b. melakukan validasi atas akses ke Sumber Dana dan
+transaksi pembayaran yang dilakukan; dan
+c. memastikan kecukupan Sumber Dana.
+(3) Aktivitas penatausahaan Sumber Dana sebagaimana
+dimaksud pada ayat (1) disertai dengan penerbitan akses
+ke Sumber Dana bagi Pengguna Jasa.
+(4) Dalam melakukan aktivitas penatausahaan Sumber Dana
+sebagaimana dimaksud pada ayat (1), PJP dapat
+menyelenggarakan aktivitas transfer dana sebagai fitur
+akses ke Sumber Dana yang diterbitkan.

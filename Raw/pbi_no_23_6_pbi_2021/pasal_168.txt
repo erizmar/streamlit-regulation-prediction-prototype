@@ -1,0 +1,31 @@
+Pasal 168
+(1) PJP yang menyelenggarakan aktivitas penatausahaan
+Sumber Dana berupa penerbitan uang elektronik dilarang
+menerbitkan uang elektronik dengan nilai uang elektronik
+yang lebih besar atau lebih kecil daripada nilai uang yang
+disetorkan kepada PJP yang menyelenggarakan aktivitas
+penatausahaan Sumber Dana berupa penerbitan uang
+elektronik.
+(2) Nilai uang yang disetorkan ke dalam uang elektronik harus
+dapat digunakan atau ditransaksikan seluruhnya sampai
+bersaldo nihil.
+(3) PJP yang menyelenggarakan aktivitas penatausahaan
+Sumber Dana berupa penerbitan uang elektronik dilarang:
+a. menetapkan minimum nilai uang elektronik sebagai:
+1. persyaratan penggunaan uang elektronik;
+dan/atau
+2. persyaratan pengakhiran penggunaan uang
+elektronik (redeem);
+b. menahan atau memblokir nilai uang elektronik secara
+sepihak;
+c. mengenakan biaya pengakhiran penggunaan
+(redemption) uang elektronik; dan/atau
+d. menghapus, mengubah, atau menghilangkan nilai
+uang elektronik kecuali pada saat pengguna uang
+elektronik mengakhiri penggunaan uang elektronik
+sesuai dengan mekanisme yang disepakati dengan
+pengguna.
+(4) Pengisian ulang nilai uang elektronik wajib menggunakan
+Sumber Dana yang didasarkan atas dana yang disetorkan
+terlebih dahulu dan bukan didasarkan pada fasilitas
+kredit.

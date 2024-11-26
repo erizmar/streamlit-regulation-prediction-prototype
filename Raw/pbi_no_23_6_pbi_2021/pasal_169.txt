@@ -1,0 +1,24 @@
+Pasal 169
+(1) Selain menerapkan standar keamanan sistem informasi
+sebagaimana dimaksud dalam Pasal 45 huruf a angka 3,
+PJP yang menyelenggarakan aktivitas penatausahaan
+Sumber Dana berupa penerbitan uang elektronik wajib
+meningkatkan standar keamanan transaksi uang
+elektronik untuk uang elektronik yang memiliki batas nilai
+uang elektronik di atas Rp2.000.000,00 (dua juta rupiah).
+(2) Peningkatan standar keamanan transaksi uang elektronik
+sebagaimana dimaksud pada ayat (1) diterapkan melalui
+penggunaan otentikasi paling sedikit 2 (dua) faktor (two
+factor authentication) atau standar keamanan lainnya yang
+ditetapkan oleh Bank Indonesia.
+(3) Bank Indonesia dapat menetapkan perubahan batas nilai
+uang elektronik sebagaimana dimaksud pada ayat (1)
+dengan mempertimbangkan:
+a. perkembangan transaksi pembayaran yang bersifat
+incoming;
+b. kebutuhan masyarakat atau industri; dan/atau
+c. aspek lainnya dalam mendorong perluasan akseptasi
+layanan dan inovasi.
+(4) Ketentuan mengenai perubahan batas nilai uang
+elektronik sebagaimana dimaksud pada ayat (3) diatur
+dalam Peraturan Anggota Dewan Gubernur.

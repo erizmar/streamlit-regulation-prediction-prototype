@@ -1,0 +1,48 @@
+Pasal 4
+(1) Aktivitas payment initiation dan/atau acquiring services
+sebagaimana dimaksud dalam Pasal 2 ayat (1) huruf b
+mencakup penerusan transaksi pembayaran.
+(2) Penerusan transaksi pembayaran sebagaimana dimaksud
+pada ayat (1) meliputi:
+a. penerusan perintah atau instruksi perpindahan dana
+melalui alat, media, dan/atau seperangkat prosedur
+dengan metode atau penggunaan teknologi tertentu
+dalam transaksi pembayaran; dan/atau
+b. penerusan data transaksi pembayaran berupa data
+instrumen, data nominal transaksi pembayaran, dan
+data transaksi pembayaran lainnya.
+(3) Dalam melakukan penerusan transaksi pembayaran
+sebagaimana dimaksud pada ayat (2), PJP dapat:
+a. menyimpan data Sumber Dana dan/atau akses ke
+Sumber Dana termasuk menyediakan platform untuk
+memfasilitasi pengguna dalam menyimpan data
+Sumber Dana dan/atau akses ke Sumber Dana;
+b. memproses transaksi pembayaran menggunakan
+berbagai instrumen;
+c. mengakuisisi Penyedia Barang dan/atau Jasa;
+d. menalangi pembayaran kepada Penyedia Barang
+dan/atau Jasa; dan/atau
+e. meneruskan dana (disbursement) kepada Penyedia
+Barang dan/atau Jasa.
+(4) PJP yang menyelenggarakan aktivitas payment initiation
+dan/atau acquiring services yang dalam penyelenggaraan
+aktivitasnya melakukan penerusan dana (disbursement)
+sebagaimana dimaksud pada ayat (3) huruf e kepada
+Penyedia Barang dan/atau Jasa, wajib:
+a. memiliki dan menjalankan mekanisme dan prosedur
+mengenai:
+1. pemilihan Penyedia Barang dan/atau Jasa
+(merchant acquisition) yang difasilitasi dengan
+penyediaan layanan yang diselenggarakan; dan
+2. penyelesaian pembayaran kepada Penyedia
+Barang dan/atau Jasa; dan
+b. melakukan evaluasi terhadap kelancaran dan
+keamanan transaksi pembayaran yang dilakukan
+melalui Penyedia Barang dan/atau Jasa.
+(5) Mekanisme dan prosedur sebagaimana dimaksud pada
+ayat (4) huruf a ditetapkan oleh PJP.
+(6) Penetapan mekanisme dan prosedur sebagaimana
+dimaksud pada ayat (5) harus memenuhi ketentuan
+manajemen risiko dan prinsip perlindungan konsumen
+sesuai dengan ketentuan peraturan perundang-
+undangan.

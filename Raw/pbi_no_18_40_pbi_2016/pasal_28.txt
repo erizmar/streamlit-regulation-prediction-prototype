@@ -1,0 +1,49 @@
+Pasal 28
+(1) Penyelenggara Jasa Sistem Pembayaran wajib
+menyampaikan laporan penyelenggaraan pemrosesan
+transaksi pembayaran kepada Bank Indonesia.
+(2) Laporan sebagaimana dimaksud pada ayat (1) terdiri
+atas:
+a. laporan berkala; dan
+b. laporan insidental.
+(3) Penyampaian laporan berkala sebagaimana dimaksud
+pada ayat (2) huruf a terdiri atas:
+a. laporan bulanan;
+b. laporan triwulanan;
+c. laporan tahunan; dan/atau
+d. laporan hasil audit sistem informasi dari auditor
+independen yang dilakukan secara berkala paling
+sedikit 1 (satu) kali dalam kurun waktu 3 (tiga)
+tahun.
+(4) Laporan insidental sebagaimana dimaksud pada ayat (2)
+huruf b terdiri atas:
+a. laporan gangguan dalam pemrosesan transaksi
+pembayaran dan tindak lanjut yang telah dilakukan;
+b. laporan perubahan modal dan/atau susunan
+pemegang saham serta perubahan susunan
+pengurus Penyelenggara Jasa Sistem Pembayaran;
+c. laporan terjadinya force majeure atas
+penyelenggaraan pemrosesan transaksi pembayaran;
+d. laporan perubahan data dan informasi pada
+dokumen yang disampaikan pada saat mengajukan
+permohonan izin kepada Bank Indonesia; dan
+e. laporan lainnya yang diperlukan oleh Bank
+Indonesia.
+(5) Format dan tata cara penyampaian laporan sebagaimana
+dimaksud pada ayat (2) oleh Prinsipal, Penerbit, Acquirer,
+Penyelenggara Kliring, dan Penyelenggara Penyelesaian
+www.peraturan.go.id2016, No.236
+-22-
+Akhir mengacu pada ketentuan Bank Indonesia yang
+mengatur mengenai alat pembayaran dengan
+menggunakan kartu dan ketentuan Bank Indonesia yang
+mengatur mengenai uang elektronik.
+(6) Format dan tata cara penyampaian laporan sebagaimana
+dimaksud pada ayat (2) oleh Penyelenggara Transfer
+Dana mengacu pada ketentuan Bank Indonesia yang
+mengatur mengenai transfer dana.
+(7) Ketentuan lebih lanjut mengenai format dan tata cara
+penyampaian laporan sebagaimana dimaksud pada ayat
+(2) oleh Penyelenggara Switching, Penyelenggara Payment
+Gateway, dan Penyelenggara Dompet Elektronik diatur
+dalam Surat Edaran Bank Indonesia.

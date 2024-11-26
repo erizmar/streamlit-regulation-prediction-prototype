@@ -1,0 +1,10 @@
+Pasal 24
+Analisis dampak bisnis sebagaimana dimaksud dalam Pasal 21
+ayat (2) huruf c dilakukan paling sedikit dengan:
+a. melakukan penilaian dampak bisnis terkait Kerentanan
+Siber terhadap finansial dan nonfinansial, termasuk
+dampaknya pada stabilitas Sistem Keuangan;
+b. menganalisis kritikalitas fungsi bisnis dan Sistem
+Informasi beserta prioritasi pengendalian risiko; dan
+c. menganalisis Sistem Informasi kritikal yang berdampak
+luas terhadap stabilitas Sistem Keuangan.

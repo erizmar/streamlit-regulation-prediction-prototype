@@ -1,0 +1,9 @@
+Pasal 59
+Dalam mencegah Insiden Siber dan efek penularan
+sebagaimana dimaksud dalam Pasal 56 ayat (1) huruf b, Bank
+Indonesia dapat:
+a. mengisolasi akses terhadap infrastruktur Bank Indonesia;
+dan
+b. melakukan kolaborasi dan koordinasi dengan otoritas,
+lembaga, dan/atau Penyelenggara lain dalam penanganan
+Insiden Siber pada Penyelenggara.

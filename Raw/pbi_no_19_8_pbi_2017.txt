@@ -1,0 +1,836 @@
+LEMBARAN NEGARA
+REPUBLIK INDONESIA
+No.134, 2017 PERBANKAN. BI. Gerbang Pembayaran Nasional.
+(Penjelasan dalam Tambahan Lembaran Negara
+Republik Indonesia Nomor 6081)
+PERATURAN BANK INDONESIA
+NOMOR 19/8/PBI/2017
+TENTANG
+GERBANG PEMBAYARAN NASIONAL (NATIONAL PAYMENT GATEWAY)
+DENGAN RAHMAT TUHAN YANG MAHA ESA
+GUBERNUR BANK INDONESIA,
+Menimbang : a. bahwa untuk mewujudkan sistem pembayaran nasional
+yang lancar, aman, efisien, dan andal, serta dengan
+memperhatikan perkembangan informasi, komunikasi,
+teknologi, dan inovasi yang semakin maju, kompetitif,
+dan terintegrasi maka kebijakan sistem pembayaran
+nasional perlu diarahkan pada pembangunan
+ketahanan, pengembangan yang terintegrasi dan
+berkesinambungan, serta peningkatan daya saing;
+b. bahwa untuk membangun ketahanan, melakukan
+pengembangan yang terintegrasi dan berkesinambungan,
+serta meningkatkan daya saing sistem pembayaran
+nasional, diperlukan penataan infrastruktur,
+kelembagaan, instrumen, dan mekanisme sistem
+pembayaran nasional dalam suatu tatanan yang mampu
+memproses seluruh transaksi pembayaran ritel domestik
+secara interkoneksi dan interoperabilitas;
+c. bahwa pemrosesan transaksi pembayaran ritel domestik
+secara interkoneksi dan interoperabilitas dalam kerangka
+penyelenggaraan gerbang pembayaran nasional (national
+www.peraturan.go.id2017, No.134
+-2-
+payment gateway) merupakan pemenuhan atas
+kebutuhan masyarakat dalam bertransaksi secara
+nontunai dengan menggunakan instrumen pembayaran
+ritel dan untuk memfasilitasi serta memperluas
+akseptasi masyarakat untuk gerakan nasional nontunai;
+d. bahwa gerbang pembayaran nasional (national payment
+gateway) perlu diselenggarakan dengan tetap
+mengedepankan kepentingan nasional, berorientasi pada
+manajemen risiko, memperhatikan perlindungan
+konsumen, dan menerapkan standar serta praktik
+internasional;
+e. bahwa berdasarkan pertimbangan sebagaimana
+dimaksud dalam huruf a sampai dengan huruf d, perlu
+menetapkan Peraturan Bank Indonesia tentang Gerbang
+Pembayaran Nasional (National Payment Gateway);
+Mengingat : 1. Undang-Undang Nomor 7 Tahun 1992 tentang
+Perbankan (Lembaran Negara Republik Indonesia Tahun
+1992 Nomor 31, Tambahan Lembaran Negara Republik
+Indonesia Nomor 3472) sebagaimana telah diubah
+dengan Undang-Undang Nomor 10 Tahun 1998 tentang
+Perubahan atas Undang-Undang Nomor 7 Tahun 1992
+tentang Perbankan (Lembaran Negara Republik
+Indonesia Tahun 1998 Nomor 182, Tambahan Lembaran
+Negara Republik Indonesia Nomor 3790);
+2. Undang-Undang Nomor 23 Tahun 1999 tentang Bank
+Indonesia (Lembaran Negara Republik Indonesia Tahun
+1999 Nomor 66, Tambahan Lembaran Negara Republik
+Indonesia Nomor 3843) sebagaimana telah beberapa kali
+diubah, terakhir dengan Undang-Undang Nomor 6
+Tahun 2009 tentang Penetapan Peraturan Pemerintah
+Pengganti Undang-Undang Nomor 2 Tahun 2008 tentang
+Perubahan Kedua atas Undang-Undang (Lembaran
+Negara Republik Indonesia Tahun 2009 Nomor 7,
+Tambahan Lembaran Negara Republik Indonesia Nomor
+4962);
+www.peraturan.go.id2017, No.134
+-3-
+3. Undang-Undang Nomor 21 Tahun 2008 tentang
+Perbankan Syariah (Lembaran Negara Republik
+Indonesia Tahun 2008 Nomor 94, Tambahan Lembaran
+Negara Republik Indonesia Nomor 4867);
+4. Undang-Undang Nomor 3 Tahun 2011 tentang Transfer
+Dana (Lembaran Negara Republik Indonesia Tahun 2011
+Nomor 39, Tambahan Lembaran Negara Republik
+Indonesia Nomor 5204);
+MEMUTUSKAN:
+Menetapkan : PERATURAN BANK INDONESIA TENTANG GERBANG
+PEMBAYARAN NASIONAL (NATIONAL PAYMENT GATEWAY).
+BAB I
+KETENTUAN UMUM
+Pasal 1
+Dalam Peraturan Bank Indonesia ini yang dimaksud dengan:
+1. Gerbang Pembayaran Nasional (National Payment
+Gateway) yang selanjutnya disingkat GPN (NPG) adalah
+sistem yang terdiri atas standar, switching, dan services
+yang dibangun melalui seperangkat aturan dan
+mekanisme (arrangement) untuk mengintegrasikan
+berbagai instrumen dan kanal pembayaran secara
+nasional.
+2. Standar adalah spesifikasi teknis dan operasional yang
+dibakukan.
+3. Switching adalah switching sebagaimana dimaksud
+dalam ketentuan Bank Indonesia yang mengatur
+mengenai penyelenggaraan pemrosesan transaksi
+pembayaran.
+4. Services adalah layanan yang disediakan untuk
+memenuhi kebutuhan industri sistem pembayaran ritel.
+5. Lembaga Standar adalah lembaga yang menyusun dan
+mengelola Standar dalam GPN (NPG).
+6. Lembaga Switching adalah lembaga yang
+menyelenggarakan Switching dalam GPN (NPG).
+www.peraturan.go.id2017, No.134
+-4-
+7. Lembaga Services adalah lembaga yang mengelola fungsi
+Services dalam GPN (NPG).
+8. Bank adalah bank sebagaimana dimaksud dalam
+Undang-Undang yang mengatur mengenai perbankan,
+dan bank syariah sebagaimana dimaksud dalam
+Undang-Undang yang mengatur mengenai perbankan
+syariah.
+9. Lembaga Selain Bank adalah badan usaha bukan Bank
+yang berbadan hukum dan didirikan berdasarkan
+hukum Indonesia.
+10. Penerbit adalah penerbit sebagaimana dimaksud dalam
+ketentuan Bank Indonesia yang mengatur mengenai alat
+pembayaran dengan menggunakan kartu dan ketentuan
+Bank Indonesia yang mengatur mengenai uang
+elektronik.
+11. Acquirer adalah acquirer sebagaimana dimaksud dalam
+ketentuan Bank Indonesia yang mengatur mengenai alat
+pembayaran dengan menggunakan kartu dan ketentuan
+Bank Indonesia yang mengatur mengenai uang
+elektronik.
+12. Penyelenggara Payment Gateway adalah penyelenggara
+payment gateway sebagaimana dimaksud dalam
+ketentuan Bank Indonesia yang mengatur mengenai
+penyelenggaraan pemrosesan transaksi pembayaran.
+13. Anjungan Tunai Mandiri (Automated Teller Machine) yang
+selanjutnya disingkat ATM adalah mesin yang dipakai
+untuk kartu ATM dan/atau kartu debet sebagaimana
+dimaksud dalam ketentuan Bank Indonesia yang
+mengatur mengenai alat pembayaran dengan
+menggunakan kartu.
+www.peraturan.go.id2017, No.134
+-5-
+BAB II
+TUJUAN DAN RUANG LINGKUP
+Pasal 2
+Bank Indonesia menetapkan kebijakan GPN (NPG) melalui
+interkoneksi Switching untuk mewujudkan interoperabilitas
+sistem pembayaran nasional.
+Pasal 3
+Ruang lingkup GPN (NPG) mencakup transaksi pembayaran
+secara domestik yang meliputi:
+a. interkoneksi Switching;
+b. interkoneksi dan interoperabilitas kanal pembayaran
+berupa kanal ATM, electronic data captured (EDC), agen,
+payment gateway, dan kanal pembayaran lainnya; dan
+c. interoperabilitas instrumen pembayaran berupa kartu
+ATM dan/atau kartu debet, kartu kredit, uang
+elektronik, dan instrumen pembayaran lainnya.
+BAB III
+PIHAK DALAM GPN (NPG)
+Pasal 4
+Pihak dalam GPN (NPG) meliputi:
+a. penyelenggara GPN (NPG); dan
+b. pihak yang terhubung dengan GPN (NPG).
+Pasal 5
+(1) Penyelenggara GPN (NPG) sebagaimana dimaksud dalam
+Pasal 4 huruf a meliputi:
+a. Lembaga Standar;
+b. Lembaga Switching; dan
+c. Lembaga Services.
+(2) Pihak yang terhubung dengan GPN (NPG) sebagaimana
+dimaksud dalam Pasal 4 huruf b meliputi:
+a. Penerbit;
+b. Acquirer;
+www.peraturan.go.id2017, No.134
+-6-
+c. Penyelenggara Payment Gateway; dan
+d. pihak lainnya yang ditetapkan oleh Bank Indonesia.
+(3) Pihak yang terhubung dengan GPN (NPG) sebagaimana
+dimaksud pada ayat (2) terdiri atas bank umum, bank
+umum syariah, dan Lembaga Selain Bank.
+(4) Bank perkreditan rakyat dan bank pembiayaan rakyat
+syariah dapat terhubung dengan GPN (NPG) melalui
+bank umum atau bank umum syariah.
+(5) Ketentuan lebih lanjut mengenai hubungan antara
+penyelenggara GPN (NPG) dengan pihak yang terhubung
+dengan GPN (NPG) diatur dalam Peraturan Anggota
+Dewan Gubernur.
+BAB IV
+PENYELENGGARA GPN (NPG)
+Bagian Kesatu
+Lembaga Standar
+Pasal 6
+(1) Lembaga Standar sebagaimana dimaksud dalam Pasal 5
+ayat (1) huruf a ditetapkan oleh Bank Indonesia.
+(2) Pihak yang dapat ditetapkan sebagai Lembaga Standar
+harus memenuhi kriteria paling sedikit:
+a. merupakan representasi dari industri sistem
+pembayaran nasional;
+b. berbadan hukum Indonesia; dan
+c. memiliki kompetensi untuk menyusun,
+mengembangkan, dan mengelola Standar dalam
+rangka interkoneksi dan interoperabilitas berbagai
+instrumen dan kanal pembayaran.
+Pasal 7
+(1) Pihak yang akan melakukan kegiatan sebagai Lembaga
+Standar harus mengajukan permohonan penetapan
+sebagai Lembaga Standar secara tertulis dalam Bahasa
+Indonesia kepada Bank Indonesia disertai dengan
+www.peraturan.go.id2017, No.134
+-7-
+dokumen pendukung pemenuhan kriteria sebagaimana
+dimaksud dalam Pasal 6 ayat (2).
+(2) Dalam rangka memproses permohonan penetapan
+sebagaimana dimaksud pada ayat (1), Bank Indonesia
+melakukan:
+a. penelitian administratif;
+b. analisis kelayakan pihak yang mengajukan; dan
+c. pemeriksaan terhadap pihak yang mengajukan,
+dalam hal diperlukan.
+(3) Berdasarkan hasil proses sebagaimana dimaksud pada
+ayat (2), Bank Indonesia memutuskan untuk:
+a. menyetujui; atau
+b. menolak,
+permohonan penetapan yang diajukan.
+(4) Ketentuan lebih lanjut mengenai tata cara permohonan
+penetapan menjadi Lembaga Standar diatur dalam
+Peraturan Anggota Dewan Gubernur.
+Pasal 8
+(1) Lembaga Standar memiliki fungsi menyusun,
+mengembangkan, dan mengelola Standar untuk
+interkoneksi dan interoperabilitas instrumen
+pembayaran, kanal pembayaran, dan Switching, serta
+security.
+(2) Dalam rangka mengelola Standar sebagaimana
+dimaksud pada ayat (1), Lembaga Standar memiliki
+tugas:
+a. mengelola dan melaksanakan proses sertifikasi
+untuk memastikan kesesuaian instrumen dan/atau
+kanal pembayaran dengan Standar;
+b. mengelola dan menatausahakan vendor dan produk
+terkait instrumen dan/atau kanal pembayaran yang
+telah memenuhi Standar;
+c. mengelola dan melaksanakan key management
+sebagai certificate authority; dan
+d. melaksanakan tugas lain yang ditetapkan oleh Bank
+Indonesia.
+www.peraturan.go.id2017, No.134
+-8-
+(3) Dalam rangka melindungi kepentingan publik,
+kepemilikan atas Standar yang disusun, dikembangkan,
+dan dikelola oleh Lembaga Standar berada pada Bank
+Indonesia.
+Pasal 9
+(1) Lembaga Standar bertanggung jawab untuk memastikan
+keamanan dan keandalan teknologi informasi yang
+digunakan dalam penyusunan, pengembangan dan
+pengelolaan Standar.
+(2) Lembaga Standar wajib menjaga kerahasiaan data dan
+informasi terkait penyusunan dan pengelolaan Standar.
+Pasal 10
+Lembaga Standar harus meminta persetujuan Bank Indonesia
+atas hal yang bersifat strategis dalam melaksanakan fungsi
+dan tugasnya.
+Pasal 11
+(1) Lembaga Standar mengimplementasikan Standar yang
+ditetapkan oleh Bank Indonesia.
+(2) Lembaga Standar harus melakukan evaluasi secara
+berkala terhadap Standar yang telah ditetapkan dan
+diimplementasikan.
+(3) Lembaga Standar bertanggung jawab untuk
+meningkatkan pemahaman pihak yang terhubung
+dengan GPN (NPG) mengenai Standar yang telah
+ditetapkan dan diimplementasikan.
+Bagian Kedua
+Lembaga Switching
+Pasal 12
+(1) Lembaga Switching sebagaimana dimaksud dalam Pasal
+5 ayat (1) huruf b harus memperoleh persetujuan
+terlebih dahulu dari Bank Indonesia.
+www.peraturan.go.id2017, No.134
+-9-
+(2) Untuk memperoleh persetujuan dari Bank Indonesia,
+Lembaga Switching harus memenuhi persyaratan paling
+sedikit:
+a. telah memperoleh izin sebagai penyelenggara
+switching sesuai dengan ketentuan Bank Indonesia
+yang mengatur mengenai penyelenggaraan
+pemrosesan transaksi pembayaran;
+b. telah melaksanakan pemrosesan transaksi
+pembayaran secara domestik dengan menggunakan
+infrastruktur yang dimiliki di Indonesia;
+c. memenuhi kepemilikan saham paling sedikit 80%
+(delapan puluh persen) sahamnya dimiliki oleh
+warga negara Indonesia dan/atau badan hukum
+Indonesia; dan
+d. mampu dan memiliki kapasitas untuk
+melaksanakan fungsi Switching di GPN (NPG).
+(3) Pihak yang mengajukan permohonan sebagai Lembaga
+Switching, selain memenuhi persyaratan sebagaimana
+dimaksud pada ayat (2), harus memiliki modal disetor
+paling sedikit sebesar Rp50.000.000.000,00 (lima puluh
+miliar rupiah).
+(4) Dalam hal terdapat kepemilikan asing pada Lembaga
+Switching sebagaimana dimaksud pada ayat (2) huruf c
+maka perhitungan kepemilikan asing tersebut meliputi
+kepemilikan secara langsung maupun secara tidak
+langsung sesuai dengan penilaian Bank Indonesia.
+(5) Lembaga Switching yang telah memperoleh persetujuan
+Bank Indonesia wajib tetap memenuhi persentase
+kepemilikan saham sebagaimana dimaksud pada ayat (2)
+huruf c.
+(6) Lembaga Switching harus meminta persetujuan Bank
+Indonesia dalam hal melakukan perubahan modal
+dan/atau susunan pemegang saham.
+Pasal 13
+(1) Pihak yang akan melakukan kegiatan sebagai Lembaga
+Switching harus mengajukan permohonan persetujuan
+www.peraturan.go.id2017, No.134
+-10-
+sebagai Lembaga Switching secara tertulis dalam Bahasa
+Indonesia kepada Bank Indonesia disertai dengan
+dokumen pendukung pemenuhan persyaratan
+sebagaimana dimaksud dalam Pasal 12 ayat (2) dan ayat
+(3).
+(2) Dalam rangka memproses permohonan persetujuan
+sebagaimana dimaksud pada ayat (1), Bank Indonesia
+melakukan:
+a. penelitian administratif;
+b. analisis kelayakan pihak yang mengajukan; dan
+c. pemeriksaan terhadap pihak yang mengajukan,
+dalam hal diperlukan.
+(3) Berdasarkan hasil proses sebagaimana dimaksud pada
+ayat (2), Bank Indonesia memutuskan untuk:
+a. menyetujui; atau
+b. menolak,
+permohonan persetujuan yang diajukan.
+(4) Ketentuan lebih lanjut mengenai tata cara permohonan
+persetujuan menjadi Lembaga Switching diatur dalam
+Peraturan Anggota Dewan Gubernur.
+Pasal 14
+Lembaga Switching berfungsi dan bertugas untuk memproses
+data transaksi pembayaran secara domestik untuk
+interkoneksi dan interoperabilitas.
+Pasal 15
+(1) Setiap Lembaga Switching wajib melakukan interkoneksi
+dengan paling sedikit 2 (dua) Lembaga Switching lainnya.
+(2) Bank Indonesia dapat menetapkan kebijakan tertentu
+mengenai interkoneksi antar-Lembaga Switching
+sebagaimana dimaksud pada ayat (1).
+Pasal 16
+Lembaga Switching wajib:
+a. mematuhi service level agreement (SLA) Lembaga
+Switching yang ditetapkan oleh Bank Indonesia;
+www.peraturan.go.id2017, No.134
+-11-
+b. menerapkan Standar yang ditetapkan oleh Bank
+Indonesia dan dikelola oleh Lembaga Standar; dan
+c. terhubung dan memberikan akses data transaksi
+pembayaran dan kegiatan operasionalnya kepada
+Lembaga Services.
+Pasal 17
+(1) Lembaga Switching dapat melakukan kerja sama dengan
+penyelenggara Switching di luar GPN (NPG) sepanjang
+telah memperoleh persetujuan dari Bank Indonesia.
+(2) Lembaga Switching harus memastikan bahwa transaksi
+pembayaran domestik melalui pihak yang bekerja sama
+dengan Lembaga Switching diproses melalui GPN (NPG).
+Pasal 18
+(1) Pemberian persetujuan kepada Lembaga Switching dalam
+rangka kerja sama sebagaimana dimaksud dalam Pasal
+17 ayat (1) mengacu pada ketentuan Bank Indonesia
+yang mengatur mengenai penyelenggaraan pemrosesan
+transaksi pembayaran.
+(2) Selain ketentuan sebagaimana dimaksud pada ayat (1),
+pemberian persetujuan kerja sama kepada Lembaga
+Switching juga mempertimbangkan kontribusi
+penyelenggara Switching di luar GPN (NPG) terhadap
+peningkatan kapasitas dan kapabilitas penyelenggaraan
+GPN (NPG).
+Bagian Ketiga
+Lembaga Services
+Pasal 19
+(1) Lembaga Services sebagaimana dimaksud dalam Pasal 5
+ayat (1) huruf c ditetapkan oleh Bank Indonesia.
+(2) Pihak yang ditetapkan sebagai Lembaga Services harus
+memenuhi kriteria paling sedikit:
+a. berbadan hukum Indonesia berbentuk perseroan
+terbatas;
+www.peraturan.go.id2017, No.134
+-12-
+b. mampu dan memiliki kapasitas untuk
+melaksanakan fungsi Services di GPN (NPG); dan
+c. sahamnya dimiliki bersama oleh:
+1. Lembaga Switching; dan
+2. Bank Umum berdasarkan Kegiatan Usaha
+(BUKU) 4 (empat) yang mayoritas sahamnya
+dimiliki warga negara Indonesia dan/atau
+badan hukum Indonesia.
+(3) Kepemilikan saham pada Lembaga Services oleh Bank
+Umum berdasarkan Kegiatan Usaha (BUKU) 4 (empat)
+sebagaimana dimaksud pada ayat (2) huruf c angka 2
+dapat berupa kepemilikan tidak langsung.
+Pasal 20
+(1) Pihak yang akan melakukan kegiatan sebagai Lembaga
+Services harus mengajukan permohonan penetapan
+sebagai Lembaga Services secara tertulis dalam Bahasa
+Indonesia kepada Bank Indonesia disertai dengan
+dokumen pendukung pemenuhan kriteria sebagaimana
+dimaksud dalam Pasal 19 ayat (2).
+(2) Dalam rangka memproses permohonan penetapan
+sebagaimana dimaksud pada ayat (1), Bank Indonesia
+melakukan:
+a. penelitian administratif;
+b. analisis kelayakan pihak yang mengajukan; dan
+c. pemeriksaan terhadap pihak yang mengajukan,
+dalam hal diperlukan.
+(3) Berdasarkan hasil proses sebagaimana dimaksud pada
+ayat (2), Bank Indonesia memutuskan untuk:
+a. menyetujui; atau
+b. menolak,
+permohonan penetapan yang diajukan.
+(4) Ketentuan lebih lanjut mengenai tata cara permohonan
+penetapan menjadi Lembaga Services diatur dalam
+Peraturan Anggota Dewan Gubernur.
+www.peraturan.go.id2017, No.134
+-13-
+Pasal 21
+(1) Lembaga Services memiliki tugas yaitu:
+a. menjaga keamanan transaksi pembayaran dan
+kerahasiaan data nasabah;
+b. melakukan rekonsiliasi, kliring, dan setelmen;
+c. mengembangkan sistem untuk pencegahan fraud,
+manajemen risiko, dan mitigasi risiko;
+d. mengelola life cycle atas secure access module (SAM)
+dan mobile apps;
+e. menangani perselisihan transaksi pembayaran
+dalam rangka perlindungan konsumen; dan
+f. melaksanakan tugas lainnya yang diamanatkan oleh
+Bank Indonesia terkait kegiatan Services.
+(2) Dalam rangka melaksanakan tugas sebagaimana
+dimaksud pada ayat (1), Lembaga Services berwenang:
+a. menetapkan ketentuan; dan
+b. memperoleh akses terhadap data transaksi
+pembayaran dan kegiatan operasional dari Lembaga
+Switching.
+Pasal 22
+(1) Lembaga Services wajib mematuhi standar dan SLA
+Lembaga Services yang ditetapkan oleh Bank Indonesia.
+(2) Lembaga Services harus meminta persetujuan Bank
+Indonesia atas hal yang bersifat strategis dalam
+melaksanakan tugasnya.
+Pasal 23
+Ketentuan lebih lanjut mengenai penyelenggara GPN (NPG)
+diatur dalam Peraturan Anggota Dewan Gubernur.
+www.peraturan.go.id2017, No.134
+-14-
+BAB V
+PIHAK YANG TERHUBUNG DENGAN GPN (NPG)
+Pasal 24
+Dalam rangka pelaksanaan interkoneksi dan
+interoperabilitas, pihak yang terhubung dengan GPN (NPG)
+sebagaimana dimaksud dalam Pasal 5 ayat (2) wajib:
+a. mematuhi dan melaksanakan Standar yang ditetapkan
+oleh Bank Indonesia dan dikelola oleh Lembaga Standar;
+dan
+b. mematuhi ketentuan yang ditetapkan oleh Lembaga
+Services.
+Pasal 25
+(1) Pihak yang terhubung dengan GPN (NPG) sebagaimana
+dimaksud dalam Pasal 5 ayat (2) wajib terhubung dengan
+GPN (NPG) dengan cara menjadi anggota pada paling
+sedikit 2 (dua) Lembaga Switching.
+(2) Kewajiban sebagaimana dimaksud pada ayat (1)
+dikecualikan untuk instrumen yang dapat saling
+interoperabilitas tanpa melalui Lembaga Switching.
+Pasal 26
+Ketentuan lebih lanjut mengenai pihak yang terhubung
+dengan GPN (NPG) diatur dalam Peraturan Anggota Dewan
+Gubernur.
+BAB VI
+PENYELENGGARAAN GPN (NPG)
+Bagian Kesatu
+Kewajiban Penyelesaian Akhir di Bank Indonesia
+Pasal 27
+(1) Lembaga Switching wajib memproses penyelesaian akhir
+(setelmen) di Bank Indonesia untuk hasil perhitungan
+www.peraturan.go.id2017, No.134
+-15-
+transaksi antaranggota dalam Lembaga Switching yang
+sama.
+(2) Lembaga Services wajib memproses penyelesaian akhir
+(setelmen) di Bank Indonesia untuk hasil perhitungan
+transaksi antar-Lembaga Switching dan/atau antar-
+Penerbit.
+(3) Tata cara dan mekanisme kepesertaan Lembaga
+Switching dan Lembaga Services untuk memproses
+penyelesaian akhir (setelmen) di Bank Indonesia
+mengacu pada ketentuan Bank Indonesia yang mengatur
+mengenai penyelenggaraan transaksi, penatausahaan
+surat berharga, dan setelmen dana seketika.
+Bagian Kedua
+Pemrosesan Transaksi Pembayaran Domestik
+Pasal 28
+(1) Setiap transaksi pembayaran domestik wajib diproses
+melalui GPN (NPG).
+(2) Pemrosesan transaksi pembayaran domestik dalam
+penyelenggaraan GPN (NPG) dilaksanakan sebagai
+berikut:
+a. untuk kartu ATM dan/atau kartu debet tunduk
+pada ketentuan Bank Indonesia yang mengatur
+mengenai alat pembayaran dengan menggunakan
+kartu; dan
+b. untuk instrumen pembayaran selain kartu ATM
+dan/atau kartu debet tunduk pada Peraturan
+Anggota Dewan Gubernur yang akan ditetapkan
+kemudian oleh Bank Indonesia.
+Bagian Ketiga
+Branding Nasional
+Pasal 29
+(1) Penyelenggara GPN (NPG) sebagaimana dimaksud dalam
+Pasal 5 ayat (1) dan pihak yang terhubung dengan GPN
+www.peraturan.go.id2017, No.134
+-16-
+(NPG) sebagaimana dimaksud dalam Pasal 5 ayat (2)
+wajib mematuhi ketentuan Bank Indonesia mengenai
+branding nasional.
+(2) Branding nasional sebagaimana dimaksud pada ayat (1)
+merupakan seperangkat aturan terkait logo, perluasan
+akseptasi nasional, dan pemrosesan domestik.
+(3) Ketentuan lebih lanjut mengenai kebijakan dan tata cara
+penggunaan branding nasional diatur dalam Peraturan
+Anggota Dewan Gubernur.
+Pasal 30
+(1) Bank Indonesia menetapkan logo nasional sebagaimana
+dimaksud dalam Pasal 29 ayat (2).
+(2) Pihak yang terhubung dengan GPN (NPG) wajib
+mencantumkan logo nasional sebagaimana dimaksud
+pada ayat (1) pada setiap instrumen pembayaran yang
+diterbitkan.
+(3) Pihak yang terhubung dengan GPN (NPG) sebagaimana
+dimaksud dalam Pasal 5 ayat (2) yang menyediakan
+kanal pembayaran berupa ATM, EDC, agen, payment
+gateway, dan/atau kanal pembayaran lainnya wajib:
+a. menggunakan logo nasional sebagaimana dimaksud
+pada ayat (1); dan
+b. menerima instrumen pembayaran yang
+mencantumkan logo nasional sebagaimana
+dimaksud pada ayat (1).
+Bagian Keempat
+Skema Harga
+Pasal 31
+(1) Penyelenggara GPN (NPG) sebagaimana dimaksud dalam
+Pasal 5 ayat (1) dan pihak yang terhubung dengan GPN
+(NPG) sebagaimana dimaksud dalam Pasal 5 ayat (2)
+wajib mematuhi ketentuan Bank Indonesia mengenai
+kebijakan skema harga.
+www.peraturan.go.id2017, No.134
+-17-
+(2) Kebijakan skema harga sebagaimana dimaksud pada
+ayat (1) ditetapkan dengan mempertimbangkan prinsip
+sebagai berikut:
+a. mendorong perluasan akseptasi, efisiensi,
+kompetisi, layanan, dan inovasi;
+b. didasarkan pada aspek cost of recovery ditambah
+margin yang wajar, risiko, dan kenyamanan; dan
+c. penetapan besaran dan struktur tarif dan bea.
+(3) Penetapan kebijakan skema harga sebagaimana
+dimaksud pada ayat (1) dapat mempertimbangkan
+masukan dari pihak lain.
+(4) Ketentuan lebih lanjut mengenai kebijakan skema harga
+diatur dalam Peraturan Anggota Dewan Gubernur.
+Bagian Kelima
+Fitur Layanan
+Pasal 32
+(1) Penyelenggara GPN (NPG) sebagaimana dimaksud dalam
+Pasal 5 ayat (1) dan pihak yang terhubung dengan GPN
+(NPG) sebagaimana dimaksud dalam Pasal 5 ayat (2)
+wajib menyediakan fitur layanan untuk transaksi
+pembayaran yang diproses melalui GPN (NPG).
+(2) Fitur layanan sebagaimana dimaksud pada ayat (1)
+terdiri atas:
+a. pembayaran;
+b. transfer;
+c. tarik tunai;
+d. cek saldo; dan/atau
+e. fitur layanan lainnya.
+(3) Kewajiban penyediaan fitur layanan sebagaimana
+dimaksud pada ayat (2) mengacu pada ketentuan Bank
+Indonesia yang mengatur mengenai alat pembayaran
+dengan menggunakan kartu dan ketentuan Bank
+Indonesia yang mengatur mengenai uang elektronik.
+www.peraturan.go.id2017, No.134
+-18-
+BAB VII
+LAPORAN
+Pasal 33
+(1) Setiap penyelenggara GPN (NPG) sebagaimana dimaksud
+dalam Pasal 5 ayat (1) wajib menyampaikan laporan
+kepada Bank Indonesia.
+(2) Laporan sebagaimana dimaksud pada ayat (1) terdiri
+atas:
+a. laporan berkala; dan
+b. laporan insidental.
+Pasal 34
+(1) Laporan berkala sebagaimana dimaksud dalam Pasal 33
+ayat (2) huruf a untuk Lembaga Standar, terdiri atas:
+a. laporan triwulanan; dan
+b. laporan tahunan.
+(2) Laporan insidental sebagaimana dimaksud dalam Pasal
+33 ayat (2) huruf b untuk Lembaga Standar terdiri atas:
+a. laporan perubahan modal dan/atau susunan
+pemegang saham serta perubahan susunan
+pengurus Lembaga Standar;
+b. laporan perubahan data dan informasi pada
+dokumen yang disampaikan pada saat mengajukan
+permohonan penetapan kepada Bank Indonesia;
+dan
+c. laporan lainnya yang diperlukan oleh Bank
+Indonesia.
+Pasal 35
+(1) Laporan berkala sebagaimana dimaksud dalam Pasal 33
+ayat (2) huruf a untuk Lembaga Switching merupakan
+laporan berkala bagi penyelenggara switching
+sebagaimana dimaksud dalam ketentuan Bank Indonesia
+yang mengatur mengenai penyelenggaraan pemrosesan
+transaksi pembayaran, dengan menambahkan informasi
+mengenai kegiatan operasional Lembaga Switching.
+www.peraturan.go.id2017, No.134
+-19-
+(2) Laporan insidental sebagaimana dimaksud dalam Pasal
+33 ayat (2) huruf b untuk Lembaga Switching merupakan
+laporan insidental sebagaimana dimaksud dalam
+ketentuan Bank Indonesia yang mengatur mengenai
+penyelenggaraan pemrosesan transaksi pembayaran.
+Pasal 36
+(1) Laporan berkala sebagaimana dimaksud dalam Pasal 33
+ayat (2) huruf a untuk Lembaga Services, terdiri atas:
+a. laporan triwulanan;
+b. laporan tahunan; dan
+c. laporan hasil audit sistem informasi dari auditor
+independen yang dilakukan paling sedikit 1 (satu)
+kali dalam setahun.
+(2) Laporan insidental sebagaimana dimaksud dalam Pasal
+33 ayat (2) huruf b untuk Lembaga Services terdiri atas:
+a. laporan gangguan dalam penyelenggaraan Services
+dan tindak lanjut yang telah dilakukan;
+b. laporan perubahan susunan pengurus Lembaga
+Services;
+c. laporan terjadinya keadaan kahar atas
+penyelenggaraan Services;
+d. laporan perubahan data dan informasi pada
+dokumen yang disampaikan pada saat
+mengajukan permohonan penetapan kepada Bank
+Indonesia; dan
+e. laporan lainnya yang diperlukan oleh Bank
+Indonesia.
+Pasal 37
+Ketentuan lebih lanjut mengenai format dan tata cara
+penyampaian laporan diatur dalam Peraturan Anggota Dewan
+Gubernur.
+www.peraturan.go.id2017, No.134
+-20-
+Pasal 38
+Laporan bagi pihak yang terhubung dengan GPN (NPG)
+sebagaimana dimaksud dalam Pasal 5 ayat (2) merupakan
+laporan sebagaimana dimaksud dalam ketentuan Bank
+Indonesia yang mengatur mengenai penyelenggaraan
+pemrosesan transaksi pembayaran.
+BAB VIII
+PENGAWASAN
+Pasal 39
+(1) Bank Indonesia melakukan pengawasan terhadap
+penyelenggara GPN (NPG) sebagaimana dimaksud dalam
+Pasal 5 ayat (1) yang meliputi:
+a. pengawasan langsung; dan
+b. pengawasan tidak langsung.
+(2) Dalam hal diperlukan, Bank Indonesia melakukan
+pengawasan langsung sebagaimana dimaksud pada ayat
+(1) huruf a terhadap pihak yang melakukan kerja sama
+dengan penyelenggara GPN (NPG) sebagaimana
+dimaksud dalam Pasal 5 ayat (1).
+(3) Bank Indonesia dapat menugaskan pihak lain untuk dan
+atas nama Bank Indonesia untuk melaksanakan
+pengawasan langsung sebagaimana dimaksud pada ayat
+(1) huruf a.
+(4) Ketentuan lebih lanjut mengenai tata cara pengawasan
+diatur dalam Peraturan Anggota Dewan Gubernur.
+Pasal 40
+Dalam hal hasil pengawasan Bank Indonesia menunjukkan
+bahwa penyelenggara GPN (NPG) sebagaimana dimaksud
+dalam Pasal 5 ayat (1) tidak dapat melaksanakan tugas dan
+tanggung jawabnya secara memadai, Bank Indonesia dapat:
+a. meminta penyelenggara GPN (NPG) sebagaimana
+dimaksud dalam Pasal 5 ayat (1) untuk:
+1. melakukan atau tidak melakukan sesuatu; dan
+www.peraturan.go.id2017, No.134
+-21-
+2. menghentikan sementara sebagian atau seluruh
+kegiatan; dan
+b. mencabut penetapan atau persetujuan yang telah
+diberikan kepada penyelenggara GPN (NPG) sebagaimana
+dimaksud dalam Pasal 5 ayat (1).
+BAB IX
+SANKSI
+Pasal 41
+Penyelenggara GPN (NPG) sebagaimana dimaksud dalam
+Pasal 5 ayat (1) yang melanggar ketentuan sebagaimana
+dimaksud dalam Pasal 9 ayat (2), Pasal 12 ayat (5), Pasal 15
+ayat (1), Pasal 16, Pasal 22 ayat (1), Pasal 27 ayat (1), Pasal 27
+ayat (2), Pasal 28 ayat (1), Pasal 29 ayat (1), Pasal 31 ayat (1),
+Pasal 32 ayat (1), dan/atau Pasal 33 ayat (1) dikenakan
+sanksi administratif berupa:
+a. teguran tertulis;
+b. denda;
+c. penghentian sementara sebagian atau seluruh kegiatan;
+dan/atau
+d. pencabutan penetapan dan/atau persetujuan sebagai
+penyelenggara GPN (NPG) sebagaimana dimaksud dalam
+Pasal 5 ayat (1).
+Pasal 42
+Pihak yang terhubung dengan GPN (NPG) sebagaimana
+dimaksud dalam Pasal 5 ayat (2) yang melanggar ketentuan
+sebagaimana dimaksud dalam Pasal 24, Pasal 25 ayat (1),
+Pasal 28 ayat (1), Pasal 29 ayat (1), Pasal 30 ayat (2), Pasal 30
+ayat (3), Pasal 31 ayat (1), dan Pasal 32 ayat (1) dikenakan
+sanksi administratif berupa:
+a. teguran tertulis;
+b. denda; dan/atau
+c. penghentian sementara atau permanen konektivitas
+dengan GPN (NPG).
+www.peraturan.go.id2017, No.134
+-22-
+Pasal 43
+Ketentuan lebih lanjut mengenai tata cara pengenaan sanksi
+diatur dalam Peraturan Anggota Dewan Gubernur.
+BAB X
+KETENTUAN LAIN-LAIN
+Pasal 44
+(1) Bank Indonesia berwenang menetapkan kebijakan
+tertentu dalam melakukan penetapan dan/atau
+memberikan persetujuan penyelenggara GPN (NPG)
+sebagaimana dimaksud dalam Pasal 5 ayat (1).
+(2) Kebijakan tertentu sebagaimana dimaksud pada ayat (1)
+didasarkan pada pertimbangan antara lain:
+a. meningkatkan efisiensi nasional;
+b. mendukung kebijakan nasional;
+c. menjaga kepentingan publik;
+d. menjaga pertumbuhan industri; dan
+e. menjaga persaingan usaha yang sehat.
+Pasal 45
+(1) Standar nasional teknologi chip untuk kartu ATM
+dan/atau kartu debet yang ditetapkan oleh Bank
+Indonesia sesuai ketentuan Bank Indonesia yang
+mengatur mengenai alat pembayaran dengan
+menggunakan kartu, ditetapkan sebagai Standar kartu
+ATM dan/atau kartu debet untuk digunakan di GPN
+(NPG).
+(2) Pihak yang menjadi pengelola standar nasional teknologi
+chip untuk kartu ATM dan/atau kartu debet
+sebagaimana dimaksud pada ayat (1) ditetapkan sebagai
+Lembaga Standar sebagaimana dimaksud dalam Pasal 6
+ayat (1) untuk interoperabilitas instrumen pembayaran
+berupa kartu ATM dan/atau kartu debet.
+www.peraturan.go.id2017, No.134
+-23-
+BAB XI
+KETENTUAN PERALIHAN
+Pasal 46
+(1) Pihak yang telah memperoleh izin sebagai prinsipal
+sebelum Peraturan Bank Indonesia ini berlaku dapat
+mengajukan permohonan persetujuan sebagai Lembaga
+Switching sesuai dengan izin prinsipal yang telah
+diperolehnya, sepanjang telah memenuhi kriteria
+sebagaimana dimaksud dalam Pasal 12 ayat (2) huruf b,
+huruf c dan huruf d.
+(2) Pengajuan permohonan sebagaimana dimaksud pada
+ayat (1) dilakukan paling lambat 3 (tiga) bulan sejak
+berlakunya Peraturan Bank Indonesia ini.
+(3) Ketentuan persyaratan modal disetor sebagaimana
+dimaksud dalam Pasal 12 ayat (3) tidak berlaku bagi
+pihak sebagaimana dimaksud pada ayat (1).
+(4) Pihak sebagaimana dimaksud pada ayat (1) tetap
+bertanggung jawab untuk menyediakan kegiatan Services
+kepada anggotanya.
+Pasal 47
+Laporan berkala sebagaimana dimaksud dalam Pasal 33 ayat
+(2) huruf a untuk prinsipal yang menjadi Lembaga Switching
+yaitu laporan berkala bagi prinsipal sebagaimana dimaksud
+dalam ketentuan Bank Indonesia yang mengatur mengenai
+penyelenggaraan pemrosesan transaksi pembayaran, dengan
+menambahkan informasi mengenai kegiatan operasional
+Lembaga Switching.
+Pasal 48
+Sebelum Lembaga Services ditetapkan, seluruh tugas dan
+wewenang Lembaga Services dilaksanakan oleh pihak yang
+ditunjuk oleh Bank Indonesia dengan memperhatikan
+masukan dari industri sistem pembayaran.
+www.peraturan.go.id2017, No.134
+-24-
+BAB XII
+KETENTUAN PENUTUP
+Pasal 49
+(1) Pihak yang terhubung dengan GPN (NPG) sebagaimana
+dimaksud dalam Pasal 5 ayat (2) berupa bank umum dan
+bank umum syariah, untuk instrumen kartu ATM
+dan/atau kartu debet, wajib memenuhi ketentuan
+sebagaimana dimaksud dalam Pasal 25 ayat (1) paling
+lambat tanggal 30 Juni 2018.
+(2) Pihak yang terhubung dengan GPN (NPG) sebagaimana
+dimaksud dalam Pasal 5 ayat (2) berupa bank umum dan
+bank umum syariah, untuk instrumen selain kartu ATM
+dan/atau kartu debet, wajib memenuhi ketentuan
+sebagaimana dimaksud dalam Pasal 25 ayat (1) sesuai
+dengan ketentuan dan waktu yang akan diatur lebih
+lanjut dalam Peraturan Anggota Dewan Gubernur.
+(3) Pihak yang terhubung dengan GPN (NPG) sebagaimana
+dimaksud dalam Pasal 5 ayat (2) berupa Lembaga Selain
+Bank, dapat terhubung dengan GPN (NPG) sesuai dengan
+ketentuan dan waktu yang akan diatur lebih lanjut
+dalam Peraturan Anggota Dewan Gubernur.
+Pasal 50
+Peraturan Bank Indonesia ini mulai berlaku pada tanggal
+diundangkan.
+www.peraturan.go.id2017, No.134
+-25-
+Agar setiap orang mengetahuinya, memerintahkan
+pengundangan Peraturan Bank Indonesia ini dengan
+penempatannya dalam Lembaran Negara Republik Indonesia.
+Ditetapkan di Jakarta
+pada tanggal 21 Juni 2017
+GUBERNUR BANK INDONESIA,
+ttd
+AGUS D.W. MARTOWARDOJO
+Diundangkan di Jakarta
+pada tanggal 22 Juni 2017
+MENTERI HUKUM DAN HAK ASASI MANUSIA
+REPUBLIK INDONESIA,
+ttd
+YASONNA H. LAOLY
+www.peraturan.go.id

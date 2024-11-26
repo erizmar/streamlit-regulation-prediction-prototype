@@ -1,0 +1,8 @@
+Pasal 30
+Aspek kapabilitas sistem informasi sebagaimana dimaksud
+dalam Pasal 16 huruf d paling sedikit dinilai melalui:
+a. prosedur pengendalian pengamanan sistem informasi
+(security control);
+b. pengelolaan fraud (fraud management system);
+c. audit sistem informasi dan pengujian keamanan; dan
+d. tingkat kapabilitas dan ketersediaan sistem informasi.

@@ -1,0 +1,8 @@
+Pasal 25
+(1) Pihak yang terhubung dengan GPN (NPG) sebagaimana
+dimaksud dalam Pasal 5 ayat (2) wajib terhubung dengan
+GPN (NPG) dengan cara menjadi anggota pada paling
+sedikit 2 (dua) Lembaga Switching.
+(2) Kewajiban sebagaimana dimaksud pada ayat (1)
+dikecualikan untuk instrumen yang dapat saling
+interoperabilitas tanpa melalui Lembaga Switching.

@@ -1,0 +1,19 @@
+Pasal 151
+(1) PJP dan pihak yang bekerja sama dengan PJP wajib
+memenuhi standar penyelenggaraan akses ke Sumber
+Dana yang ditetapkan Bank Indonesia, termasuk standar
+nasional untuk interkoneksi dan interoperabilitas
+pembayaran.
+(2) Standar penyelenggaraan akses ke Sumber Dana
+sebagaimana dimaksud pada ayat (1) meliputi:
+a. spesifikasi teknis;
+b. spesifikasi operasional;
+c. spesifikasi keamanan; dan/atau
+d. aspek lainnya.
+(3) Bank Indonesia dapat menugaskan SRO atau lembaga lain
+yang ditetapkan Bank Indonesia untuk menyusun,
+mengelola, dan/atau mengembangkan standar
+sebagaimana dimaksud pada ayat (2).
+(4) Untuk melindungi kepentingan publik, kepemilikan atas
+standar sebagaimana dimaksud pada ayat (2) dan ayat (3)
+menjadi milik Bank Indonesia.

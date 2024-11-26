@@ -1,0 +1,5 @@
+Pasal 158
+Bank Indonesia dapat menyelenggarakan infrastruktur interface
+pembayaran terintegrasi yang menghubungkan akses ke
+Sumber Dana dengan PJP untuk meneruskan proses Inisiasi
+dan/atau Otorisasi transaksi pembayaran.

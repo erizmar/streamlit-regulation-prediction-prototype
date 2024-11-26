@@ -1,0 +1,76 @@
+Pasal 257
+(1) Dalam pemrosesan data dan/atau informasi terkait Sistem
+Pembayaran, PJP dan/atau pihak yang bekerja sama
+dengan PJP wajib:
+a. menerapkan prinsip pelindungan data pribadi
+termasuk memenuhi aspek persetujuan Pengguna
+Jasa atas penggunaan data pribadinya yang meliputi:
+1. pengumpulan data pribadi dilakukan secara
+terbatas dan spesifik, sah secara hukum, patut,
+dan transparan;
+2. pemrosesan data pribadi dilakukan sesuai
+dengan tujuannya;
+3. pemrosesan data pribadi dilakukan dengan
+menjamin hak pemilik data pribadi;
+4. pemrosesan data pribadi dilakukan secara
+akurat, lengkap, tidak menyesatkan, mutakhir,
+dapat dipertanggungjawabkan, dan
+memperhatikan tujuan pemrosesan data
+pribadi;
+5. pemrosesan data pribadi dilakukan dengan
+melindungi keamanan data pribadi dari
+kehilangan, penyalahgunaan, akses dan
+pengungkapan yang tidak sah, serta
+pengubahan atau perusakan data pribadi;
+6. pemrosesan data pribadi dilakukan dengan
+memberitahukan tujuan pengumpulan, aktivitas
+pemrosesan, dan kegagalan pelindungan data
+pribadi; dan
+7. pemrosesan data pribadi dimusnahkan
+dan/atau dihapus kecuali masih dalam masa
+retensi sesuai dengan kebutuhan berdasarkan
+ketentuan peraturan perundang-undangan.
+b. memenuhi mekanisme pemrosesan data dan/atau
+informasi terkait Sistem Pembayaran yang ditetapkan
+oleh Bank Indonesia, termasuk mekanisme
+pemrosesan melalui infrastruktur data dan
+infrastruktur Sistem Pembayaran Bank Indonesia;
+c. memenuhi mekanisme pemanfaatan infrastruktur
+data pihak ketiga yang ditetapkan oleh Bank
+Indonesia;
+d. menerapkan manajemen risiko siber dalam
+penyelenggaraan Sistem Pembayaran, termasuk
+standar keamanan sistem informasi;
+e. memperhatikan integritas data yang
+merepresentasikan fakta atau keadaan yang
+sebenarnya dan konsisten dengan menggunakan
+metode yang transparan; dan
+f. memenuhi ketentuan peraturan perundang-
+undangan.
+(2) Penerapan prinsip pelindungan data pribadi sebagaimana
+dimaksud pada ayat (1) huruf a, dilakukan dengan
+mempertimbangkan aspek kepentingan publik dan/atau
+persyaratan lain yang ditetapkan oleh otoritas.
+(3) Mekanisme pemrosesan data dan/atau informasi terkait
+Sistem Pembayaran sebagaimana dimaksud pada ayat (1)
+huruf b terdiri atas:
+a. mekanisme pemrosesan data dan/atau informasi
+pembayaran antara Pengguna Jasa dengan PJP;
+b. mekanisme pemrosesan data dan/atau informasi
+pembayaran antar-PJP;
+c. mekanisme pemrosesan data dan/atau informasi
+pembayaran antara PJP dengan Bank Indonesia;
+d. mekanisme pemrosesan data dan/atau informasi
+pembayaran antar-Pengguna Jasa; dan
+e. mekanisme pemrosesan data dan/atau informasi
+pembayaran antara Pengguna Jasa dengan Bank
+Indonesia.
+(4) PJP yang melanggar ketentuan sebagaimana dimaksud
+pada ayat (1) dikenai sanksi administratif berupa:
+a. teguran;
+b. penghentian sementara, sebagian, atau seluruh
+kegiatan termasuk pelaksanaan kerja sama; dan/atau
+c. pencabutan izin sebagai PJP.
+(5) Ketentuan lebih lanjut mengenai tata cara pengenaan
+sanksi administratif sebagaimana dimaksud pada ayat (4)
+diatur dalam Peraturan Anggota Dewan Gubernur.

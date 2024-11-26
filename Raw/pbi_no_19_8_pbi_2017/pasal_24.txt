@@ -1,0 +1,9 @@
+Pasal 24
+Dalam rangka pelaksanaan interkoneksi dan
+interoperabilitas, pihak yang terhubung dengan GPN (NPG)
+sebagaimana dimaksud dalam Pasal 5 ayat (2) wajib:
+a. mematuhi dan melaksanakan Standar yang ditetapkan
+oleh Bank Indonesia dan dikelola oleh Lembaga Standar;
+dan
+b. mematuhi ketentuan yang ditetapkan oleh Lembaga
+Services.

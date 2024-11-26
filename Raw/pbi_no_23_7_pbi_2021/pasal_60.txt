@@ -1,0 +1,13 @@
+Pasal 60
+Pihak yang terhubung dengan GPN sebagaimana dimaksud
+dalam Pasal 58 huruf b meliputi:
+a. PJP yang menyelenggarakan aktivitas penatausahaan
+Sumber Dana;
+b. PJP yang menyelenggarakan aktivitas payment initiation
+dan/atau acquiring services yang menalangi pembayaran
+kepada penyedia barang dan/atau jasa;
+c. PJP yang menyelenggarakan aktivitas payment initiation
+dan/atau acquiring services yang melakukan pemrosesan
+transaksi pembayaran menggunakan berbagai instrumen;
+dan/atau
+d. pihak lainnya yang ditetapkan oleh Bank Indonesia.

@@ -1,0 +1,5 @@
+Pasal 206
+Bank Indonesia dapat menyelenggarakan infrastruktur
+interface pembayaran terintegrasi yang menghubungkan akses
+ke Sumber Dana dengan PJP untuk meneruskan proses inisiasi
+dan/atau otorisasi transaksi pembayaran.

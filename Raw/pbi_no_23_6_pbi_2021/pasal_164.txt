@@ -1,0 +1,19 @@
+Pasal 164
+(1) Dana float merupakan seluruh nilai uang elektronik yang
+berada pada PJP yang menyelenggarakan aktivitas
+penatausahaan Sumber Dana berupa penerbitan uang
+elektronik atas hasil penerbitan uang elektronik dan/atau
+pengisian ulang (top up) yang masih merupakan kewajiban
+PJP tersebut kepada pengguna uang elektronik dan
+Penyedia Barang dan/atau Jasa.
+(2) Dana float bukan merupakan aset atau kekayaan PJP yang
+menyelenggarakan aktivitas penatausahaan Sumber Dana
+berupa penerbitan uang elektronik melainkan merupakan
+aset atau kekayaan pengguna uang elektronik yang berada
+dalam penguasaan dan pengelolaan PJP tersebut sebagai
+dana titipan.
+(3) Dalam hal PJP yang menyelenggarakan aktivitas
+penatausahaan Sumber Dana berupa penerbitan uang
+elektronik dinyatakan pailit, dana float sebagaimana
+dimaksud pada ayat (1) bukan bagian dari boedel likuidasi
+atau boedel pailit.

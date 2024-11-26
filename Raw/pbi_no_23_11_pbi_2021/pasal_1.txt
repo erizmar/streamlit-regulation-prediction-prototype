@@ -1,0 +1,38 @@
+Pasal 1
+Dalam Peraturan Bank Indonesia ini yang dimaksud dengan:
+1. Sistem Pembayaran adalah suatu sistem yang mencakup
+seperangkat aturan, lembaga, mekanisme, infrastruktur,
+sumber dana untuk pembayaran, dan akses ke sumber
+dana untuk pembayaran, yang digunakan untuk
+melaksanakan pemindahan dana guna memenuhi suatu
+kewajiban yang timbul dari suatu kegiatan ekonomi.
+2. Bank adalah bank umum dan bank perkreditan rakyat
+sebagaimana dimaksud dalam Undang-Undang mengenai
+perbankan, termasuk kantor cabang bank asing di
+Indonesia, dan bank umum syariah serta bank
+pembiayaan rakyat syariah sebagaimana dimaksud dalam
+Undang-Undang mengenai perbankan syariah.
+3. Lembaga Selain Bank adalah badan usaha berbadan
+hukum Indonesia bukan Bank.
+4. Penyedia Jasa Pembayaran yang selanjutnya disingkat
+PJP adalah Bank atau Lembaga Selain Bank yang
+menyediakan jasa untuk memfasilitasi transaksi
+pembayaran kepada pengguna jasa.
+5. Penyelenggara Infrastruktur Sistem Pembayaran yang
+selanjutnya disebut PIP adalah pihak yang
+menyelenggarakan infrastruktur sebagai sarana yang
+dapat digunakan untuk melakukan pemindahan dana
+bagi kepentingan anggotanya.
+6. Penyelenggara Penunjang adalah pihak yang bekerja sama
+dengan PJP dan PIP untuk menunjang penyelenggaraan
+kegiatan jasa Sistem Pembayaran.
+7. Standar Nasional Sistem Pembayaran yang selanjutnya
+disebut Standar Nasional adalah standar yang ditetapkan
+oleh Bank Indonesia untuk digunakan dalam
+penyelenggaraan Sistem Pembayaran yang dilakukan di
+wilayah Negara Kesatuan Republik Indonesia.
+8. Self-Regulatory Organization di Bidang Sistem Pembayaran
+yang selanjutnya disebut SRO adalah suatu forum atau
+institusi yang berbadan hukum Indonesia yang mewakili
+industri dan ditetapkan oleh Bank Indonesia untuk
+mendukung penyelenggaraan Sistem Pembayaran.

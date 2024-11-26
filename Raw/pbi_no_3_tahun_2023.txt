@@ -1,0 +1,1828 @@
+
+PERATURAN BANK INDONESIA
+NOMOR 3 TAHUN 2023
+TENTANG
+PELINDUNGAN KONSUMEN BANK INDONESIA
+DENGAN RAHMAT TUHAN YANG MAHA ESA
+GUBERNUR BANK INDONESIA,
+Menimbang : a. bahwa dengan telah berlakunya Undang-Undang Nomor 4
+Tahun 2023 tentang Pengembangan dan Penguatan Sektor
+Keuangan telah memperkuat kewenangan Bank Indonesia
+untuk melakukan pengaturan dan pengawasan
+pelindungan konsumen di sektor keuangan;
+b. bahwa terdapat perkembangan prinsip pelindungan
+konsumen sejalan dengan meningkatnya risiko bagi
+konsumen yang ditimbulkan dari inovasi dan digitalisasi
+produk dan/atau layanan di sektor keuangan, sehingga
+perlu dilakukan penguatan pengaturan mengenai
+pelindungan konsumen Bank Indonesia;
+c. bahwa Peraturan Bank Indonesia Nomor 22/20/PBI/2020
+tentang Perlindungan Konsumen Bank Indonesia perlu
+diganti guna menyesuaikan dengan perkembangan prinsip
+pelindungan konsumen;
+d. bahwa berdasarkan pertimbangan sebagaimana dimaksud
+dalam huruf a, huruf b, dan huruf c, perlu menetapkan
+Peraturan Bank Indonesia tentang Pelindungan Konsumen
+Bank Indonesia;
+Mengingat : 1. Undang-Undang Nomor 23 Tahun 1999 tentang Bank
+Indonesia (Lembaran Negara Republik Indonesia Tahun
+1999 Nomor 66, Tambahan Lembaran Negara Republik
+Indonesia Nomor 3843) sebagaimana telah beberapa kali
+diubah terakhir dengan Undang-Undang Nomor 4 Tahun
+2023 tentang Pengembangan dan Penguatan Sektor
+Keuangan (Lembaran Negara Republik Indonesia Tahun
+2023 Nomor 4, Tambahan Lembaran Negara Republik
+Indonesia Nomor 6845);
+2. Undang-Undang Nomor 4 Tahun 2023 tentang
+Pengembangan dan Penguatan Sektor Keuangan
+(Lembaran Negara Republik Indonesia Tahun 2023 Nomor
+4, Tambahan Lembaran Negara Republik Indonesia Nomor
+6845);
+MEMUTUSKAN:
+Menetapkan : PERATURAN BANK INDONESIA TENTANG PELINDUNGAN
+KONSUMEN BANK INDONESIA.
+BAB I
+KETENTUAN UMUM
+Pasal 1
+Dalam Peraturan Bank Indonesia ini yang dimaksud dengan:
+1. Konsumen adalah orang perseorangan, korporasi, atau
+badan usaha baik yang berbentuk badan hukum maupun
+yang tidak berbentuk badan hukum, atau badan lainnya
+sebagai pemilik dan/atau pemanfaat akhir produk
+dan/atau layanan yang disediakan oleh penyelenggara
+untuk kepentingan diri sendiri dan tidak untuk
+diperdagangkan atau diteruskan kepada penyelenggara
+lain.
+2. Penyelenggara adalah setiap pihak, baik bank maupun
+lembaga selain bank, yang melakukan kegiatan yang diatur
+dan diawasi oleh Bank Indonesia yang produk dan/atau
+jasanya dimanfaatkan oleh Konsumen.
+3. Pelindungan Konsumen Bank Indonesia yang selanjutnya
+disebut Pelindungan Konsumen adalah segala upaya yang
+menjamin adanya kepastian hukum untuk memberikan
+pelindungan kepada Konsumen.
+4. Sistem Pembayaran adalah suatu sistem yang mencakup
+seperangkat aturan, lembaga, mekanisme, infrastruktur,
+sumber dana untuk pembayaran, dan akses ke sumber
+dana untuk pembayaran, yang digunakan untuk
+melaksanakan pemindahan dana guna memenuhi suatu
+kewajiban yang timbul dari suatu kegiatan ekonomi.
+5. Penyedia Jasa Pembayaran adalah bank atau lembaga
+selain bank yang menyediakan jasa untuk memfasilitasi
+transaksi pembayaran kepada pengguna jasa.
+6. Kegiatan Layanan Uang adalah kegiatan usaha yang
+menggunakan uang sebagai objek utama layanan.
+7. Pasar Uang adalah bagian dari sistem keuangan yang
+berkaitan dengan:
+a. kegiatan penerbitan dan perdagangan instrumen
+keuangan atau efek bersifat utang yang berjangka
+waktu tidak lebih dari 1 (satu) tahun;
+b. transaksi pinjam-meminjam uang;
+c. transaksi derivatif suku bunga; dan
+d. transaksi lainnya yang memenuhi karateristik di pasar
+uang,
+dalam mata uang rupiah atau valuta asing.
+8. Pasar Valuta Asing adalah bagian dari sistem keuangan
+yang berkaitan dengan kegiatan transaksi yang melibatkan
+pertukaran mata uang dari 2 (dua) negara yang berbeda
+beserta derivatifnya, tetapi tidak termasuk penukaran bank
+notes yang diselenggarakan oleh kegiatan usaha penukaran
+valuta asing.
+9. Perjanjian Baku adalah perjanjian tertulis termasuk dalam
+bentuk elektronik yang ditetapkan secara sepihak oleh
+Penyelenggara dan memuat klausul baku tentang isi,
+bentuk, dan cara pembuatan, serta digunakan untuk
+menawarkan produk dan/atau layanan kepada Konsumen
+secara massal.
+Pasal 2
+Pelindungan Konsumen yang diatur dalam Peraturan Bank
+Indonesia ini mencakup Konsumen dari Penyelenggara yang
+diatur dan diawasi oleh Bank Indonesia.
+BAB II
+PENYELENGGARA
+Pasal 3
+Penyelenggara sebagaimana dimaksud dalam Pasal 2 meliputi:
+a. Penyelenggara di bidang Sistem Pembayaran;
+b. Penyelenggara Kegiatan Layanan Uang;
+c. pihak yang melakukan kegiatan di Pasar Uang dan Pasar
+Valuta Asing; dan
+d. pihak lainnya yang diatur dan diawasi oleh Bank Indonesia,
+yang berhubungan langsung dengan Konsumen.
+Pasal 4
+(1) Penyelenggara di bidang Sistem Pembayaran sebagaimana
+dimaksud dalam Pasal 3 huruf a merupakan Penyedia Jasa
+Pembayaran.
+(2) Penyedia Jasa Pembayaran sebagaimana dimaksud pada
+ayat (1) menyelenggarakan aktivitas berupa:
+a. penyediaan informasi sumber dana;
+b. payment initiation dan/atau acquiring services;
+c. penatausahaan sumber dana;
+d. layanan remitansi; dan/atau
+e. aktivitas lainnya yang ditetapkan oleh Bank Indonesia.
+(3) Dalam penyelenggaraan aktivitas sebagaimana dimaksud
+pada ayat (2), Penyedia Jasa Pembayaran melakukan
+penyelenggaraan akses ke sumber dana untuk pembayaran
+berupa:
+a. instrumen;
+b. kanal; dan/atau
+c. akses ke sumber dana lainnya yang ditetapkan oleh
+Bank Indonesia.
+(4) Akses ke sumber dana untuk pembayaran berupa
+instrumen sebagaimana dimaksud pada ayat (3) huruf a
+meliputi:
+a. uang elektronik;
+b. perintah transfer;
+c. alat pembayaran menggunakan kartu atau bentuk
+virtual yang memiliki karakteristik seperti alat
+pembayaran menggunakan kartu;
+d. cek;
+e. bilyet giro; dan
+f. instrumen perpindahan dana lainnya yang ditetapkan
+oleh Bank Indonesia.
+(5) Akses ke sumber dana untuk pembayaran berupa kanal
+sebagaimana dimaksud pada ayat (3) huruf b meliputi:
+a. kanal pembayaran menggunakan teknologi quick
+response code dengan skema merchant presented mode
+atau skema lainnya yang ditetapkan oleh Bank
+Indonesia;
+b. mesin electronic data capture;
+c. mesin anjungan tunai mandiri;
+d. kanal pembayaran online menggunakan teknologi
+berbasis mobile atau internet, termasuk proprietary
+channel atau shared channel oleh Penyedia Jasa
+Pembayaran yang menyelenggarakan aktivitas
+penatausahaan sumber dana; dan
+e. kanal pembayaran menggunakan metode atau
+penggunaan teknologi tertentu lainnya untuk
+perpindahan dana transfer debit dan transfer kredit.
+Pasal 5
+Penyelenggara Kegiatan Layanan Uang sebagaimana dimaksud
+dalam Pasal 3 huruf b melakukan:
+a. kegiatan usaha penukaran valuta asing bukan bank;
+dan/atau
+b. Kegiatan Layanan Uang lainnya yang ditetapkan oleh Bank
+Indonesia.
+Pasal 6
+(1) Pihak yang melakukan kegiatan di Pasar Uang dan/atau
+Pasar Valuta Asing meliputi:
+a. pelaku Pasar Uang dan/atau Pasar Valuta Asing;
+b. lembaga pendukung Pasar Uang dan/atau Pasar
+Valuta Asing; dan/atau
+c. pihak lainnya yang terkait dengan kegiatan dan
+transaksi di Pasar Uang dan Pasar Valuta Asing.
+(2) Pihak yang melakukan kegiatan di Pasar Uang dan/atau
+Pasar Valuta Asing sebagaimana dimaksud pada ayat (1)
+melakukan kegiatan:
+a. penerbitan instrumen Pasar Uang; dan/atau
+b. pendukung transaksi di Pasar Uang dan Pasar Valuta
+Asing,
+yang berhubungan langsung dengan Konsumen.
+BAB III
+PRINSIP PELINDUNGAN KONSUMEN
+Pasal 7
+(1) Penyelenggara dalam menyelenggarakan kegiatan
+usahanya wajib menerapkan prinsip Pelindungan
+Konsumen.
+(2) Prinsip Pelindungan Konsumen meliputi:
+a. kesetaraan dan perlakuan yang adil;
+b. keterbukaan dan transparansi;
+c. edukasi dan literasi;
+d. perilaku bisnis yang bertanggung jawab;
+e. pelindungan aset Konsumen terhadap
+penyalahgunaan;
+f. pelindungan data dan/atau informasi Konsumen;
+g. penanganan dan penyelesaian pengaduan yang efektif;
+dan
+h. penegakan kepatuhan.
+(3) Penerapan prinsip sebagaimana dimaksud pada ayat (2)
+dilaksanakan dengan memperhatikan bentuk produk
+dan/atau jasa Penyelenggara.
+Pasal 8
+Pelindungan Konsumen diselenggarakan dengan tujuan:
+a. menciptakan ekosistem Pelindungan Konsumen yang
+mewujudkan kepastian hukum serta penanganan
+pengaduan dan penyelesaian sengketa yang efektif dan
+efisien;
+b. menumbuhkan kesadaran Penyelenggara mengenai
+perilaku bisnis yang bertanggung jawab, perlakuan yang
+adil, memberikan pelindungan aset, privasi, dan data
+Konsumen, serta meningkatkan kualitas produk dan/atau
+layanan Penyelenggara; dan
+c. meningkatkan kesadaran, kemampuan, dan kemandirian
+Konsumen mengenai produk dan/atau layanan
+Penyelenggara serta meningkatkan pemberdayaan
+Konsumen.
+BAB IV
+HAK DAN KEWAJIBAN PENYELENGGARA DAN KONSUMEN
+Bagian Kesatu
+Umum
+Pasal 9
+(1) Dalam penyelenggaraan Pelindungan Konsumen,
+Penyelenggara memiliki:
+a. hak Penyelenggara; dan
+b. kewajiban Penyelenggara.
+(2) Kewajiban Penyelenggara sebagaimana dimaksud pada
+ayat (1) huruf b meliputi:
+a. menerapkan prinsip Pelindungan Konsumen; dan
+b. menginformasikan dan memastikan Konsumen
+mengetahui hak Konsumen dan kewajiban Konsumen.
+Bagian Kedua
+Hak Penyelenggara
+Pasal 10
+Hak Penyelenggara sebagaimana dimaksud dalam Pasal 9 ayat
+(1) huruf a meliputi:
+a. menerima pembayaran sesuai dengan nilai atau harga,
+dan/atau biaya terhadap produk dan/atau layanan yang
+disepakati dengan Konsumen;
+b. memastikan adanya iktikad baik Konsumen;
+c. mendapatkan informasi dan/atau dokumen yang jelas,
+akurat, benar, dan tidak menyesatkan mengenai
+Konsumen;
+d. mendapat pelindungan hukum dari tindakan Konsumen
+yang beriktikad tidak baik;
+e. melakukan pembelaan diri di dalam penyelesaian sengketa
+Konsumen, berdasarkan ketentuan peraturan perundang-
+undangan;
+f. mendapatkan rehabilitasi nama baik apabila terbukti
+secara hukum bahwa kerugian Konsumen tidak
+diakibatkan oleh Penyelenggara; dan
+g. hak lain yang diatur dalam ketentuan peraturan
+perundang-undangan.
+Bagian Ketiga
+Kewajiban Penyelenggara
+Paragraf 1
+Kewajiban Penyelenggara dalam Penerapan Prinsip Kesetaraan
+dan Perlakuan yang Adil
+Pasal 11
+(1) Penyelenggara wajib memberikan kesetaraan akses kepada
+setiap Konsumen dan memperlakukan Konsumen secara
+benar sesuai dengan ketentuan peraturan perundang-
+undangan.
+(2) Penyelenggara wajib memiliki mekanisme dan prosedur
+mengenai kesetaraan akses kepada setiap Konsumen dan
+memperlakukan Konsumen secara benar sesuai dengan
+ketentuan peraturan perundang-undangan sebagaimana
+dimaksud pada ayat (1).
+(3) Penyelenggara yang tidak memenuhi kewajiban
+sebagaimana dimaksud pada ayat (1) atau ayat (2) dikenai
+sanksi administratif berupa:
+a. peringatan tertulis;
+b. pembatasan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+c. pembekuan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+d. pemberhentian pengurus;
+e. denda administratif;
+f. pencabutan izin produk dan/atau layanan; dan/atau
+g. pencabutan izin usaha.
+Pasal 12
+(1) Penyelenggara wajib menyediakan layanan khusus kepada
+Konsumen dengan kebutuhan khusus.
+(2) Penyelenggara wajib memiliki mekanisme dan prosedur
+mengenai layanan khusus sebagaimana dimaksud pada
+ayat (1).
+(3) Penyelenggara yang tidak memenuhi kewajiban
+sebagaimana dimaksud pada ayat (1) atau ayat (2) dikenai
+sanksi administratif berupa:
+a. peringatan tertulis;
+b. pembatasan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+c. pembekuan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+d. pemberhentian pengurus;
+e. denda administratif;
+f. pencabutan izin produk dan/atau layanan; dan/atau
+g. pencabutan izin usaha.
+Pasal 13
+(1) Penyelenggara wajib menyusun pedoman penetapan biaya
+produk dan/atau jasa yang dikenakan kepada Konsumen
+dengan memperhatikan ketentuan peraturan perundang-
+undangan.
+(2) Penyelenggara yang tidak memenuhi kewajiban
+sebagaimana dimaksud pada ayat (1) dikenai sanksi
+administratif berupa:
+a. peringatan tertulis;
+b. pembatasan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+c. pembekuan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+d. pemberhentian pengurus;
+e. denda administratif;
+f. pencabutan izin produk dan/atau layanan; dan/atau
+g. pencabutan izin usaha.
+Pasal 14
+(1) Penyelenggara harus memperhatikan asas keseimbangan,
+asas keadilan, dan asas kewajaran dalam pembuatan
+perjanjian dengan Konsumen.
+(2) Perjanjian sebagaimana dimaksud pada ayat (1) dapat
+berbentuk elektronik untuk ditawarkan oleh Penyelenggara
+melalui media elektronik.
+Pasal 15
+(1) Penyelenggara dilarang membuat dan menggunakan
+Perjanjian Baku yang memuat klausul baku yang berisi:
+a. menyatakan pengalihan tanggung jawab atau
+kewajiban Penyelenggara kepada Konsumen;
+b. mengatur tentang kewajiban pembuktian oleh
+Konsumen, jika Penyelenggara menyatakan bahwa
+hilangnya kegunaan produk dan/atau layanan yang
+dibeli oleh Konsumen, bukan merupakan tanggung
+jawab Penyelenggara;
+c. memberi hak kepada Penyelenggara untuk
+mengurangi kegunaan produk dan/atau layanan atau
+mengurangi harta kekayaan Konsumen yang menjadi
+obyek perjanjian produk dan layanan;
+d. menyatakan bahwa Penyelenggara dapat menambah,
+mengubah, dan/atau memberikan aturan lanjutan
+secara sepihak setelah perjanjian disetujui atau
+disepakati;
+e. menyatakan bahwa Konsumen tunduk pada
+perubahan sepihak oleh Penyelenggara terhadap
+aturan sebagaimana diatur dalam huruf d setelah
+perjanjian ditandatangani oleh Konsumen;
+f. memberikan kewenangan bagi Penyelenggara untuk
+menghindari atau membatasi keberlakuan suatu
+klausul;
+g. menyatakan bahwa Penyelenggara memiliki wewenang
+untuk menafsirkan arti perjanjian secara sepihak;
+h. menyatakan bahwa Penyelenggara membatasi
+tanggung jawab terhadap kesalahan dan/atau
+kelalaian pegawai dan/atau pihak ketiga yang
+bertindak untuk kepentingan Penyelenggara;
+i. membatasi hak Konsumen untuk menggugat
+Penyelenggara ketika terjadi sengketa terkait dengan
+perjanjian; dan
+j. membatasi barang bukti yang dapat diberikan oleh
+Konsumen ketika terjadi sengketa terkait dengan
+perjanjian.
+(2) Penyelenggara dilarang mencantumkan klausul baku yang
+letak atau bentuknya sulit terlihat, tidak dapat dibaca
+secara jelas, atau yang pengungkapannya sulit dimengerti
+oleh Konsumen.
+(3) Penyelenggara yang melanggar ketentuan sebagaimana
+dimaksud pada ayat (1) atau ayat (2) dikenai sanksi
+administratif berupa:
+a. peringatan tertulis;
+b. pembatasan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+c. pembekuan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+d. pemberhentian pengurus;
+e. denda administratif;
+f. pencabutan izin produk dan/atau layanan; dan/atau
+g. pencabutan izin usaha.
+Pasal 16
+Ketentuan lebih lanjut mengenai tata cara pengenaan sanksi
+administratif diatur dalam Peraturan Anggota Dewan Gubernur.
+Paragraf 2
+Kewajiban Penyelenggara dalam Penerapan Prinsip
+Keterbukaan dan Transparansi
+Pasal 17
+(1) Penyelenggara wajib memberikan informasi kepada
+Konsumen mengenai:
+a. fitur produk dan/atau jasa berupa biaya, manfaat,
+risiko, syarat dan ketentuan, mekanisme penggunaan
+produk dan/atau jasa, dan konsekuensi; dan
+b. penolakan, penundaan, atau persetujuan atas
+permohonan produk dan/atau jasa.
+(2) Informasi sebagaimana dimaksud pada ayat (1) wajib
+diberikan secara jelas, akurat, jujur, mudah diakses, dan
+tidak menyesatkan.
+(3) Informasi sebagaimana dimaksud pada ayat (1) wajib
+menggunakan:
+a. bahasa Indonesia yang mudah dimengerti; dan
+b. tulisan yang mudah dibaca untuk informasi yang
+diberikan secara tertulis.
+Pasal 18
+Dalam hal terdapat kegiatan pemasaran dan iklan serta hal lain
+yang dipersamakan, Penyelenggara wajib memenuhi ketentuan
+sebagaimana dimaksud dalam Pasal 17 ayat (2) dan ayat (3).
+Pasal 19
+Penyelenggara yang tidak memenuhi kewajiban sebagaimana
+dimaksud dalam Pasal 17 atau Pasal 18 dikenai sanksi
+administratif berupa:
+a. peringatan tertulis;
+b. pembatasan produk dan/atau layanan dan/atau kegiatan
+usaha untuk sebagian atau seluruhnya;
+c. pembekuan produk dan/atau layanan dan/atau kegiatan
+usaha untuk sebagian atau seluruhnya;
+d. pemberhentian pengurus;
+e. denda administratif;
+f. pencabutan izin produk dan/atau layanan; dan/atau
+g. pencabutan izin usaha.
+Pasal 20
+(1) Dalam hal terdapat perubahan informasi sebagaimana
+dimaksud dalam Pasal 17 ayat (1), Penyelenggara wajib
+menginformasikan kepada Konsumen.
+(2) Perubahan informasi sebagaimana dimaksud pada ayat (1)
+wajib diberitahukan kepada Konsumen paling lama 30 (tiga
+puluh) hari kerja sebelum pemberlakuan perubahan.
+(3) Dalam hal Konsumen tidak menyetujui perubahan
+sebagaimana dimaksud pada ayat (1), Konsumen dapat
+menghentikan penggunaan produk dan/atau jasa tanpa
+dikenai ganti rugi atau penalti.
+(4) Dalam hal Penyelenggara tidak mendapat tanggapan
+Konsumen dalam jangka waktu 30 (tiga puluh) hari kerja
+setelah pemberitahuan sebagaimana dimaksud pada ayat
+(2), Penyelenggara dapat menganggap Konsumen
+menyetujui perubahan informasi.
+(5) Penyelenggara yang tidak memenuhi kewajiban
+sebagaimana dimaksud pada ayat (1) atau ayat (2) dikenai
+sanksi administratif berupa:
+a. peringatan tertulis;
+b. pembatasan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+c. pembekuan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+d. pemberhentian pengurus;
+e. denda administratif;
+f. pencabutan izin produk dan/atau layanan; dan/atau
+g. pencabutan izin usaha.
+Pasal 21
+(1) Penyelenggara wajib menyediakan sarana resmi untuk
+memudahkan Konsumen memperoleh informasi.
+(2) Penyelenggara yang tidak memenuhi kewajiban
+sebagaimana dimaksud pada ayat (1) dikenai sanksi
+administratif berupa:
+a. peringatan tertulis;
+b. pembatasan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+c. pembekuan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+d. pemberhentian pengurus;
+e. denda administratif;
+f. pencabutan izin produk dan/atau layanan; dan/atau
+g. pencabutan izin usaha.
+Pasal 22
+Ketentuan lebih lanjut mengenai pelaksanaan prinsip
+keterbukaan dan transparansi serta tata cara pengenaan sanksi
+administratif diatur dalam Peraturan Anggota Dewan Gubernur.
+Paragraf 3
+Kewajiban Penyelenggara dalam Penerapan Prinsip
+Edukasi dan Literasi
+Pasal 23
+(1) Penyelenggara wajib melakukan edukasi untuk
+meningkatkan literasi Konsumen dan/atau masyarakat.
+(2) Dalam melakukan edukasi sebagaimana dimaksud pada
+ayat (1) Penyelenggara wajib memiliki fungsi edukasi.
+(3) Pelaksanaan edukasi sebagaimana dimaksud pada ayat (1)
+wajib dilakukan secara terencana, terukur, dan
+berkelanjutan.
+(4) Pelaksanaan edukasi sebagaimana dimaksud pada ayat (1)
+dapat dilakukan berkolaborasi dengan Penyelenggara
+dan/atau pemangku kepentingan lainnya.
+(5) Penyelenggara yang tidak memenuhi kewajiban
+sebagaimana dimaksud pada ayat (1), ayat (2), atau ayat (3)
+dikenai sanksi administratif berupa:
+a. peringatan tertulis;
+b. pembatasan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+c. pembekuan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+d. pemberhentian pengurus;
+e. denda administratif;
+f. pencabutan izin produk dan/atau layanan; dan/atau
+g. pencabutan izin usaha.
+Pasal 24
+Ketentuan lebih lanjut mengenai pelaksanaan prinsip edukasi
+dan literasi serta tata cara pengenaan sanksi administratif
+diatur dalam Peraturan Anggota Dewan Gubernur.
+Paragraf 4
+Kewajiban Penyelenggara dalam Penerapan Prinsip
+Perilaku Bisnis yang Bertanggung Jawab
+Pasal 25
+(1) Penyelenggara wajib menerapkan perilaku bisnis yang
+bertanggung jawab dalam melakukan kegiatan dengan
+Konsumen.
+(2) Dalam menerapkan perilaku bisnis yang bertanggung
+jawab sebagaimana dimaksud pada ayat (1), Penyelenggara
+menjalankan kegiatan usaha yang dilakukan dengan cara
+jujur, tidak melawan hukum, atau tidak menghambat
+persaingan usaha.
+(3) Perilaku bisnis yang bertanggung jawab sebagaimana
+dimaksud pada ayat (1) sesuai dengan prinsip
+internasional, kesepakatan asosiasi, dan/atau norma
+umum lainnya.
+(4) Penyelenggara yang tidak memenuhi kewajiban
+sebagaimana dimaksud pada ayat (1) dikenai sanksi
+administratif berupa:
+a. peringatan tertulis;
+b. pembatasan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+c. pembekuan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+d. pemberhentian pengurus;
+e. denda administratif;
+f. pencabutan izin produk dan/atau layanan; dan/atau
+g. pencabutan izin usaha.
+Pasal 26
+(1) Penyelenggara wajib mencegah pengurus, pengawas, dan
+pegawainya dari perilaku:
+a. memperkaya atau menguntungkan diri sendiri
+dan/atau pihak lain; dan
+b. menyalahgunakan kewenangan, kesempatan,
+dan/atau sarana yang ada padanya karena jabatan
+atau kedudukannya, yang dapat merugikan
+Konsumen.
+(2) Penyelenggara yang tidak memenuhi kewajiban
+sebagaimana dimaksud pada ayat (1) dikenai sanksi
+administratif berupa:
+a. peringatan tertulis;
+b. pembatasan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+c. pembekuan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+d. pemberhentian pengurus;
+e. denda administratif;
+f. pencabutan izin produk dan/atau layanan; dan/atau
+g. pencabutan izin usaha.
+Pasal 27
+(1) Penyelenggara wajib memperhatikan kesesuaian antara
+kebutuhan dan kemampuan Konsumen dengan produk
+dan/atau jasa yang ditawarkan kepada Konsumen.
+(2) Penyelenggara yang tidak memenuhi kewajiban
+sebagaimana dimaksud pada ayat (1) dikenai sanksi
+administratif berupa:
+a. peringatan tertulis;
+b. pembatasan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+c. pembekuan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+d. pemberhentian pengurus;
+e. denda administratif;
+f. pencabutan izin produk dan/atau layanan; dan/atau
+g. pencabutan izin usaha.
+Pasal 28
+Ketentuan lebih lanjut mengenai tata cara pengenaan sanksi
+administratif diatur dalam Peraturan Anggota Dewan Gubernur.
+Paragraf 5
+Kewajiban Penyelenggara dalam Penerapan Prinsip
+Pelindungan Aset Konsumen terhadap Penyalahgunaan
+Pasal 29
+(1) Penyelenggara wajib menjaga keamanan aset Konsumen
+yang berada dalam tanggung jawab Penyelenggara.
+(2) Penyelenggara yang tidak memenuhi kewajiban
+sebagaimana dimaksud pada ayat (1) dikenai sanksi
+administratif berupa:
+a. peringatan tertulis;
+b. pembatasan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+c. pembekuan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+d. pemberhentian pengurus;
+e. denda administratif;
+f. pencabutan izin produk dan/atau layanan; dan/atau
+g. pencabutan izin usaha.
+Pasal 30
+(1) Penyelenggara wajib memiliki mekanisme dan prosedur
+mengenai pelindungan aset Konsumen.
+(2) Penyelenggara wajib menyediakan informasi mengenai
+pemanfaatan produk dan/atau jasa serta perkembangan
+aset kepada Konsumen secara akurat, tepat waktu, dan
+dengan cara atau sarana sesuai dengan perjanjian.
+(3) Penyelenggara yang tidak memenuhi kewajiban
+sebagaimana dimaksud pada ayat (1) atau ayat (2) dikenai
+sanksi administratif berupa:
+a. peringatan tertulis;
+b. pembatasan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+c. pembekuan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+d. pemberhentian pengurus;
+e. denda administratif;
+f. pencabutan izin produk dan/atau layanan; dan/atau
+g. pencabutan izin usaha.
+Pasal 31
+Ketentuan lebih lanjut mengenai tata cara pengenaan sanksi
+administratif diatur dalam Peraturan Anggota Dewan Gubernur.
+Paragraf 6
+Kewajiban Penyelenggara dalam Penerapan Prinsip
+Pelindungan Data dan Informasi Konsumen
+Pasal 32
+(1) Penyelenggara wajib menjaga kerahasiaan dan keamanan
+data dan/atau informasi Konsumen.
+(2) Kewajiban menjaga kerahasiaan dan keamanan data
+dan/atau informasi Konsumen sebagaimana dimaksud
+pada ayat (1) sesuai dengan ketentuan peraturan
+perundang-undangan.
+(3) Untuk menjaga kerahasiaan dan keamanan data dan/atau
+informasi Konsumen sebagaimana dimaksud pada ayat (1),
+Penyelenggara wajib memiliki:
+a. fungsi yang bertanggung jawab terhadap pelindungan
+data dan/atau informasi Konsumen;
+b. sistem informasi dan ketahanan siber yang andal
+untuk mendukung pelaksanaan pelindungan data
+dan/atau informasi Konsumen; dan
+c. mekanisme dan prosedur mengenai pelindungan data
+dan/atau informasi Konsumen.
+(4) Penyelenggara yang tidak memenuhi kewajiban
+sebagaimana dimaksud pada ayat (1), ayat (2), atau ayat (3)
+dikenai sanksi administratif berupa:
+a. peringatan tertulis;
+b. pembatasan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+c. pembekuan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+d. pemberhentian pengurus;
+e. denda administratif;
+f. pencabutan izin produk dan/atau layanan; dan/atau
+g. pencabutan izin usaha.
+Pasal 33
+(1) Penyelenggara dapat melakukan kerja sama dengan pihak
+lain untuk mengelola data dan/atau informasi Konsumen.
+(2) Penyelenggara wajib memastikan pihak lain sebagaimana
+dimaksud pada ayat (1) untuk menjaga kerahasiaan dan
+keamanan data dan/atau informasi Konsumen.
+(3) Kewajiban menjaga kerahasiaan dan keamanan data
+dan/atau informasi Konsumen sebagaimana dimaksud
+pada ayat (2) dilaksanakan sesuai dengan ketentuan
+peraturan perundang-undangan.
+(4) Penyelenggara yang tidak memenuhi kewajiban
+sebagaimana dimaksud pada ayat (2) dikenai sanksi
+administratif berupa:
+a. peringatan tertulis;
+b. pembatasan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+c. pembekuan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+d. pemberhentian pengurus;
+e. denda administratif;
+f. pencabutan izin produk dan/atau layanan; dan/atau
+g. pencabutan izin usaha.
+Pasal 34
+(1) Penyelenggara wajib mengelola dan menatausahakan data
+dan/atau informasi Konsumen secara lengkap, akurat,
+kini, dan utuh.
+(2) Penyelenggara yang tidak memenuhi kewajiban
+sebagaimana dimaksud pada ayat (1) dikenai sanksi
+administratif berupa:
+a. peringatan tertulis;
+b. pembatasan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+c. pembekuan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+d. pemberhentian pengurus;
+e. denda administratif;
+f. pencabutan izin produk dan/atau layanan; dan/atau
+g. pencabutan izin usaha.
+Pasal 35
+(1) Penyelenggara dilarang memberikan data dan/atau
+informasi Konsumen kepada pihak lain.
+(2) Ketentuan sebagaimana dimaksud pada ayat (1) tidak
+berlaku jika:
+a. Konsumen memberikan persetujuan secara tertulis
+atau mekanisme lainnya yang diatur dalam peraturan
+perundang-undangan; dan/atau
+b. Penyelenggara diwajibkan untuk memberikan
+informasi Konsumen berdasarkan ketentuan
+peraturan perundang-undangan.
+(3) Persetujuan dari Konsumen sebagaimana dimaksud pada
+ayat (2) huruf a wajib diperoleh Penyelenggara sebelum
+memberikan data dan/atau informasi Konsumen kepada
+pihak lain.
+(4) Dalam hal Konsumen memberikan persetujuan
+sebagaimana dimaksud pada ayat (2) huruf a,
+Penyelenggara wajib memastikan pihak lain tersebut tidak
+memberikan dan/atau menggunakan data dan/atau
+informasi Konsumen selain yang disetujui oleh Konsumen.
+(5) Konsumen berhak menarik kembali persetujuan
+sebagaimana dimaksud pada ayat (2) huruf a.
+(6) Penyelenggara yang melanggar ketentuan sebagaimana
+dimaksud pada ayat (1) dan tidak memenuhi kewajiban
+sebagaimana dimaksud pada ayat (3) atau ayat (4) dikenai
+sanksi administratif berupa:
+a. peringatan tertulis;
+b. pembatasan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+c. pembekuan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+d. pemberhentian pengurus;
+e. denda administratif;
+f. pencabutan izin produk dan/atau layanan; dan/atau
+g. pencabutan izin usaha.
+Pasal 36
+(1) Penyelenggara wajib memberikan kepada Konsumen akses
+dan salinan data pribadi Konsumen sesuai dengan
+ketentuan peraturan perundang-undangan mengenai
+pelindungan data pribadi.
+(2) Penyelenggara wajib memastikan Konsumen memiliki hak
+untuk dapat mengakhiri, menghapus, dan/atau
+memusnahkan data pribadi Konsumen sesuai dengan
+ketentuan peraturan perundang-undangan mengenai
+pelindungan data pribadi.
+(3) Penyelenggara yang tidak memenuhi kewajiban
+sebagaimana dimaksud pada ayat (1) atau ayat (2) dikenai
+sanksi administratif berupa:
+a. peringatan tertulis;
+b. pembatasan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+c. pembekuan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+d. pemberhentian pengurus;
+e. denda administratif;
+f. pencabutan izin produk dan/atau layanan; dan/atau
+g. pencabutan izin usaha.
+Pasal 37
+Ketentuan lebih lanjut mengenai pelaksanaan prinsip
+pelindungan data dan/atau informasi Konsumen serta tata cara
+pengenaan sanksi administratif diatur dalam Peraturan Anggota
+Dewan Gubernur.
+Paragraf 7
+Kewajiban Penyelenggara dalam Penerapan Prinsip
+Penanganan dan Penyelesaian Pengaduan yang Efektif
+Pasal 38
+(1) Penyelenggara wajib menangani dan menyelesaikan
+pengaduan yang disampaikan oleh Konsumen secara
+efektif.
+(2) Penyelenggara yang tidak memenuhi kewajiban
+sebagaimana dimaksud pada ayat (1) dikenai sanksi
+administratif berupa:
+a. peringatan tertulis;
+b. pembatasan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+c. pembekuan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+d. pemberhentian pengurus;
+e. denda administratif;
+f. pencabutan izin produk dan/atau layanan; dan/atau
+g. pencabutan izin usaha.
+Pasal 39
+(1) Penyelenggara wajib memiliki fungsi yang menangani dan
+menyelesaikan pengaduan yang disampaikan oleh
+Konsumen.
+(2) Dalam menangani dan menyelesaikan pengaduan yang
+disampaikan oleh Konsumen sebagaimana dimaksud pada
+ayat (1), pihak lainnya yang diatur dan diawasi oleh Bank
+Indonesia wajib bersama-sama Penyelenggara untuk
+menyelesaikan pengaduan Konsumen.
+(3) Penyelenggara yang tidak memenuhi kewajiban
+sebagaimana dimaksud pada ayat (1) atau ayat (2) dikenai
+sanksi administratif berupa:
+a. peringatan tertulis;
+b. pembatasan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+c. pembekuan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+d. pemberhentian pengurus;
+e. denda administratif;
+f. pencabutan izin produk dan/atau layanan; dan/atau
+g. pencabutan izin usaha.
+Pasal 40
+(1) Penyelenggara wajib memiliki dan melaksanakan
+mekanisme penanganan dan penyelesaian pengaduan yang
+disampaikan oleh Konsumen.
+(2) Mekanisme penanganan dan penyelesaian pengaduan
+sebagaimana dimaksud pada ayat (1) wajib dituangkan
+dalam bentuk tertulis yang meliputi:
+a. penerimaan pengaduan;
+b. penanganan dan penyelesaian pengaduan; dan
+c. pemantauan terhadap penanganan dan penyelesaian
+pengaduan.
+(3) Mekanisme penanganan dan penyelesaian pengaduan
+sebagaimana dimaksud pada ayat (1) wajib disampaikan
+kepada Konsumen.
+(4) Penyelenggara yang tidak memenuhi kewajiban
+sebagaimana dimaksud pada ayat (1), ayat (2), atau ayat (3)
+dikenai sanksi administratif berupa:
+a. peringatan tertulis;
+b. pembatasan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+c. pembekuan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+d. pemberhentian pengurus;
+e. denda administratif;
+f. pencabutan izin produk dan/atau layanan; dan/atau
+g. pencabutan izin usaha.
+Pasal 41
+(1) Penyelenggara dilarang mengenakan biaya kepada
+Konsumen atas pengajuan pengaduan.
+(2) Penyelenggara yang melanggar ketentuan sebagaimana
+dimaksud pada ayat (1) dikenai sanksi administratif
+berupa:
+a. peringatan tertulis;
+b. pembatasan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+c. pembekuan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+d. pemberhentian pengurus;
+e. denda administratif;
+f. pencabutan izin produk dan/atau layanan; dan/atau
+g. pencabutan izin usaha.
+Pasal 42
+(1) Penyelenggara wajib bertanggung jawab atas kerugian
+Konsumen yang timbul akibat kesalahan, kelalaian,
+dan/atau perbuatan yang bertentangan dengan ketentuan
+peraturan perundang-undangan, yang dilakukan oleh:
+a. direksi;
+b. dewan komisaris;
+c. pengurus;
+d. pegawai Penyelenggara; dan/atau
+e. pihak ketiga yang mewakili atau bekerja untuk
+kepentingan Penyelenggara.
+(2) Dalam hal Penyelenggara dapat membuktikan terdapat
+kesalahan, kelalaian, dan/atau perbuatan yang
+bertentangan dengan ketentuan peraturan perundang-
+undangan yang dilakukan oleh Konsumen, Penyelenggara
+tidak bertanggung jawab atas kerugian Konsumen yang
+timbul.
+(3) Bentuk tanggung jawab Penyelenggara atas kerugian
+Konsumen sebagaimana dimaksud pada ayat (1) dapat
+berupa:
+a. ganti rugi;
+b. pemulihan nama baik; dan/atau
+c. bentuk lainnya.
+(4) Penyelenggara yang tidak memenuhi kewajiban
+sebagaimana dimaksud pada ayat (1) dikenai sanksi
+administratif berupa:
+a. peringatan tertulis;
+b. pembatasan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+c. pembekuan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+d. pemberhentian pengurus;
+e. denda administratif;
+f. pencabutan izin produk dan/atau layanan; dan/atau
+g. pencabutan izin usaha.
+Pasal 43
+Ketentuan lebih lanjut mengenai pelaksanaan prinsip
+penanganan dan penyelesaian pengaduan yang efektif serta tata
+cara pengenaan sanksi administratif diatur dalam Peraturan
+Anggota Dewan Gubernur.
+Paragraf 8
+Kewajiban Penyelenggara dalam Penerapan Prinsip
+Penegakan Kepatuhan
+Pasal 44
+(1) Penyelenggara wajib memastikan kepatuhan terhadap
+ketentuan peraturan perundang-undangan mengenai
+Pelindungan Konsumen.
+(2) Penyelenggara yang tidak memenuhi kewajiban
+sebagaimana dimaksud pada ayat (1) dikenai sanksi
+administratif berupa:
+a. peringatan tertulis;
+b. pembatasan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+c. pembekuan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+d. pemberhentian pengurus;
+e. denda administratif;
+f. pencabutan izin produk dan/atau layanan; dan/atau
+g. pencabutan izin usaha.
+Pasal 45
+Ketentuan lebih lanjut mengenai tata cara pengenaan sanksi
+administratif diatur dalam Peraturan Anggota Dewan Gubernur.
+Paragraf 9
+Kewajiban Penyelenggara dalam Kerja Sama Penyelenggara
+Pasal 46
+(1) Dalam hal Penyelenggara menggunakan jasa pihak lain
+dalam melakukan kegiatan bisnis dengan Konsumen,
+Penyelenggara wajib memastikan pihak lain untuk
+menerapkan prinsip Pelindungan Konsumen sebagaimana
+diatur dalam Peraturan Bank Indonesia ini.
+(2) Penyelenggara dilarang bekerjasama dengan pihak lain
+yang tidak mendapatkan izin atau persetujuan dari Bank
+Indonesia atau otoritas yang berwenang.
+(3) Penyelenggara yang tidak memenuhi kewajiban
+sebagaimana dimaksud pada ayat (1) atau melanggar
+ketentuan sebagaimana dimaksud pada ayat (2) dikenai
+sanksi administratif berupa:
+a. peringatan tertulis;
+b. pembatasan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+c. pembekuan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+d. pemberhentian pengurus;
+e. denda administratif;
+f. pencabutan izin produk dan/atau layanan; dan/atau
+g. pencabutan izin usaha.
+Pasal 47
+Ketentuan lebih lanjut mengenai tata cara pengenaan sanksi
+administratif diatur dalam Peraturan Anggota Dewan Gubernur.
+Bagian Keempat
+Hak Konsumen
+Pasal 48
+Hak Konsumen sebagaimana dimaksud dalam Pasal 9 ayat (2)
+huruf b meliputi:
+a. mendapatkan keamanan dalam menggunakan produk
+dan/atau memanfaatkan layanan sesuai yang ditetapkan
+dalam ketentuan peraturan perundang-undangan
+dan/atau perjanjian;
+b. memilih produk dan/atau layanan;
+c. mendapatkan produk dan/atau layanan sesuai dengan
+penawaran yang dijanjikan dan/atau sesuai dengan
+ketentuan peraturan perundang-undangan;
+d. mengakses data dan/atau informasi Konsumen yang
+dikelola oleh Penyelenggara;
+e. mendapatkan informasi mengenai produk dan/atau
+layanan yang jelas, akurat, benar, mudah diakses, dan
+tidak berpotensi menyesatkan;
+f. didengar pendapat dan pengaduannya atas produk yang
+digunakan dan/atau layanan yang dimanfaatkan;
+g. mendapat edukasi keuangan;
+h. diperlakukan atau dilayani secara benar;
+i. mendapatkan advokasi, pelindungan, dan upaya
+penanganan pengaduan dan penyelesaian sengketa
+Konsumen sesuai dengan ketentuan peraturan perundang-
+undangan;
+j. mendapatkan ganti rugi apabila produk dan/atau layanan
+yang diterima tidak sesuai dengan perjanjian dan/atau
+ketentuan peraturan perundang-undangan; dan
+k. hak lain yang diatur dalam ketentuan peraturan
+perundang-undangan.
+Bagian Kelima
+Kewajiban Konsumen
+Pasal 49
+Kewajiban Konsumen sebagaimana dimaksud dalam Pasal 9
+ayat (2) huruf b meliputi:
+a. mendengarkan penjelasan informasi mengenai produk
+dan/atau layanan yang disampaikan dengan metode
+pemasaran tertentu oleh Penyelenggara sebelum membeli
+produk dan/atau layanan Penyelenggara;
+b. membaca, memahami, dan melaksanakan dengan benar
+perjanjian dan/atau dokumen penggunaan produk
+dan/atau layanan;
+c. beriktikad baik dalam penggunaan produk dan/atau
+layanan;
+d. memberikan informasi dan/atau dokumen yang jelas,
+akurat, benar, dan tidak menyesatkan;
+e. membayar sesuai dengan nilai atau harga dan/atau biaya
+atas produk dan/atau layanan yang disepakati dengan
+Penyelenggara; dan
+f. mengikuti upaya penyelesaian sengketa Pelindungan
+Konsumen sesuai dengan ketentuan peraturan perundang-
+undangan.
+BAB V
+SUMBER DAYA MANUSIA
+Pasal 50
+(1) Penyelenggara wajib memiliki sumber daya manusia yang
+kompeten untuk menerapkan prinsip Pelindungan
+Konsumen.
+(2) Sumber daya manusia sebagaimana dimaksud pada ayat
+(1) yang melaksanakan fungsi edukasi, fungsi pelindungan
+data dan/atau informasi Konsumen, serta fungsi
+penanganan dan penyelesaian pengaduan Konsumen wajib
+mengikuti pelatihan yang mendukung pelaksanaan fungsi.
+(3) Penyelenggara yang tidak memenuhi kewajiban
+sebagaimana dimaksud pada ayat (1) atau ayat (2) dikenai
+sanksi administratif berupa:
+a. peringatan tertulis;
+b. pembatasan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+c. pembekuan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+d. pemberhentian pengurus;
+e. denda administratif;
+f. pencabutan izin produk dan/atau layanan; dan/atau
+g. pencabutan izin usaha.
+Pasal 51
+Ketentuan lebih lanjut mengenai tata cara pengenaan sanksi
+administratif diatur dalam Peraturan Anggota Dewan Gubernur.
+BAB VI
+PENANGANAN PENGADUAN KONSUMEN
+Pasal 52
+Dalam hal Konsumen tidak menyepakati hasil penanganan dan
+penyelesaian yang dilakukan oleh Penyelenggara sebagaimana
+dimaksud dalam Pasal 38 ayat (1), Konsumen dapat
+menyampaikan:
+a. pengaduan kepada Bank Indonesia;
+b. sengketa kepada lembaga atau badan penyelesaian
+sengketa; atau
+c. sengketa kepada Pengadilan.
+Bagian Kesatu
+Penanganan Pengaduan oleh Bank Indonesia
+Pasal 53
+(1) Pengaduan yang dapat disampaikan Konsumen kepada
+Bank Indonesia sebagaimana dimaksud dalam Pasal 52
+huruf a termasuk dalam ruang lingkup Pelindungan
+Konsumen sebagaimana dimaksud dalam Pasal 2.
+(2) Pengaduan yang disampaikan kepada Bank Indonesia
+berupa adanya:
+a. ketidakpahaman Konsumen;
+b. indikasi pelanggaran terhadap Peraturan Bank
+Indonesia yang dilakukan oleh Penyelenggara;
+dan/atau
+c. kerugian finansial dan/atau potensi kerugian finansial
+yang wajar dan berdampak secara langsung kepada
+Konsumen.
+(3) Pengaduan yang disampaikan kepada Bank Indonesia
+sebagaimana dimaksud pada ayat (2) dilakukan dengan
+ketentuan:
+a. Konsumen telah menyampaikan pengaduan kepada
+Penyelenggara namun tidak terdapat kesepakatan
+antara Konsumen dengan Penyelenggara;
+b. permasalahan yang diadukan merupakan masalah
+perdata yang tidak pernah diproses oleh pengadilan,
+lembaga atau badan penyelesaian sengketa, atau
+otoritas yang berwenang lainnya; dan
+c. Konsumen mengalami potensi kerugian finansial yang
+ditimbulkan oleh Penyelenggara dengan nilai tertentu
+yang ditentukan oleh Bank Indonesia.
+(4) Penyampaian pengaduan kepada Bank Indonesia dapat
+dilakukan secara langsung dan/atau tidak langsung.
+(5) Bentuk penanganan pengaduan Konsumen yang dilakukan
+oleh Bank Indonesia berupa:
+a. edukasi;
+b. konsultansi; dan
+c. fasilitasi.
+Pasal 54
+Ketentuan lebih lanjut mengenai mekanisme dan tata cara
+penanganan pengaduan Konsumen oleh Bank Indonesia diatur
+dalam Peraturan Anggota Dewan Gubernur.
+Bagian Kedua
+Penyelesaian Sengketa oleh Lembaga Alternatif Penyelesaian
+Sengketa Sektor Keuangan
+Pasal 55
+(1) Dalam melakukan penanganan pengaduan yang
+disampaikan oleh Konsumen, Penyelenggara yang diatur
+dan diawasi oleh Bank Indonesia wajib menjadi anggota
+lembaga alternatif penyelesaian sengketa sektor keuangan.
+(2) Penyelenggara yang tidak memenuhi kewajiban
+sebagaimana dimaksud pada ayat (1) dikenai sanksi
+administratif berupa:
+a. peringatan tertulis;
+b. pembatasan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+c. pembekuan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+d. pemberhentian pengurus;
+e. denda administratif;
+f. pencabutan izin produk dan/atau layanan; dan/atau
+g. pencabutan izin usaha.
+(3) Ketentuan lebih lanjut mengenai kewajiban menjadi
+anggota lembaga alternatif penyelesaian sengketa sektor
+keuangan dan tata cara pengenaan sanksi administratif
+diatur dalam Peraturan Anggota Dewan Gubernur.
+BAB VII
+PENERAPAN MANAJEMEN RISIKO
+Pasal 56
+(1) Penyelenggara wajib menerapkan manajemen risiko terkait
+Pelindungan Konsumen.
+(2) Penerapan manajemen risiko terkait Pelindungan
+Konsumen sebagaimana dimaksud pada ayat (1) mencakup
+paling sedikit:
+a. pengawasan aktif oleh pengurus dan pengawas;
+b. kecukupan kebijakan dan prosedur;
+c. kecukupan proses identifikasi, pengukuran,
+pemantauan, dan pengendalian risiko; dan
+d. sistem pengendalian intern yang menyeluruh.
+(3) Penyelenggara yang tidak memenuhi kewajiban
+sebagaimana dimaksud pada ayat (1) dikenai sanksi
+administratif berupa:
+a. peringatan tertulis;
+b. pembatasan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+c. pembekuan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+d. pemberhentian pengurus;
+e. denda administratif;
+f. pencabutan izin produk dan/atau layanan; dan/atau
+g. pencabutan izin usaha.
+Pasal 57
+Ketentuan lebih lanjut mengenai tata cara pengenaan sanksi
+administratif diatur dalam Peraturan Anggota Dewan Gubernur.
+BAB VIII
+PELAPORAN
+Pasal 58
+(1) Penyelenggara wajib menyampaikan laporan terkait
+Pelindungan Konsumen kepada Bank Indonesia.
+(2) Laporan terkait Pelindungan Konsumen sebagaimana
+dimaksud pada ayat (1) mencakup:
+a. laporan rencana pelaksanaan edukasi;
+b. laporan pelaksanaan edukasi;
+c. laporan penanganan dan penyelesaian pengaduan
+Konsumen; dan
+d. laporan lainnya terkait Pelindungan Konsumen.
+(3) Mekanisme penyampaian laporan sebagaimana dimaksud
+pada ayat (2) dilakukan dengan cara:
+a. penyampaian laporan kepada Bank Indonesia dapat
+dilakukan secara daring melalui sistem Bank
+Indonesia dan/atau luring secara berkala atau
+insidentil; dan/atau
+b. mekanisme lain yang ditetapkan Bank Indonesia.
+(4) Untuk penyampaian laporan berkala secara daring
+sebagaimana dimaksud pada ayat (3) huruf a dan
+pengenaan sanksi dilakukan sesuai dengan ketentuan
+Peraturan Bank Indonesia mengenai pelaporan berkala.
+(5) Penyampaian data dan/atau informasi melalui mekanisme
+lain sebagaimana dimaksud pada ayat (3) huruf b dapat
+berupa pertemuan dengan Bank Indonesia atau media
+lainnya yang ditetapkan oleh Bank Indonesia.
+(6) Penyelenggara yang tidak memenuhi kewajiban
+sebagaimana dimaksud pada ayat (1) dikenai sanksi
+administratif berupa:
+a. peringatan tertulis;
+b. pembatasan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+c. pembekuan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+d. pemberhentian pengurus;
+e. denda administratif;
+f. pencabutan izin produk dan/atau layanan; dan/atau
+g. pencabutan izin usaha.
+(7) Ketentuan lebih lanjut mengenai tata cara penyusunan dan
+penyampaian laporan diatur dalam Peraturan Anggota
+Dewan Gubernur.
+BAB IX
+PENGAWASAN
+Pasal 59
+(1) Bank Indonesia melakukan pengawasan kepada
+Penyelenggara melalui:
+a. pengawasan tidak langsung; dan/atau
+b. pengawasan langsung.
+(2) Dalam melakukan pengawasan sebagaimana dimaksud
+pada ayat (1), Bank Indonesia berwenang untuk meminta
+dokumen, data, informasi, keterangan, dan/atau
+penjelasan dari Penyelenggara.
+(3) Penyelenggara wajib menyampaikan dokumen, data,
+informasi, keterangan, dan/atau penjelasan atas
+permintaan Bank Indonesia sebagaimana dimaksud pada
+ayat (2).
+(4) Penyelenggara yang tidak memenuhi kewajiban
+sebagaimana dimaksud pada ayat (3) dikenai sanksi
+administratif berupa:
+a. peringatan tertulis;
+b. pembatasan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+c. pembekuan produk dan/atau layanan dan/atau
+kegiatan usaha untuk sebagian atau seluruhnya;
+d. pemberhentian pengurus;
+e. denda administratif;
+f. pencabutan izin produk dan/atau layanan; dan/atau
+g. pencabutan izin usaha.
+Pasal 60
+Dalam melakukan pengawasan sebagaimana dimaksud dalam
+Pasal 59 ayat (1), Bank Indonesia berwenang meminta
+Penyelenggara untuk melakukan atau tidak melakukan sesuatu
+kepada Penyelenggara.
+Pasal 61
+(1) Dalam melakukan pengawasan sebagaimana dimaksud
+dalam Pasal 59 ayat (1), Bank Indonesia melakukan
+pengawasan terhadap perilaku Penyelenggara dalam
+menjalankan usahanya.
+(2) Ketentuan lebih lanjut mengenai pengawasan terhadap
+perilaku Penyelenggara diatur dalam Peraturan Anggota
+Dewan Gubernur.
+BAB X
+KOORDINASI
+Pasal 62
+Bank Indonesia dapat berkoordinasi dengan otoritas,
+kementerian, dan/atau lembaga terkait dalam penerapan
+Pelindungan Konsumen.
+BAB XI
+KETENTUAN PENUTUP
+Pasal 63
+Pada saat Peraturan Bank Indonesia ini mulai berlaku, semua
+peraturan yang merupakan peraturan pelaksanaan dari
+Peraturan Bank Indonesia Nomor 22/20/PBI/2020 tentang
+Perlindungan Konsumen Bank Indonesia (Lembaran Negara
+Republik Indonesia Tahun 2020 Nomor 299, Tambahan
+Lembaran Negara Republik Indonesia Nomor 6605), dinyatakan
+masih tetap berlaku sepanjang tidak bertentangan dengan
+ketentuan dalam Peraturan Bank Indonesia ini.
+Pasal 64
+Pada saat Peraturan Bank Indonesia ini mulai berlaku,
+Peraturan Bank Indonesia Nomor 22/20/PBI/2020 tentang
+Perlindungan Konsumen Bank Indonesia (Lembaran Negara
+Republik Indonesia Tahun 2020 Nomor 299, Tambahan
+Lembaran Negara Republik Indonesia Nomor 6605), dicabut dan
+dinyatakan tidak berlaku.
+Pasal 65
+Peraturan Bank Indonesia ini mulai berlaku pada tanggal
+diundangkan.
+Agar setiap orang mengetahuinya, memerintahkan
+pengundangan Peraturan Bank Indonesia ini dengan
+penempatannya dalam Lembaran Negara Republik Indonesia.
+Ditetapkan di Jakarta
+pada tanggal 27 Juni 2023
+GUBERNUR BANK INDONESIA,
+TTD
+PERRY WARJIYO
+Diundangkan di Jakarta
+pada tanggal 27 Juni 2023
+MENTERI HUKUM DAN HAK ASASI MANUSIA
+REPUBLIK INDONESIA,
+TTD
+YASONNA H. LAOLY
+LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2023 NOMOR 13/BI
+PENJELASAN
+ATAS
+PERATURAN BANK INDONESIA
+NOMOR 3 TAHUN 2023
+TENTANG
+PELINDUNGAN KONSUMEN BANK INDONESIA
+I. UMUM
+Untuk mendorong pertumbuhan ekonomi nasional yang berkelanjutan
+serta sistem keuangan yang kuat, Pemerintah telah menerbitkan Undang-
+Undang Nomor 4 Tahun 2023 tentang Pengembangan dan Penguatan
+Sektor Keuangan yang menguatkan pengaturan berbagai aspek di sektor
+keuangan antara lain mengenai penguatan kelembagaan otoritas Bank
+Indonesia sebagai otoritas di sektor keuangan yang memiliki kewenangan
+untuk mengatur dan mengawasi Penyelenggara di bidang moneter, Sistem
+Pembayaran, dan makroprudensial yang produk dan/atau jasanya
+dimanfaatkan oleh Konsumen.
+Pengaturan Pelindungan Konsumen dalam undang-undang dimaksud
+mencakup hak dan kewajiban Konsumen, penyesuaian prinsip
+Pelindungan Konsumen, pengawasan perilaku pasar (market conduct), dan
+mekanisme pengaduan dan penyelesaian sengketa. Sejalan dengan
+meningkatnya risiko bagi Konsumen yang ditimbulkan dari inovasi dan
+digitalisasi produk dan/atau layanan di sektor keuangan, serta
+perkembangan prinsip Pelindungan Konsumen perlu dilakukan penguatan
+pengaturan mengenai Pelindungan Konsumen yang mengacu pada
+peraturan perundang-undangan dan praktik terbaik di internasional
+(international best practices).
+Berdasarkan hal tersebut, Bank Indonesia perlu menetapkan
+Peraturan Bank Indonesia tentang Pelindungan Konsumen Bank Indonesia.
+II. PASAL DEMI PASAL
+Pasal 1
+Cukup jelas.
+Pasal 2
+Cukup jelas.
+Pasal 3
+Huruf a
+Cukup jelas.
+Huruf b
+Cukup jelas.
+Huruf b
+Cukup jelas.
+Huruf c
+Cukup jelas.
+Huruf d
+Yang dimaksud “pihak lainnya yang diatur dan diawasi oleh Bank
+Indonesia” antara lain bank yang melakukan kegiatan penyetoran
+dan/atau penarikan uang rupiah.
+Pasal 4
+Cukup jelas.
+Pasal 5
+Cukup jelas.
+Pasal 6
+Ayat (1)
+Huruf a
+Contoh pelaku Pasar Uang dan/atau Pasar Valuta Asing
+antara lain penerbit instrumen Pasar Uang.
+Huruf b
+Contoh lembaga pendukung Pasar Uang dan/atau Pasar
+Valuta Asing antara lain bank, perusahaan efek, dan
+lembaga lainnya yang ditetapkan oleh Bank Indonesia yang
+berhubungan langsung dengan Konsumen dalam rangka
+menawarkan produk dan/atau jasa tertentu di Pasar Uang
+dan/atau Pasar Valuta Asing.
+Huruf c
+Cukup jelas.
+Ayat (2)
+Cukup jelas.
+Pasal 7
+Ayat (1)
+Cukup jelas.
+Ayat (2)
+Huruf a
+Yang dimaksud dengan “kesetaraan dan perlakuan yang
+adil” adalah perlakuan Penyelenggara yang adil dan tidak
+diskriminatif kepada Konsumen.
+Huruf b
+Yang dimaksud dengan “keterbukaan dan transparansi”
+adalah pemberian informasi oleh Penyelenggara kepada
+Konsumen baik secara lisan maupun tertulis, termasuk
+informasi melalui sarana elektronik secara jelas dan lengkap,
+dengan bahasa yang mudah dimengerti.
+Huruf c
+Yang dimaksud dengan “edukasi dan literasi” adalah
+rangkaian proses atau kegiatan yang dilakukan oleh
+Penyelenggara untuk meningkatkan pengetahuan dan
+pemahaman Konsumen dan/atau masyarakat terhadap
+produk dan/atau jasa Penyelenggara.
+Huruf d
+Yang dimaksud dengan “perilaku bisnis yang bertanggung
+jawab” adalah perilaku Penyelenggara yang memperhatikan
+kepentingan Konsumen dalam menjalankan bisnisnya
+dengan cara antara lain memperhitungkan kebutuhan dan
+kemampuan Konsumen sebelum menawarkan produk
+dan/atau jasa kepada Konsumen tersebut.
+Huruf e
+Yang dimaksud dengan “aset Konsumen” adalah aset
+Konsumen berupa aset keuangan yang dikelola oleh
+Penyelenggara, antara lain saldo uang elektronik dan surat
+berharga Pasar Uang.
+Huruf f
+Pelindungan data dan/atau informasi Konsumen dilakukan
+oleh Penyelenggara antara lain dengan menjaga kerahasiaan
+dan keamanan data dan/atau informasi Konsumen serta
+hanya menggunakan data dan/atau informasi tersebut
+sesuai dengan kepentingan dan tujuan yang disetujui oleh
+Konsumen.
+Huruf g
+Penanganan dan penyelesaian pengaduan yang efektif
+dilakukan oleh Penyelenggara antara lain dengan memiliki
+dan melaksanakan mekanisme penanganan dan
+penyelesaian pengaduan Konsumen yang responsif, tepat
+guna, dan sesuai dengan batas waktu yang ditentukan.
+Huruf h
+Yang dimaksud dengan "penegakan kepatuhan" adalah
+prinsip yang menitikberatkan pada tindakan Penyelenggara
+untuk memastikan kepatuhan terhadap ketentuan
+Pelindungan Konsumen berdasarkan ketentuan peraturan
+perundang-undangan.
+Ayat (3)
+Cukup jelas.
+Pasal 8
+Cukup jelas.
+Pasal 9
+Ayat (1)
+Cukup jelas.
+Ayat (2)
+Huruf a
+Cukup jelas.
+Huruf b
+Pemberian informasi kepada Konsumen dapat dilakukan
+melalui edukasi secara langsung dan pembuatan materi
+edukasi untuk disampaikan melalui media cetak, media
+elektronik, dan media sosial.
+Pasal 10
+Huruf a
+Cukup jelas.
+Huruf b
+Yang dimaksud dengan “memastikan adanya iktikad baik
+Konsumen” yaitu dilakukan antara lain dengan melakukan
+verifikasi terhadap informasi dan/atau dokumen yang
+disampaikan oleh Konsumen.
+Huruf c
+Yang dimaksud dengan “menyesatkan” antara lain Konsumen
+menyampaikan informasi yang tidak lengkap sehingga
+menyebabkan kesimpulan yang salah.
+Huruf d
+Cukup jelas.
+Huruf e
+Cukup jelas.
+Huruf f
+Cukup jelas.
+Huruf g
+Cukup jelas.
+Pasal 11
+Ayat (1)
+Yang dimaksud dengan “kesetaraan akses” adalah pelayanan
+atau perlakuan yang tidak diskriminatif kepada setiap Konsumen.
+Ayat (2)
+Cukup jelas.
+Ayat (3)
+Cukup jelas.
+Pasal 12
+Ayat (1)
+Layanan khusus antara lain pemberian pendampingan.
+Konsumen dengan kebutuhan khusus antara lain tuna netra,
+tuna rungu, tuna wicara, dan usia lanjut dengan umur 60 (enam
+puluh) tahun atau lebih.
+Ayat (2)
+Cukup jelas.
+Ayat (3)
+Cukup jelas.
+Pasal 13
+Cukup jelas.
+Pasal 14
+Ayat (1)
+Yang dimaksud dengan “asas keseimbangan dalam pembuatan
+perjanjian” misalnya Penyelenggara memastikan Konsumen
+menerima informasi secara lengkap dan utuh mengenai manfaat
+dan risiko suatu produk dan/atau jasa.
+Yang dimaksud dengan “asas keadilan dalam pembuatan
+perjanjian” misalnya Konsumen telah sepakat untuk membayar
+biaya jasa dari Penyelenggara dan Penyelenggara juga harus
+memberikan jasa tersebut sesuai dengan perjanjian.
+Yang dimaksud dengan “asas kewajaran dalam pembuatan
+perjanjian” misalnya penetapan biaya yang dikenakan atas
+produk dan/atau jasa harus sesuai dengan biaya dan kelaziman.
+Ayat (2)
+Cukup jelas.
+Pasal 15
+Ayat (1)
+Yang dimaksud dengan “klausul baku” adalah setiap aturan atau
+ketentuan dan syarat yang telah dipersiapkan dan ditetapkan
+terlebih dahulu secara sepihak oleh Penyelenggara yang
+dituangkan dalam suatu dokumen dan/atau perjanjian yang
+mengikat dan wajib dipenuhi oleh Konsumen.
+Penggunaan klausul baku dilakukan dengan memperhatikan
+ketentuan peraturan perundang-undangan.
+Huruf a
+Klausul pengalihan tanggung jawab atau kewajiban
+Penyelenggara kepada Konsumen di antaranya
+Konsumen membebaskan Penyelenggara dari tanggung
+jawab dan/atau pemberian ganti rugi dalam bentuk apa
+pun yang mungkin timbul dari keluhan atau gugatan
+yang diajukan oleh Konsumen atau kuasanya.
+Klausul baku tersebut mengalihkan tanggung jawab
+yang secara hukum merupakan tanggung jawab
+Penyelenggara, menjadi tanggung jawab Konsumen
+melalui perjanjian.
+Huruf b
+Cukup jelas.
+Huruf c
+Yang dimaksud dengan "memberi hak kepada
+Penyelenggara untuk mengurangi kegunaan produk
+dan/atau layanan atau mengurangi harta kekayaan
+Konsumen yang menjadi objek perjanjian produk dan
+layanan" di antaranya Penyelenggara melakukan
+penambahan biaya administrasi secara sepihak.
+Huruf d
+Yang dimaksud dengan “menambah, mengubah,
+dan/atau memberikan aturan lanjutan secara sepihak
+setelah perjanjian disetujui atau disepakati“ termasuk
+yang mengakibatkan munculnya aturan baru.
+Huruf e
+Cukup jelas.
+Huruf f
+Cukup jelas.
+Huruf g
+Cukup jelas.
+Huruf h
+Cukup jelas.
+Huruf i
+Cukup jelas.
+Huruf j
+Cukup jelas.
+Ayat (2)
+Cukup jelas.
+Ayat (3)
+Cukup jelas.
+Pasal 16
+Cukup jelas.
+Pasal 17
+Ayat (1)
+Pemberian informasi mengenai fitur produk dan/atau jasa serta
+permohonan produk dan/atau jasa diberikan secara tertulis
+melalui media yang mudah diakses oleh Konsumen atau lisan
+yang tercatat sebagai bukti telah dilakukan pemberian informasi.
+Bukti pemberian informasi secara lisan dapat berbentuk format
+data elektronik.
+Ayat (2)
+Cukup jelas.
+Ayat (3)
+Huruf a
+Penggunaan bahasa Indonesia dalam penyampaian
+informasi dapat disertai terjemahan dalam bahasa asing.
+Huruf b
+Cukup jelas.
+Pasal 18
+Yang dimaksud dengan “hal lain yang dipersamakan” antara lain
+media sosial.
+Pasal 19
+Cukup jelas.
+Pasal 20
+Ayat (1)
+Yang dimaksud dengan “perubahan informasi” adalah perubahan
+informasi atas produk dan/atau jasa Penyelenggara yang
+tercantum dalam dokumen dan/atau perjanjian.
+Penyampaian perubahan informasi dapat dilakukan
+menggunakan surat menyurat maupun elektronik, baik secara
+langsung kepada setiap Konsumen maupun dalam bentuk
+pengumuman.
+Ayat (2)
+Cukup jelas.
+Ayat (3)
+Cukup jelas.
+Ayat (4)
+Cukup jelas.
+Ayat (5)
+Cukup jelas.
+Pasal 21
+Ayat (1)
+Sarana resmi yang disediakan Penyelenggara berupa:
+a. publikasi tertulis di setiap kantor Penyelenggara atau melalui
+laman resmi Penyelenggara;
+b. informasi lisan melalui call center Penyelenggara; dan/atau
+c. sarana elektronik lain milik Penyelenggara.
+Ayat (2)
+Cukup jelas.
+Pasal 22
+Cukup jelas.
+Pasal 23
+Ayat (1)
+Pelaksanaan edukasi dapat dilakukan antara lain melalui
+kegiatan sosialisasi.
+Bentuk, media, tema, dan frekuensi pelaksanaan edukasi
+disesuaikan dengan kebutuhan Penyelenggara.
+Ayat (2)
+Cukup jelas.
+Ayat (3)
+Yang dimaksud dengan “terencana” adalah kegiatan yang
+dilakukan memiliki konsep yang sesuai dengan sasaran, strategi,
+dan kebijakan Penyelenggara.
+Yang dimaksud dengan “terukur” adalah memiliki tujuan,
+kurikulum, target peserta, bahan dan metode pembelajaran serta
+evalausi pemahaman.
+Yang dimaksud dengan “berkelanjutan” adalah kegiatan yang
+dilakukan secara berkesinambungan untuk mencapai tujuan
+yang direncanakan.
+Ayat (4)
+Yang dimaksud dengan “pemangku kepentingan” adalah setiap
+pihak yang memiliki kepentingan dalam penerapan Pelindungan
+Konsumen antara lain Bank Indonesia, kementerian, dan/atau
+lembaga terkait.
+Ayat (5)
+Cukup jelas.
+Pasal 24
+Cukup jelas.
+Pasal 25
+Ayat (1)
+Perilaku bisnis yang bertanggung jawab oleh Penyelenggara terdiri
+atas perencanaan, penjualan, pasca penjualan termasuk
+penanganan pengaduan, dan/atau perilaku bisnis lainnya.
+Termasuk dalam perilaku bisnis yang bertanggung jawab yaitu
+Penyelenggara memiliki tata cara terkait pengelolaan benturan
+kepentingan.
+Ayat (2)
+Cukup jelas.
+Ayat (3)
+Cukup jelas.
+Ayat (4)
+Cukup jelas.
+Pasal 26
+Ayat (1)
+Upaya Penyelenggara untuk melakukan pencegahan antara lain
+dengan memiliki dan melaksanakan pedoman perilaku pengurus,
+pengawas, serta pegawainya dalam bersikap dan bertindak.
+Ayat (2)
+Cukup jelas.
+Pasal 27
+Ayat (1)
+Kesesuaian antara kebutuhan dan kemampuan Konsumen
+dilakukan antara lain melalui penilaian kemampuan, kebutuhan,
+serta kondisi dari Konsumen terhadap produk dan/atau jasa
+Penyelenggara.
+Ayat (2)
+Cukup jelas.
+Pasal 28
+Cukup jelas.
+Pasal 29
+Ayat (1)
+Penyelenggara menjaga keamanan aset Konsumen terhadap
+penyalahgunaan antara lain:
+a. kecurangan, pembocoran informasi, dan tindak pidana
+perbankan (fraud);
+b. penipuan (scam); dan
+c. penyalahgunaan dan penggelapan aset lainnya (misuse).
+Ayat (2)
+Cukup jelas.
+Pasal 30
+Ayat (1)
+Bentuk mekanisme dan prosedur pelindungan aset Konsumen
+antara lain dengan menyediakan mekanisme penyediaan
+informasi dan/atau mekanisme kontrol.
+Ayat (2)
+Penyediaan informasi mengenai pemanfaatan produk dan/atau
+jasa antara lain berupa tanda bukti pemanfaatan produk
+dan/atau jasa.
+Penyediaan informasi perkembangan aset antara lain berupa data
+historis.
+Ayat (3)
+Cukup jelas.
+Pasal 31
+Cukup jelas.
+Pasal 32
+Cukup jelas.
+Pasal 33
+Ayat (1)
+Cukup jelas.
+Ayat (2)
+Yang dimaksud “pihak lain” adalah pihak lain di dalam wilayah
+hukum Negara Kesatuan Republik Indonesia dan di luar wilayah
+hukum Negara Kesatuan Republik Indonesia.
+Ayat (3)
+Cukup jelas.
+Ayat (4)
+Cukup jelas.
+Pasal 34
+Cukup jelas.
+Pasal 35
+Ayat (1)
+Cukup jelas.
+Ayat (2)
+Huruf a
+Yang dimaksud dengan “persetujuan secara tertulis” adalah
+persetujuan yang diberikan oleh Konsumen dalam bentuk
+surat dan/atau sarana elektronik lain milik Penyelenggara.
+Persetujuan secara tertulis termasuk juga persetujuan
+melalui telepon yang kemudian dituangkan dalam catatan
+resmi Penyelenggara dalam bentuk transkrip.
+Huruf b
+Cukup jelas.
+Ayat (3)
+Cukup jelas.
+Ayat (4)
+Cukup jelas.
+Ayat (5)
+Cukup jelas.
+Ayat (6)
+Cukup jelas.
+Pasal 36
+Cukup jelas.
+Pasal 37
+Cukup jelas.
+Pasal 38
+Ayat (1)
+Tindak lanjut dan penyelesaian pengaduan yang dilakukan oleh
+Penyelenggara dapat mengacu pada kesepakatan para
+Penyelenggara.
+Contoh penanganan dan penyelesaian pengaduan secara efektif
+dilakukan sesuai dengan jangka waktu penyelesaian dan
+menyediakan berbagai kanal penyelesaian pengaduan.
+Ayat (2)
+Cukup jelas.
+Pasal 39
+Ayat (1)
+Cukup jelas.
+Ayat (2)
+Contoh pihak lainnya yang diatur dan diawasi oleh Bank
+Indonesia antara lain penyedia infrastruktur Sistem Pembayaran
+dan infrastruktur pasar keuangan.
+Ayat (3)
+Cukup jelas.
+Pasal 40
+Ayat (1)
+Mekanisme penanganan dan penyelesaian pengaduan termasuk
+penyediaan media dan/atau sarana yang dapat digunakan
+dengan mudah oleh Konsumen untuk mengajukan pengaduan.
+Penanganan dan penyelesaian pengaduan juga memperhatikan
+kewajiban menjaga kerahasiaan dan keamanan data dan/atau
+informasi Konsumen.
+Ayat (2)
+Cukup jelas.
+Ayat (3)
+Penyampaian mekanisme penanganan dan penyelesaian
+pengaduan kepada Konsumen antara lain dilakukan melalui
+laman resmi atau brosur milik Penyelenggara.
+Ayat (4)
+Cukup jelas.
+Pasal 41
+Cukup jelas.
+Pasal 42
+Ayat (1)
+Contoh kesalahan, kelalaian, dan/atau perbuatan yang
+bertentangan dengan ketentuan peraturan perundang-
+undangan antara lain kesalahan sistem dan penggelapan oleh
+pegawai.
+Ayat (2)
+Cukup jelas.
+Ayat (3)
+Cukup jelas.
+Ayat (4)
+Cukup jelas.
+Pasal 43
+Cukup jelas.
+Pasal 44
+Ayat (1)
+Kepatuhan terhadap ketentuan peraturan perundang-undangan
+mengenai Pelindungan Konsumen antara lain:
+a. membentuk fungsi atau unit Pelindungan Konsumen;
+b. bertanggung jawab atas kesalahan, kelalaian, dan/atau
+perbuatan yang bertentangan dengan ketentuan peraturan
+perundang-undangan yang menimbulkan kerugian bagi
+Konsumen setelah melalui proses pembuktian;
+c. bertanggung jawab terhadap kerugian Konsumen yang
+disebabkan oleh pihak ketiga yang bertindak untuk
+kepentingan Penyelenggara; dan
+d. melapor pelaksanaan Pelindungan Konsumen kepada
+otoritas sesuai dengan kewenangannya masing-masing.
+Ayat (2)
+Cukup jelas.
+Pasal 45
+Cukup jelas.
+Pasal 46
+Ayat (1)
+Termasuk pihak lain antara lain agen pemasaran (sales agent)
+dan jasa penagihan (debt collection) yang bekerja sama dengan
+Penyelenggara.
+Ayat (2)
+Cukup jelas.
+Ayat (3)
+Cukup jelas.
+Pasal 47
+Cukup jelas.
+Pasal 48
+Huruf a
+Cukup jelas.
+Huruf b
+Cukup jelas.
+Huruf c
+Cukup jelas.
+Huruf d
+Yang dimaksud dengan “mengakses data dan/atau informasi”
+antara lain melihat, mengoreksi, dan menambahkan data
+dan/atau informasi.
+Huruf e
+Cukup jelas.
+Huruf f
+Cukup jelas.
+Huruf g
+Edukasi keuangan di antaranya mencakup edukasi mengenai
+produk dan/atau layanan yang sesuai kebutuhan dan
+kemampuan Konsumen untuk membantu dalam pengambilan
+keputusan keuangan.
+Huruf h
+Cukup jelas.
+Huruf i
+Cukup jelas.
+Huruf j
+Cukup jelas.
+Huruf k
+Hak lain yang diatur dalam ketentuan peraturan perundang-
+undangan antara lain hak membentuk asosiasi Konsumen.
+Pasal 49
+Cukup jelas.
+Pasal 50
+Cukup jelas.
+Pasal 51
+Cukup jelas.
+Pasal 52
+Huruf a
+Cukup jelas.
+Huruf b
+Yang dimaksud dengan “lembaga atau badan penyelesaian
+sengketa” adalah lembaga atau badan yang melakukan
+penyelesaian sengketa di luar pengadilan.
+Huruf c
+Cukup jelas.
+Pasal 53
+Ayat (1)
+Cukup jelas.
+Ayat (2)
+Cukup jelas.
+Ayat (3)
+Huruf a
+Cukup jelas.
+Huruf b
+Otoritas yang berwenang lainnya antara lain Otoritas Jasa
+Keuangan.
+Huruf c
+Cukup jelas.
+Ayat (4)
+Cukup jelas.
+Ayat (5)
+Huruf a
+Cukup jelas.
+Huruf b
+Cukup jelas.
+Huruf c
+Yang dimaksud dengan “fasilitasi” adalah upaya
+penyelesaian pengaduan Konsumen dengan cara
+mempertemukan Konsumen dengan Penyelenggara.
+Pasal 54
+Cukup jelas.
+Pasal 55
+Cukup jelas.
+Pasal 56
+Cukup jelas.
+Pasal 57
+Cukup jelas.
+Pasal 58
+Ayat (1)
+Cukup jelas.
+Ayat (2)
+Huruf a
+Cukup jelas.
+Huruf b
+Cukup jelas.
+Huruf c
+Yang dimaksud dengan “laporan penanganan dan
+penyelesaian pengaduan Konsumen” antara lain laporan
+penanganan dan penyelesaian pengaduan nasabah, laporan
+keluhan nasabah dalam penyelenggaraan kegiatan transfer
+dana, dan laporan penanganan pengaduan Konsumen
+terkait penyetoran dan/atau penarikan uang rupiah.
+Huruf d
+Cukup jelas.
+Ayat (3)
+Cukup jelas.
+Ayat (4)
+Yang dimaksud dengan “ketentuan Peraturan Bank Indonesia
+mengenai pelaporan berkala” antara lain ketentuan Peraturan
+Bank Indonesia mengenai laporan bank umum terintegrasi.
+Ayat (5)
+Cukup jelas.
+Ayat (6)
+Cukup jelas.
+Ayat (7)
+Cukup jelas.
+Pasal 59
+Cukup jelas.
+Pasal 60
+Cukup jelas.
+Pasal 61
+Ayat (1)
+Pengawasan terhadap perilaku Penyelenggara dalam
+menjalankan usahanya merupakan pengawasan dengan
+pendekatan pengawasan perilaku pasar (market conduct) yang
+terfokus pada perilaku Penyelenggara dalam mendesain,
+menyusun dan menyampaikan informasi, menawarkan, membuat
+perjanjian atas produk dan/atau jasa, serta penanganan dan
+penyelesaian pengaduan.
+Ayat (2)
+Cukup jelas.
+Pasal 62
+Otoritas, kementerian, dan/atau lembaga terkait antara lain Otoritas
+Jasa Keuangan, Kementerian Perdagangan Republik Indonesia,
+Kementerian Komunikasi dan Informatika Republik Indonesia,
+Kepolisian Republik Indonesia, Kejaksaan Agung Republik Indonesia,
+asosiasi Penyelenggara, dan asosiasi Konsumen.
+Pasal 63
+Cukup jelas.
+Pasal 64
+Cukup jelas.
+Pasal 65
+Cukup jelas.
+TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 38/BI

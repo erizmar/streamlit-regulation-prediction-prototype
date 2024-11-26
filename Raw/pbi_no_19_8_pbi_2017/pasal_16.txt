@@ -1,0 +1,11 @@
+Pasal 16
+Lembaga Switching wajib:
+a. mematuhi service level agreement (SLA) Lembaga
+Switching yang ditetapkan oleh Bank Indonesia;
+www.peraturan.go.id2017, No.134
+-11-
+b. menerapkan Standar yang ditetapkan oleh Bank
+Indonesia dan dikelola oleh Lembaga Standar; dan
+c. terhubung dan memberikan akses data transaksi
+pembayaran dan kegiatan operasionalnya kepada
+Lembaga Services.

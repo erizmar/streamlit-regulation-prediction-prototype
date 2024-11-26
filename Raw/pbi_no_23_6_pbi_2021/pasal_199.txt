@@ -1,0 +1,18 @@
+Pasal 199
+(1) Dalam hal terjadi permintaan pengembalian dana (refund)
+atas pembatalan transaksi pembayaran menggunakan
+instrumen yang disimpan, PJP yang menyelenggarakan
+aktivitas payment initiation dan/atau acquiring services
+berupa penyimpanan data instrumen pembayaran wajib
+segera melaksanakan pengembalian dana (refund)
+tersebut kepada pengguna layanan penyimpanan data
+instrumen.
+(2) PJP yang menyelenggarakan aktivitas payment initiation
+dan/atau acquiring services berupa penyimpanan data
+instrumen pembayaran wajib memiliki prosedur untuk
+memastikan terlaksananya pengembalian dana (refund)
+sebagaimana dimaksud pada ayat (1).
+(3) Dana hasil pengembalian sebagaimana dimaksud pada
+ayat (1) wajib segera dikembalikan ke dalam Sumber Dana
+asal yang digunakan untuk melakukan transaksi
+pembayaran.

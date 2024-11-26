@@ -1,0 +1,12 @@
+Pasal 146
+(1) Penerapan manajemen risiko oleh Penyelenggara
+Penunjang sebagaimana dimaksud dalam Pasal 143 ayat (2)
+huruf b berupa pelaksanaan audit sistem informasi secara
+berkala, penguatan rencana keberlangsungan bisnis
+(business continuity plan), dan mitigasi terhadap single point
+of failure.
+(2) Penerapan manajemen risiko dilakukan secara terintegrasi
+dalam setiap tahapan penggunaan Penyelenggara
+Penunjang pada proses perencanaan, pengadaan,
+pengembangan, operasional, pemeliharaan, hingga
+pengakhiran kerja sama.

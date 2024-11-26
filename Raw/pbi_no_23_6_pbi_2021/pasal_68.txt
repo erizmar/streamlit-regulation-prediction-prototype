@@ -1,0 +1,46 @@
+Pasal 68
+(1) Transaksi tertimbang menurut risiko sebagaimana
+dimaksud dalam Pasal 63 ayat (3) huruf a ditetapkan
+sebesar 10 (sepuluh) kali dari beban transaksi.
+(2) Beban transaksi sebagaimana dimaksud pada ayat (1)
+diatur dengan ketentuan:
+a. beban transaksi PJP kategori izin satu dan kategori
+izin dua merupakan jumlah dari rentang
+penghitungan:
+1. 4% (empat persen) dari nominal transaksi yang
+diproses oleh PJP dengan rentang sampai
+dengan Rp100.000.000.000,00 (seratus miliar
+rupiah);
+2. 1% (satu persen) dari nominal transaksi yang
+diproses oleh PJP dengan rentang di atas
+Rp100.000.000.000,00 (seratus miliar rupiah)
+sampai dengan Rp1.000.000.000.000,00 (satu
+triliun rupiah); dan
+3. 0,1% (nol koma satu persen) dari nominal
+transaksi yang diproses oleh PJP dengan rentang
+di atas Rp1.000.000.000.000,00 (satu triliun
+rupiah);
+b. beban transaksi PJP kategori izin tiga dihitung
+sebesar 0,1% (nol koma satu persen) dari nominal
+transaksi incoming dan outgoing yang diproses baik
+transaksi dalam negeri maupun luar negeri;
+c. bagi PJP kategori izin satu yang menyelenggarakan
+aktivitas penatausahaan Sumber Dana berupa
+penerbitan uang elektronik, beban transaksi
+sebagaimana dimaksud dalam huruf a ditambahkan
+5% (lima persen) dari dana float yang dikelola;
+d. bagi PJP kategori izin satu yang menyelenggarakan
+aktivitas penatausahaan Sumber Dana berupa
+penerbitan uang elektronik, nominal transaksi yang
+diperhitungkan yaitu transaksi outgoing yang terdiri
+dari transaksi belanja, transfer, dan redeem;
+dan/atau
+e. bagi PJP dengan kategori izin satu atau kategori izin
+dua yang menyelenggarakan aktivitas payment
+initiation dan/atau acquiring services yang
+meneruskan transaksi pembayaran menggunakan
+berbagai instrumen, nominal transaksi dihitung dari:
+1. seluruh transaksi yang diproses dengan model
+bisnis merchant aggregator; dan/atau
+2. 10% (sepuluh persen) dari seluruh transaksi
+yang diproses dengan model bisnis fasilitator.

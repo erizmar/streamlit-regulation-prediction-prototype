@@ -1,0 +1,15 @@
+Pasal 149
+Kanal sebagaimana dimaksud dalam Pasal 147 huruf b
+meliputi:
+a. kanal pembayaran menggunakan teknologi quick response
+code dengan skema merchant presented mode atau skema
+lainnya yang ditetapkan oleh Bank Indonesia;
+b. mesin electronic data capture;
+c. mesin anjungan tunai mandiri;
+d. kanal pembayaran online menggunakan teknologi berbasis
+mobile atau internet, termasuk proprietary channel atau
+shared channel oleh PJP yang menyelenggarakan aktivitas
+penatausahaan Sumber Dana; dan
+e. kanal pembayaran menggunakan metode atau
+penggunaan teknologi tertentu lainnya untuk perpindahan
+dana transfer debit dan transfer kredit.

@@ -1,0 +1,6 @@
+Pasal 174
+Dalam penyelenggaraan LKD, agen LKD harus mendukung
+interkoneksi dan interoperabilitas layanan transaksi
+pembayaran yang disediakan oleh antarpenyelenggara LKD
+untuk meningkatkan efisiensi dan kenyamanan bagi Pengguna
+Jasa.

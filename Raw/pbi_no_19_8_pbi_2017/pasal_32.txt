@@ -1,0 +1,19 @@
+Pasal 32
+(1) Penyelenggara GPN (NPG) sebagaimana dimaksud dalam
+Pasal 5 ayat (1) dan pihak yang terhubung dengan GPN
+(NPG) sebagaimana dimaksud dalam Pasal 5 ayat (2)
+wajib menyediakan fitur layanan untuk transaksi
+pembayaran yang diproses melalui GPN (NPG).
+(2) Fitur layanan sebagaimana dimaksud pada ayat (1)
+terdiri atas:
+a. pembayaran;
+b. transfer;
+c. tarik tunai;
+d. cek saldo; dan/atau
+e. fitur layanan lainnya.
+(3) Kewajiban penyediaan fitur layanan sebagaimana
+dimaksud pada ayat (2) mengacu pada ketentuan Bank
+Indonesia yang mengatur mengenai alat pembayaran
+dengan menggunakan kartu dan ketentuan Bank
+Indonesia yang mengatur mengenai uang elektronik.
+www.peraturan.go.id2017, No.

@@ -1,0 +1,105 @@
+Pasal 1
+Dalam Peraturan Bank Indonesia ini yang dimaksud dengan:
+1. Sistem Pembayaran adalah suatu sistem yang mencakup
+seperangkat aturan, lembaga, mekanisme, infrastruktur,
+sumber dana untuk pembayaran, dan akses ke sumber
+dana untuk pembayaran, yang digunakan untuk
+melaksanakan pemindahan dana guna memenuhi suatu
+kewajiban yang timbul dari suatu kegiatan ekonomi.-3-
+2. Bank adalah bank umum dan bank perkreditan rakyat
+sebagaimana dimaksud dalam Undang-Undang mengenai
+perbankan, termasuk kantor cabang bank asing di
+Indonesia, dan bank umum syariah serta bank pembiayaan
+rakyat syariah sebagaimana dimaksud dalam Undang-
+Undang mengenai perbankan syariah.
+3. Lembaga Selain Bank adalah badan usaha berbadan
+hukum Indonesia bukan Bank.
+4. Penyedia Jasa Pembayaran yang selanjutnya disingkat PJP
+adalah Bank atau Lembaga Selain Bank yang menyediakan
+jasa untuk memfasilitasi transaksi pembayaran kepada
+pengguna jasa.
+5. Penyelenggara Infrastruktur Sistem Pembayaran yang
+selanjutnya disebut PIP adalah pihak yang
+menyelenggarakan infrastruktur sebagai sarana yang dapat
+digunakan untuk melakukan pemindahan dana bagi
+kepentingan anggotanya.
+6. Penyelenggara Penunjang adalah pihak yang bekerja sama
+dengan PJP dan PIP untuk menunjang penyelenggaraan
+kegiatan jasa Sistem Pembayaran.
+7. Sistem Bank Indonesia-Real Time Gross Settlement yang
+selanjutnya disebut Sistem BI-RTGS adalah infrastruktur
+yang digunakan sebagai sarana transfer dana elektronik
+yang setelmennya dilakukan seketika per transaksi secara
+individual.
+8. Sistem Kliring Nasional Bank Indonesia yang selanjutnya
+disingkat SKNBI adalah infrastruktur yang digunakan oleh
+Bank Indonesia dalam penyelenggaraan transfer dana dan
+kliring berjadwal untuk memproses data keuangan
+elektronik pada layanan transfer dana, layanan kliring
+warkat debit, layanan pembayaran reguler, dan layanan
+penagihan reguler.
+9. Gerbang Pembayaran Nasional yang selanjutnya disingkat
+GPN adalah sistem yang terdiri atas standar, switching, dan
+services yang dibangun melalui seperangkat aturan dan
+mekanisme (arrangement) untuk mengintegrasikan-4-
+berbagai instrumen dan kanal pembayaran secara
+nasional.
+10. Lembaga Standar adalah lembaga yang menyusun dan
+mengelola standar dalam GPN.
+11. Lembaga Switching adalah lembaga yang
+menyelenggarakan switching dalam GPN.
+12. Lembaga Services adalah lembaga yang mengelola fungsi
+services dalam GPN.
+13. Self-Regulatory Organization di bidang Sistem Pembayaran
+yang selanjutnya disebut SRO adalah suatu forum atau
+institusi yang berbadan hukum Indonesia yang mewakili
+industri dan ditetapkan oleh Bank Indonesia untuk
+mendukung penyelenggaraan Sistem Pembayaran.
+14. Penyelenggara Sistem Pembayaran Sistemik yang
+selanjutnya disingkat PSPS adalah PIP yang memiliki
+dampak sistemik terhadap Sistem Pembayaran dan/atau
+sistem keuangan dalam hal PIP mengalami gangguan atau
+kegagalan.
+15. Penyelenggara Sistem Pembayaran Kritikal yang
+selanjutnya disingkat PSPK adalah PIP yang memiliki
+dampak kritikal terhadap Sistem Pembayaran dan/atau
+sistem keuangan dalam hal PIP mengalami gangguan atau
+kegagalan.
+16. Penyelenggara Sistem Pembayaran Umum yang
+selanjutnya disingkat PSPU adalah PIP yang tidak memiliki
+dampak signifikan terhadap Sistem Pembayaran dan/atau
+sistem keuangan dalam hal PIP mengalami gangguan atau
+kegagalan.
+17. Sumber Dana untuk Pembayaran yang selanjutnya disebut
+Sumber Dana adalah sumber dana yang digunakan untuk
+memenuhi kewajiban dalam transaksi pembayaran dan
+ditatausahakan dalam suatu akun untuk pembayaran.
+18. Pratransaksi adalah aktivitas awal yang dilakukan untuk
+memulai pemrosesan transaksi pembayaran.
+19. Inisiasi adalah aktivitas untuk menginisiasi perintah atau
+instruksi perpindahan dana melalui alat, media, dan/atau
+seperangkat prosedur, dengan metode atau penggunaan-5-
+teknologi tertentu dalam transaksi pembayaran, untuk
+dilanjutkan dengan aktivitas penerusan data transaksi
+pembayaran dan otorisasi.
+20. Otorisasi adalah persetujuan atas transaksi setelah
+dilakukan aktivitas penerusan data transaksi pembayaran
+yang dilakukan dengan cara melakukan verifikasi atau
+otentikasi identitas pemilik Sumber Dana yang melakukan
+transaksi pembayaran, melakukan validasi atas akses ke
+Sumber Dana dan transaksi pembayaran yang dilakukan,
+dan memastikan kecukupan Sumber Dana.
+21. Kliring adalah proses yang dilakukan setelah terjadinya
+transaksi pembayaran, yang mencakup aktivitas
+merekonsiliasi, mengonfirmasi, dan menghitung hak dan
+kewajiban para pihak, yang menunjukkan posisi akhir hak
+dan kewajiban para pihak sebelum penyelesaian akhir
+(settlement) dilakukan.
+22. Penyelesaian Akhir adalah aktivitas penyelesaian yang
+bersifat final dan mengikat melalui pendebitan dan
+pengkreditan akun para pihak atas hak dan kewajiban
+keuangan masing-masing pihak yang terlibat dalam
+pemrosesan transaksi pembayaran berdasarkan hasil
+kliring.
+23. Pascatransaksi adalah aktivitas setelah penyelesaian akhir
+(settlement) transaksi pembayaran selesai dilakukan.

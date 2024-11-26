@@ -1,0 +1,10 @@
+Pasal 14
+(1) Penyelenggara menerapkan manajemen Risiko Siber
+sebagaimana dimaksud dalam Pasal 11 huruf b sesuai
+praktik terbaik.
+(2) Manajemen Risiko Siber sebagaimana dimaksud pada ayat
+(1) mencakup aspek pelindungan terhadap:
+a. kerahasiaan;
+b. integritas; dan
+c. ketersediaan,
+informasi dalam mendukung kelangsungan proses bisnis.

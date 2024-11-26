@@ -1,0 +1,42 @@
+Pasal 167
+(1) Fitur uang elektronik yang dapat disediakan oleh PJP yang
+menyelenggarakan aktivitas penatausahaan Sumber Dana
+berupa penerbitan uang elektronik terdiri atas:
+a. pengisian ulang (top up);
+b. pembayaran transaksi pembelanjaan; dan/atau
+c. pembayaran tagihan.
+(2) Selain fitur sebagaimana dimaksud pada ayat (1), PJP yang
+menyelenggarakan aktivitas penatausahaan Sumber Dana
+berupa penerbitan uang elektronik dapat menyediakan
+fitur:
+a. transfer dana dan tarik tunai, untuk uang elektronik
+open loop dan yang registered; dan/atau
+b. fitur lain berdasarkan persetujuan Bank Indonesia.
+(3) Fitur transfer dana sebagaimana dimaksud pada ayat (2)
+huruf a meliputi:
+a. transfer antarpengguna uang elektronik yang terdiri
+atas:
+1. antaruang elektronik registered; dan/atau
+2. uang elektronik registered ke uang elektronik
+unregistered yang diperlakukan sebagai
+pengisian ulang (top up);
+b. transfer dari pengguna uang elektronik ke rekening
+simpanan; dan
+c. transfer dari rekening ke pengguna uang elektronik
+yang diperlakukan sebagai pengisian ulang (top up).
+(4) Dalam hal uang elektronik registered disertai dengan fitur
+transfer dana, maka transaksi transfer dana melalui uang
+elektronik registered harus diproses secara daring (online)
+dan seketika (real time).
+(5) PJP yang menyelenggarakan aktivitas penatausahaan
+Sumber Dana berupa penerbitan uang elektronik dengan
+fitur transfer dana harus menyediakan fasilitas tarik
+tunai, kecuali dalam pelaksanaan program Pemerintah
+Republik Indonesia.
+(6) Dalam penyediaan fitur tarik tunai, PJP yang
+menyelenggarakan aktivitas penatausahaan Sumber Dana
+berupa penerbitan uang elektronik dapat bekerja sama
+dengan tempat penguangan tunai.
+(7) Fitur tarik tunai sebagaimana dimaksud pada ayat (2)
+huruf a dapat dilakukan terhadap sebagian atau seluruh
+nilai uang elektronik.

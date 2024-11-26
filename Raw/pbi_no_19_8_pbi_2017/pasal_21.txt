@@ -1,0 +1,19 @@
+Pasal 21
+(1) Lembaga Services memiliki tugas yaitu:
+a. menjaga keamanan transaksi pembayaran dan
+kerahasiaan data nasabah;
+b. melakukan rekonsiliasi, kliring, dan setelmen;
+c. mengembangkan sistem untuk pencegahan fraud,
+manajemen risiko, dan mitigasi risiko;
+d. mengelola life cycle atas secure access module (SAM)
+dan mobile apps;
+e. menangani perselisihan transaksi pembayaran
+dalam rangka perlindungan konsumen; dan
+f. melaksanakan tugas lainnya yang diamanatkan oleh
+Bank Indonesia terkait kegiatan Services.
+(2) Dalam rangka melaksanakan tugas sebagaimana
+dimaksud pada ayat (1), Lembaga Services berwenang:
+a. menetapkan ketentuan; dan
+b. memperoleh akses terhadap data transaksi
+pembayaran dan kegiatan operasional dari Lembaga
+Switching.

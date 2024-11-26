@@ -1,0 +1,1010 @@
+LEMBARAN NEGARA
+REPUBLIK INDONESIA
+No.236, 2016 PERBANKAN. BI. Pembayaran. Transaksi. Pemrosesan.
+(Penjelasan dalam Tambahan Lembaran Negara
+Republik Indonesia Nomor 5945).
+PERATURAN BANK INDONESIA
+NOMOR 18/40/PBI/2016
+TENTANG
+PENYELENGGARAAN PEMROSESAN TRANSAKSI PEMBAYARAN
+DENGAN RAHMAT TUHAN YANG MAHA ESA
+GUBERNUR BANK INDONESIA,
+Menimbang : a. bahwa perkembangan teknologi dan sistem informasi
+terus melahirkan berbagai inovasi, khususnya yang
+berkaitan dengan financial technology (fintech) dalam
+rangka memenuhi kebutuhan masyarakat, termasuk di
+bidang jasa sistem pembayaran, baik dari sisi instrumen,
+penyelenggara, mekanisme, maupun infrastruktur
+penyelenggaraan pemrosesan transaksi pembayaran;
+b. bahwa inovasi dalam penyelenggaraan pemrosesan
+transaksi pembayaran perlu tetap mendukung
+terciptanya sistem pembayaran yang lancar, aman,
+efisien, dan andal, sehingga diperlukan pengaturan
+terhadap penyelenggara jasa sistem pembayaran untuk
+melengkapi ketentuan yang sudah ada dengan
+mengedepankan pemenuhan prinsip kehati-hatian dan
+manajemen risiko yang memadai, serta dengan tetap
+memperhatikan perluasan akses, kepentingan nasional
+dan perlindungan konsumen, termasuk standar dan
+praktik internasional;
+c. bahwa dalam rangka meningkatkan ketahanan dan daya
+saing industri sistem pembayaran nasional, Bank
+www.peraturan.go.id2016, No.236
+-2-
+Indonesia perlu mendorong peran pelaku domestik
+antara lain melalui penataan struktur kepemilikan
+penyelenggara jasa sistem pembayaran;
+d. bahwa pengaturan mengenai penyelenggaraan jasa
+sistem pembayaran dalam ketentuan saat ini, perlu terus
+dilengkapi dan dirumuskan secara lebih komprehensif
+untuk memberikan arah dan pedoman yang semakin
+jelas kepada penyelenggara jasa sistem pembayaran dan
+penyelenggara penunjang transaksi pembayaran, serta
+kepada masyarakat;
+e. bahwa berdasarkan pertimbangan sebagaimana
+dimaksud dalam huruf a sampai dengan huruf d, perlu
+menetapkan Peraturan Bank Indonesia tentang
+Penyelenggaraan Pemrosesan Transaksi Pembayaran;
+Mengingat : 1. Undang-Undang Nomor 23 Tahun 1999 tentang Bank
+Indonesia (Lembaran Negara Republik Indonesia Tahun
+1999 Nomor 66, Tambahan Lembaran Negara Republik
+Indonesia Nomor 3843) sebagaimana telah diubah
+beberapa kali, terakhir dengan Undang-Undang Nomor 6
+Tahun 2009 tentang Penetapan Peraturan Pemerintah
+Pengganti Undang-Undang Nomor 2 Tahun 2008 tentang
+Perubahan Kedua atas Undang-Undang Nomor 23 Tahun
+1999 tentang Bank Indonesia menjadi Undang-Undang
+(Lembaran Negara Republik Indonesia Tahun 2009
+Nomor 7, Tambahan Lembaran Negara Republik
+Indonesia Nomor 4962);
+2. Undang-Undang Nomor 11 Tahun 2008 tentang Informasi
+dan Transaksi Elektronik (Lembaran Negara Republik
+Indonesia Tahun 2008 Nomor 58, Tambahan Lembaran
+Negara Republik Indonesia Nomor 4843);
+3. Undang-Undang Nomor 3 Tahun 2011 tentang Transfer
+Dana (Lembaran Negara Republik Indonesia Tahun 2011
+Nomor 39, Tambahan Lembaran Negara Republik
+Indonesia Nomor 5204);
+www.peraturan.go.id2016, No.236
+-3-
+MEMUTUSKAN:
+Menetapkan : PERATURAN BANK INDONESIA TENTANG
+PENYELENGGARAAN PEMROSESAN TRANSAKSI
+PEMBAYARAN.
+BAB I
+KETENTUAN UMUM
+Pasal 1
+Dalam Peraturan Bank Indonesia ini yang dimaksud dengan:
+1. Bank adalah bank sebagaimana dimaksud dalam
+Undang-Undang yang mengatur mengenai perbankan
+dan bank syariah sebagaimana dimaksud dalam Undang-
+Undang yang mengatur mengenai perbankan syariah.
+2. Lembaga Selain Bank adalah badan usaha bukan Bank
+yang berbadan hukum dan didirikan berdasarkan hukum
+Indonesia.
+3. Penyelenggara Jasa Sistem Pembayaran adalah Bank
+atau Lembaga Selain Bank yang menyelenggarakan
+kegiatan jasa sistem pembayaran.
+4. Penyelenggara Penunjang Transaksi Pembayaran yang
+selanjutnya disebut Penyelenggara Penunjang adalah
+pihak yang menyediakan layanan kepada Penyelenggara
+Jasa Sistem Pembayaran dalam rangka menunjang
+penyelenggaraan kegiatan jasa sistem pembayaran.
+5. Switching adalah infrastruktur yang berfungsi sebagai
+pusat dan/atau penghubung penerusan data transaksi
+pembayaran melalui jaringan yang menggunakan alat
+pembayaran dengan menggunakan kartu, uang
+elektronik, dan/atau transfer dana.
+6. Payment Gateway adalah layanan elektronik yang
+memungkinkan pedagang untuk memproses transaksi
+pembayaran dengan menggunakan alat pembayaran
+dengan menggunakan kartu, uang elektronik, dan/atau
+Proprietary Channel.
+7. Dompet Elektronik ( Electronic Wallet ) yang selanjutnya
+disebut Dompet Elektronik adalah layanan elektronik
+www.peraturan.go.id2016, No.236
+-4-
+untuk menyimpan data instrumen pembayaran antara
+lain alat pembayaran dengan menggunakan kartu
+dan/atau uang elektronik, yang dapat juga menampung
+dana, untuk melakukan pembayaran.
+8. Proprietary Channel adalah kanal pembayaran yang
+dikembangkan dan dimiliki oleh Bank secara eksklusif
+untuk kepentingan nasabah sendiri yang antara lain
+menggunakan teknologi berbasis short message service ,
+mobile, web, subscriber identity module tool kit, dan/atau
+unstructured supplementary service data.
+9. Penyelenggara Switching adalah Bank atau Lembaga
+Selain Bank yang menyelenggarakan kegiatan Switching.
+10. Penyelenggara Payment Gateway adalah Bank atau
+Lembaga Selain Bank yang menyelenggarakan kegiatan
+Payment Gateway.
+11. Penyelenggara Dompet Elektronik adalah Bank atau
+Lembaga Selain Bank yang menyelenggarakan Dompet
+Elektronik.
+12. Prinsipal adalah prinsipal sebagaimana dimaksud dalam
+ketentuan Bank Indonesia yang mengatur mengenai alat
+pembayaran dengan menggunakan kartu dan ketentuan
+Bank Indonesia yang mengatur mengenai uang
+elektronik.
+13. Penerbit adalah penerbit sebagaimana dimaksud dalam
+ketentuan Bank Indonesia yang mengatur mengenai alat
+pembayaran dengan menggunakan kartu dan ketentuan
+Bank Indonesia yang mengatur mengenai uang
+elektronik.
+14. Acquirer adalah acquirer sebagaimana dimaksud dalam
+ketentuan Bank Indonesia yang mengatur mengenai alat
+pembayaran dengan menggunakan kartu dan ketentuan
+Bank Indonesia yang mengatur mengenai uang
+elektronik.
+15. Penyelenggara Kliring adalah penyelenggara kliring
+sebagaimana dimaksud dalam ketentuan Bank Indonesia
+yang mengatur mengenai alat pembayaran dengan
+menggunakan kartu dan ketentuan Bank Indonesia yang
+mengatur mengenai uang elektronik.
+www.peraturan.go.id2016, No.236
+-5-
+16. Penyelenggara Penyelesaian Akhir adalah penyelenggara
+penyelesaian akhir sebagaimana dimaksud dalam
+ketentuan Bank Indonesia yang mengatur mengenai alat
+pembayaran dengan menggunakan kartu dan ketentuan
+Bank Indonesia yang mengatur mengenai uang
+elektronik.
+17. Penyelenggara Transfer Dana adalah penyelenggara
+transfer dana sebagaimana dimaksud dalam ketentuan
+Bank Indonesia yang mengatur mengenai transfer dana.
+BAB II
+PENYELENGGARA DALAM PEMROSESAN TRANSAKSI
+PEMBAYARAN
+Pasal 2
+(1) Pemrosesan transaksi pembayaran dilakukan oleh
+Penyelenggara Jasa Sistem Pembayaran dan
+Penyelenggara Penunjang.
+(2) Pemrosesan transaksi pembayaran sebagaimana
+dimaksud pada ayat (1) meliputi kegiatan:
+a. pratransaksi;
+b. otorisasi;
+c. kliring;
+d. penyelesaian akhir (setelmen); dan
+e. pascatransaksi.
+Pasal 3
+(1) Penyelenggara Jasa Sistem Pembayaran sebagaimana
+dimaksud dalam Pasal 2 ayat (1) terdiri atas:
+a. Prinsipal;
+b. Penyelenggara Switching;
+c. Penerbit;
+d. Acquirer;
+e. Penyelenggara Payment Gateway;
+f. Penyelenggara Kliring;
+g. Penyelenggara Penyelesaian Akhir;
+h. Penyelenggara Transfer Dana;
+www.peraturan.go.id2016, No.236
+-6-
+i. Penyelenggara Dompet Elektronik; dan
+j. Penyelenggara Jasa Sistem Pembayaran lainnya
+yang ditetapkan oleh Bank Indonesia.
+(2) Acquirer sebagaimana dimaksud pada ayat (1) huruf d
+dan Penyelenggara Payment Gateway sebagaimana
+dimaksud pada ayat (1) huruf e merupakan
+penyelenggara yang termasuk dalam kategori merchant
+acquiring services.
+(3) Penyelenggara Penunjang sebagaimana dimaksud dalam
+Pasal 2 ayat (1) merupakan perusahaan yang
+menyelenggarakan kegiatan antara lain:
+a. pencetakan kartu;
+b. personalisasi pembayaran;
+c. penyediaan pusat data (data center) dan/atau pusat
+pemulihan bencana (disaster recovery center);
+d. penyediaan terminal;
+e. penyediaan fitur keamanan instrumen pembayaran
+dan/atau transaksi pembayaran;
+f. penyediaan teknologi pendukung transaksi
+nirkontak (contactless); dan/atau
+g. penyediaan penerusan ( routing) data pendukung
+pemrosesan transaksi pembayaran.
+(4) Ketentuan lebih lanjut mengenai Penyelenggara Jasa
+Sistem Pembayaran sebagaimana dimaksud pada ayat (1)
+dan Penyelenggara Penunjang sebagaimana dimaksud
+pada ayat (3) diatur dalam Surat Edaran Bank Indonesia.
+www.peraturan.go.id2016, No.236
+-7-
+BAB III
+PERIZINAN DAN PERSETUJUAN DALAM
+PENYELENGGARAAN PEMROSESAN TRANSAKSI
+PEMBAYARAN
+Bagian Kesatu
+Umum
+Pasal 4
+(1) Setiap pihak yang bertindak sebagai Penyelenggara Jasa
+Sistem Pembayaran sebagaimana dimaksud dalam Pasal
+3 ayat (1) wajib terlebih dahulu memperoleh izin dari
+Bank Indonesia.
+(2) Pihak yang telah memperoleh izin sebagaimana dimaksud
+pada ayat (1) dan akan melakukan:
+a. pengembangan kegiatan jasa sistem pembayaran;
+b. pengembangan produk dan aktivitas jasa sistem
+pembayaran; dan/atau
+c. kerja sama dengan pihak lain,
+wajib terlebih dahulu memperoleh persetujuan dari Bank
+Indonesia.
+Bagian Kedua
+Perizinan
+Pasal 5
+(1) Pihak yang mengajukan izin untuk menjadi
+Penyelenggara Jasa Sistem Pembayaran harus memenuhi
+persyaratan:
+a. umum; dan
+b. aspek kelayakan sebagai Penyelenggara Jasa Sistem
+Pembayaran.
+(2) Selain memenuhi persyaratan sebagaimana dimaksud
+pada ayat (1), pihak yang mengajukan izin untuk menjadi
+Prinsipal, Penyelenggara Switching, Penyelenggara
+Kliring, dan/atau Penyelenggara Penyelesaian Akhir
+www.peraturan.go.id2016, No.236
+-8-
+harus berbentuk perseroan terbatas yang paling sedikit
+80% (delapan puluh persen) sahamnya dimiliki oleh:
+a. warga negara Indonesia; dan/atau
+b. badan hukum Indonesia.
+(3) Dalam hal terdapat kepemilikan asing pada Prinsipal,
+Penyelenggara Switching, Penyelenggara Kliring,
+dan/atau Penyelenggara Penyelesaian Akhir sebagaimana
+dimaksud pada ayat (2) maka perhitungan jumlah
+kepemilikan asing tersebut meliputi kepemilikan secara
+langsung dan kepemilikan secara tidak langsung.
+(4) Pihak sebagaimana dimaksud pada ayat (2) yang telah
+memperoleh izin sebagai Prinsipal, Penyelenggara
+Switching, Penyelenggara Kliring, dan/atau
+Penyelenggara Penyelesaian Akhir wajib tetap memenuhi
+persentase kepemilikan saham sebagaimana dimaksud
+pada ayat (2).
+Pasal 6
+(1) Pihak yang mengajukan izin untuk menjadi
+Penyelenggara Switching atau Penyelenggara Payment
+Gateway harus berupa:
+a. Bank; atau
+b. Lembaga Selain Bank.
+(2) Lembaga Selain Bank sebagaimana dimaksud pada ayat
+(1) huruf b berbentuk perseroan terbatas yang
+melakukan kegiatan usaha di bidang teknologi informasi
+dan/atau sistem pembayaran.
+Pasal 7
+(1) Pihak yang mengajukan izin untuk menjadi
+Penyelenggara Dompet Elektronik harus berupa:
+a. Bank; atau
+b. Lembaga Selain Bank.
+(2) Lembaga Selain Bank sebagaimana dimaksud pada ayat
+(1) huruf b berbentuk perseroan terbatas.
+www.peraturan.go.id2016, No.236
+-9-
+Pasal 8
+Kewajiban memperoleh izin sebagaimana dimaksud dalam
+Pasal 4 ayat (1) berlaku bagi Bank atau Lembaga Selain Bank
+sebagaimana dimaksud dalam Pasal 7 ayat (1) yang
+menyelenggarakan Dompet Elektronik dengan pengguna aktif
+telah mencapai atau direncanakan akan mencapai jumlah
+paling sedikit 300.000 (tiga ratus ribu) pengguna.
+Pasal 9
+(1) Pihak yang akan menjadi Penyelenggara Switching
+dan/atau Penyelenggara Payment Gateway sebagaimana
+dimaksud dalam Pasal 6 dan/atau Penyelenggara
+Dompet Elektronik sebagaimana dimaksud dalam Pasal
+7, harus memenuhi persyaratan aspek kelayakan sebagai
+Penyelenggara Jasa Sistem Pembayaran yang meliputi:
+a. legalitas dan profil perusahaan;
+b. hukum;
+c. kesiapan operasional;
+d. keamanan dan keandalan sistem;
+e. kelayakan bisnis;
+f. kecukupan manajemen risiko; dan
+g. perlindungan konsumen.
+(2) Bagi pihak yang akan mengajukan izin untuk menjadi
+Penyelenggara Dompet Elektronik yang dapat juga
+menampung dana maka pemenuhan persyaratan:
+a. kecukupan manajemen risiko sebagaimana
+dimaksud pada ayat (1) huruf f; dan
+b. perlindungan konsumen sebagaimana dimaksud
+pada ayat (1) huruf g,
+harus mencakup pula manajemen risiko dan
+perlindungan konsumen terkait pengelolaan dana yang
+ditampung dalam Dompet Elektronik.
+(3) Ketentuan lebih lanjut mengenai pemenuhan persyaratan
+sebagai Penyelenggara Jasa Sistem Pembayaran
+sebagaimana dimaksud pada ayat (1) dan ayat (2) diatur
+dalam Surat Edaran Bank Indonesia.
+www.peraturan.go.id2016, No.236
+-10-
+Pasal 10
+(1) Persyaratan dan tata cara memperoleh izin sebagai
+Prinsipal, Penerbit, Acquirer, Penyelenggara Kliring, dan
+Penyelenggara Penyelesaian Akhir mengacu pada
+ketentuan Bank Indonesia yang mengatur mengenai alat
+pembayaran dengan menggunakan kartu atau ketentuan
+Bank Indonesia yang mengatur mengenai uang
+elektronik.
+(2) Persyaratan dan tata cara memperoleh izin sebagai
+Penyelenggara Transfer Dana mengacu pada ketentuan
+Bank Indonesia yang mengatur mengenai transfer dana.
+Bagian Ketiga
+Persetujuan
+Pasal 11
+(1) Persetujuan untuk pengembangan kegiatan jasa sistem
+pembayaran sebagaimana dimaksud dalam Pasal 4 ayat
+(2) huruf a meliputi:
+a. penyelenggaraan Payment Gateway yang dilakukan
+oleh Penyelenggara Jasa Sistem Pembayaran yang
+telah memperoleh izin sebagai Penerbit dan/atau
+Acquirer;
+b. penyelenggaraan Dompet Elektronik yang dilakukan
+oleh Penyelenggara Jasa Sistem Pembayaran sebagai
+berikut:
+1. Bank; atau
+2. Lembaga Selain Bank yang telah memperoleh
+izin sebagai Penerbit uang elektronik; dan/atau
+c. penyelenggaraan Proprietary Channel yang dilakukan
+oleh Penyelenggara Jasa Sistem Pembayaran berupa
+Bank.
+(2) Persetujuan untuk pengembangan produk dan aktivitas
+jasa sistem pembayaran sebagaimana dimaksud dalam
+Pasal 4 ayat (2) huruf b meliputi pengembangan fitur,
+jenis, layanan, dan/atau fasilitas dari produk dan/atau
+aktivitas jasa sistem pembayaran yang telah berjalan.
+www.peraturan.go.id2016, No.236
+-11-
+(3) Persetujuan untuk melakukan kerja sama sebagaimana
+dimaksud dalam Pasal 4 ayat (2) huruf c meliputi:
+a. kerja sama dengan Penyelenggara Jasa Sistem
+Pembayaran lain; dan/atau
+b. kerja sama dengan Penyelenggara Penunjang.
+(4) Pihak yang memperoleh persetujuan sebagaimana
+dimaksud pada ayat (1) wajib tunduk pada ketentuan
+yang berlaku bagi Penyelenggara Payment Gateway dan
+Penyelenggara Dompet Elektronik.
+Pasal 12
+(1) Pemberian persetujuan kepada Penyelenggara Jasa
+Sistem Pembayaran dalam rangka pengembangan
+kegiatan jasa sistem pembayaran sebagaimana dimaksud
+dalam Pasal 4 ayat (2) huruf a dan pengembangan
+produk dan aktivitas jasa sistem pembayaran
+sebagaimana dimaksud dalam Pasal 4 ayat (2) huruf b
+mempertimbangkan pemenuhan persyaratan yang
+meliputi aspek:
+a. kesiapan operasional;
+b. keamanan dan keandalan sistem;
+c. penerapan manajemen risiko; dan
+d. perlindungan konsumen.
+(2) Selain pemenuhan aspek sebagaimana dimaksud pada
+ayat (1), Bank Indonesia juga mempertimbangkan hasil
+pengawasan terhadap kinerja Penyelenggara Jasa Sistem
+Pembayaran.
+Pasal 13
+Pemberian persetujuan kepada Penyelenggara Jasa Sistem
+Pembayaran dalam rangka kerja sama sebagaimana dimaksud
+dalam Pasal 4 ayat (2) huruf c mempertimbangkan
+pemenuhan persyaratan yang meliputi aspek:
+a. legalitas dan profil perusahaan;
+b. kompetensi pihak yang akan diajak bekerjasama;
+c. kinerja;
+d. keamanan dan keandalan sistem dan infrastruktur; dan
+e. hukum.
+www.peraturan.go.id2016, No.236
+-12-
+Pasal 14
+(1) Penyelenggara Jasa Sistem Pembayaran bertanggung
+jawab untuk memastikan keamanan dan kelancaran
+pemrosesan transaksi pembayaran, termasuk dalam hal
+dilakukan melalui kerja sama dengan Penyelenggara
+Penunjang.
+(2) Penyelenggara Jasa Sistem Pembayaran wajib melakukan
+evaluasi secara berkala atas kinerja Penyelenggara
+Penunjang.
+Bagian Keempat
+Tata Cara dan Pemrosesan Izin dan Persetujuan
+Pasal 15
+(1) Bank atau Lembaga Selain Bank yang akan:
+a. mengajukan izin sebagai Penyelenggara Jasa Sistem
+Pembayaran sebagaimana dimaksud dalam Pasal 4
+ayat (1); atau
+b. mengajukan persetujuan dalam rangka
+pengembangan kegiatan jasa sistem pembayaran,
+pengembangan produk dan aktivitas jasa sistem
+pembayaran, dan/atau kerja sama sebagaimana
+dimaksud dalam Pasal 4 ayat (2),
+harus menyampaikan permohonan secara tertulis dalam
+Bahasa Indonesia kepada Bank Indonesia disertai dengan
+dokumen pendukung pemenuhan aspek sebagaimana
+dimaksud dalam Pasal 9, Pasal 12, dan Pasal 13.
+(2) Dalam rangka memproses permohonan izin sebagaimana
+dimaksud pada ayat (1) huruf a, Bank Indonesia
+melakukan hal sebagai berikut:
+a. penelitian administratif;
+b. analisis kelayakan bisnis; dan
+c. pemeriksaan terhadap Bank atau Lembaga Selain
+Bank.
+(3) Dalam rangka memproses permohonan persetujuan
+sebagaimana dimaksud pada ayat (1) huruf b, Bank
+Indonesia melakukan hal sebagai berikut:
+www.peraturan.go.id2016, No.236
+-13-
+a. penelitian administratif;
+b. analisis terhadap kinerja Bank atau Lembaga Selain
+Bank; dan
+c. pemeriksaan terhadap Bank atau Lembaga Selain
+Bank, jika diperlukan.
+(4) Berdasarkan hasil proses sebagaimana dimaksud pada
+ayat (2) dan ayat (3), Bank Indonesia menetapkan
+keputusan untuk:
+a. menyetujui; atau
+b. menolak,
+permohonan izin atau persetujuan yang diajukan.
+(5) Bank Indonesia dapat memberikan kemudahan kepada
+Penyelenggara Jasa Sistem Pembayaran yang telah
+memperoleh izin atas proses persetujuan kerja sama
+sebagaimana dimaksud pada ayat (1) huruf b dalam
+rangka penggunaan dan perluasan penggunaan
+instrumen pembayaran nontunai untuk program yang
+terkait dengan kebijakan nasional.
+(6) Kemudahan sebagaimana dimaksud pada ayat (5)
+diberikan dengan tetap memperhatikan risiko
+penyelenggaraan kegiatan jasa sistem pembayaran.
+Bagian Kelima
+Kewajiban bagi Pihak Asing
+Pasal 16
+Pihak asing yang menyelenggarakan jasa sistem pembayaran
+di wilayah Negara Kesatuan Republik Indonesia dan/atau
+bekerjasama dengan Penyelenggara Jasa Sistem Pembayaran,
+wajib tunduk pada Peraturan Bank Indonesia ini dan
+ketentuan peraturan perundang-undangan.
+Bagian Keenam
+Kebijakan Perizinan dan/atau Persetujuan
+Pasal 17
+(1) Bank Indonesia berwenang menetapkan kebijakan
+perizinan dan/atau persetujuan penyelenggaraan jasa
+sistem pembayaran.
+www.peraturan.go.id2016, No.236
+-14-
+(2) Penetapan kebijakan sebagaimana dimaksud pada ayat
+(1) didasarkan pada pertimbangan:
+a. menjaga efisiensi nasional;
+b. mendukung kebijakan nasional;
+c. menjaga kepentingan publik;
+d. menjaga pertumbuhan industri; dan/atau
+e. menjaga persaingan usaha yang sehat.
+BAB IV
+PENYELENGGARAAN PEMROSESAN TRANSAKSI
+PEMBAYARAN
+Pasal 18
+(1) Dalam penyelenggaraan pemrosesan transaksi
+pembayaran, setiap Penyelenggara Jasa Sistem
+Pembayaran wajib:
+a. menerapkan manajemen risiko secara efektif dan
+konsisten;
+b. menerapkan standar keamanan sistem informasi;
+c. menyelenggarakan pemrosesan transaksi
+pembayaran secara domestik;
+d. menerapkan perlindungan konsumen; dan
+e. memenuhi ketentuan peraturan perundang-
+undangan.
+(2) Kewajiban pemrosesan transaksi pembayaran secara
+domestik sebagaimana dimaksud pada ayat (1) huruf c
+dilaksanakan sebagai berikut:
+a. untuk Penyelenggara Jasa Sistem Pembayaran yang
+memproses transaksi alat pembayaran dengan
+menggunakan kartu, tunduk pada ketentuan Bank
+Indonesia yang mengatur mengenai alat pembayaran
+dengan menggunakan kartu; dan
+b. untuk Penyelenggara Jasa Sistem Pembayaran yang
+memproses transaksi uang elektronik dan/atau
+transaksi sistem pembayaran lainnya, tunduk pada
+ketentuan yang akan ditetapkan kemudian oleh
+Bank Indonesia.
+www.peraturan.go.id2016, No.236
+-15-
+Bagian Kesatu
+Penerapan Manajemen Risiko
+Pasal 19
+(1) Penerapan manajemen risiko secara efektif dan konsisten
+atas penyelenggaraan pemrosesan transaksi pembayaran
+mencakup:
+a. pengawasan aktif manajemen;
+b. kecukupan kebijakan dan prosedur serta struktur
+organisasi;
+c. fungsi manajemen risiko dan sumber daya manusia
+pelaksana; dan
+d. pengendalian intern.
+(2) Penerapan manajemen risiko oleh Prinsipal, Penerbit,
+Acquirer, Penyelenggara Kliring, dan Penyelenggara
+Penyelesaian Akhir selain mengacu pada penerapan
+manajemen risiko sebagaimana dimaksud pada ayat (1)
+juga mengacu pada ketentuan mengenai manajemen
+risiko sebagaimana dimaksud dalam Peraturan Bank
+Indonesia yang mengatur mengenai penyelenggaraan
+kegiatan alat pembayaran dengan menggunakan kartu
+dan/atau Peraturan Bank Indonesia yang mengatur
+mengenai uang elektronik, serta ketentuan peraturan
+perundang-undangan lainnya.
+(3) Penerapan manajemen risiko oleh Penyelenggara Transfer
+Dana selain mengacu pada penerapan manajemen risiko
+sebagaimana dimaksud pada ayat (1) juga mengacu pada
+ketentuan penerapan manajemen risiko sebagaimana
+dimaksud dalam Peraturan Bank Indonesia yang
+mengatur mengenai transfer dana dan ketentuan
+peraturan perundang-undangan lainnya.
+Bagian Kedua
+Keamanan Sistem Informasi
+Pasal 20
+(1) Penerapan standar keamanan sistem informasi oleh
+Prinsipal, Penerbit, Acquirer, Penyelenggara Kliring,
+www.peraturan.go.id2016, No.236
+-16-
+Penyelenggara Penyelesaian Akhir, dan Penyelenggara
+Transfer Dana mengacu pada ketentuan Bank Indonesia
+yang mengatur mengenai penyelenggaraan kegiatan alat
+pembayaran dengan menggunakan kartu, ketentuan
+Bank Indonesia yang mengatur mengenai uang
+elektronik, dan/atau ketentuan Bank Indonesia yang
+mengatur mengenai transfer dana.
+(2) Penerapan standar keamanan sistem informasi oleh
+Penyelenggara Switching, Penyelenggara Payment
+Gateway, Penyelenggara Dompet Elektronik, dan Bank
+yang menyelenggarakan Proprietary Channel paling
+sedikit:
+a. pemenuhan sertifikasi dan/atau standar keamanan
+dan keandalan sistem yang berlaku umum atau
+yang ditetapkan oleh Bank Indonesia atau
+otoritas/lembaga terkait;
+b. pemeliharaan dan peningkatan keamanan teknologi;
+dan
+c. pelaksanaan audit yang diselenggarakan secara
+berkala paling sedikit 3 (tiga) tahun sekali atau
+setiap terdapat perubahan yang signifikan.
+(3) Pemenuhan sertifikasi dan/atau standar keamanan
+sistem sebagaimana dimaksud pada ayat (2) huruf a oleh
+Penyelenggara Switching paling sedikit:
+a. pengamanan data dan informasi terkait transaksi
+pembayaran yang diproses; dan
+b. pengamanan jaringan.
+(4) Pemenuhan sertifikasi dan/atau standar keamanan
+sistem sebagaimana dimaksud pada ayat (2) huruf a bagi
+Penyelenggara Payment Gateway paling sedikit:
+a. pengamanan data dan informasi terkait transaksi
+pembayaran yang diproses;
+b. pengamanan jaringan; dan
+c. penerapan fraud detection system.
+(5) Pemenuhan sertifikasi dan/atau standar keamanan
+sistem sebagaimana dimaksud pada ayat (2) huruf a bagi
+Penyelenggara Dompet Elektronik paling sedikit:
+www.peraturan.go.id2016, No.236
+-17-
+a. pengamanan data dan informasi pengguna serta
+data dan informasi instrumen pembayaran yang
+disimpan dalam Dompet Elektronik;
+b. sistem dan prosedur aktivasi dan penggunaan
+Dompet Elektronik; dan
+c. penerapan fraud detection system.
+Bagian Ketiga
+Penyelenggaraan Dompet Elektronik
+Pasal 21
+(1) Dalam hal terjadi permintaan pengembalian dana (refund)
+atas pembatalan transaksi pembayaran, Penyelenggara
+Dompet Elektronik wajib segera melaksanakan
+pengembalian dana ( refund) tersebut kepada pengguna
+Dompet Elektronik.
+(2) Penyelenggara Dompet Elektronik wajib memiliki
+prosedur untuk memastikan terlaksananya pengembalian
+dana (refund) sebagaimana dimaksud pada ayat (1).
+(3) Dana hasil pengembalian sebagaimana dimaksud pada
+ayat (1) wajib segera dikembalikan ke dalam sumber dana
+asal yang digunakan untuk melakukan transaksi
+pembayaran.
+Pasal 22
+(1) Selain wajib memenuhi ketentuan sebagaimana
+dimaksud dalam Pasal 18, Penyelenggara Dompet
+Elektronik yang menyelenggarakan Dompet Elektronik
+yang dapat digunakan untuk menyimpan data instrumen
+pembayaran dan menampung dana, wajib untuk:
+a. memastikan penggunaan dana pada Dompet
+Elektronik hanya untuk tujuan pembayaran;
+b. mematuhi ketentuan Bank Indonesia mengenai
+batasan nilai dana yang dapat ditampung dalam
+Dompet Elektronik;
+c. memastikan dana yang dimiliki pengguna telah
+tersedia dan dapat digunakan saat melakukan
+transaksi;
+www.peraturan.go.id2016, No.236
+-18-
+d. menempatkan seluruh dana yang tersimpan dalam
+Dompet Elektronik dalam bentuk aset yang aman
+dan likuid untuk memastikan ketersediaan dana
+sebagaimana dimaksud dalam huruf c;
+e. memastikan bahwa penggunaan dana hanya untuk
+memenuhi kepentingan transaksi pembayaran oleh
+pengguna Dompet Elektronik; dan
+f. menerapkan program anti pencucian uang dan
+pencegahan pendanaan terorisme sesuai dengan
+ketentuan peraturan perundang-undangan.
+(2) Batasan nilai dana yang dapat ditampung dalam Dompet
+Elektronik sebagaimana dimaksud pada ayat (1) huruf b
+hanya dapat dilampaui dalam hal:
+a. terdapat pengembalian dana ( refund) sebagaimana
+dimaksud dalam Pasal 21 ayat (1); dan
+b. Penyelenggara Dompet Elektronik mampu
+mengidentifikasi kelebihan dana tersebut sebagai
+hasil pengembalian dana (refund).
+(3) Penempatan seluruh dana yang tersimpan dalam Dompet
+Elektronik sebagaimana dimaksud pada ayat (1) huruf d
+dilakukan dengan:
+a. menatausahakan dana yang tersimpan dalam
+Dompet Elektronik melalui pencatatan pada pos
+kewajiban segera atau rupa-rupa pasiva bagi
+Penyelenggara Dompet Elektronik berupa Bank; atau
+b. menempatkan dana yang tersimpan dalam Dompet
+Elektronik sebesar 100% (seratus persen) pada bank
+umum dalam bentuk rekening simpanan, bagi
+Penyelenggara Dompet Elektronik berupa Lembaga
+Selain Bank.
+(4) Ketentuan lebih lanjut mengenai kewajiban
+Penyelenggara Dompet Elektronik sebagaimana dimaksud
+pada ayat (1) diatur dalam Surat Edaran Bank Indonesia.
+www.peraturan.go.id2016, No.236
+-19-
+Bagian Keempat
+Penyelenggaraan Payment Gateway
+Pasal 23
+Penyelenggara Payment Gateway yang dalam penyelenggaraan
+kegiatannya melakukan fungsi untuk menyelesaikan
+pembayaran kepada pedagang, wajib:
+a. memiliki dan menjalankan mekanisme dan prosedur
+mengenai:
+1. pemilihan pedagang ( merchant acquisition ) yang
+difasilitasi dengan penyediaan Payment Gateway ;
+dan
+2. penyelesaian pembayaran kepada pedagang; dan
+b. melakukan evaluasi terhadap kelancaran dan keamanan
+transaksi pembayaran yang dilakukan melalui pedagang.
+Bagian Kelima
+Perlindungan Konsumen
+Pasal 24
+(1) Penerapan prinsip perlindungan konsumen oleh
+Penyelenggara Jasa Sistem Pembayaran mengacu pada
+ketentuan Bank Indonesia yang mengatur mengenai
+perlindungan konsumen jasa sistem pembayaran.
+(2) Penerapan prinsip perlindungan konsumen sebagaimana
+dimaksud pada ayat (1) meliputi:
+a. keadilan dan keandalan;
+b. transparansi;
+c. perlindungan data dan/atau informasi konsumen;
+dan
+d. penanganan dan penyelesaian pengaduan yang
+efektif.
+Pasal 25
+Penerapan prinsip perlindungan konsumen sebagaimana
+dimaksud dalam Pasal 24 oleh Penyelenggara Payment
+Gateway antara lain:
+www.peraturan.go.id2016, No.236
+-20-
+a. penyediaan informasi yang memadai kepada konsumen
+mengenai mekanisme pembayaran melalui Payment
+Gateway, termasuk mengenai penggunaan data dan
+informasi instrumen pembayaran dalam transaksi online;
+dan
+b. turut memastikan terlaksananya penyerahan barang
+dan/atau jasa dari pedagang kepada konsumen setelah
+konsumen melakukan pembayaran dalam transaksi
+online.
+Pasal 26
+Penerapan prinsip perlindungan konsumen sebagaimana
+dimaksud dalam Pasal 24 oleh Penyelenggara Dompet
+Elektronik antara lain:
+a. penyediaan informasi yang memadai kepada konsumen
+mengenai Dompet Elektronik yang diselenggarakan,
+termasuk informasi mengenai prosedur pengembalian
+dana (refund) sebagaimana dimaksud dalam Pasal 21;
+dan
+b. memiliki dan melaksanakan mekanisme penanganan
+pengaduan konsumen.
+Bagian Keenam
+Pemenuhan Ketentuan Peraturan Perundang-Undangan
+Pasal 27
+Penyelenggara Jasa Sistem Pembayaran selain tunduk pada
+Peraturan Bank Indonesia ini juga wajib memenuhi ketentuan
+peraturan perundang-undangan, antara lain ketentuan yang
+mengatur mengenai:
+a. kewajiban penggunaan Rupiah untuk transaksi
+pembayaran yang dilakukan di wilayah Negara Kesatuan
+Republik Indonesia;
+b. transaksi perdagangan melalui sistem elektronik; dan
+c. penyelenggaraan sistem dan transaksi elektronik.
+www.peraturan.go.id2016, No.236
+-21-
+BAB V
+LAPORAN
+Pasal 28
+(1) Penyelenggara Jasa Sistem Pembayaran wajib
+menyampaikan laporan penyelenggaraan pemrosesan
+transaksi pembayaran kepada Bank Indonesia.
+(2) Laporan sebagaimana dimaksud pada ayat (1) terdiri
+atas:
+a. laporan berkala; dan
+b. laporan insidental.
+(3) Penyampaian laporan berkala sebagaimana dimaksud
+pada ayat (2) huruf a terdiri atas:
+a. laporan bulanan;
+b. laporan triwulanan;
+c. laporan tahunan; dan/atau
+d. laporan hasil audit sistem informasi dari auditor
+independen yang dilakukan secara berkala paling
+sedikit 1 (satu) kali dalam kurun waktu 3 (tiga)
+tahun.
+(4) Laporan insidental sebagaimana dimaksud pada ayat (2)
+huruf b terdiri atas:
+a. laporan gangguan dalam pemrosesan transaksi
+pembayaran dan tindak lanjut yang telah dilakukan;
+b. laporan perubahan modal dan/atau susunan
+pemegang saham serta perubahan susunan
+pengurus Penyelenggara Jasa Sistem Pembayaran;
+c. laporan terjadinya force majeure atas
+penyelenggaraan pemrosesan transaksi pembayaran;
+d. laporan perubahan data dan informasi pada
+dokumen yang disampaikan pada saat mengajukan
+permohonan izin kepada Bank Indonesia; dan
+e. laporan lainnya yang diperlukan oleh Bank
+Indonesia.
+(5) Format dan tata cara penyampaian laporan sebagaimana
+dimaksud pada ayat (2) oleh Prinsipal, Penerbit, Acquirer,
+Penyelenggara Kliring, dan Penyelenggara Penyelesaian
+www.peraturan.go.id2016, No.236
+-22-
+Akhir mengacu pada ketentuan Bank Indonesia yang
+mengatur mengenai alat pembayaran dengan
+menggunakan kartu dan ketentuan Bank Indonesia yang
+mengatur mengenai uang elektronik.
+(6) Format dan tata cara penyampaian laporan sebagaimana
+dimaksud pada ayat (2) oleh Penyelenggara Transfer
+Dana mengacu pada ketentuan Bank Indonesia yang
+mengatur mengenai transfer dana.
+(7) Ketentuan lebih lanjut mengenai format dan tata cara
+penyampaian laporan sebagaimana dimaksud pada ayat
+(2) oleh Penyelenggara Switching, Penyelenggara Payment
+Gateway, dan Penyelenggara Dompet Elektronik diatur
+dalam Surat Edaran Bank Indonesia.
+Pasal 29
+(1) Penyelenggara Dompet Elektronik yang tidak terkena
+kewajiban izin sebagaimana dimaksud dalam Pasal 8
+harus menyampaikan laporan penyelenggaraan Dompet
+Elektronik kepada Bank Indonesia.
+(2) Ketentuan lebih lanjut mengenai tata cara penyampaian
+laporan sebagaimana dimaksud pada ayat (1) diatur
+dalam Surat Edaran Bank Indonesia.
+www.peraturan.go.id2016, No.236
+-23-
+BAB VI
+PERALIHAN IZIN PENYELENGGARA JASA SISTEM
+PEMBAYARAN
+Pasal 30
+(1) Peralihan izin penyelenggaraan kegiatan sebagai
+Prinsipal, Penerbit, Acquirer, Penyelenggara Kliring, dan
+Penyelenggara Penyelesaian Akhir mengacu pada
+ketentuan Bank Indonesia yang mengatur mengenai alat
+pembayaran dengan menggunakan kartu dan ketentuan
+Bank Indonesia yang mengatur mengenai uang
+elektronik.
+(2) Peralihan izin penyelenggaraan kegiatan sebagai
+Penyelenggara Transfer Dana mengacu pada ketentuan
+Bank Indonesia yang mengatur mengenai transfer dana.
+Pasal 31
+(1) Peralihan izin penyelenggaraan kegiatan sebagai
+Penyelenggara Switching, Penyelenggara Payment
+Gateway, dan/atau Penyelenggara Dompet Elektronik
+kepada pihak lain hanya dapat dilakukan dalam rangka
+penggabungan, peleburan, atau pemisahan.
+(2) Peralihan izin penyelenggaraan kegiatan sebagai
+Penyelenggara Switching, Penyelenggara Payment
+Gateway, dan/atau Penyelenggara Dompet Elektronik
+sebagaimana dimaksud pada ayat (1), wajib terlebih
+dahulu memperoleh izin Bank Indonesia.
+Pasal 32
+(1) Dalam hal akan dilakukan pengambilalihan Bank yang
+telah memperoleh izin sebagai Penyelenggara Jasa Sistem
+Pembayaran, Bank tersebut wajib melaporkan secara
+tertulis rencana pengambilalihan kepada Bank Indonesia.
+(2) Dalam hal akan dilakukan pengambilalihan Lembaga
+Selain Bank yang telah memperoleh izin sebagai
+Penyelenggara Jasa Sistem Pembayaran, Lembaga Selain
+Bank tersebut wajib menyampaikan permohonan
+www.peraturan.go.id2016, No.236
+-24-
+persetujuan secara tertulis kepada Bank Indonesia
+perihal rencana pengambilalihan.
+(3) Laporan rencana pengambilalihan sebagaimana
+dimaksud pada ayat (1) atau permohonan persetujuan
+sebagaimana dimaksud pada ayat (2), paling sedikit
+meliputi informasi mengenai:
+a. latar belakang pengambilalihan;
+b. pihak yang akan melakukan pengambilalihan;
+c. target waktu pelaksanaan pengambilalihan;
+d. susunan pemilik dan/atau pemegang saham
+pengendali, dan komposisi kepemilikan saham
+setelah pengambilalihan; dan
+e. rencana bisnis setelah pengambilalihan, khususnya
+terkait kegiatan jasa sistem pembayaran yang
+diselenggarakan.
+BAB VII
+PENGAWASAN
+Pasal 33
+(1) Bank Indonesia melakukan pengawasan terhadap
+Penyelenggara Jasa Sistem Pembayaran yang telah
+memperoleh izin dari Bank Indonesia yang meliputi:
+a. pengawasan langsung; dan
+b. pengawasan tidak langsung.
+(2) Dalam hal diperlukan, Bank Indonesia melakukan
+pengawasan kepada Penyelenggara Penunjang yang
+bekerjasama dengan Penyelenggara Jasa Sistem
+Pembayaran, termasuk kepada Penyelenggara Dompet
+Elektronik sebagaimana dimaksud dalam Pasal 29.
+(3) Bank Indonesia dapat menugaskan pihak lain untuk dan
+atas nama Bank Indonesia melaksanakan pengawasan
+langsung sebagaimana dimaksud pada ayat (1) dan/atau
+ayat (2).
+www.peraturan.go.id2016, No.236
+-25-
+BAB VIII
+LARANGAN
+Pasal 34
+Penyelenggara Jasa Sistem Pembayaran dilarang:
+a. melakukan pemrosesan transaksi pembayaran dengan
+menggunakan virtual currency;
+b. menyalahgunakan data dan informasi nasabah maupun
+data dan informasi transaksi pembayaran; dan/atau
+c. memiliki dan/atau mengelola nilai yang dapat
+dipersamakan dengan nilai uang yang dapat digunakan
+di luar lingkup Penyelenggara Jasa Sistem Pembayaran
+yang bersangkutan.
+BAB IX
+SANKSI
+Pasal 35
+(1) Penyelenggara Jasa Sistem Pembayaran yang melanggar
+ketentuan sebagaimana dimaksud dalam Pasal 4 ayat (2),
+Pasal 5 ayat (4), Pasal 11 ayat (4), Pasal 14 ayat (2), Pasal
+18 ayat (1), Pasal 21, Pasal 22 ayat (1), Pasal 23, Pasal
+27, Pasal 28 ayat (1), Pasal 31 ayat (2), Pasal 32 ayat (1),
+Pasal 32 ayat (2), Pasal 34, Pasal 40, dan/atau Pasal 42
+dikenakan sanksi administratif berupa:
+a. teguran;
+b. denda;
+c. penghentian sementara sebagian atau seluruh
+kegiatan jasa sistem pembayaran; dan/atau
+d. pencabutan izin sebagai Penyelenggara Jasa Sistem
+Pembayaran.
+(2) Ketentuan lebih lanjut mengenai tata cara pengenaan
+sanksi diatur dalam Surat Edaran Bank Indonesia.
+www.peraturan.go.id2016, No.236
+-26-
+BAB X
+KETENTUAN LAIN-LAIN
+Pasal 36
+Dalam hal setelah berlalunya jangka waktu sebagaimana
+dimaksud dalam Pasal 39 atau setelah berlakunya Peraturan
+Bank Indonesia ini terdapat pihak yang menyelenggarakan
+jasa sistem pembayaran tanpa izin Bank Indonesia maka
+Bank Indonesia berwenang:
+a. menyampaikan teguran tertulis; dan/atau
+b. merekomendasikan kepada otoritas yang berwenang
+untuk:
+1. menghentikan kegiatan usaha; dan/atau
+2. mencabut izin usaha yang diberikan oleh otoritas
+yang berwenang.
+Pasal 37
+Selain dalam rangka penerapan sanksi sebagaimana
+dimaksud dalam Pasal 35, Bank Indonesia dapat meminta
+Penyelenggara Jasa Sistem Pembayaran untuk melakukan
+atau tidak melakukan sesuatu, menghentikan sementara
+sebagian atau seluruh kegiatan jasa sistem pembayaran,
+membatalkan atau mencabut izin atau persetujuan yang telah
+diberikan kepada Penyelenggara Jasa Sistem Pembayaran,
+dalam hal antara lain:
+a. terdapat hasil pengawasan Bank Indonesia yang
+menunjukkan bahwa Penyelenggara Jasa Sistem
+Pembayaran tidak dapat menyelenggarakan kegiatan jasa
+sistem pembayaran dengan baik;
+b. terdapat permintaan tertulis atau rekomendasi dari pihak
+yang berwajib atau otoritas pengawas yang berwenang
+kepada Bank Indonesia untuk menghentikan sementara
+kegiatan Penyelenggara Jasa Sistem Pembayaran;
+c. terdapat putusan pengadilan yang telah berkekuatan
+hukum tetap yang memerintahkan Penyelenggara Jasa
+Sistem Pembayaran untuk menghentikan kegiatannya;
+dan/atau
+www.peraturan.go.id2016, No.236
+-27-
+d. terdapat permohonan pembatalan dan/atau pencabutan
+izin yang diajukan sendiri oleh Bank atau Lembaga
+Selain Bank yang telah memperoleh izin dari Bank
+Indonesia.
+Pasal 38
+Sepanjang belum diatur dalam dan tidak bertentangan
+dengan Peraturan Bank Indonesia ini maka:
+a. penyelenggaraan kegiatan sebagai Prinsipal, Penerbit,
+Acquirer, Penyelenggara Kliring, dan Penyelenggara
+Penyelesaian Akhir dilakukan dengan mengacu pada
+ketentuan Bank Indonesia yang mengatur mengenai alat
+pembayaran dengan menggunakan kartu dan ketentuan
+Bank Indonesia yang mengatur mengenai uang
+elektronik; dan
+b. penyelenggaraan kegiatan sebagai Penyelenggara Transfer
+Dana dilakukan dengan mengacu pada ketentuan Bank
+Indonesia yang mengatur mengenai transfer dana.
+BAB XI
+KETENTUAN PERALIHAN
+Pasal 39
+(1) Pihak yang telah menyelenggarakan kegiatan:
+a. Switching, Payment Gateway; dan/atau
+b. Dompet Elektronik sebagaimana dimaksud dalam
+Pasal 8,
+sebelum ketentuan ini berlaku dan belum memperoleh
+izin dari Bank Indonesia wajib mengajukan izin kepada
+Bank Indonesia.
+(2) Pengajuan izin sebagai Penyelenggara Switching,
+Penyelenggara Payment Gateway , dan/atau
+Penyelenggara Dompet Elektronik sebagaimana dimaksud
+pada ayat (1) dilakukan paling lambat 6 (enam) bulan
+sejak Peraturan Bank Indonesia ini berlaku.
+www.peraturan.go.id2016, No.236
+-28-
+Pasal 40
+Ketentuan persentase kepemilikan sebagaimana dimaksud
+dalam Pasal 5 ayat (2) wajib dipenuhi oleh pihak yang
+sebelum Peraturan Bank Indonesia ini berlaku:
+a. telah memperoleh izin dari Bank Indonesia sebagai
+Prinsipal, Penyelenggara Kliring, dan/atau Penyelenggara
+Penyelesaian Akhir; atau
+b. sedang dalam proses perizinan dan kemudian
+memperoleh izin dari Bank Indonesia,
+apabila setelah berlakunya Peraturan Bank Indonesia ini,
+akan melakukan perubahan kepemilikan.
+Pasal 41
+Persyaratan dan tata cara permohonan bagi pihak yang
+mengajukan izin sebagai Prinsipal, Penyelenggara Kliring,
+dan/atau Penyelenggara Penyelesaian Akhir sebelum
+Peraturan Bank Indonesia ini berlaku, tunduk pada ketentuan
+Bank Indonesia yang mengatur mengenai alat pembayaran
+dengan menggunakan kartu dan ketentuan Bank Indonesia
+yang mengatur mengenai uang elektronik.
+Pasal 42
+(1) Bank yang telah menyelenggarakan Proprietary Channel
+pada saat Peraturan Bank Indonesia ini mulai berlaku,
+wajib melaporkan penyelenggaraan kegiatan dimaksud
+kepada Bank Indonesia untuk ditatausahakan dengan
+disertai dokumen pendukung paling lambat 6 (enam)
+bulan sejak Peraturan Bank Indonesia ini berlaku.
+(2) Penyelenggara Jasa Sistem Pembayaran yang telah
+menyelenggarakan pengembangan kegiatan Payment
+Gateway dan/atau Dompet Elektronik sebagaimana
+dimaksud dalam Pasal 4 ayat (2) huruf a pada saat
+Peraturan Bank Indonesia ini mulai berlaku wajib
+melaporkan penyelenggaraan kegiatan dimaksud kepada
+Bank Indonesia untuk ditatausahakan dengan disertai
+dokumen pendukung paling lambat 6 (enam) bulan sejak
+Peraturan Bank Indonesia ini berlaku.
+www.peraturan.go.id2016, No.236
+-29-
+BAB XII
+KETENTUAN PENUTUP
+Pasal 43
+Peraturan Bank Indonesia ini mulai berlaku pada tanggal
+diundangkan.
+Agar setiap orang mengetahuinya, memerintahkan
+pengundangan Peraturan Bank Indonesia ini dengan
+penempatannya dalam Lembaran Negara Republik Indonesia.
+Ditetapkan di Jakarta
+pada tanggal 8 November 2016
+GUBERNUR BANK INDONESIA,
+ttd.
+AGUS D. W. MARTOWARDOJO
+Diundangkan di Jakarta
+pada tanggal 9 November 2016
+MENTERI HUKUM DAN HAK ASASI MANUSIA
+REPUBLIK INDONESIA,
+ttd.
+YASONNA H. LAOLY
+www.peraturan.go.id

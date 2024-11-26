@@ -1,0 +1,17 @@
+Pasal 110
+Persyaratan aspek keamanan dan keandalan sistem untuk
+pengembangan aktivitas dan/atau pengembangan produk
+dengan kategori risiko sedang disertai dengan pemenuhan
+paling sedikit dokumen yang menunjukkan:
+a. hasil audit sistem informasi dan/atau pengujian
+keamanan dari auditor independen internal atau
+eksternal;
+b. hasil penilaian PJP mengenai dampak pengembangan
+aktivitas dan/atau pengembangan produk terhadap
+perubahan prosedur pengendalian pengamanan, sistem
+pengelolaan fraud (fraud management system), dan
+prosedur, mekanisme, dan infrastruktur penanganan
+kesinambungan kegiatan usaha (business continuity) dan
+keadaan darurat (disaster recovery); dan
+c. hasil penyesuaian prosedur dan mekanisme berdasarkan
+hasil penilaian sebagaimana dimaksud dalam huruf b.

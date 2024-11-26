@@ -1,0 +1,10 @@
+Pasal 53
+(1) PJP yang bekerja sama dengan Penyedia Barang dan/atau
+Jasa untuk pemrosesan transaksi pembayaran harus
+menyediakan informasi terkait pemrosesan transaksi
+pembayaran kepada Penyedia Barang dan/atau Jasa.
+(2) Penyediaan informasi sebagaimana dimaksud pada ayat
+(1) dilakukan untuk mendukung terlaksananya
+penyerahan barang dan/atau jasa kepada konsumen
+akhir setelah konsumen akhir melakukan pembayaran
+dalam transaksi daring (online).

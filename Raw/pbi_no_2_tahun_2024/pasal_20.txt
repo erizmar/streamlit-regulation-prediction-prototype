@@ -1,0 +1,9 @@
+Pasal 20
+(1) Pencegahan sebagaimana dimaksud dalam Pasal 6 huruf
+b meliputi:
+a. identifikasi;
+b. proteksi; dan
+c. deteksi.
+(2) Pencegahan sebagaimana dimaksud pada ayat (1)
+dilaksanakan oleh Penyelenggara untuk mengantisipasi
+Insiden Siber.

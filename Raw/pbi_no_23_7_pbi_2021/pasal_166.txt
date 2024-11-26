@@ -1,0 +1,21 @@
+Pasal 166
+Aspek penyelenggaraan infrastruktur sebagaimana dimaksud
+dalam Pasal 165 huruf a meliputi:
+a. dasar hukum;
+b. tata kelola;
+c. kerangka untuk manajemen risiko komprehensif;
+d. risiko kredit;
+e. jaminan;
+f. risiko likuiditas;
+g. kepastian penyelesaian akhir (settlement finality);
+h. penyelesaian akhir (settlement) dana;
+i. sistem penyelesaian akhir (settlement) transaksi bursa;
+j. aturan dan prosedur terkait default oleh peserta;
+k. risiko bisnis umum;
+l. risiko kustodian dan investasi;
+m. risiko operasional;
+n. persyaratan akses dan kepesertaan;
+o. pengaturan kepesertaan bertingkat;
+p. efisiensi dan efektivitas;
+q. prosedur dan standar komunikasi; dan
+r. pengungkapan aturan, prosedur utama, dan data pasar.

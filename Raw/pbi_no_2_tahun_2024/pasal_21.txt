@@ -1,0 +1,18 @@
+Pasal 21
+(1) Identifikasi sebagaimana dimaksud dalam Pasal 20 ayat
+(1) huruf a meliputi:
+a. penyusunan profil Risiko Siber; dan
+b. penginian profil Risiko Siber secara berkala.
+(2) Penyusunan profil Risiko Siber sebagaimana dimaksud
+pada ayat (1) huruf a meliputi:
+a. identifikasi Risiko Siber;
+b. asesmen Risiko Siber; dan
+c. analisis dampak bisnis.
+(3) Identifikasi sebagaimana dimaksud pada ayat (1)
+dilaksanakan oleh Penyelenggara untuk memahami profil
+Risiko Siber guna memperoleh gambaran menyeluruh
+terkait Risiko Siber yang dihadapi serta prioritisasi
+pengendalian yang dibutuhkan.
+(4) Ketentuan lebih lanjut mengenai identifikasi sebagaimana
+dimaksud pada ayat (1) diatur dalam Peraturan Anggota
+Dewan Gubernur.

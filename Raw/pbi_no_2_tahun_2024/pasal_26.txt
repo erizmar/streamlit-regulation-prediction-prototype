@@ -1,0 +1,12 @@
+Pasal 26
+(1) Proteksi sebagaimana dimaksud dalam Pasal 20 ayat (1)
+huruf b meliputi:
+a. pembangunan sistem pertahanan; dan
+b. pengamanan dan pelindungan data dan/atau
+informasi.
+(2) Proteksi sebagaimana dimaksud pada ayat (1) dilakukan
+oleh Penyelenggara untuk membangun sistem pertahanan
+yang dapat mencegah terjadinya Serangan Siber
+berdasarkan profil risiko serta mengamankan data
+dan/atau informasi pada setiap tahapan siklus
+pengelolaan data dan/atau informasi.

@@ -1,0 +1,17 @@
+Pasal 10
+(1) Kebijakan, standar, dan prosedur KKS sebagaimana
+dimaksud dalam Pasal 8 ayat (1) huruf b mencakup aspek
+manusia, proses, dan teknologi yang paling sedikit terdiri
+atas:
+a. pengamanan data, sistem aplikasi, dan infrastruktur
+teknologi informasi;
+b. pengamanan pihak ketiga; dan
+c. pelindungan konsumen dan manajemen fraud.
+(2) Penyelenggara melakukan evaluasi secara berkala
+terhadap kebijakan, standar, dan prosedur KKS
+sebagaimana dimaksud pada ayat (1) untuk memastikan
+kecukupan dan efektivitas kebijakan, standar, dan
+prosedur KKS sesuai perkembangan terkini.
+(3) Ketentuan lebih lanjut mengenai kebijakan, standar, dan
+prosedur KKS sebagaimana dimaksud pada ayat (1) diatur
+dalam Peraturan Anggota Dewan Gubernur.

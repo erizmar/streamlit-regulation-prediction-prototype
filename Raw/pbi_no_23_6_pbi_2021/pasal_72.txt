@@ -1,0 +1,34 @@
+Pasal 72
+(1) Selain pemenuhan kewajiban manajemen risiko dan
+standar keamanan sistem informasi sebagaimana
+dimaksud dalam Pasal 71, PJP wajib memastikan
+penerapan standar keamanan siber paling sedikit
+menggunakan pendekatan:
+a. aspek tata kelola;
+b. aspek pencegahan; dan
+c. aspek penanganan.
+(2) Penerapan aspek tata kelola sebagaimana dimaksud pada
+ayat (1) huruf a meliputi:
+a. memiliki kerangka kerja dan kebijakan terkait
+manajemen risiko siber yang terpisah dari
+manajemen teknologi informasi;
+b. memiliki fungsi atau organ manajemen risiko siber
+yang independen terhadap fungsi bisnis dan
+pengelolaan sistem informasi; dan
+c. memastikan terpenuhinya sumber daya manusia
+yang memiliki kompetensi ketahanan dan keamanan
+siber untuk mendukung budaya risiko siber.
+(3) Penerapan aspek pencegahan sebagaimana dimaksud
+pada ayat (1) huruf b meliputi:
+a. tersedianya mekanisme pemantauan ketahanan dan
+keamanan siber secara berkelanjutan; dan
+b. memiliki kapabilitas manajemen data dan/atau
+analisis terkait ketahanan dan keamanan siber.
+(4) Penerapan aspek penanganan sebagaimana dimaksud
+pada ayat (1) huruf c meliputi fungsi untuk penanganan
+insiden siber termasuk infrastruktur pendukung sesuai
+skala bisnis dan pelaksanaan pengujian kemanan berkala.
+(5) Penerapan aspek standar keamanan siber sebagaimana
+dimaksud pada ayat (1) sampai dengan ayat (4) dilakukan
+berdasarkan klasifikasi PJP sebagaimana dimaksud dalam
+Pasal 59.

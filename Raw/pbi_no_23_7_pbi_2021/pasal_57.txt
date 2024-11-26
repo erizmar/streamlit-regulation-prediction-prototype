@@ -1,0 +1,15 @@
+Pasal 57
+Ruang lingkup GPN mencakup transaksi pembayaran secara
+domestik yang meliputi:
+a. interkoneksi switching;-33-
+b. interkoneksi dan interoperabilitas akses ke Sumber Dana
+berupa kanal pembayaran yang meliputi anjungan tunai
+mandiri, electronic data capture, agen, PJP yang
+menyelenggarakan aktivitas payment initiation dan/atau
+acquiring services yang menalangi pembayaran kepada
+penyedia barang dan/atau jasa, dan kanal pembayaran
+lainnya; dan/atau
+c. interoperabilitas Sumber Dana berupa instrumen
+pembayaran seperti kartu anjungan tunai mandiri
+dan/atau kartu debit, kartu kredit, uang elektronik, dan
+instrumen pembayaran lainnya.

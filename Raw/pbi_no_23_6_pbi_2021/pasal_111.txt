@@ -1,0 +1,6 @@
+Pasal 111
+Persyaratan aspek keamanan dan keandalan sistem untuk
+kerja sama dengan kategori risiko sedang disertai dengan
+pemenuhan paling sedikit dokumen yang menunjukkan hasil
+penilaian PJP terhadap keamanan dan keandalan sistem dari
+pihak yang diajak bekerja sama.

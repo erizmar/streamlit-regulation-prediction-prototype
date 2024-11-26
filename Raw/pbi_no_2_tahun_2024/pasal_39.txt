@@ -1,0 +1,5 @@
+Pasal 39
+Penyelenggara melakukan evaluasi efektivitas dan perbaikan
+rencana penanganan dan pemulihan Insiden Siber atas dasar
+hasil simulasi dan uji coba penanganan dan pemulihan Insiden
+Siber.

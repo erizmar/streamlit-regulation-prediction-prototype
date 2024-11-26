@@ -1,0 +1,2520 @@
+PERATURAN ANGGOTA DEWAN GUBERNUR
+NOMOR 24/7/PADG/2022
+TENTANG
+PENYELENGGARAAN SISTEM PEMBAYARAN OLEH PENYEDIA JASA
+PEMBAYARAN DAN PENYELENGGARA INFRASTRUKTUR SISTEM
+PEMBAYARAN
+DENGAN RAHMAT TUHAN YANG MAHA ESA
+ANGGOTA DEWAN GUBERNUR BANK INDONESIA,
+Menimbang : a. bahwa perkembangan digitalisasi dan inovasi sistem
+pembayaran perlu diseimbangkan dengan upaya
+memelihara stabilitas guna menciptakan sistem
+pembayaran yang cepat, mudah, murah, aman, dan andal,
+dengan tetap memperhatikan perluasan akses dan
+perlindungan konsumen;
+b. bahwa untuk menjaga keseimbangan tersebut telah
+dilakukan reformasi pengaturan sistem pembayaran guna
+merespons perubahan industri sistem pembayaran di era
+digital;
+c. bahwa sebagai bagian dari reformasi pengaturan sistem
+pembayaran telah diterbitkan Peraturan Bank Indonesia
+yang dalam pelaksanaannya perlu didukung dengan
+ketentuan pelaksanaan berupa Peraturan Anggota Dewan
+Gubernur untuk mengatur lebih lanjut hal yang bersifat
+operasional;2
+d. bahwa berdasarkan pertimbangan sebagaimana dimaksud
+dalam huruf a, huruf b, dan huruf c, perlu menetapkan
+Peraturan Anggota Dewan Gubernur tentang
+Penyelenggaraan Sistem Pembayaran oleh Penyedia Jasa
+Pembayaran dan Penyelenggara Infrastruktur Sistem
+Pembayaran;
+Mengingat : 1. Peraturan Bank Indonesia Nomor 22/23/PBI/2020
+tentang Sistem Pembayaran (Lembaran Negara Republik
+Indonesia Tahun 2020 Nomor 311, Tambahan Lembaran
+Negara Republik Indonesia Nomor 6610);
+2. Peraturan Bank Indonesia Nomor 23/6/PBI/2021 tentang
+Penyedia Jasa Pembayaran (Lembaran Negara Republik
+Indonesia Tahun 2021 Nomor 147, Tambahan Lembaran
+Negara Republik Indonesia Nomor 6692);
+3. Peraturan Bank Indonesia Nomor 23/7/PBI/2021 tentang
+Penyelenggara Infrastruktur Sistem Pembayaran
+(Lembaran Negara Republik Indonesia Tahun 2021 Nomor
+148, Tambahan Lembaran Negara Republik Indonesia
+Nomor 6693);
+MEMUTUSKAN:
+Menetapkan : PERATURAN ANGGOTA DEWAN GUBERNUR TENTANG
+PENYELENGGARAAN SISTEM PEMBAYARAN OLEH PENYEDIA
+JASA PEMBAYARAN DAN PENYELENGGARA INFRASTRUKTUR
+SISTEM PEMBAYARAN.
+BAB I
+KETENTUAN UMUM
+Pasal 1
+Dalam Peraturan Anggota Dewan Gubernur ini yang dimaksud
+dengan:
+1. Sistem Pembayaran adalah suatu sistem yang mencakup
+seperangkat aturan, lembaga, mekanisme, infrastruktur,
+sumber dana untuk pembayaran, dan akses ke sumber
+dana untuk pembayaran, yang digunakan untuk3
+melaksanakan pemindahan dana guna memenuhi suatu
+kewajiban yang timbul dari suatu kegiatan ekonomi.
+2. Bank adalah bank umum dan bank perkreditan rakyat
+sebagaimana dimaksud dalam Undang-Undang mengenai
+perbankan, termasuk kantor cabang bank asing di
+Indonesia, dan bank umum syariah serta bank
+pembiayaan rakyat syariah sebagaimana dimaksud dalam
+Undang-Undang mengenai perbankan syariah.
+3. Lembaga Selain Bank adalah badan usaha berbadan
+hukum Indonesia bukan Bank.
+4. Penyedia Jasa Pembayaran yang selanjutnya disingkat
+PJP adalah Bank atau Lembaga Selain Bank yang
+menyediakan jasa untuk memfasilitasi transaksi
+pembayaran kepada pengguna jasa.
+5. Penyelenggara Infrastruktur Sistem Pembayaran yang
+selanjutnya disebut PIP adalah pihak yang
+menyelenggarakan infrastruktur sebagai sarana yang
+dapat digunakan untuk melakukan pemindahan dana
+bagi kepentingan anggotanya.
+6. Penyelenggara Penunjang adalah pihak yang bekerja sama
+dengan PJP dan PIP untuk menunjang penyelenggaraan
+kegiatan jasa Sistem Pembayaran.
+7. Pengguna Jasa adalah pihak yang menggunakan jasa dari
+PJP.
+8. Penyedia Barang dan/atau Jasa adalah pihak yang
+menjual barang dan/atau jasa yang menerima
+pembayaran dari Pengguna Jasa.
+9. Self-Regulatory Organization di bidang Sistem Pembayaran
+yang selanjutnya disebut SRO adalah suatu forum atau
+institusi yang berbadan hukum Indonesia yang mewakili
+industri dan ditetapkan oleh Bank Indonesia untuk
+mendukung penyelenggaraan Sistem Pembayaran.
+10. Penyelenggara Sistem Pembayaran Sistemik yang
+selanjutnya disingkat PSPS adalah PJP dan PIP yang
+memiliki dampak sistemik terhadap Sistem Pembayaran
+dan/atau sistem keuangan dalam hal PJP dan PIP
+mengalami gangguan atau kegagalan.4
+11. Penyelenggara Sistem Pembayaran Kritikal yang
+selanjutnya disingkat PSPK adalah PJP dan PIP yang
+memiliki dampak kritikal terhadap Sistem Pembayaran
+dan/atau sistem keuangan dalam hal PJP dan PIP
+mengalami gangguan atau kegagalan.
+12. Penyelenggara Sistem Pembayaran Umum yang
+selanjutnya disingkat PSPU adalah PJP dan PIP yang tidak
+memiliki dampak signifikan terhadap Sistem Pembayaran
+dan/atau sistem keuangan dalam hal PJP dan PIP
+mengalami gangguan atau kegagalan.
+13. Sumber Dana untuk Pembayaran yang selanjutnya
+disebut Sumber Dana adalah sumber dana yang
+digunakan untuk memenuhi kewajiban dalam transaksi
+pembayaran dan ditatausahakan dalam suatu akun untuk
+pembayaran.
+14. Layanan Keuangan Digital yang selanjutnya disingkat LKD
+adalah kegiatan layanan jasa Sistem Pembayaran dan
+keuangan yang dilakukan oleh PJP yang
+menyelenggarakan aktivitas penatausahaan Sumber Dana
+berupa penerbitan uang elektronik melalui kerja sama
+dengan pihak ketiga serta menggunakan sarana dan
+perangkat teknologi berbasis mobile atau piranti digital
+lainnya untuk ekonomi digital dan keuangan inklusif.
+BAB II
+RUANG LINGKUP
+Pasal 2
+Ruang lingkup pengaturan penyelenggaraan Sistem
+Pembayaran oleh PJP dan PIP meliputi:
+a. perizinan PJP dan penetapan PIP;
+b. penyelenggaraan Sistem Pembayaran;
+c. inovasi teknologi Sistem Pembayaran;
+d. pengawasan Sistem Pembayaran; dan
+e. SRO.5
+BAB III
+PERIZINAN PJP DAN PENETAPAN PIP
+Bagian Kesatu
+Umum
+Pasal 3
+Perizinan bagi PJP dan penetapan bagi PIP dilaksanakan sesuai
+dengan ketentuan Peraturan Bank Indonesia mengenai sistem
+pembayaran.
+Bagian Kedua
+Perhitungan Saham untuk Kepemilikan dan Pengendalian
+Pasal 4
+(1) Pengaturan aspek kelembagaan berupa kepemilikan dan
+pengendalian bagi Lembaga Selain Bank yang mengajukan
+permohonan perizinan sebagai PJP atau penetapan
+sebagai PIP dilaksanakan sesuai dengan ketentuan
+Peraturan Bank Indonesia mengenai sistem pembayaran.
+(2) Penghitungan kepemilikan sebagaimana dimaksud pada
+ayat (1) berupa komposisi kepemilikan saham dilakukan
+dengan ketentuan:
+a. porsi kepemilikan saham asing dihitung sesuai
+kepemilikan secara langsung dan tidak langsung;
+b. kepemilikan secara langsung dihitung berdasarkan 1
+(satu) jenjang kepemilikan saham di atas Lembaga
+Selain Bank yang mengajukan permohonan; dan
+c. kepemilikan tidak langsung dihitung sampai dengan
+pemegang saham akhir (ultimate shareholder).
+(3) Penghitungan pengendalian sebagaimana dimaksud pada
+ayat (1) berupa komposisi saham dengan hak suara
+dilakukan secara kolektif pada masing-masing jenjang
+kepemilikan sampai pemegang saham akhir (ultimate
+shareholder) dengan hak suara terbesar secara individual
+dimiliki oleh pihak domestik.6
+(4) Pengaturan aspek kelembagaan berupa kepemilikan dan
+pengendalian sebagaimana dimaksud pada ayat (1) tetap
+dipenuhi oleh Lembaga Selain Bank yang telah
+memperoleh izin sebagai PJP atau ditetapkan menjadi PIP.
+(5) Dalam mengawasi penyelenggaraan aktivitas PJP
+dan/atau PIP, Bank Indonesia dapat menetapkan
+kebijakan mengenai penilaian komposisi kepemilikan
+dan/atau pengendalian PJP dan/atau PIP berupa Lembaga
+Selain Bank, termasuk yang berbentuk perseroan terbuka,
+dengan mempertimbangkan:
+a. skala materialitas; dan/atau
+b. aspek lainnya untuk memastikan terciptanya titik
+keseimbangan antara inovasi dengan stabilitas dan
+kepentingan nasional.
+(6) Dalam hal terdapat perbedaan penilaian komposisi
+kepemilikan saham dan/atau pengendalian antara Bank
+Indonesia dengan calon PJP, PJP, pihak yang akan
+ditetapkan menjadi PIP, dan/atau PIP berupa Lembaga
+Selain Bank, penilaian yang digunakan merupakan
+penilaian yang ditetapkan Bank Indonesia.
+(7) Pedoman tata cara dan contoh penghitungan kepemilikan
+dan pengendalian beserta perubahannya dipublikasikan
+melalui laman Bank Indonesia atau media lain yang
+ditetapkan Bank Indonesia.
+Bagian Ketiga
+Pemberian Izin sebagai PJP dan Penetapan menjadi PIP dalam
+Kondisi Tertentu
+Pasal 5
+(1) Bank Indonesia dapat memberikan izin sebagai PJP atau
+penetapan menjadi PIP secara bersyarat (conditional
+approval) yang dilakukan dengan:
+a. peniadaan salah satu tahap perizinan atau
+penetapan; dan/atau
+b. penetapan jangka waktu tertentu.7
+(2) Pemberian izin sebagai PJP atau penetapan menjadi PIP
+secara bersyarat (conditional approval) sebagaimana
+dimaksud pada ayat (1) dilakukan dalam kondisi tertentu
+meliputi:
+a. pandemi;
+b. bencana alam; dan/atau
+c. kondisi lain yang ditetapkan Bank Indonesia.
+(3) Mekanisme dan tata cara pengajuan pemberian izin dan
+pemberian penetapan secara bersyarat dalam kondisi
+pandemi sebagaimana dimaksud pada ayat (2) huruf a
+dilakukan sesuai dengan ketentuan Peraturan Bank
+Indonesia mengenai penyesuaian pelaksanaan beberapa
+ketentuan Bank Indonesia sebagai dampak pandemi
+corona virus disease 2019 (Covid-19).
+(4) Ketentuan mengenai mekanisme dan tata cara pengajuan
+pemberian izin dan pemberian penetapan secara bersyarat
+sebagaimana dimaksud pada ayat (3) berlaku secara
+mutatis mutandis terhadap mekanisme dan tata cara
+pengajuan pemberian izin dan pemberian penetapan
+secara bersyarat dalam kondisi bencana alam
+sebagaimana dimaksud pada ayat (2) huruf b dan kondisi
+lain yang ditetapkan Bank Indonesia sebagaimana
+dimaksud pada ayat (2) huruf c.
+(5) Dalam hal terjadi kondisi tertentu sebagaimana dimaksud
+pada ayat (2), Bank Indonesia berwenang untuk tetap
+melakukan pemrosesan dan memberikan izin atau
+penetapan sesuai dengan mekanisme dan tata cara yang
+diatur dalam ketentuan Peraturan Bank Indonesia
+mengenai sistem pembayaran.
+(6) Dalam hal Bank Indonesia memberikan izin sebagai PJP
+atau penetapan menjadi PIP secara bersyarat (conditional
+approval) sebagaimana dimaksud pada ayat (1), Bank
+Indonesia mempunyai kewenangan untuk membatalkan
+izin atau penetapan yang diberikan.
+(7) Dalam hal Bank Indonesia membatalkan izin atau
+penetapan yang diberikan sebagaimana dimaksud pada
+ayat (6), PJP dan/atau PIP harus menyelesaikan kewajiban8
+kepada Pengguna Jasa dan/atau pihak yang bekerja sama
+dalam penyelenggaraan Sistem Pembayaran sebelum izin
+atau penetapan dibatalkan oleh Bank Indonesia.
+(8) Tata cara penyelesaian kewajiban oleh PJP dan/atau PIP
+sebagaimana dimaksud pada ayat (7) dilaksanakan sesuai
+dengan Peraturan Bank Indonesia mengenai sistem
+pembayaran.
+BAB IV
+PENYELENGGARAAN SISTEM PEMBAYARAN
+Bagian Kesatu
+Skema Harga
+Pasal 6
+(1) Pengaturan mengenai skema harga dilaksanakan sesuai
+dengan ketentuan Peraturan Bank Indonesia mengenai
+sistem pembayaran dan ketentuan Peraturan Bank
+Indonesia mengenai perlindungan konsumen Bank
+Indonesia.
+(2) Dalam penetapan kebijakan skema harga, Bank Indonesia
+dapat meminta PJP dan PIP untuk menyampaikan data
+dan/atau informasi mengenai skema harga dalam
+penyelenggaraan Sistem Pembayaran.
+(3) Penyampaian data dan/atau informasi mengenai skema
+harga dalam penyelenggaraan Sistem Pembayaran
+sebagaimana dimaksud pada ayat (2) dilaksanakan sesuai
+dengan ketentuan Peraturan Bank Indonesia mengenai
+sistem pembayaran.
+Bagian Kedua
+Pemenuhan Kewajiban Permodalan Sistem Pembayaran
+Pasal 7
+(1) Kewajiban permodalan Sistem Pembayaran dipenuhi oleh
+PJP dan PIP melalui penyediaan modal selama
+penyelenggaraan kegiatan usaha (ongoing capital)9
+sebagaimana diatur dalam ketentuan Peraturan Bank
+Indonesia mengenai penyedia jasa pembayaran dan
+ketentuan Peraturan Bank Indonesia mengenai
+penyelenggara infrastruktur sistem pembayaran.
+(2) Dalam penghitungan penyediaan modal selama
+penyelenggaraan kegiatan usaha (ongoing capital)
+sebagaimana dimaksud pada ayat (1), penghitungan
+komponen nominal transaksi dilakukan dengan basis
+penghitungan secara rata-rata bulanan dalam 1 (satu)
+tahun pelaporan.
+(3) Pedoman tata cara penghitungan penyediaan modal
+selama penyelenggaraan kegiatan usaha (ongoing capital)
+beserta perubahannya dipublikasikan melalui laman Bank
+Indonesia atau media lain yang ditetapkan Bank
+Indonesia.
+Bagian Ketiga
+Auditor Teknologi Informasi
+Pasal 8
+(1) Auditor teknologi informasi independen eksternal yang
+akan melaksanakan audit teknologi informasi bagi PSPS,
+PSPK, dan PSPU guna pemenuhan kewajiban manajemen
+risiko dan standar keamanan sistem informasi merupakan
+auditor teknologi informasi independen eksternal yang
+terdaftar di SRO.
+(2) Dalam hal daftar auditor teknologi informasi independen
+eksternal sebagaimana dimaksud pada ayat (1) belum
+tersedia di SRO maka PSPS, PSPK, dan PSPU dapat
+menggunakan auditor teknologi informasi independen
+eksternal yang terdaftar di otoritas lain.10
+Bagian Keempat
+Pengembangan Aktivitas, Pengembangan Produk, dan/atau
+Kerja Sama
+Pasal 9
+(1) Selama masih dalam proses persetujuan pengembangan
+aktivitas, pengembangan produk, dan/atau kerja sama,
+PJP atau PIP dapat menguji kesiapan penyelenggaraan
+pengembangan aktivitas, pengembangan produk,
+dan/atau kerja sama dengan ketentuan:
+a. uji coba dilakukan pada Pengguna Jasa dan cakupan
+wilayah terbatas dengan jangka waktu tertentu
+berdasarkan persetujuan Bank Indonesia; dan
+b. menyampaikan laporan kepada Bank Indonesia
+mengenai rencana pelaksanaan dan pengakhiran uji
+coba yang terdiri atas:
+1. laporan rencana pelaksanaan uji coba
+disampaikan kepada Bank Indonesia paling
+lambat 30 (tiga puluh) hari kalender sebelum
+pelaksanaan uji coba; dan
+2. laporan pengakhiran dan hasil pelaksanaan uji
+coba disampaikan kepada Bank Indonesia
+paling lama 10 (sepuluh) hari kalender setelah
+tanggal uji coba berakhir.
+(2) Penyampaian laporan rencana pelaksanaan uji coba
+sebagaimana dimaksud pada ayat (1) huruf b angka 1
+paling sedikit memuat:
+a. tata cara atau mekanisme uji coba, termasuk
+informasi jumlah Pengguna Jasa, cakupan wilayah,
+dan/atau jangka waktu;
+b. penerapan manajemen risiko; dan
+c. penerapan perlindungan konsumen.
+Pasal 10
+(1) Dalam hal PJP atau PIP telah memperoleh persetujuan
+Bank Indonesia atas pengembangan aktivitas dan/atau
+pengembangan produk yang disertai kerja sama dengan11
+kategori risiko sedang atau risiko tinggi maka pengajuan
+kerja sama berikutnya yang memiliki kesamaan model
+bisnis dan skema kerja sama, cukup dilaporkan sebagai
+kerja sama dengan kategori risiko rendah.
+(2) Dalam menilai kesamaan model bisnis dan skema kerja
+sama sebagaimana dimaksud pada ayat (1), Bank
+Indonesia mempertimbangkan:
+a. model bisnis yang dikerjasamakan sejenis atau sama;
+b. tidak ada pengembangan produk atau aplikasi yang
+dilakukan PJP atau PIP;
+c. kerja sama yang sifatnya untuk kepesertaan dari PJP
+atau PIP; dan/atau
+d. aspek lainnya.
+(3) Dalam hal terdapat kerja sama sebagaimana dimaksud
+pada ayat (1) yang dilakukan antar-PJP atau antara PJP
+dan PIP, Bank Indonesia dapat menentukan PJP atau PIP
+yang akan mengajukan penyampaian laporan kerja sama.
+Pasal 11
+(1) Dalam pemrosesan persetujuan terhadap pengembangan
+aktivitas, pengembangan produk, dan/atau kerja sama
+dengan kategori risiko sedang atau risiko tinggi, Bank
+Indonesia dapat melakukan pemeriksaan lapangan (on site
+visit) sebagaimana diatur dalam ketentuan Peraturan
+Bank Indonesia mengenai penyedia jasa pembayaran dan
+ketentuan Peraturan Bank Indonesia mengenai
+penyelenggara infrastruktur sistem pembayaran.
+(2) Bank Indonesia dapat menetapkan kriteria pelaksanaan
+pemeriksaan lapangan (on site visit) dalam pemrosesan
+persetujuan terhadap pengembangan aktivitas,
+pengembangan produk, dan/atau kerja sama.
+Pasal 12
+(1) Pengajuan permohonan persetujuan dan/atau laporan
+pengembangan aktivitas, pengembangan produk,
+dan/atau kerja sama serta laporan realisasi
+pengembangan aktivitas, pengembangan produk,12
+dan/atau kerja sama dilakukan melalui aplikasi perizinan
+Bank Indonesia.
+(2) Dalam hal aplikasi perizinan Bank Indonesia sebagaimana
+dimaksud pada ayat (1) belum dapat diimplementasikan
+atau mengalami gangguan, maka:
+a. untuk PJP kategori izin 1, PJP kategori izin 2 dan PIP,
+penyampaian permohonan persetujuan dan/atau
+laporan pengembangan aktivitas, pengembangan
+produk, dan/atau kerja sama disampaikan kepada:
+Bank Indonesia cq. Departemen Kebijakan Sistem
+Pembayaran
+Jalan M.H. Thamrin Nomor 2
+Jakarta 10350;
+b. untuk PJP kategori izin 1, PJP kategori izin 2 dan PIP,
+penyampaian laporan realisasi pengembangan
+aktivitas, pengembangan produk, dan/atau kerja
+sama disampaikan kepada:
+Bank Indonesia cq. Departemen Surveilans Sistem
+Keuangan
+Jalan M.H. Thamrin Nomor 2
+Jakarta 10350; dan
+c. untuk PJP kategori izin 3, penyampaian permohonan
+persetujuan dan/atau laporan pengembangan
+aktivitas, pengembangan produk, dan/atau kerja
+sama, serta laporan realisasi pengembangan
+aktivitas, pengembangan produk, dan/atau kerja
+sama disampaikan kepada Bank Indonesia cq. Kantor
+Perwakilan Bank Indonesia.
+(3) Dalam hal terjadi perubahan alamat korespondensi dan
+komunikasi sebagaimana dimaksud pada ayat (2), Bank
+Indonesia akan memberitahukan melalui surat dan/atau
+media lainnya.13
+Bagian Kelima
+Kerja Sama dengan Penyedia Barang dan/atau Jasa
+Pasal 13
+(1) PJP harus memastikan:
+a. bidang usaha Penyedia Barang dan/atau Jasa tidak
+termasuk bidang usaha yang dilarang atau tidak
+memenuhi ketentuan peraturan perundang-
+undangan; dan/atau
+b. penyelenggaraan kegiatan oleh Penyedia Barang
+dan/atau Jasa dilaksanakan sesuai dengan
+ketentuan peraturan perundang-undangan.
+(2) Kerja sama antara PJP dengan Penyedia Barang dan/atau
+Jasa harus dituangkan dalam perjanjian tertulis yang
+menggunakan Bahasa Indonesia dan paling sedikit
+memuat klausul:
+a. hak dan kewajiban PJP serta Penyedia Barang
+dan/atau Jasa;
+b. larangan bagi Penyedia Barang dan/atau Jasa
+melakukan tindakan yang dapat merugikan dan/atau
+tidak sesuai peruntukan;
+c. kewajiban bagi Penyedia Barang dan/atau Jasa
+untuk menjaga kerahasiaan data atau informasi
+mengenai transaksi dan Pengguna Jasa; dan
+d. pemenuhan ketentuan peraturan perundang-
+undangan.
+Bagian Keenam
+Kepemilikan Tunggal
+Pasal 14
+(1) Dalam penyelenggaraan Sistem Pembayaran, PJP dan PIP
+memastikan pemenuhan kebijakan kepemilikan tunggal
+sebagaimana diatur dalam ketentuan Peraturan Bank
+Indonesia mengenai penyedia jasa pembayaran dan
+penyelenggara infrastruktur sistem pembayaran.14
+(2) Larangan kepemilikan saham dalam pengaturan
+kebijakan kepemilikan tunggal sebagaimana dimaksud
+pada ayat (1) dikenakan bagi pihak yang memiliki saham
+PJP dan/atau PIP secara langsung.
+Bagian Ketujuh
+Aksi Korporasi Berupa Penggabungan, Peleburan, Pemisahan,
+dan/atau Pengambilalihan
+Pasal 15
+Aksi korporasi yang dilakukan oleh PJP atau PIP merupakan
+aksi korporasi berupa:
+a. penggabungan;
+b. peleburan;
+c. pemisahan; dan
+d. pengambilalihan,
+sebagaimana diatur dalam undang-undang mengenai
+perseroan terbatas atau undang-undang mengenai badan
+usaha berbadan hukum Indonesia lainnya.
+Pasal 16
+(1) Pengaturan mengenai pelaksanaan penggabungan,
+peleburan, pemisahan, atau pengambilalihan bagi PJP
+berupa Bank dilaksanakan sesuai dengan ketentuan
+Peraturan Bank Indonesia mengenai pelayanan perizinan
+terpadu terkait hubungan operasional bank umum dengan
+Bank Indonesia.
+(2) Ketentuan mengenai pelaksanaan penggabungan,
+peleburan, pemisahan, atau pengambilalihan bagi PJP
+berupa Bank sebagaimana dimaksud pada ayat (1) berlaku
+secara mutatis mutandis terhadap tahapan pelaksanaan
+penggabungan, peleburan, pemisahan, atau
+pengambilalihan bagi PJP atau PIP berupa Lembaga Selain
+Bank.15
+Pasal 17
+(1) Permohonan persetujuan oleh Lembaga Selain Bank dan
+penyampaian laporan oleh Bank untuk penggabungan,
+peleburan, pemisahan, atau pengambilalihan
+disampaikan kepada Bank Indonesia dengan ketentuan:
+a. dalam hal permohonan persetujuan dan
+penyampaian laporan diajukan oleh PJP kategori izin
+1, PJP kategori izin 2, atau PIP, permohonan
+persetujuan dan penyampaian laporan disampaikan
+secara tertulis dalam Bahasa Indonesia dan
+ditujukan kepada:
+Bank Indonesia cq. Departemen Surveilans Sistem
+Keuangan
+Jalan M.H. Thamrin Nomor 2
+Jakarta 10350; dan
+b. dalam hal permohonan persetujuan dan
+penyampaian laporan diajukan oleh PJP kategori izin
+3, permohonan persetujuan dan penyampaian
+laporan disampaikan secara tertulis dalam Bahasa
+Indonesia dan ditujukan kepada Bank Indonesia cq.
+Kantor Perwakilan Bank Indonesia.
+(2) Permohonan persetujuan sebagaimana dimaksud pada
+ayat (1) disampaikan oleh Lembaga Selain Bank paling
+lambat 45 (empat puluh lima) hari kerja sebelum rencana
+penggabungan, peleburan, pemisahan, atau
+pengambilalihan dilakukan.
+(3) Penyampaian laporan sebagaimana dimaksud pada ayat
+(1) disampaikan oleh Bank bersamaan dengan
+penyampaian permohonan izin rencana penggabungan,
+peleburan, pemisahan, atau pengambilalihan kepada
+otoritas yang berwenang.
+(4) Dalam hal penggabungan, peleburan, pemisahan, atau
+pengambilalihan melibatkan 2 (dua) atau lebih PJP
+dan/atau PIP, Bank Indonesia dapat menentukan salah
+satu dari PJP atau PIP yang mengajukan persetujuan atau
+laporan kepada Bank Indonesia.16
+(5) Dalam hal terjadi perubahan alamat korespondensi dan
+komunikasi sebagaimana dimaksud pada ayat (1), Bank
+Indonesia akan memberitahukan melalui surat dan/atau
+media lainnya.
+Pasal 18
+(1) Dalam hal badan hukum hasil penggabungan, peleburan,
+atau pemisahan merupakan badan hukum yang belum
+memperoleh izin sebagai PJP atau penetapan sebagai PIP,
+badan hukum tersebut harus mengajukan permohonan
+izin PJP atau pemenuhan persyaratan penetapan PIP
+kepada Bank Indonesia dengan ketentuan:
+a. tata cara pengajuan dan pemrosesan permohonan
+izin PJP atau pemenuhan persyaratan penetapan PIP
+dilaksanakan sesuai dengan ketentuan tata cara dan
+proses perizinan sebagaimana diatur dalam
+ketentuan Peraturan Bank Indonesia mengenai
+sistem pembayaran dan ketentuan Peraturan Bank
+Indonesia mengenai perizinan terpadu Bank
+Indonesia melalui front office perizinan; dan
+b. permohonan izin PJP atau pemenuhan persyaratan
+penetapan PIP sebagaimana dimaksud dalam huruf a
+disertai pula dengan rencana pemberitahuan
+mengenai rencana penggabungan, peleburan,
+pemisahan, atau pengambilalihan kepada Pengguna
+Jasa.
+(2) Dalam hal badan hukum hasil penggabungan, peleburan,
+atau pemisahan merupakan badan hukum yang telah
+memperoleh izin sebagai PJP atau penetapan sebagai PIP,
+badan hukum tersebut harus menyampaikan laporan
+realisasi penggabungan, peleburan, atau pemisahan
+kepada Bank Indonesia, dengan ketentuan:
+a. bagi PJP kategori izin 1, PJP kategori izin 2, atau PIP,
+penyampaian laporan realisasi disampaikan secara
+tertulis dalam Bahasa Indonesia dan ditujukan
+kepada:17
+Bank Indonesia cq. Departemen Surveilans Sistem
+Keuangan
+Jalan M.H. Thamrin Nomor 2
+Jakarta 10350; dan
+b. bagi PJP kategori izin 3, penyampaian laporan
+realisasi disampaikan secara tertulis dalam Bahasa
+Indonesia dan ditujukan kepada Bank Indonesia cq.
+Kantor Perwakilan Bank Indonesia.
+(3) Dalam hal terjadi perubahan alamat korespondensi dan
+komunikasi sebagaimana dimaksud pada ayat (2), Bank
+Indonesia akan memberitahukan melalui surat dan/atau
+media lainnya.
+(4) Ketentuan penyampaian laporan realisasi sebagaimana
+dimaksud pada ayat (2) berlaku secara mutatis mutandis
+bagi PJP atau PIP yang melakukan pengambilalihan.
+Pasal 19
+Dalam hal terjadi penggabungan, peleburan, atau pemisahan
+yang mengakibatkan diperlukannya izin sebagai PJP atau
+penetapan sebagai PIP dan disertai perubahan anggota direksi
+PJP dan/atau PIP yang bertanggungjawab atas
+penyelenggaraan Sistem Pembayaran maka proses pelaporan
+perubahan anggota direksi akan menjadi bagian dari proses
+perizinan atau penetapan.
+BAB V
+SUMBER DANA DAN AKSES KE SUMBER DANA
+Bagian Kesatu
+Sumber Dana
+Pasal 20
+(1) Sumber Dana harus memenuhi unsur sebagaimana diatur
+dalam ketentuan Peraturan Bank Indonesia mengenai
+sistem pembayaran.18
+(2) Sumber Dana dapat didasarkan pada:
+a. simpanan sebagaimana dimaksud dalam ketentuan
+perundang-undangan mengenai perbankan;
+b. fasilitas kredit sebagaimana dimaksud dalam
+ketentuan Peraturan Bank Indonesia mengenai
+sistem pembayaran;
+c. nilai uang elektronik sebagaimana dimaksud dalam
+ketentuan Peraturan Bank Indonesia mengenai
+sistem pembayaran;
+d. simpanan pos sebagaimana dimaksud ketentuan
+peraturan perundang-undangan mengenai pos; atau
+e. Sumber Dana lain yang ditetapkan oleh Bank
+Indonesia.
+(3) Penggunaan Sumber Dana sebagaimana dimaksud pada
+ayat (2) dapat dilakukan oleh PJP dan PIP melalui
+penyediaan dan/atau pemrosesan akses ke Sumber Dana
+dengan metode atau penggunaan teknologi tertentu
+berupa instrumen, kanal, dan/atau akses ke Sumber
+Dana lainnya yang ditetapkan Bank Indonesia.
+(4) Penyediaan akses ke Sumber Dana sebagaimana
+dimaksud pada ayat (3) dilaksanakan sesuai ketentuan
+Peraturan Bank Indonesia mengenai sistem pembayaran.
+Pasal 21
+Dalam hal Sumber Dana digunakan dalam pelaksanaan
+program Pemerintah Republik Indonesia, penggunaan Sumber
+Dana dilaksanakan sesuai dengan kebijakan dan/atau
+ketentuan mengenai pelaksanaan program Pemerintah
+Republik Indonesia, dengan tetap memperhatikan ketentuan
+Peraturan Bank Indonesia mengenai sistem pembayaran.
+Bagian Kedua
+Akses ke Sumber Dana Berupa Uang Elektronik
+Pasal 22
+(1) Batas nilai uang elektronik yang dapat disimpan pada
+uang elektronik ditetapkan:19
+a. untuk uang elektronik unregistered paling banyak
+Rp2.000.000,00 (dua juta rupiah); dan
+b. untuk uang elektronik registered paling banyak
+Rp20.000.000,00 (dua puluh juta rupiah).
+(2) Batas nilai transaksi uang elektronik dalam 1 (satu) bulan
+ditetapkan:
+a. untuk uang elektronik unregistered paling banyak
+Rp20.000.000,00 (dua puluh juta rupiah); dan
+b. untuk uang elektronik registered paling banyak
+Rp40.000.000,00 (empat puluh juta rupiah).
+(3) Batas nilai transaksi uang elektronik sebagaimana
+dimaksud pada ayat (2) diperhitungkan dari transaksi
+yang bersifat incoming.
+(4) Batas nilai uang elektronik sebagaimana dimaksud pada
+ayat (1) yang dapat disimpan dan batas nilai transaksi
+uang elektronik sebagaimana dimaksud pada ayat (2),
+tidak berlaku bagi akun pencatatan nilai uang elektronik
+dari Penyedia Barang dan/atau Jasa.
+Pasal 23
+(1) Dalam penyelenggaraan aktivitas penatausahaan Sumber
+Dana berupa penerbitan uang elektronik, PJP yang
+menyelenggarakan aktivitas penatausahaan Sumber Dana
+berupa penerbitan uang elektronik wajib menerapkan
+manajemen risiko termasuk prinsip kehati-hatian yang
+dilakukan melalui kepemilikan pusat data (database) guna
+pelaksanaan identifikasi dan pencatatan transaksi
+Pengguna Jasa.
+(2) Pelaksanaan identifikasi dan pencatatan transaksi
+Pengguna Jasa sebagaimana dimaksud pada ayat (1)
+dilaksanakan sesuai dengan kewajiban penerapan prinsip
+anti pencucian uang dan pencegahan pendanaan
+terorisme sebagaimana diatur dalam ketentuan peraturan
+perundang-undangan mengenai tindak pidana pencucian
+uang dan tindak pidana pendanaan terorisme.
+(3) PJP, PIP, atau pihak lain yang melanggar kewajiban
+sebagaimana dimaksud pada ayat (1) dikenai sanksi20
+administratif sesuai dengan ketentuan Peraturan Bank
+Indonesia mengenai sistem pembayaran.
+Pasal 24
+Dalam hal uang elektronik digunakan dalam pelaksanaan
+program Pemerintah Republik Indonesia, penggunaan uang
+elektronik dilaksanakan sesuai dengan ketentuan peraturan
+perundang-undangan mengenai pelaksanaan program
+Pemerintah Republik Indonesia tersebut, dengan tetap
+memperhatikan ketentuan Peraturan Bank Indonesia
+mengenai sistem pembayaran.
+Pasal 25
+Bank Indonesia dapat menetapkan kebijakan tertentu dalam
+penyelenggaraan uang elektronik yang didasarkan pada
+pertimbangan:
+a. mendukung kebijakan ekonomi dan keuangan nasional;
+b. menjaga efisiensi nasional;
+c. menjaga kepentingan publik;
+d. menjaga pertumbuhan industri; dan/atau
+e. menjaga persaingan usaha yang sehat
+Bagian Ketiga
+Penyelenggaraan LKD
+Pasal 26
+(1) Penyelenggaraan LKD dilaksanakan sesuai dengan
+ketentuan Peraturan Bank Indonesia mengenai sistem
+pembayaran.
+(2) Penyelenggaraan LKD dilakukan oleh PJP yang
+menyelenggarakan aktivitas penatausahaan Sumber Dana
+berupa penerbitan uang elektronik melalui kerja sama
+dengan agen LKD berupa badan usaha berbadan hukum
+Indonesia dan/atau individu.
+(3) PJP sebagaimana dimaksud pada ayat (2) wajib
+memperoleh persetujuan terlebih dahulu sebagai21
+penyelenggara LKD dari Bank Indonesia sebelum
+menyelenggarakan kegiatan LKD.
+(4) Permohonan persetujuan sebagaimana dimaksud pada
+ayat (3) dilaksanakan sesuai dengan mekanisme dan tata
+cara pengajuan dan pemrosesan pengembangan aktivitas,
+pengembangan produk, dan/atau kerja sama dengan
+pihak lain sebagaimana dimaksud dalam ketentuan
+Peraturan Bank Indonesia mengenai sistem pembayaran
+dan ketentuan Peraturan Bank Indonesia mengenai front
+office perizinan.
+(5) PJP yang melanggar kewajiban sebagaimana dimaksud
+pada ayat (3) dikenai sanksi administratif sesuai dengan
+ketentuan Peraturan Bank Indonesia mengenai sistem
+pembayaran.
+Pasal 27
+(1) Pihak yang menjadi agen LKD dapat berupa:
+a. badan usaha berbadan hukum Indonesia; dan/atau
+b. individu.
+(2) Agen LKD harus memenuhi kriteria:
+a. memiliki kemampuan dan kelayakan untuk
+membantu menyelenggarakan LKD;
+b. memiliki usaha tetap;
+c. lulus proses uji tuntas (due diligence);
+d. memiliki kemampuan finansial yang memadai; dan
+e. memenuhi kriteria lain yang ditetapkan oleh Bank
+Indonesia.
+(3) PJP penyelenggara LKD hanya dapat menunjuk dan
+bekerja sama dengan agen LKD yang memenuhi kriteria
+sebagaimana dimaksud pada ayat (2).
+Pasal 28
+(1) PJP penyelenggara LKD wajib memastikan uji tuntas (due
+diligence) terhadap agen LKD.
+(2) PJP penyelenggara LKD menetapkan dan menerapkan
+kebijakan dan prosedur tertulis untuk pelaksanaan uji22
+tuntas (due diligence) sebagaimana dimaksud pada ayat
+(1).
+(3) PJP penyelenggara LKD memberikan pelatihan dan
+edukasi kepada calon agen LKD yang telah lulus uji tuntas
+(due diligence).
+(4) PJP penyelenggara LKD menerbitkan sertifikat
+penunjukan sebagai agen LKD kepada calon agen LKD
+yang telah lulus uji tuntas (due diligence) dan telah
+mengikuti pelatihan dan edukasi.
+(5) PJP penyelenggara LKD dan agen LKD menandatangani
+perjanjian kerja sama setelah penerbitan sertifikat
+penunjukan sebagaimana dimaksud pada ayat (4).
+(6) PJP yang melanggar kewajiban sebagaimana dimaksud
+pada ayat (1) dikenai sanksi administratif sesuai dengan
+ketentuan Peraturan Bank Indonesia mengenai sistem
+pembayaran.
+Pasal 29
+(1) Dalam penyelenggaraan LKD, agen LKD dapat membantu
+PJP penyelenggara LKD dalam memberikan layanan
+kepada Pengguna Jasa berupa:
+a. registrasi Pengguna Jasa;
+b. pengisian ulang (top-up);
+c. pembayaran atas tagihan;
+d. tarik tunai; dan/atau
+e. layanan lain yang ditetapkan atau disetujui Bank
+Indonesia.
+(2) Selain layanan sebagaimana dimaksud pada ayat (1), agen
+LKD dapat membantu PJP penyelenggara LKD dalam
+memberikan layanan penyaluran program Pemerintah
+Republik Indonesia.
+(3) Penyaluran program Pemerintah Republik Indonesia
+sebagaimana dimaksud pada ayat (2) dilaksanakan sesuai
+dengan ketentuan peraturan perundang-undangan
+mengenai penyaluran program Pemerintah Republik
+Indonesia, dengan tetap memperhatikan ketentuan
+Peraturan Bank Indonesia mengenai sistem pembayaran.23
+(4) Dalam menyelenggarakan kegiatannya, PJP penyelenggara
+LKD dan agen LKD dapat menyelenggarakan aktivitas lain
+yang diatur dan diawasi oleh otoritas yang berwenang.
+Pasal 30
+PJP penyelenggara LKD harus menyediakan petunjuk manual
+operasional dan perlengkapan operasional bagi agen LKD
+untuk memastikan kelancaran dan keamanan
+penyelenggaraan LKD.
+Pasal 31
+PJP penyelenggara LKD menyampaikan laporan kepada Bank
+Indonesia dalam hal terdapat penghentian kerja sama
+dan/atau pemindahan lokasi agen LKD.
+Pasal 32
+(1) Uang elektronik yang digunakan dalam penyelenggaraan
+LKD melalui agen LKD merupakan uang elektronik
+registered yang diproses secara daring (online).
+(2) Perolehan uang elektronik sebagaimana dimaksud pada
+ayat (1) diajukan oleh:
+a. calon Pengguna Jasa melalui proses registrasi, baik
+melalui agen LKD maupun dilakukan sendiri oleh
+calon Pengguna Jasa (self-registration); atau
+b. institusi/lembaga Pemerintah atau lembaga lain
+untuk kepentingan tertentu melalui proses registrasi
+secara massal (bulk registration).
+Pasal 33
+(1) Proses perolehan uang elektronik sebagaimana dimaksud
+dalam Pasal 32 ayat (2) menerapkan anti pencucian uang
+dan pencegahan pendanaan terorisme sebagaimana
+dimaksud dalam ketentuan mengenai anti pencucian uang
+dan pencegahan pendanaan terorisme.
+(2) Penerapan anti pencucian uang dan pencegahan
+pendanaan terorisme sebagaimana dimaksud pada ayat (1)
+dilakukan dengan menerapkan prosedur Customer Due24
+Diligence (CDD) sesuai ketentuan mengenai anti pencucian
+uang dan pencegahan pendanaan terorisme.
+Pasal 34
+(1) Fitur uang elektronik dalam penyelenggaraan LKD
+mengacu pada fitur uang elektronik sebagaimana
+dimaksud dalam ketentuan Peraturan Bank Indonesia
+mengenai sistem pembayaran.
+(2) Batas nilai dan batas transaksi uang elektronik dalam
+penyelenggaraan LKD mengacu pada batas nilai dan batas
+transaksi uang elektronik sebagaimana dimaksud dalam
+Pasal 22.
+Pasal 35
+(1) Agen LKD dapat mengenakan biaya layanan kepada
+Pengguna Jasa sesuai dengan jenis biaya yang diatur
+dalam ketentuan Peraturan Bank Indonesia mengenai
+sistem pembayaran.
+(2) Tata cara dan besarnya biaya layanan yang dapat
+dikenakan oleh agen LKD kepada Pengguna Jasa
+sebagaimana dimaksud pada ayat (1) harus dimuat dalam
+perjanjian kerja sama antara agen LKD dan PJP
+penyelenggara LKD.
+(3) PJP penyelenggara LKD dan/atau agen LKD
+menginformasikan biaya layanan sebagaimana dimaksud
+pada ayat (1) kepada Pengguna Jasa secara jelas dan
+transparan.
+Pasal 36
+Dalam penyelenggaraan layanan melalui agen LKD, sistem
+teknologi informasi yang digunakan paling sedikit harus
+memiliki kemampuan untuk:
+a. mendukung proses registrasi secara elektronik melalui
+agen LKD;
+b. menyampaikan informasi transaksi secara terenkripsi;
+c. menyampaikan notifikasi atas setiap transaksi Pengguna
+Jasa segera setelah transaksi terjadi;25
+d. mendukung interkoneksi antar PJP penyelenggara LKD;
+e. membatasi transaksi Pengguna Jasa secara otomatis (auto
+limit) sesuai dengan batas nilai uang elektronik dan nilai
+transaksi; dan
+f. memberlakukan batas waktu (time-out) proses transaksi.
+Pasal 37
+(1) PJP penyelenggara LKD wajib memastikan pemenuhan
+prinsip perlindungan konsumen dalam penyelenggaraan
+LKD meliputi:
+a. penyediaan informasi mengenai layanan agen LKD
+kepada calon Pengguna Jasa dan Pengguna Jasa;
+b. pelaksanaan edukasi, baik dilakukan sendiri atau
+melalui agen LKD, kepada calon Pengguna Jasa dan
+Pengguna Jasa mengenai penyelenggaraan LKD; dan
+c. penyediaan sistem yang andal untuk monitoring dan
+penyampaian keluhan, serta menindaklanjuti setiap
+pengaduan yang disampaikan oleh Pengguna Jasa.
+(2) Pemenuhan prinsip perlindungan konsumen sebagaimana
+dimaksud pada ayat (1) dilaksanakan sesuai ketentuan
+Peraturan Bank Indonesia mengenai perlindungan
+konsumen Bank Indonesia.
+Pasal 38
+(1) PJP penyelenggara LKD harus melakukan pengawasan
+terhadap pelaksanaan kegiatan oleh agen LKD.
+(2) Pengawasan sebagaimana dimaksud pada ayat (1) paling
+sedikit mencakup aspek:
+a. pemenuhan ketentuan penyelenggaraan LKD;
+b. kepatuhan terhadap peraturan perundang-
+undangan;
+c. kepatuhan terhadap petunjuk manual operasional;
+d. pemenuhan perjanjian kerja sama; dan
+e. kinerja agen LKD.
+(3) PJP penyelenggara LKD harus memastikan kelangsungan
+kegiatan LKD dalam hal terdapat keadaan memaksa (force26
+majeure) yang mengakibatkan agen LKD tidak dapat
+beroperasi.
+Pasal 39
+Bank Indonesia dapat menetapkan kebijakan dalam
+penyelenggaraan LKD yang didasarkan pada pertimbangan:
+a. mendukung kebijakan ekonomi dan keuangan nasional;
+b. menjaga efisiensi nasional;
+c. menjaga kepentingan publik;
+d. menjaga pertumbuhan industri; dan/atau
+e. menjaga persaingan usaha yang sehat.
+Pasal 40
+Pedoman penyelenggaraan LKD dipublikasikan melalui laman
+Bank Indonesia atau media lain yang ditetapkan Bank
+Indonesia.
+Bagian Keempat
+Akses ke Sumber Dana Berupa Alat Pembayaran
+Menggunakan Kartu
+Paragraf Kesatu
+Kartu Kredit
+Pasal 41
+(1) PJP yang menyelenggarakan aktivitas penatausahaan
+Sumber Dana berupa penerbitan kartu kredit wajib
+menerapkan manajemen risiko termasuk prinsip kehati-
+hatian yang dilakukan melalui penerbitan kartu kredit
+berdasarkan permohonan yang ditandatangani oleh calon
+pengguna kartu kredit.
+(2) Permohonan penerbitan kartu kredit sebagaimana
+dimaksud pada ayat (1) harus memuat informasi yang
+memungkinkan PJP memastikan kebenaran identitas dan
+melakukan verifikasi atas calon pengguna kartu kredit,
+serta membuktikan maksud dan tujuan calon pengguna
+kartu kredit.27
+(3) Tanda tangan calon pengguna kartu kredit sebagaimana
+dimaksud pada ayat (1) dapat berupa:
+a. tanda tangan basah;
+b. tanda tangan elektronik yang memenuhi pengaturan
+tanda tangan elektronik dalam ketentuan peraturan
+perundang-undangan mengenai informasi dan
+transaksi elektronik;
+c. mekanisme persetujuan elektronik yang dilengkapi
+dengan kebijakan dan prosedur tertulis guna
+memastikan kebenaran identitas, verifikasi calon
+pengguna kartu kredit, serta membuktikan maksud
+dan tujuan calon pengguna kartu kredit; atau
+d. mekanisme lain yang ditetapkan Bank Indonesia.
+(4) PJP yang melanggar kewajiban sebagaimana dimaksud
+pada ayat (1) dikenai sanksi administratif sesuai dengan
+ketentuan Peraturan Bank Indonesia mengenai sistem
+pembayaran.
+Pasal 42
+(1) PJP yang menyelenggarakan aktivitas penatausahaan
+Sumber Dana berupa penerbitan kartu kredit wajib
+menerapkan prinsip perlindungan konsumen dalam
+menyelenggarakan kegiatan alat pembayaran
+menggunakan kartu yang dilakukan dengan:
+a. menyampaikan informasi tertulis kepada calon
+pengguna kartu kredit dan pengguna kartu kredit atas
+alat pembayaran menggunakan kartu yang
+diterbitkan;
+b. menyediakan sarana dan nomor telepon yang dapat
+secara mudah digunakan dan/atau dihubungi oleh
+calon pengguna kartu kredit dan pengguna kartu
+kredit guna melakukan verifikasi kebenaran segala
+fasilitas yang ditawarkan dan/atau informasi yang
+disampaikan oleh PJP yang menyelenggarakan
+aktivitas penatausahaan Sumber Dana berupa
+penerbitan kartu kredit; dan28
+c. memenuhi prinsip perlindungan konsumen lainnya
+sesuai dengan ketentuan Peraturan Bank Indonesia.
+(2) Penerapan prinsip perlindungan konsumen sebagaimana
+dimaksud pada ayat (1) dilaksanakan sesuai dengan
+ketentuan Peraturan Bank Indonesia mengenai
+perlindungan konsumen Bank Indonesia.
+Pasal 43
+Tata cara penyampaian informasi tertulis oleh PJP yang
+menyelenggarakan aktivitas penatausahaan Sumber Dana
+berupa penerbitan kartu kredit kepada calon pengguna dan
+pengguna kartu kredit mencakup:
+a. media penyampaian informasi;
+b. perubahan substansi dan materi informasi;
+c. ringkasan transaksi pengguna kartu kredit secara
+tahunan; dan
+d. informasi tagihan (billing statement).
+Pasal 44
+(1) Dalam penyelenggaraan akses ke Sumber Dana, PJP yang
+menyelenggarakan aktivitas penatausahaan Sumber Dana
+berupa penerbitan kartu kredit wajib menerapkan
+manajemen risiko termasuk prinsip kehati-hatian yang
+dilakukan melalui penerapan:
+a. batas maksimum suku bunga akses ke Sumber Dana
+berupa kartu kredit;
+b. penghitungan bunga yang timbul atas transaksi
+akses ke Sumber Dana berupa kartu kredit;
+c. batas maksimum denda keterlambatan pembayaran
+tagihan akses ke Sumber Dana berupa kartu kredit;
+dan
+d. batas maksimum penarikan tunai melalui mesin
+anjungan tunai mandiri.
+(2) Bank Indonesia menetapkan dan dapat melakukan
+peninjauan kembali (review) batas maksimum:
+a. suku bunga kartu kredit sebagaimana dimaksud
+pada ayat (1) huruf a;29
+b. denda keterlambatan sebagaimana dimaksud pada
+ayat (1) huruf c; dan
+c. penarikan tunai melalui mesin anjungan tunai
+mandiri sebagaimana dimaksud pada ayat (1) huruf
+d.
+(3) Bank Indonesia menginformasikan batas maksimum suku
+bunga kartu kredit, denda keterlambatan, dan penarikan
+tunai melalui mesin anjungan tunai mandiri sebagaimana
+dimaksud pada ayat (2) secara tertulis kepada PJP.
+(4) PJP yang melanggar kewajiban sebagaimana dimaksud
+pada ayat (1) dikenai sanksi administratif sesuai dengan
+ketentuan Peraturan Bank Indonesia mengenai sistem
+pembayaran.
+Pasal 45
+(1) PJP yang menyelenggarakan aktivitas penatausahaan
+Sumber Dana berupa penerbitan kartu kredit dilarang
+memberikan secara otomatis fasilitas yang berdampak
+tambahan biaya kepada pengguna kartu kredit, dan/atau
+fasilitas lain di luar fungsi utama kartu kredit tanpa
+persetujuan tertulis pengguna kartu kredit.
+(2) PJP yang menyelenggarakan aktivitas penatausahaan
+Sumber Dana berupa penerbitan kartu kredit dilarang
+mencantumkan klausul dalam perjanjian yang
+memberikan secara otomatis fasilitas yang berdampak
+tambahan biaya kepada pengguna kartu kredit, dan/atau
+fasilitas lain di luar fungsi utama kartu kredit tanpa
+persetujuan tertulis pengguna kartu kredit.
+Pasal 46
+(1) PJP yang menyelenggarakan aktivitas penatausahaan
+Sumber Dana berupa penerbitan kartu kredit harus
+meminta persetujuan pengguna kartu kredit sebelum
+mempergunakan data pengguna kartu kredit untuk
+menawarkan produk dan/atau fasilitas lain, baik yang
+disediakan oleh PJP yang bersangkutan maupun pihak
+lain.30
+(2) Persetujuan pengguna kartu kredit sebagaimana
+dimaksud pada ayat (1) dan dalam Pasal 45 dapat
+diberikan secara tertulis atau elektronik dengan
+memperhatikan ketentuan peraturan perundang-
+undangan.
+Pasal 47
+PJP yang menyelenggarakan aktivitas penatausahaan Sumber
+Dana berupa penerbitan kartu kredit harus menyediakan
+mekanisme dan sarana yang cepat dan mudah bagi pengguna
+kartu kredit untuk mengakhiri fasilitas yang berdampak
+tambahan biaya atau penggunaan data pengguna kartu kredit
+untuk cross selling produk dan/atau fasilitas lainnya.
+Pasal 48
+(1) PJP yang menyelenggarakan aktivitas penatausahaan
+Sumber Dana berupa penerbitan kartu kredit wajib
+menerapkan manajemen risiko kredit dalam
+penyelenggaraan alat pembayaran menggunakan kartu
+dengan memperhatikan paling sedikit:
+a. batas minimum usia calon pengguna kartu kredit;
+b. batas minimum pendapatan calon pengguna kartu
+kredit;
+c. batas maksimum plafon kredit yang dapat diberikan
+kepada pengguna kartu kredit;
+d. batas maksimum jumlah PJP yang
+menyelenggarakan aktivitas penatausahaan Sumber
+Dana berupa penerbitan kartu kredit; dan
+e. batas minimum pembayaran oleh pengguna kartu
+kredit.
+(2) Penerapan manajemen risiko kredit berupa pembatasan
+batas maksimum plafon kredit sebagaimana dimaksud
+pada ayat (1) huruf c dan batas maksimum jumlah PJP
+sebagaimana dimaksud pada ayat (1) huruf d tidak
+berlaku bagi calon pengguna kartu kredit dan pengguna
+kartu kredit yang memiliki pendapatan tertentu tiap
+bulan.31
+(3) PJP yang menyelenggarakan aktivitas penatausahaan
+Sumber Dana berupa penerbitan kartu kredit wajib
+memastikan pemenuhan penerapan manajemen risiko
+kredit sebagaimana dimaksud pada ayat (1) dan ayat (2).
+(4) Bank Indonesia dapat menetapkan batasan dan
+melakukan peninjauan kembali (review) atas penerapan
+manajemen risiko kredit dalam penyelenggaraan alat
+pembayaran menggunakan kartu sebagaimana dimaksud
+pada ayat (1) dan ayat (2).
+(5) Bank Indonesia menginformasikan batasan penerapan
+manajemen risiko kredit dalam penyelenggaraan alat
+pembayaran menggunakan kartu sebagaimana dimaksud
+pada ayat (4) secara tertulis kepada PJP.
+(6) PJP yang melanggar kewajiban sebagaimana dimaksud
+pada ayat (1) dan ayat (3) dikenai sanksi administratif
+sesuai dengan ketentuan Peraturan Bank Indonesia
+mengenai sistem pembayaran.
+Pasal 49
+(1) Dalam penerapan manajemen risiko kredit sebagaimana
+dimaksud dalam Pasal 48, PJP yang menyelenggarakan
+aktivitas penatausahaan Sumber Dana berupa penerbitan
+kartu kredit wajib melakukan pembaruan data pengguna
+kartu kredit, pada saat:
+a. kualitas kredit pengguna kartu kredit menunjukkan
+penurunan;
+b. PJP yang menyelenggarakan aktivitas penatausahaan
+Sumber Dana berupa penerbitan kartu kredit
+memproses kenaikan plafon kredit; atau
+c. sewaktu-waktu apabila diperlukan.
+(2) PJP yang melanggar kewajiban sebagaimana dimaksud
+pada ayat (1) dikenai sanksi administratif sesuai dengan
+ketentuan Peraturan Bank Indonesia mengenai sistem
+pembayaran.32
+Pasal 50
+(1) Pengakhiran dan/atau penutupan fasilitas kartu kredit
+atas permintaan pengguna kartu kredit dilakukan dengan
+ketentuan:
+a. permohonan pengakhiran dan/atau penutupan
+dilakukan secara tertulis;
+b. larangan menghambat keinginan pengguna kartu
+kredit untuk melakukan pengakhiran dan/atau
+penutupan fasilitas kartu kredit;
+c. pemblokiran kartu kredit sejak menerima
+permohonan pengakhiran dan/atau penutupan
+fasilitas kartu kredit yang diajukan pengguna kartu
+kredit;
+d. larangan pengenaan biaya dan denda tambahan
+selain biaya dan denda terkait dengan transaksi yang
+telah dilakukan oleh pengguna kartu kredit sebelum
+dilakukannya pemblokiran, atau biaya dan denda
+terkait dengan kewajiban yang belum dipenuhi oleh
+pengguna kartu kredit;
+e. PJP yang menyelenggarakan aktivitas penatausahaan
+Sumber Dana berupa penerbitan kartu kredit harus
+melakukan pengakhiran dan/atau penutupan
+fasilitas kartu kredit dalam jangka waktu paling lama
+3 (tiga) hari kerja setelah dilakukan pemblokiran;
+f. PJP yang menyelenggarakan aktivitas penatausahaan
+Sumber Dana berupa penerbitan kartu kredit harus
+mengembalikan saldo kredit kepada pengguna kartu
+kredit paling lambat pada tanggal dilakukannya
+pengakhiran dan/atau penutupan fasilitas kartu
+kredit oleh PJP yang menyelenggarakan aktivitas
+penatausahaan Sumber Dana berupa penerbitan
+kartu kredit;
+g. penutupan fasilitas kartu kredit untuk kartu utama
+dan/atau kartu tambahan;
+h. PJP yang menyelenggarakan aktivitas penatausahaan
+Sumber Dana berupa penerbitan kartu kredit
+memberikan pernyataan penutupan (closing33
+statement) kartu kredit kepada pengguna kartu
+kredit; dan
+i. pernyataan penutupan (closing statement)
+disampaikan dalam bentuk surat dan/atau surat
+elektronik yang harus sudah sampai pada alamat
+pengguna kartu kredit paling lambat 10 (sepuluh)
+hari kerja setelah tanggal dilakukannya penutupan
+fasilitas kartu kredit.
+(2) Pengembalian saldo kredit sebagaimana dimaksud pada
+ayat (1) huruf f dilakukan dengan ketentuan:
+a. saldo kredit berjumlah lebih besar dari biaya transfer
+pengembalian; dan
+b. biaya transfer saldo kredit menjadi beban pengguna
+kartu kredit yang dapat dibebankan pada saldo kredit
+tersebut.
+(3) PJP yang menyelenggarakan aktivitas penatausahaan
+Sumber Dana berupa penerbitan kartu kredit dapat
+menutup kartu kredit dengan tetap menyampaikan
+pernyataan penutupan (closing statement) dalam hal
+terdapat alasan yang cukup bagi PJP yang
+menyelenggarakan aktivitas penatausahaan Sumber Dana
+berupa penerbitan kartu kredit untuk menutup kartu
+kredit.
+(4) PJP yang menyelenggarakan aktivitas penatausahaan
+Sumber Dana berupa penerbitan kartu kredit dilarang
+membebankan biaya tambahan dalam pengakhiran
+fasilitas tambahan serta dalam penutupan fasilitas kartu
+kredit.
+Pasal 51
+Pedoman penyelenggaraan kartu kredit dipublikasikan melalui
+laman Bank Indonesia atau media lain yang ditetapkan Bank
+Indonesia.34
+Paragraf Kedua
+Kartu Anjungan Tunai Mandiri dan Kartu Debit
+Pasal 52
+(1) PJP yang menyelenggarakan aktivitas penatausahaan
+Sumber Dana berupa penerbitan kartu anjungan tunai
+mandiri dan/atau kartu debit wajib memberikan informasi
+tertulis kepada calon pengguna dan pengguna kartu
+anjungan tunai mandiri dan/atau kartu debit paling
+sedikit memuat:
+a. prosedur dan tata cara penggunaan kartu anjungan
+tunai mandiri dan/atau kartu debit;
+b. fasilitas yang melekat pada kartu anjungan tunai
+mandiri dan/atau kartu debit;
+c. risiko yang mungkin timbul dari penggunaan kartu
+anjungan tunai mandiri dan/atau kartu debit;
+d. hak dan kewajiban pengguna kartu anjungan tunai
+mandiri dan/atau kartu debit; dan
+e. tata cara dan perkiraan waktu penyelesaian
+pengaduan.
+(2) PJP yang melanggar kewajiban sebagaimana dimaksud
+pada ayat (1) dikenai sanksi administratif sesuai dengan
+ketentuan Peraturan Bank Indonesia mengenai sistem
+pembayaran.
+Pasal 53
+Tata cara penyampaian informasi tertulis oleh PJP yang
+menyelenggarakan aktivitas penatausahaan Sumber Dana
+berupa penerbitan kartu anjungan tunai mandiri dan/atau
+kartu debit kepada calon pengguna dan pengguna kartu
+anjungan tunai mandiri dan/atau kartu debit mencakup:
+a. media penyampaian informasi; dan
+b. perubahan substansi dan materi informasi.35
+Pasal 54
+(1) Dalam penyelenggaraan akses ke sumber dana berupa
+kartu anjungan tunai mandiri dan/atau kartu debit, PJP
+yang menyelenggarakan aktivitas penatausahaan Sumber
+Dana berupa penerbitan kartu anjungan tunai mandiri
+dan/atau kartu debit wajib menerapkan manajemen risiko
+termasuk prinsip kehati-hatian yang dilakukan melalui
+penerapan batas maksimum:
+a. penarikan tunai melalui mesin anjungan tunai
+mandiri; dan
+b. nilai nominal dana yang dapat ditransfer antar PJP.
+(2) Bank Indonesia menetapkan dan dapat melakukan
+peninjauan kembali (review) batas maksimum:
+a. penarikan tunai sebagaimana dimaksud pada ayat (1)
+huruf a; dan
+b. nilai nominal dana yang dapat ditransfer antar PJP
+sebagaimana dimaksud pada ayat (1) huruf b.
+(3) Bank Indonesia menginformasikan batas maksimum
+penarikan tunai dan nilai nominal dana yang dapat
+ditransfer sebagaimana dimaksud pada ayat (2) secara
+tertulis kepada PJP.
+(4) PJP yang melanggar kewajiban sebagaimana dimaksud
+pada ayat (1) dikenai sanksi administratif sesuai dengan
+ketentuan Peraturan Bank Indonesia mengenai sistem
+pembayaran.
+Pasal 55
+Pedoman penyelenggaraan kartu anjungan tunai mandiri
+dan/atau kartu debit dipublikasikan melalui laman Bank
+Indonesia atau media lain yang ditetapkan Bank Indonesia.
+Paragraf Ketiga
+Peningkatan Keamanan Alat Pembayaran Menggunakan Kartu
+Pasal 56
+(1) PJP yang menyelenggarakan aktivitas penatausahaan
+Sumber Dana berupa penerbitan alat pembayaran36
+menggunakan kartu wajib menerapkan manajemen risiko
+termasuk prinsip kehati-hatian yang dilakukan melalui
+peningkatan keamanan alat pembayaran menggunakan
+kartu guna mencegah dan mengurangi tingkat kejahatan
+di bidang alat pembayaran menggunakan kartu.
+(2) Peningkatan keamanan sebagaimana dimaksud pada ayat
+(1) dilakukan terhadap seluruh infrastruktur teknologi
+yang terkait dengan penyelenggaraan alat pembayaran
+menggunakan kartu.
+(3) Peningkatan keamanan sebagaimana dimaksud pada ayat
+(2) meliputi pengamanan pada kartu dan seluruh sistem
+yang digunakan untuk memproses transaksi alat
+pembayaran menggunakan kartu dengan menerapkan
+teknologi chip dan personal identification number (PIN)
+paling sedikit 6 (enam) digit.
+(4) Penerapan teknologi chip dan personal identification
+number (PIN) paling sedikit 6 (enam) digit sebagaimana
+dimaksud pada ayat (3) dilaksanakan sesuai dengan
+ketentuan Peraturan Bank Indonesia mengenai standar
+nasional di bidang sistem pembayaran.
+(5) PJP yang melanggar kewajiban sebagaimana dimaksud
+pada ayat (1) dikenai sanksi administratif sesuai dengan
+ketentuan Peraturan Bank Indonesia mengenai sistem
+pembayaran.
+Pasal 57
+Selain penggunaan teknologi chip sebagaimana dimaksud
+dalam Pasal 56 ayat (3), kartu anjungan tunai mandiri
+dan/atau kartu debit yang diterbitkan di Indonesia atas dasar
+rekening simpanan tertentu dapat menggunakan teknologi
+magnetic stripe sebagaimana diatur dalam ketentuan Peraturan
+Bank Indonesia mengenai standar nasional di bidang sistem
+pembayaran.37
+Bagian Kelima
+Akses ke Sumber Dana Berupa Kanal Pembayaran
+Pasal 58
+(1) Penggunaan akses ke Sumber Dana berupa kanal
+dilaksanakan sesuai dengan ketentuan Peraturan Bank
+Indonesia mengenai sistem pembayaran.
+(2) Penggunaan akses ke Sumber Dana berupa kanal
+sebagaimana dimaksud pada ayat (1) untuk transaksi
+lintas batas (crossborder) dapat dilakukan melalui kerja
+sama antara PJP dan/atau PIP dengan penyelenggara jasa
+Sistem Pembayaran di luar wilayah Negara Kesatuan
+Republik Indonesia sesuai dengan kebijakan dan/atau
+penetapan Bank Indonesia mengenai penggunaan akses
+ke Sumber Dana berupa kanal dalam Sistem Pembayaran.
+(3) Penggunaan akses ke Sumber Dana berupa kanal
+sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai
+dengan memenuhi ketentuan Peraturan Bank Indonesia
+mengenai sistem pembayaran.
+BAB VI
+INOVASI TEKNOLOGI SISTEM PEMBAYARAN
+Pasal 59
+(1) Penyelenggaraan ruang uji coba pengembangan inovasi
+teknologi Sistem Pembayaran dilaksanakan sesuai dengan
+ketentuan Peraturan Bank Indonesia mengenai sistem
+pembayaran.
+(2) PJP, PIP, atau pihak lain yang melaksanakan uji coba
+wajib menyampaikan laporan perkembangan uji coba
+kepada Bank Indonesia untuk dilakukan penilaian atas
+seluruh rangkaian kegiatan selama pelaksanaan uji coba
+sebagaimana dimaksud pada ayat (1).
+(3) Penyampaian laporan perkembangan uji coba
+sebagaimana dimaksud pada ayat (2) dilaksanakan
+dengan ketentuan:38
+a. laporan perkembangan uji coba disampaikan secara
+berkala 1 (satu) kali setiap bulan; dan/atau
+b. laporan perkembangan uji coba sebagaimana
+dimaksud dalam huruf a paling sedikit memuat:
+1. perkembangan model bisnis dan/atau transaksi
+dari uji coba yang dilaksanakan;
+2. isu, kendala, dan/atau tantangan yang dihadapi
+dalam pelaksanaan uji coba; dan/atau
+3. informasi lainnya yang diminta Bank Indonesia.
+(4) Bank Indonesia dapat meminta PJP, PIP, atau pihak lain
+yang melaksanakan uji coba untuk menyampaikan
+laporan insidental perkembangan uji coba atau laporan
+lain yang diperlukan sesuai dengan tenggat waktu yang
+ditetapkan Bank Indonesia.
+(5) Dalam hal Bank Indonesia meminta laporan insidental
+sebagaimana dimaksud pada ayat (4), PJP, PIP, atau pihak
+lain yang melaksanakan uji coba wajib menyampaikan
+laporan insidental perkembangan uji coba atau laporan
+lain yang diperlukan sesuai dengan tenggat waktu yang
+ditetapkan Bank Indonesia.
+(6) Pemenuhan penyampaian laporan sebagaimana dimaksud
+pada ayat (3) huruf a dan/atau ayat (4) menjadi salah satu
+dasar Bank Indonesia menetapkan status hasil uji coba
+pengembangan inovasi teknologi sistem pembayaran.
+(7) PJP, PIP, atau pihak lain yang tidak menyampaikan
+laporan sebagaimana dimaksud pada ayat (3) dan ayat (5)
+dikenai sanksi administratif sesuai dengan ketentuan
+Peraturan Bank Indonesia mengenai sistem pembayaran.39
+BAB VII
+PENGAWASAN SISTEM PEMBAYARAN
+Bagian Kesatu
+Tata Cara Pengenaan Sanksi Administratif Berupa Denda
+Pasal 60
+Pengenaan sanksi administratif berupa denda untuk
+pelanggaran kewajiban penyampaian laporan berkala
+dilakukan dengan ketentuan:
+a. untuk kewajiban pelaporan secara daring (online)
+dilakukan sesuai dengan ketentuan Peraturan Bank
+Indonesia penyampaian laporan secara daring (online); dan
+b. untuk kewajiban pelaporan secara luring (offline),
+dilakukan sesuai dengan surat pengenaan sanksi
+administratif berupa denda dari Bank Indonesia yang
+paling sedikit memuat besaran denda yang dikenakan dan
+batas waktu penyampaian bukti pembayaran.
+Bagian Kedua
+Asesmen Mandiri (Self-Assessment) untuk Pengawasan
+Pasal 61
+(1) Dalam pelaksanaan pengawasan berbasis risiko, Bank
+Indonesia dapat meminta PJP dan PIP melaksanakan
+asesmen mandiri (self-assessment).
+(2) Dalam pelaksanaan asesmen mandiri (self-assessment)
+oleh PJP dan PIP sebagaimana dimaksud pada ayat (1),
+Bank Indonesia dapat meminta PJP dan PIP untuk
+menyampaikan data dan/atau informasi secara berkala
+atau sewaktu-waktu kepada Bank Indonesia.
+(3) Pedoman penyusunan asesmen mandiri (self-assessment)
+sebagaimana dimaksud pada ayat (1) beserta
+perubahannya dipublikasikan melalui laman Bank
+Indonesia atau media lain yang ditetapkan Bank
+Indonesia.40
+Bagian Ketiga
+Format Laporan Tahunan
+Pasal 62
+Format laporan tahunan yang disampaikan secara luring
+(offline) paling sedikit meliputi:
+a. laporan tahunan Sistem Pembayaran; dan
+b. laporan manajemen dan hasil pengawasan dewan
+komisaris,
+beserta perubahannya dipublikasikan melalui laman Bank
+Indonesia atau media lain yang ditetapkan Bank Indonesia.
+Bagian Keempat
+Pengawasan terhadap Pihak Tertentu
+Pasal 63
+(1) Bank Indonesia berwenang melakukan pemeriksaan
+dan/atau meminta laporan, dokumen, data, informasi,
+keterangan, dan/atau penjelasan terhadap pihak tertentu
+sebagaimana diatur dalam ketentuan Peraturan Bank
+Indonesia mengenai sistem pembayaran.
+(2) Pihak tertentu sebagaimana dimaksud pada ayat (1) harus
+menyampaikan kepada Bank Indonesia laporan
+penyelenggaraan aktivitas secara tertulis dengan
+menggunakan Bahasa Indonesia.
+(3) Dalam melakukan aktivitasnya, pihak tertentu
+sebagaimana dimaksud pada ayat (1) harus
+memperhatikan penerapan manajemen risiko dan
+perlindungan konsumen.41
+BAB VIII
+SRO
+Bagian Kesatu
+Pendirian, Penggabungan, dan Pembubaran SRO
+Pasal 64
+(1) Pendirian SRO harus dilaporkan secara tertulis kepada
+Bank Indonesia, dengan ketentuan:
+a. laporan disampaikan kepada Bank Indonesia paling
+lambat 10 (sepuluh) hari kerja terhitung sejak
+pendirian sebagai badan hukum disahkan oleh
+instansi yang berwenang; dan
+b. laporan disertai dengan dokumen yang meliputi:
+1. susunan pengurus SRO;
+2. akta pendirian SRO;
+3. daftar anggota SRO yang memenuhi kriteria
+sebagaimana dipersyaratkan dalam ketentuan
+Peraturan Bank Indonesia mengenai sistem
+pembayaran; dan
+4. dokumen lain yang diminta Bank Indonesia.
+(2) Dalam hal terdapat rencana penggabungan atau
+pembubaran SRO, informasi dimaksud harus dilaporkan
+secara tertulis kepada Bank Indonesia, dengan ketentuan:
+a. laporan disampaikan kepada Bank Indonesia paling
+lambat 20 (dua puluh) hari kerja sebelum
+penggabungan atau pembubaran SRO dilaksanakan;
+dan
+b. laporan disertai dengan penjelasan tertulis mengenai
+alasan penggabungan atau pembubaran SRO.
+(3) Informasi mengenai SRO hasil penggabungan harus
+dilaporkan secara tertulis kepada Bank Indonesia, dengan
+ketentuan:
+a. laporan disampaikan kepada Bank Indonesia paling
+lama 10 (sepuluh) hari kerja terhitung sejak
+penggabungan mendapatkan persetujuan dari
+instansi yang berwenang; dan42
+b. laporan disertai dengan dokumen sebagaimana
+dimaksud pada ayat (1) huruf b.
+(4) Selain berdasarkan ketentuan dan persyaratan
+pembubaran sebagaimana anggaran dasar dan/atau
+anggaran rumah tangga, Bank Indonesia dapat
+mengajukan permohonan kepada Ketua Pengadilan Negeri
+mengenai pembubaran SRO dalam hal SRO tidak
+memenuhi ketentuan Peraturan Bank Indonesia mengenai
+sistem pembayaran.
+(5) Laporan sebagaimana dimaksud pada ayat (1), ayat (2),
+dan ayat (3) disampaikan kepada:
+Bank Indonesia cq. Departemen Kebijakan Sistem
+Pembayaran
+Jalan M.H. Thamrin Nomor 2
+Jakarta 10350.
+(6) Dalam hal terjadi perubahan alamat korespondensi dan
+komunikasi sebagaimana dimaksud pada ayat (5), Bank
+Indonesia akan memberitahukan melalui surat dan/atau
+media lainnya.
+(7) Bank Indonesia memberikan tanggapan tertulis berupa
+penetapan atau penolakan atas laporan sebagaimana
+dimaksud pada ayat (1), ayat (2), dan ayat (3) paling lambat
+10 (sepuluh) hari kerja sejak laporan tertulis dan seluruh
+dokumen yang dipersyaratkan diterima secara lengkap.
+Bagian Kedua
+Keanggotaan Dalam SRO
+Pasal 65
+(1) Pihak di bidang Sistem Pembayaran di Indonesia yang
+menjadi anggota SRO terdiri atas:
+a. Bank atau Lembaga Selain Bank yang telah
+memperoleh izin sebagai PJP atau penetapan menjadi
+PIP, sebagaimana diwajibkan dalam ketentuan
+Peraturan Bank Indonesia mengenai sistem
+pembayaran;43
+b. asosiasi Lembaga Selain Bank yang mewadahi PJP
+kategori izin 3; dan/atau
+c. pihak lain.
+(2) PJP kategori izin 3 dapat menjadi anggota SRO secara
+langsung atau melalui keanggotaan pada asosiasi
+Lembaga Selain Bank sebagaimana dimaksud pada ayat
+(1) huruf b.
+(3) Jumlah anggota SRO paling sedikit 80% (delapan puluh
+persen) dari total pihak di bidang Sistem Pembayaran di
+Indonesia sebagaimana dimaksud pada ayat (1).
+(4) Penghitungan jumlah anggota SRO sebagaimana
+dimaksud pada ayat (3) dilakukan berdasarkan kriteria:
+a. PJP atau PIP yang telah menjadi anggota SRO,
+dihitung sebagai 1 (satu) pihak;
+b. untuk asosiasi Lembaga Selain Bank yang mewadahi
+PJP kategori izin 3, dihitung sebagai 1 (satu) pihak;
+c. pihak lain yang telah menjadi anggota SRO, dihitung
+sebagai 1 (satu) pihak; dan
+d. PJP kategori izin 3 yang menjadi anggota asosiasi
+Lembaga Selain Bank sebagaimana dimaksud dalam
+huruf b, dihitung sebagai 1 (satu) pihak.
+Bagian Ketiga
+Cakupan Pelaksanaan Tugas SRO
+Pasal 66
+SRO melaksanakan tugas sebagaimana diatur dalam
+ketentuan Peraturan Bank Indonesia mengenai sistem
+pembayaran.
+Paragraf Kesatu
+Penerbitan Ketentuan oleh SRO
+Pasal 67
+(1) Ketentuan yang dikeluarkan oleh SRO merupakan
+ketentuan pelengkap dan tidak boleh bertentangan
+dengan peraturan dan kebijakan Bank Indonesia di bidang44
+Sistem Pembayaran.
+(2) Ketentuan yang dikeluarkan oleh SRO sebagaimana
+dimaksud pada ayat (1) harus mewakili kepentingan
+seluruh anggota SRO yang meliputi:
+a. materi teknis dan mikro di bidang Sistem
+Pembayaran yang belum diatur dalam Peraturan
+Bank Indonesia di bidang Sistem Pembayaran; atau
+b. materi teknis dan mikro di bidang Sistem
+Pembayaran yang merupakan penjabaran lebih lanjut
+dari Peraturan Bank Indonesia di bidang Sistem
+Pembayaran.
+(3) Ketentuan di bidang Sistem Pembayaran yang bersifat
+teknis dan mikro yang diterbitkan oleh SRO dapat terdiri
+atas ketentuan SRO dan pedoman teknis.
+(4) Penerbitan ketentuan yang bersifat teknis dan mikro oleh
+SRO tidak mengurangi kewenangan Bank Indonesia untuk
+mengatur hal-hal yang bersifat teknis dan mikro di bidang
+Sistem Pembayaran.
+(5) Inisiatif atau usulan ketentuan di bidang Sistem
+Pembayaran oleh SRO dapat berasal dari SRO atau atas
+dasar permintaan Bank Indonesia.
+Pasal 68
+(1) Dalam hal jumlah anggota SRO setelah dalam jangka
+waktu 6 (enam) bulan berturut-turut kurang dari 80%
+(delapan puluh persen) dari total pihak di bidang Sistem
+Pembayaran di Indonesia berlaku ketentuan:
+a. forum atau institusi tidak dapat menerbitkan dan
+memberlakukan ketentuan baru sebagai SRO; dan
+b. ketentuan yang sebelumnya telah dikeluarkan oleh
+forum atau institusi tersebut tetap berlaku sebagai
+ketentuan SRO.
+(2) Forum atau institusi sebagaimana dimaksud pada ayat (1)
+dapat menerbitkan kembali dan memberlakukan
+ketentuan sebagai SRO setelah jumlah pihak yang menjadi
+anggota forum atau institusi di bidang Sistem Pembayaran
+tersebut mencapai 80% (delapan puluh persen) atau lebih,45
+dan telah melaporkan secara tertulis kepada Bank
+Indonesia.
+Paragraf Kedua
+Pemberlakuan dan Pembatalan Ketentuan SRO
+Pasal 69
+(1) Ketentuan yang diterbitkan oleh SRO dapat berlaku efektif
+setelah memperoleh persetujuan secara tertulis dari Bank
+Indonesia yang menyatakan penerbitan dan
+pemberlakuan ketentuan dapat dilaksanakan.
+(2) Dalam hal SRO menerbitkan dan memberlakukan
+ketentuan tanpa terlebih dahulu memperoleh persetujuan
+tertulis dari Bank Indonesia sebagaimana dimaksud pada
+ayat (1), Bank Indonesia dapat melakukan langkah-
+langkah sebagai berikut:
+a. Bank Indonesia secara tertulis memerintahkan SRO
+untuk mencabut dan menghentikan pemberlakuan
+ketentuan yang bersangkutan; dan/atau
+b. Bank Indonesia membatalkan ketentuan tersebut
+dan mengumumkan kepada seluruh pihak di bidang
+Sistem Pembayaran.
+Pasal 70
+(1) Untuk memperoleh persetujuan secara tertulis dari Bank
+Indonesia sebagaimana dimaksud dalam Pasal 69 ayat (1),
+SRO mengajukan permintaan persetujuan tertulis atas
+ketentuan SRO kepada Bank Indonesia.
+(2) Pengajuan permintaan persetujuan tertulis atas ketentuan
+SRO sebagaimana dimaksud pada ayat (1) dilakukan
+dengan ketentuan:
+a. untuk ketentuan yang terkait dengan kebijakan
+Sistem Pembayaran diajukan kepada:
+Bank Indonesia cq. Departemen Kebijakan Sistem
+Pembayaran
+Jalan M.H. Thamrin Nomor 2
+Jakarta 10350;46
+b. untuk ketentuan yang terkait dengan
+penyelenggaraan Sistem Pembayaran diajukan
+kepada
+Bank Indonesia cq. Departemen Penyelenggaraan
+Sistem Pembayaran
+Jalan M.H. Thamrin Nomor 2
+Jakarta 10350; atau
+c. untuk substansi ketentuan selain sebagaimana
+dimaksud dalam huruf a dan huruf b diajukan
+kepada satuan kerja lain di Bank Indonesia yang
+memiliki kewenangan terkait atau paling dekat
+dengan substansi dalam ketentuan SRO.
+(3) Dalam hal terjadi perubahan alamat korespondensi dan
+komunikasi sebagaimana dimaksud pada ayat (2), Bank
+Indonesia akan memberitahukan melalui surat dan/atau
+media lainnya.
+(4) Satuan kerja sebagaimana dimaksud pada ayat (2) juga
+berwenang untuk memerintahkan SRO untuk mencabut,
+membatalkan, dan menghentikan pemberlakuan
+ketentuan SRO.
+Paragraf Ketiga
+Pendaftaran Auditor Teknologi Informasi
+Pasal 71
+(1) SRO melakukan proses pendaftaran dan mencantumkan
+daftar auditor teknologi informasi dalam laman SRO.
+(2) Pencantuman daftar auditor teknologi informasi dalam
+laman SRO sebagaimana dimaksud pada ayat (1)
+dilakukan paling lambat 1 (satu) tahun sejak berlakunya
+Peraturan Anggota Dewan Gubernur ini.
+(3) Daftar auditor teknologi informasi sebagaimana dimaksud
+pada ayat (2) menjadi acuan bagi:
+a. calon PJP dalam proses perizinan atau pihak yang
+akan ditetapkan menjadi PIP dalam proses
+penetapan; dan47
+b. PJP atau PIP dalam pemenuhan kewajiban dalam
+penyelenggaraan kegiatan Sistem Pembayaran.
+Bagian Keempat
+Pertemuan Konsultasi antara SRO dan Bank Indonesia
+Pasal 72
+(1) Dalam melaksanakan tugasnya dan guna menjamin
+kesinambungan informasi perkembangan di bidang
+Sistem Pembayaran, SRO dapat melakukan pertemuan
+konsultasi dengan Bank Indonesia.
+(2) Agenda pertemuan konsultasi sebagaimana dimaksud
+pada ayat (1) meliputi:
+a. laporan rencana kerja SRO, baik yang telah maupun
+yang masih akan dilaksanakan atau direalisasikan
+oleh SRO termasuk laporan hasil rapat umum
+anggota SRO;
+b. rencana penyusunan dan penerbitan ketentuan di
+bidang Sistem Pembayaran;
+c. tukar menukar informasi untuk pengembangan
+Sistem Pembayaran di Indonesia; dan/atau
+d. agenda pertemuan konsultasi lainnya.
+(3) Pertemuan konsultasi sebagaimana dimaksud pada ayat
+(1) dapat dilakukan secara tatap muka maupun melalui
+media elektronik.
+(4) Inisiatif pertemuan konsultasi sebagaimana dimaksud
+pada ayat (1) dapat berasal dari Bank Indonesia atau SRO.
+(5) Dalam hal inisiatif pertemuan konsultasi sebagaimana
+dimaksud pada ayat (1) berasal dari SRO, pengajuan
+informasi rencana pertemuan konsultasi dilakukan
+dengan ketentuan:
+a. untuk agenda pertemuan konsultasi yang terkait
+dengan kebijakan Sistem Pembayaran diajukan
+kepada:
+Bank Indonesia cq. Departemen Kebijakan Sistem
+Pembayaran
+Jalan M.H. Thamrin Nomor 248
+Jakarta 10350,;
+b. untuk agenda pertemuan konsultasi yang terkait
+dengan penyelenggaraan Sistem Pembayaran
+ditujukan kepada:
+Bank Indonesia cq. Departemen Kebijakan Sistem
+Pembayaran
+Jalan M.H. Thamrin Nomor 2
+Jakarta 10350,; atau
+c. satuan kerja lain di Bank Indonesia yang memiliki
+kewenangan terkait atau paling dekat dengan
+substansi agenda pertemuan konsultasi selain
+sebagaimana dimaksud dalam huruf a dan huruf b.
+(6) Dalam hal terjadi perubahan alamat korespondensi dan
+komunikasi sebagaimana dimaksud pada ayat (5), Bank
+Indonesia akan memberitahukan melalui surat dan/atau
+media lainnya.
+Bagian Kelima
+Kerahasiaan Data dan/atau Informasi
+Pasal 73
+(1) SRO wajib menjaga kerahasiaan data dan/atau informasi
+dengan memperhatikan ketentuan peraturan perundang-
+undangan.
+(2) Kewajiban menjaga kerahasiaan data dan/atau informasi
+sebagaimana dimaksud pada ayat (1) diberlakukan untuk
+data dan/atau informasi yang diperoleh dari Bank
+Indonesia.
+(3) Kewajiban menjaga kerahasiaan data dan/atau informasi
+sebagaimana dimaksud pada ayat (1) dikecualikan
+terhadap data dan/atau informasi yang telah memperoleh
+persetujuan Bank Indonesia untuk diungkapkan.
+(4) SRO yang melanggar kewajiban sebagaimana dimaksud
+pada ayat (1) dikenai sanksi administratif sesuai dengan
+ketentuan Peraturan Bank Indonesia mengenai sistem
+pembayaran.49
+Bagian Keenam
+Pengawasan SRO
+Pasal 74
+(1) Bank Indonesia berwenang untuk melakukan pengawasan
+atas pelaksanaan tugas SRO.
+(2) Bank Indonesia dapat menugaskan pihak lain untuk dan
+atas nama Bank Indonesia dalam melaksanakan
+pengawasan atas pelaksanaan tugas SRO sebagaimana
+dimaksud pada ayat (1).
+(3) SRO harus memberikan kepada Bank Indonesia atau
+pihak lain yang ditugaskan oleh Bank Indonesia
+sebagaimana dimaksud pada ayat (2) paling sedikit:
+a. dokumen, data, informasi, dan/atau laporan;
+b. keterangan dan/atau penjelasan baik lisan maupun
+tertulis; dan/atau
+c. akses terhadap infrastruktur dan/atau sistem
+informasi,
+yang diperlukan dalam pengawasan.
+(4) Pemberian dokumen, data, informasi dan/atau laporan
+sebagaimana dimaksud pada ayat (3) huruf a dan
+keterangan dan/atau penjelasan sebagaimana dimaksud
+pada ayat (3) huruf b disampaikan melalui:
+a. penyampaian laporan secara tertulis;
+b. pertemuan langsung; dan/atau
+c. media lain yang ditetapkan oleh Bank Indonesia.
+BAB IX
+KETENTUAN PERALIHAN
+Pasal 75
+Pada saat Peraturan Anggota Dewan Gubernur ini mulai
+berlaku, seluruh ketentuan teknis dan mikro di bidang Sistem
+Pembayaran yang telah memperoleh penegasan Bank Indonesia
+dan diberlakukan oleh SRO, dinyatakan telah memperoleh
+persetujuan Bank Indonesia.50
+BAB X
+KETENTUAN PENUTUP
+Pasal 76
+Pada saat Peraturan Anggota Dewan Gubernur ini berlaku:
+a. Surat Edaran Bank Indonesia Nomor 11/10/DASP tanggal
+13 April 2009 perihal Penyelenggaraan Kegiatan Alat
+Pembayaran dengan Menggunakan Kartu sebagaimana
+telah beberapa kali diubah terakhir dengan Surat Edaran
+Bank Indonesia Nomor 18/33/DKSP tanggal 2 Desember
+2016;
+b. Surat Edaran Bank Indonesia Nomor 13/7/DASP tanggal
+25 Februari 2011 perihal Self-Regulatory Organization di
+Bidang Sistem Pembayaran;
+c. Surat Edaran Bank Indonesia Nomor14/27/DASP tanggal
+25 September 2012 perihal Mekanisme Penyesuaian
+Kepemilikan Kartu Kredit;
+d. ketentuan mengenai perizinan transfer dana dalam Surat
+Edaran Bank Indonesia Nomor 15/23/DASP tanggal 27
+Juni 2013 perihal Penyelenggaraan Transfer Dana;
+e. Surat Edaran Bank Indonesia Nomor 16/11/DKSP tanggal
+22 Juli 2014 perihal Penyelenggaraan Uang Elektronik
+(Electronic Money) sebagaimana telah diubah dengan Surat
+Edaran Bank Indonesia Nomor 18/21/DKSP tanggal 27
+September 2016;
+f. Surat Edaran Bank Indonesia Nomor 18/22/DKSP tanggal
+27 September 2016 perihal Layanan Keuangan Digital;
+g. Surat Edaran Bank Indonesia Nomor 18/41/DKSP tanggal
+30 Desember 2016 perihal Penyelenggaraan Pemrosesan
+Transaksi Pembayaran;
+h. Peraturan Anggota Dewan Gubernur Nomor
+19/14/PADG/2017 tanggal 30 November 2017 tentang
+Ruang Uji Coba Terbatas (Regulatory Sandbox) Teknologi
+Finansial; dan
+i. Peraturan Anggota Dewan Gubernur Nomor
+19/15/PADG/2017 tanggal 30 November 2017 tentang
+Tata Cara Pendaftaran, Penyampaian Informasi, dan51
+Pemantauan Penyelenggara Teknologi Finansial,
+dicabut dan dinyatakan tidak berlaku.
+Pasal 77
+Peraturan Anggota Dewan Gubernur ini mulai berlaku pada
+tanggal 1 Juli 2022.
+Agar setiap orang mengetahuinya, memerintahkan penempatan
+Peraturan Anggota Dewan Gubernur ini dengan
+penempatannya dalam Berita Negara Republik Indonesia.
+Ditetapkan di Jakarta
+pada tanggal 30 Juni 2022
+ANGGOTA DEWAN GUBERNUR,
+TTD
+DONI PRIMANTO JOEWONO1
+PENJELASAN
+ATAS
+PERATURAN ANGGOTA DEWAN GUBERNUR
+NOMOR 24/7/PADG/2022
+TENTANG
+PENYELENGGARAAN SISTEM PEMBAYARAN OLEH
+PENYEDIA JASA PEMBAYARAN DAN
+PENYELENGGARA INFRASTRUKTUR SISTEM PEMBAYARAN
+I. UMUM
+Perkembangan digitalisasi dan inovasi di bidang Sistem Pembayaran
+yang bergerak dengan sangat cepat perlu diseimbangkan dengan upaya
+memelihara stabilitas guna menciptakan Sistem Pembayaran yang cepat,
+mudah, murah, aman, dan andal, dengan tetap memperhatikan perluasan
+akses dan perlindungan konsumen.
+Melalui Blueprint Sistem Pembayaran Indonesia (BSPI) 2025, Bank
+Indonesia telah merespons perubahan industri Sistem Pembayaran di era
+digital. Respons tersebut diwujudkan antara lain melalui reformasi
+pengaturan Sistem Pembayaran yang diharapkan dapat menata kembali
+struktur industri Sistem Pembayaran, serta memayungi ekosistem
+penyelenggaraan Sistem Pembayaran secara menyeluruh sejalan dengan
+perkembangan ekonomi dan keuangan digital.
+Restrukturisasi kerangka pengaturan di bidang Sistem Pembayaran
+antara lain dilakukan dengan memilah materi peraturan yang bersifat
+prinsipil dan strategis untuk diatur dalam peraturan induk, mengatur lebih
+lanjut aspek pengaturan yang bersifat operasional dalam peraturan
+pelaksanaan, serta mendelegasikan substansi pengaturan bersifat teknis
+dan mikro pada tataran industri untuk diatur melalui SRO.
+Reformasi pengaturan Sistem Pembayaran diawali dengan penerbitan
+ketentuan Bank Indonesia dalam bentuk Peraturan Bank Indonesia, yaitu2
+Peraturan Bank Indonesia Nomor 22/23/PBI/2020 tentang Sistem
+Pembayaran (Lembaran Negara Republik Indonesia Tahun 2020 Nomor
+311, Tambahan Lembaran Negara Republik Indonesia Nomor 6610),
+Peraturan Bank Indonesia Nomor 23/6/PBI/2021 tentang Penyedia Jasa
+Pembayaran (Lembaran Negara Republik Indonesia Tahun 2021 Nomor
+147, Tambahan Lembaran Negara Republik Indonesia Nomor 6692), dan
+Peraturan Bank Indonesia Nomor 23/7/PBI/2021 tentang Penyelenggara
+Infrastruktur Sistem Pembayaran (Lembaran Negara Republik Indonesia
+Tahun 2021 Nomor 148, Tambahan Lembaran Negara Republik Indonesia
+Nomor 6693).
+Untuk mendukung penerbitan Peraturan Bank Indonesia tersebut,
+diperlukan ketentuan pelaksanaan yang akan mengatur lebih lanjut hal
+yang bersifat operasional dalam penyelenggaraan Sistem Pembayaran oleh
+PJP dan PIP.
+Selain itu, perlu dimuat kembali pengaturan dalam ketentuan
+pelaksanaan dari Peraturan Bank Indonesia Nomor 11/11/PBI/2009
+tentang Penyelenggaraan Kegiatan Alat Pembayaran dengan Menggunakan
+Kartu (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 64,
+Tambahan Lembaran Negara Republik Indonesia Nomor 5000)
+sebagaimana telah diubah dengan Peraturan Bank Indonesia Nomor
+14/2/PBI/2012 tentang Perubahan atas Peraturan Bank Indonesia Nomor
+11/11/PBI/2009 tentang Penyelenggaraan Kegiatan Alat Pembayaran
+dengan Menggunakan Kartu (Lembaran Negara Republik Indonesia Tahun
+2012 Nomor 11, Tambahan Lembaran Negara Republik Indonesia Nomor
+5275), Peraturan Bank Indonesia Nomor 18/40/PBI/2016 tentang
+Penyelenggaraan Pemrosesan Transaksi Pembayaran (Lembaran Negara
+Republik Indonesia Tahun 2016 Nomor 236, Tambahan Lembaran Negara
+Republik Indonesia Nomor 5945), Peraturan Bank Indonesia Nomor
+19/12/PBI/2017 tentang Penyelenggaraan Teknologi Finansial (Lembaran
+Negara Republik Indonesia Tahun 2017 Nomor 245, Tambahan Lembaran
+Negara Republik Indonesia Nomor 6142), dan Peraturan Bank Indonesia
+Nomor 20/6/PBI/2018 tentang Uang Elektronik (Lembaran Negara
+Republik Indonesia Tahun 2018 Nomor 70, Tambahan Lembaran Negara
+Republik Indonesia Nomor 6203) yang akan berakhir keberlakuannya pada
+tanggal 1 Juli 2022, dengan tetap memperhatikan perkembangan terkini.3
+Memperhatikan hal tersebut di atas, perlu untuk menerbitkan
+ketentuan pelaksanaan tersebut dalam bentuk Peraturan Anggota Dewan
+Gubernur tentang Penyelenggaraan Jasa Sistem Pembayaran oleh Penyedia
+Jasa Pembayaran dan Penyelenggara Infrastruktur Sistem Pembayaran.
+II. PASAL DEMI PASAL
+Pasal 1
+Cukup jelas.
+Pasal 2
+Cukup jelas.
+Pasal 3
+Ketentuan Peraturan Bank Indonesia mengenai sistem pembayaran
+antara lain ketentuan Peraturan Bank Indonesia mengenai sistem
+pembayaran, ketentuan Peraturan Bank Indonesia penyedia jasa
+pembayaran, dan ketentuan Peraturan Bank Indonesia penyelenggara
+infrastruktur sistem pembayaran.
+Pasal 4
+Ayat (1)
+Cukup jelas.
+Ayat (2)
+Perhitungan komposisi kepemilikan saham dilakukan
+berdasarkan penilaian Bank Indonesia dengan
+mempertimbangkan jumlah lembar saham dan tetap
+memperhatikan aspek kewajaran antara kepemilikan saham dan
+permodalan secara keseluruhan.
+Huruf a
+Cukup jelas.
+Huruf b
+Kepemilikan secara langsung dihitung berdasarkan
+persentase kepemilikan pada Lembaga Selain Bank yang
+mengajukan permohonan.4
+Huruf c
+Kepemilikan tidak langsung dihitung secara proporsional
+sesuai persentase kepemilikan pada jenjang kepemilikan
+tidak langsung terhadap persentase kepemilikan secara
+langsung pada Lembaga Selain Bank yang mengajukan
+permohonan.
+Ayat (3)
+Cukup jelas.
+Ayat (4)
+Cukup jelas.
+Ayat (5)
+Contoh kebijakan mengenai penilaian pengendalian antara lain
+penentuan batas jenjang penghitungan pengendalian dengan
+memperhatikan skala materialitas dan/atau aspek lainnya pada
+PJP dan/atau PIP.
+Ayat (6)
+Cukup jelas.
+Ayat (7)
+Cukup jelas.
+Pasal 5
+Ayat (1)
+Huruf a
+Contoh peniadaan salah satu tahap perizinan atau penetapan
+antara lain peniadaan tahap on-site visit.
+Huruf b
+Penetapan jangka waktu tertentu dilakukan antara lain guna:
+1. membuktikan kemampuan untuk menyelenggarakan
+kegiatan dengan baik dan tidak melanggar komitmen
+yang telah diberikan; dan/atau
+2. memastikan PJP atau PIP tidak melakukan
+pengembangan penyelenggaraan kegiatan.
+Ayat (2)
+Penentuan terjadinya kondisi tertentu dilakukan dengan
+memperhatikan antara lain penetapan pemerintah, kondisi
+terkini di industri, atau kondisi lain yang mempengaruhi proses
+pemberian izin atau penetapan.5
+Ayat (3)
+Cukup jelas.
+Ayat (4)
+Cukup jelas.
+Ayat (5)
+Bank Indonesia dapat tetap melakukan pemrosesan dan
+memberikan izin atau penetapan secara normal sesuai dengan
+mekanisme dan tata cara yang diatur dalam ketentuan Peraturan
+Bank Indonesia mengenai sistem pembayaran antara lain jika
+kondisi tertentu yang terjadi dipandang tidak berdampak
+signifikan terhadap kemampuan calon PJP atau pihak yang akan
+ditetapkan menjadi PIP dalam memenuhi persyaratan dan proses
+izin atau penetapan.
+Ayat (6)
+Contoh pembatalan izin sebagai PJP atau penetapan menjadi PIP
+antara lain jika PJP atau PIP tidak memenuhi komitmen atau
+kondisi yang ditentukan dalam pemberian izin atau penetapan
+secara bersyarat (conditional approval).
+Ayat (7)
+Cukup jelas.
+Ayat (8)
+Cukup jelas.
+Pasal 6
+Ayat (1)
+Cukup jelas.
+Ayat (2)
+Termasuk dalam data dan dan/atau informasi terkait skema
+harga penyelenggaraan Sistem Pembayaran yaitu komponen
+biaya pembentuk harga dasar dan strategi harga yang diterapkan.
+Ayat (3)
+Ketentuan Peraturan Bank Indonesia mengenai sistem
+pembayaran antara lain memuat tata cara dan mekanisme
+penyampaian data dan/atau informasi dalam penyelenggaraan
+Sistem Pembayaran sebagaimana diatur dalam Peraturan Bank
+Indonesia tentang Sistem Pembayaran, Peraturan Bank Indonesia6
+tentang Penyedia Jasa Pembayaran, dan Peraturan Bank
+Indonesia tentang Penyedia Infrastruktur Sistem Pembayaran.
+Pasal 7
+Cukup jelas.
+Pasal 8
+Ayat (1)
+Cukup jelas.
+Ayat (2)
+Yang dimaksud dengan “otoritas lain” antara lain Badan Siber dan
+Sandi Negara dan Otoritas Jasa Keuangan.
+Pasal 9
+Ayat (1)
+Proses persetujuan dilakukan untuk pengembangan aktivitas,
+pengembangan produk, dan/atau kerja sama dengan kategori
+risiko sedang atau risiko tinggi.
+Yang dimaksud dengan “menguji kesiapan penyelenggaraan
+pengembangan aktivitas, pengembangan produk, dan/atau kerja
+sama” adalah pengujian yang dilakukan dengan menggunakan
+data Pengguna Jasa sebenarnya atau bukan data Pengguna Jasa
+dummy.
+Ayat (2)
+Cukup jelas.
+Pasal 10
+Ayat (1)
+Yang dimaksud dengan “memiliki kesamaan model bisnis dan
+skema kerja sama” antara lain adalah model bisnis yang sama
+dan berulang antara para pihak yang bekerja sama, penggunaan
+format perjanjian kerja sama yang sama antara para pihak,
+dan/atau pemrosesan transaksi pembayaran yang sama dalam
+kerja sama yang akan diselenggarakan.
+Ayat (2)
+Cukup jelas.7
+Ayat (3)
+Cukup jelas.
+Pasal 11
+Cukup jelas.
+Pasal 12
+Cukup jelas.
+Pasal 13
+Ayat (1)
+Cukup jelas.
+Ayat (2)
+Huruf a
+Cukup jelas.
+Huruf b
+Contoh tindakan yang dapat merugikan dan/atau tidak
+sesuai peruntukan misalnya tindakan Penyedia Barang
+dan/atau Jasa yang merugikan PJP, PIP, dan/atau
+Pengguna Jasa, seperti melakukan kerja sama dengan
+pelaku kejahatan (fraudster), memproses penarikan atau
+gesek tunai (cash withdrawal transaction) kartu kredit, atau
+mengenakan biaya tambahan (surcharge) kepada Pengguna
+Jasa atas biaya yang seharusnya dikenakan oleh PJP kepada
+Penyedia Barang dan/atau Jasa.
+Huruf c
+Cukup jelas.
+Huruf d
+Cukup jelas.
+Pasal 14
+Cukup jelas.
+Pasal 15
+Yang dimaksud dengan “badan usaha berbadan hukum Indonesia
+lainnya” antara lain badan hukum berupa koperasi.8
+Huruf a
+Yang dimaksud dengan “penggabungan” adalah perbuatan
+hukum yang dilakukan oleh 1 (satu) badan hukum atau lebih
+untuk menggabungkan diri dengan badan hukum lain yang
+telah ada yang mengakibatkan aktiva dan pasiva dari badan
+hukum yang menggabungkan diri beralih karena hukum
+kepada badan hukum yang menerima penggabungan dan
+selanjutnya status badan hukum yang menggabungkan diri
+berakhir karena hukum.
+Huruf b
+Yang dimaksud dengan “peleburan” adalah perbuatan hukum
+yang dilakukan 2 (dua) badan hukum atau lebih untuk
+meleburkan diri dengan cara mendirikan 1 (satu) badan
+hukum baru yang karena hukum memperoleh aktiva dan
+pasiva dari badan hukum yang meleburkan diri dan status
+badan hukum yang meleburkan diri berakhir karena hukum.
+Huruf c
+Yang dimaksud dengan “pemisahan” adalah perbuatan
+hukum yang dilakukan oleh badan hukum untuk
+memisahkan usaha yang mengakibatkan:
+1. seluruh aktiva dan pasiva badan hukum beralih karena
+hukum kepada 2 (dua) badan hukum atau lebih yang
+menerima peralihan dan badan hukum Indonesia yang
+melakukan pemisahan tersebut berakhir karena
+hukum (pemisahan murni); atau
+2. sebagian aktiva dan pasiva badan hukum beralih
+karena hukum kepada 1 (satu) badan hukum lain atau
+lebih yang menerima pengalihan, dan badan hukum
+yang melakukan pemisahan tersebut tetap ada
+(pemisahan tidak murni).
+Huruf d
+Yang dimaksud dengan “pengambilalihan” adalah perbuatan
+hukum yang dilakukan oleh badan hukum atau orang
+perseorangan untuk mengambil alih saham badan hukum
+yang menyebabkan beralihnya pengendalian atas badan
+hukum tersebut.9
+Pasal 16
+Ayat (1)
+Termasuk dalam pengaturan mengenai pelaksanaan
+penggabungan, peleburan, pemisahan, atau pengambilalihan
+meliputi:
+1. pelaksanaan tahapan penyampaian informasi, tahapan
+penyampaian permohonan, tahapan pemrosesan
+permohonan, dan tahapan persetujuan atau penolakan; dan
+2. pelaksanaan koordinasi.
+Ayat (2)
+Cukup jelas.
+Pasal 17
+Cukup jelas.
+Pasal 18
+Cukup jelas.
+Pasal 19
+Cukup jelas.
+Pasal 20
+Ayat (1)
+Cukup jelas.
+Ayat (2)
+Huruf a
+Termasuk dalam simpanan adalah pencatatan dalam
+simpanan yang berdasarkan penilaian Bank Indonesia
+memiliki karakteristik serupa akun untuk pembayaran
+antara lain memungkinkan identifikasi pemilik akun dan
+memastikan kecukupan dana.
+Huruf b
+Cukup jelas.
+Huruf c
+Cukup jelas.
+Huruf d
+Cukup jelas.10
+Huruf e
+Cukup jelas.
+Ayat (3)
+Cukup jelas.
+Ayat (4)
+Ketentuan Peraturan Bank Indonesia mengenai sistem
+pembayaran” antara lain memuat perizinan, penetapan, dan/atau
+persetujuan pengembangan kegiatan sebagaimana diatur dalam
+Peraturan Bank Indonesia tentang Sistem Pembayaran.
+Pasal 21
+Termasuk dalam ketentuan mengenai pelaksanaan program
+Pemerintah Republik Indonesia antara lain ketentuan mengenai
+belanja bantuan sosial pada kementerian negara atau lembaga.
+Ketentuan mengenai pelaksanaan program Pemerintah Republik
+Indonesia antara lain memuat mekanisme penyaluran bantuan sosial.
+Pasal 22
+Ayat (1)
+Cukup jelas.
+Ayat (2)
+Cukup jelas.
+Ayat (3)
+Termasuk transaksi yang bersifat incoming antara lain setoran
+awal, transfer dana masuk, dan/atau pengisian ulang (top up).
+Ayat (4)
+Yang dimaksud dengan “akun pencatatan nilai Uang Elektronik”
+adalah akun pencatatan yang hanya digunakan oleh Penyedia
+Barang dan/atau Jasa untuk menerima pembayaran atas
+transaksi barang dan/atau jasa yang disediakan oleh Penyedia
+Barang dan/atau Jasa dan tidak dapat digunakan untuk
+transaksi yang bersifat outgoing.
+Termasuk transaksi yang bersifat outgoing antara lain
+pembayaran transaksi pembelanjaan, pembayaran tagihan,
+transfer dana, dan/atau tarik tunai.11
+Pasal 23
+Ayat (1)
+Identifikasi untuk uang elektronik unregistered dilakukan paling
+sedikit dengan mencatat nomor kartu, nomor telepon genggam,
+dan/atau informasi lainnya yang dapat mengidentifikasi akun
+atau fasilitas uang elektronik yang telah diterbitkan kepada
+pengguna uang elektronik.
+Ayat (2)
+Ketentuan perundang-undangan mengenai tindak pidana
+pencucian uang dan tindak pidana pendanaan terorisme antara
+lain berupa Undang-Undang dan ketentuan pelaksanaan yang
+diterbitkan oleh lembaga pengawas dan pengatur.
+Ayat (3)
+Cukup jelas.
+Pasal 24
+Termasuk dalam ketentuan peraturan perundang-undangan
+mengenai pelaksanaan program Pemerintah Republik Indonesia
+antara lain ketentuan peraturan perundang-undangan mengenai
+belanja bantuan sosial pada kementerian negara atau lembaga.
+Ketentuan peraturan perundang-undangan mengenai pelaksanaan
+program Pemerintah Republik Indonesia antara lain memuat
+mekanisme penyaluran bantuan sosial.
+Pasal 25
+Kebijakan tertentu dalam penyelenggaraan uang elektronik antara lain
+mengenai perizinan, persetujuan, dan pengelolaan dana float.
+Pasal 26
+Ayat (1)
+Cukup jelas.
+Ayat (2)
+Agen LKD merupakan pihak ketiga yang bekerja sama dengan PJP
+dan bertindak untuk dan atas nama PJP dalam memberikan LKD.
+Ayat (3)
+Cukup jelas.12
+Ayat (4)
+Cukup jelas.
+Ayat (5)
+Cukup jelas.
+Pasal 27
+Ayat (1)
+Huruf a
+Contoh badan usaha berbadan hukum Indonesia misalnya
+PJP yang telah memperoleh izin dari Bank Indonesia untuk
+melakukan aktivitas layanan remitansi.
+Huruf b
+Yang dimaksud dengan “individu” antara lain orang-
+perorangan, badan usaha tidak berbadan hukum, dan badan
+usaha milik desa.
+Ayat (2)
+Cukup jelas.
+Ayat (3)
+Yang dimaksud dengan “PJP penyelenggara LKD” adalah PJP yang
+telah memperoleh persetujuan sebagai penyelenggara LKD dari
+Bank Indonesia.
+Pasal 28
+Cukup jelas.
+Pasal 29
+Ayat (1)
+Cukup jelas.
+Ayat (2)
+Program Pemerintah Republik Indonesia antara lain berupa
+bantuan sosial atau subsidi Pemerintah kepada masyarakat
+seperti bantuan sosial, bantuan pembiayaan pendidikan, dan
+subsidi bantuan pembiayaan kesehatan.
+Ayat (3)
+Cukup jelas.
+Ayat (4)
+Cukup jelas.13
+Pasal 30
+Perlengkapan operasional dapat berupa tanda pengenal dan perangkat
+pencatatan transaksi agen LKD.
+Pasal 31
+Cukup jelas.
+Pasal 32
+Ayat (1)
+Uang elektronik registered dalam penyelenggaraan LKD dapat
+menggunakan sarana atau perangkat berbasis mobile, kartu, atau
+piranti digital lainnya.
+Ayat (2)
+Cukup jelas.
+Pasal 33
+Ayat (1)
+Cukup jelas.
+Ayat (2)
+Termasuk dalam prosedur Customer Due Diligence (CDD) antara
+lain prosedur Customer Due Diligence (CDD) sederhana.
+Pasal 34
+Cukup jelas.
+Pasal 35
+Cukup jelas.
+Pasal 36
+Cukup jelas.
+Pasal 37
+Cukup jelas.
+Pasal 38
+Cukup jelas.14
+Pasal 39
+Cukup jelas.
+Pasal 40
+Pedoman penyelenggaraan LKD antara lain memuat panduan atau
+acuan teknis mengenai kriteria dan penunjukan agen LKD,
+pelaksanaan registrasi melalui agen LKD, jenis dokumen dalam tahap
+verifikasi dalam proses Customer Due Diligence (CDD), dan/atau
+pelaksanaan layanan oleh agen LKD.
+Pasal 41
+Ayat (1)
+Pengguna kartu kredit merupakan Pengguna Jasa yang
+menggunakan akses ke Sumber Dana berupa instrumen kartu
+kredit.
+Ayat (2)
+Cukup jelas.
+Ayat (3)
+Cukup jelas.
+Ayat (4)
+Cukup jelas.
+Pasal 42
+Ayat (1)
+Huruf a
+Informasi tertulis kepada calon pengguna kartu kredit dan
+pengguna kartu kredit disampaikan menggunakan Bahasa
+Indonesia yang jelas dan mudah dimengerti serta ditulis
+dalam huruf dan angka yang mudah dibaca oleh calon
+pengguna kartu kredit dan pengguna kartu kredit.
+Huruf b
+Cukup jelas.
+Huruf c
+Termasuk dalam ketentuan Peraturan Bank Indonesia antara
+lain ketentuan Peraturan Bank Indonesia mengenai Sistem
+Pembayaran dan ketentuan Peraturan Bank Indonesia
+mengenai perlindungan konsumen Bank Indonesia.15
+Ayat (2)
+Cukup jelas.
+Pasal 43
+Huruf a
+Informasi tertulis disampaikan oleh PJP secara langsung ke
+alamat calon pengguna atau pengguna kartu kredit dengan
+menggunakan media seperti formulir permohonan, welcome pack,
+brosur, lembar tagihan (billing statement), dan/atau surat
+pemberitahuan.
+Huruf b
+Cukup jelas.
+Huruf c
+Penyampaian ringkasan transaksi pengguna kartu kredit secara
+tahunan dilakukan paling lambat 1 (satu) bulan terhitung sejak
+bulan terakhir periode ringkasan transaksi.
+Huruf d
+Cukup jelas.
+Pasal 44
+Ayat (1)
+Cukup jelas.
+Ayat (2)
+Cukup jelas.
+Ayat (3)
+Penyampaian informasi batas maksimum suku bunga kartu
+kredit, denda keterlambatan, dan penarikan tunai melalui mesin
+anjungan tunai mandiri secara tertulis kepada PJP dapat
+dilakukan melalui pemuatan informasi dalam laman Bank
+Indonesia atau media lain yang ditetapkan Bank Indonesia.
+Ayat (4)
+Cukup jelas.
+Pasal 45
+Ayat (1)
+Larangan memberikan secara otomatis fasilitas yang berdampak
+tambahan biaya kepada pengguna kartu kredit, dan/atau fasilitas16
+lain di luar fungsi utama kartu kredit tanpa persetujuan tertulis
+pengguna kartu kredit merupakan bagian dari pemenuhan
+manajemen risiko dan prinsip kehati-hatian serta pemenuhan
+ketentuan Peraturan Bank Indonesia mengenai perlindungan
+konsumen Bank Indonesia.
+Fasilitas yang berdampak tambahan biaya yang harus ditanggung
+oleh pengguna kartu kredit, dan/atau fasilitas lain di luar fungsi
+utama kartu kredit antara lain program asuransi dan tagihan
+rutin atas transaksi yang bersifat terus-menerus seperti tagihan
+listrik, air, atau telepon.
+Termasuk persetujuan tertulis adalah persetujuan tertulis yang
+disampaikan melalui faksimili atau e-mail, serta kesepakatan
+pembicaraan melalui telepon yang dituangkan dalam catatan
+resmi PJP yang menyelenggarakan aktivitas penatausahaan
+Sumber Dana berupa penerbitan kartu kredit yang bersangkutan.
+Ayat (2)
+Larangan pencantuman klausul dalam perjanjian yang
+memberikan secara otomatis fasilitas yang berdampak tambahan
+biaya kepada pengguna kartu kredit, dan/atau fasilitas lain di
+luar fungsi utama kartu kredit tanpa persetujuan tertulis
+pengguna kartu kredit merupakan bagian dari pemenuhan
+ketentuan Peraturan Bank Indonesia mengenai perlindungan
+konsumen.
+Pasal 46
+Ayat (1)
+Cukup jelas.
+Ayat (2)
+Yang dimaksud dengan “ketentuan peraturan perundang-
+undangan” antara lain ketentuan peraturan perundang-
+undangan mengenai perlindungan konsumen, informasi dan
+transaksi elektronik, dan pelindungan data pribadi.
+Pasal 47
+Cukup jelas.17
+Pasal 48
+Ayat (1)
+Cukup jelas.
+Ayat (2)
+Cukup jelas.
+Ayat (3)
+Cukup jelas.
+Ayat (4)
+Cukup jelas.
+Ayat (5)
+Penyampaian informasi batasan penerapan manajemen risiko
+kredit dalam penyelenggaraan alat pembayaran menggunakan
+kartu secara tertulis kepada PJP dapat dilakukan melalui
+pemuatan informasi dalam laman Bank Indonesia atau media lain
+yang ditetapkan Bank Indonesia.
+Ayat (6)
+Cukup jelas.
+Pasal 49
+Cukup jelas.
+Pasal 50
+Ayat (1)
+Huruf a
+Termasuk permohonan tertulis dalam hal ini adalah
+permohonan tertulis yang disampaikan melalui faksimili
+atau e-mail, serta permohonan melalui pembicaraan telepon
+yang dituangkan dalam catatan resmi PJP yang
+menyelenggarakan aktivitas penatausahaan Sumber Dana
+berupa penerbitan kartu kredit yang bersangkutan dan telah
+dikonfirmasikan kepada pengguna kartu kredit.
+Huruf b
+Contoh kegiatan menghambat keinginan pengguna kartu
+kredit untuk melakukan pengakhiran dan/atau penutupan
+fasilitas kartu kredit, antara lain:
+1. memberlakukan persyaratan batas waktu minimal
+penggunaan kartu kredit untuk dapat diakhiri, seperti18
+penetapan persyaratan pengakhiran dan/atau
+penutupan penggunaan kartu kredit yang hanya dapat
+dilakukan oleh pengguna kartu kredit setelah pengguna
+kartu kredit menggunakan kartu kredit paling kurang 3
+(tiga) tahun atau lebih; dan/atau
+2. menunda proses permohonan pengakhiran dan/atau
+penutupan fasilitas kartu kredit yang diajukan
+pengguna kartu kredit dengan berbagai alasan.
+Huruf c
+Cukup jelas.
+Huruf d
+Cukup jelas.
+Huruf e
+Jangka waktu paling lama 3 (tiga) hari kerja terhitung sejak:
+1. tanggal diterimanya permohonan dalam hal pengguna
+kartu kredit tidak memiliki kewajiban kepada PJP yang
+menyelenggarakan aktivitas penatausahaan Sumber
+Dana berupa penerbitan kartu kredit; atau
+2. tanggal diterimanya pelunasan seluruh kewajiban
+pengguna kartu kredit oleh PJP yang
+menyelenggarakan aktivitas penatausahaan Sumber
+Dana berupa penerbitan kartu kredit, dalam hal
+pengguna kartu kredit masih memiliki kewajiban
+kepada PJP yang menyelenggarakan aktivitas
+penatausahaan Sumber Dana berupa penerbitan kartu
+kredit.
+Huruf f
+Pengembalian saldo kredit dilakukan melalui transfer ke
+rekening simpanan yang ditentukan oleh pengguna kartu
+kredit.
+Huruf g
+Pengakhiran dan/atau penutupan fasilitas kartu kredit
+untuk kartu utama dan/atau kartu tambahan dilakukan
+terhadap:
+1. kartu utama dan kartu tambahan apabila pengakhiran
+dan/atau penutupan dilakukan untuk kartu utama;
+dan19
+2. kartu tambahan apabila pengakhiran dan/atau
+penutupan dilakukan untuk kartu tambahan.
+Huruf h
+Pernyataan penutupan (closing statement) kartu kredit paling
+sedikit memuat pernyataan:
+1. fasilitas kartu kredit yang diberikan kepada pengguna
+kartu kredit telah diakhiri dan/atau ditutup;
+2. pengguna kartu kredit telah menyelesaikan seluruh
+kewajibannya kepada PJP yang menyelenggarakan
+aktivitas penatausahaan Sumber Dana berupa
+penerbitan kartu kredit sehubungan dengan fasilitas
+kartu kredit yang telah diakhiri dan/atau ditutup; dan
+3. pengguna kartu kredit tidak akan dikenakan biaya
+dalam bentuk apapun di kemudian hari sehubungan
+dengan fasilitas kartu kredit yang telah diakhiri
+dan/atau ditutup.
+Huruf i
+Cukup jelas
+Ayat (2)
+Cukup jelas.
+Ayat (3)
+Cukup jelas.
+Ayat (4)
+Cukup jelas.
+Pasal 51
+Pedoman penyelenggaraan kartu kredit antara lain memuat panduan
+atau acuan teknis mengenai penyampaian informasi tertulis kepada
+calon pengguna kartu kredit dan pengguna kartu kredit, contoh
+klausul yang dilarang dicantumkan dalam perjanjian kartu kredit, dan
+persetujuan fasilitas kartu kredit yang berdampak penambahan biaya.
+Pasal 52
+Ayat (1)
+Pengguna kartu anjungan tunai mandiri dan/atau kartu debit
+merupakan Pengguna Jasa yang menggunakan akses ke Sumber20
+Dana berupa instrumen kartu anjungan tunai mandiri dan/atau
+kartu debit.
+Ayat (2)
+Cukup jelas.
+Pasal 53
+Huruf a
+Informasi tertulis disampaikan oleh PJP secara langsung ke
+alamat calon pengguna atau pengguna kartu anjungan tunai
+mandiri dan/atau kartu debit dengan menggunakan media
+seperti formulir permohonan, welcome pack, brosur, dan/atau
+surat pemberitahuan.
+Huruf b
+Cukup jelas.
+Pasal 54
+Ayat (1)
+Cukup jelas.
+Ayat (2)
+Cukup jelas.
+Ayat (3)
+Penyampaian informasi batas maksimum penarikan tunai dan
+nilai nominal dana yang dapat ditransfer secara tertulis kepada
+PJP dapat dilakukan melalui pemuatan informasi dalam laman
+Bank Indonesia atau media lain yang ditetapkan Bank Indonesia.
+Ayat (4)
+Cukup jelas.
+Pasal 55
+Pedoman penyelenggaraan kartu anjungan tunai mandiri dan/atau
+kartu debit antara lain memuat panduan atau acuan teknis mengenai
+hak dan kewajiban pengguna kartu anjungan tunai mandiri dan/atau
+kartu debit.
+Pasal 56
+Ayat (1)
+Cukup jelas.21
+Ayat (2)
+Termasuk dalam seluruh infrastruktur teknologi antara lain
+instrumen, kanal, dan jaringan.
+Ayat (3)
+Cukup jelas.
+Ayat (4)
+Cukup jelas.
+Ayat (5)
+Cukup jelas.
+Pasal 57
+Cukup jelas.
+Pasal 58
+Ayat (1)
+Contoh akses ke Sumber Dana berupa kanal antara lain kanal
+pembayaran menggunakan teknologi quick response code, mesin
+electronic data capture, mesin anjungan tunai mandiri, atau kanal
+pembayaran online menggunakan teknologi berbasis mobile atau
+internet termasuk proprietary channel atau shared channel oleh
+PJP yang menyelenggarakan aktivitas penatausahaan Sumber
+Dana.
+Ayat (2)
+Cukup jelas.
+Ayat (3)
+Ketentuan Peraturan Bank Indonesia mengenai sistem
+pembayaran antara lain memuat perizinan, penetapan, dan/atau
+persetujuan pengembangan kegiatan sebagaimana diatur dalam
+Peraturan Bank Indonesia tentang Sistem Pembayaran.
+Pasal 59
+Cukup jelas.
+Pasal 60
+Cukup jelas.22
+Pasal 61
+Ayat (1)
+Asesmen mandiri (self-assessment) dilakukan antara lain untuk
+penyusunan profil risiko PJP dan PIP, dan penilaian anti
+pencucian uang dan pencegahan pendanaan terorisme.
+Ayat (2)
+Cukup jelas.
+Ayat (3)
+Cukup jelas.
+Pasal 62
+Cukup jelas.
+Pasal 63
+Ayat (1)
+Yang dimaksud dengan “pihak tertentu” antara lain pihak yang
+menyelenggarakan:
+1. aktivitas layanan penyimpanan data instrumen pembayaran
+yang tidak terkena kewajiban izin;
+2. aktivitas penatausahaan nilai yang dapat dipersamakan
+dengan uang yang tidak memenuhi unsur Sumber Dana; dan
+3. penerbitan uang elektronik closed loop dengan jumlah dana
+float kurang dari Rp1.000.000.000,00 (satu miliar rupiah).
+Ayat (2)
+Cukup jelas.
+Ayat (3)
+Cukup jelas.
+Pasal 64
+Cukup jelas.
+Pasal 65
+Ayat (1)
+Huruf a
+Cukup jelas.
+Huruf b
+Cukup jelas.23
+Huruf c
+Termasuk dalam pihak lain antara lain peserta dalam
+infrastruktur Sistem Pembayaran Bank Indonesia dan
+lembaga yang terkait dengan penyelenggaraan jasa Sistem
+Pembayaran.
+Ayat (2)
+Cukup jelas.
+Ayat (3)
+Cukup jelas.
+Ayat (4)
+Cukup jelas.
+Pasal 66
+Cukup jelas.
+Pasal 67
+Cukup jelas.
+Pasal 68
+Cukup jelas.
+Pasal 69
+Ayat (1)
+Cukup jelas.
+Ayat (2)
+Huruf a
+Cukup jelas.
+Huruf b
+Pengumuman kepada seluruh pihak di bidang Sistem
+Pembayaran dipublikasikan melalui laman Bank Indonesia
+atau media lain yang ditetapkan Bank Indonesia.
+Pasal 70
+Ayat (1)
+Cukup jelas.24
+Ayat (2)
+Huruf a
+Contoh ketentuan di bidang kebijakan Sistem Pembayaran
+antara lain ketentuan SRO mengenai klausul minimum yang
+harus dicantumkan dalam perjanjian kerja sama antara PJP
+dengan penyedia barang dan/atau jasa.
+Huruf b
+Contoh ketentuan di bidang penyelenggaraan Sistem
+Pembayaran antara lain ketentuan SRO mengenai
+penyelenggaraan infrastruktur Sistem Pembayaran seperti
+Bank Indonesia-Fast Payment dan Sistem Bank Indonesia
+Real Time Gross Settlement, serta implementasi
+elektronifikasi.
+Huruf c
+Cukup jelas.
+Ayat (3)
+Cukup jelas.
+Ayat (4)
+Cukup jelas.
+Pasal 71
+Ayat (1)
+Cukup jelas.
+Ayat (2)
+Cukup jelas.
+Ayat (3)
+Huruf a
+Cukup jelas.
+Huruf b
+Pemenuhan kewajiban penggunaan auditor teknologi
+informasi antara lain:
+1. pengajuan pengembangan aktivitas, pengembangan
+produk, dan/atau kerja sama; dan/atau
+2. penyampaian laporan berkala dan/atau insidental.25
+Pasal 72
+Ayat (1)
+Cukup jelas.
+Ayat (2)
+Huruf a
+Cukup jelas.
+Huruf b
+Cukup jelas.
+Huruf c
+Cukup jelas.
+Huruf d
+Contoh agenda pertemuan konsultasi lainnya antara lain
+pertemuan konsultasi untuk menyampaikan informasi atau
+permasalahan yang perlu diketahui dan/atau ditindaklanjuti
+lebih awal, khususnya informasi atau permasalahan yang
+berpengaruh terhadap kebijakan atau penyelenggaraan
+Sistem Pembayaran.
+Ayat (3)
+Cukup jelas.
+Ayat (4)
+Cukup jelas.
+Ayat (5)
+Cukup jelas.
+Ayat (6)
+Cukup jelas.
+Pasal 73
+Ayat (1)
+Termasuk dalam ketentuan peraturan perundang-undangan
+antara lain ketentuan peraturan perundang-undangan mengenai:
+a. keterbukaan informasi publik;
+b. informasi dan transaksi elektronik; dan
+c. pelindungan data pribadi.
+Ayat (2)
+Termasuk dalam data dan/atau informasi yang diperoleh dari
+Bank Indonesia antara lain data dan/atau informasi yang26
+diperoleh atau dipergunakan dalam pertemuan konsultasi
+antara SRO dan Bank Indonesia.
+Ayat (3)
+Cukup jelas.
+Ayat (4)
+Cukup jelas.
+Pasal 74
+Cukup jelas.
+Pasal 75
+Cukup jelas.
+Pasal 76
+Cukup jelas.
+Pasal 77
+Cukup jelas.

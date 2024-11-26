@@ -1,0 +1,20 @@
+Pasal 37
+(1) Penyusunan rencana penanganan dan pemulihan Insiden
+Siber sebagaimana dimaksud dalam Pasal 36 ayat (1)
+huruf a paling sedikit memuat:
+a. penetapan status Insiden Siber;
+b. respons Insiden Siber;
+c. pembatasan dampak; dan
+d. rencana pemulihan yang mempertimbangkan
+sasaran waktu pemulihan dan sasaran titik
+pemulihan.
+(2) Rencana penanganan dan pemulihan Insiden Siber
+sebagaimana dimaksud pada ayat (1) disusun oleh
+Penyelenggara sebagai bagian dari rencana
+keberlangsungan bisnis Penyelenggara.
+(3) Penyelenggara membentuk tim tanggap Insiden Siber di
+level organisasi yang berperan dalam penanganan Insiden
+Siber.
+(4) Tim tanggap Insiden Siber sebagaimana dimaksud pada
+ayat (3) dapat melibatkan personel lintas departemen, unit
+kerja, dan bagian.

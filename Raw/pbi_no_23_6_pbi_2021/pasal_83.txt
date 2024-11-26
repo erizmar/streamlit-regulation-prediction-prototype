@@ -1,0 +1,19 @@
+Pasal 83
+Pengembangan aktivitas, pengembangan produk, dan/atau
+kerja sama dengan risiko tinggi sebagaimana dimaksud dalam
+Pasal 80 huruf c merupakan:
+a. pengembangan aktivitas dan/atau pengembangan produk
+dengan kriteria berdampak pada tahapan inisiasi,
+otorisasi, kliring, dan/atau penyelesaian akhir berupa:
+1. perubahan fitur keamanan transaksi;
+2. pengembangan aktivitas atau produk yang bersifat
+lintas batas (crossborder); dan/atau
+3. penggunaan sistem dan/atau infrastruktur baru
+yang belum pernah digunakan;
+atau
+b. pengembangan aktivitas dan/atau pengembangan produk
+yang disertai kerja sama dengan kriteria berdampak pada
+tahapan inisiasi, otorisasi, kliring, dan/atau penyelesaian
+akhir serta penyediaan solusi teknologi informasi
+dan/atau layanan teknis oleh pihak lain yang berdampak
+pada keberlangsungan usaha PJP.

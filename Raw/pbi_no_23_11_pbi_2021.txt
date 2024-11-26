@@ -1,0 +1,745 @@
+
+PERATURAN BANK INDONESIA
+NOMOR 23/ 11 /PBI/2021
+TENTANG
+STANDAR NASIONAL SISTEM PEMBAYARAN
+DENGAN RAHMAT TUHAN YANG MAHA ESA
+GUBERNUR BANK INDONESIA,
+Menimbang : a. bahwa reformasi pengaturan sistem pembayaran perlu
+dilakukan sejalan dengan pemenuhan prinsip
+penyelenggaraan sistem pembayaran yang cepat, mudah,
+murah, aman, dan andal, dengan tetap memperhatikan
+stabilitas, perluasan akses, perlindungan konsumen,
+praktik bisnis yang sehat, dan penerapan praktik terbaik
+(best practices);
+b. bahwa untuk menciptakan industri sistem pembayaran
+yang sehat, kompetitif, dan inovatif, diperlukan kebijakan
+standar nasional dalam penyelenggaraan sistem
+pembayaran;
+c. bahwa kebijakan standar nasional diarahkan untuk
+mendorong integrasi, interkoneksi, interoperabilitas,
+keamanan dan keandalan infrastruktur sistem
+pembayaran, serta meningkatkan praktik pasar (market
+practice) yang sehat, efisien, dan wajar dalam
+penyelenggaraan sistem pembayaran;
+d. bahwa berdasarkan pertimbangan sebagaimana dimaksud
+dalam huruf a, huruf b, dan huruf c, perlu menetapkan
+Peraturan Bank Indonesia tentang Standar Nasional
+Sistem Pembayaran;
+Mengingat : 1. Undang-Undang Nomor 23 Tahun 1999 tentang Bank
+Indonesia (Lembaran Negara Republik Indonesia Tahun
+1999 Nomor 66, Tambahan Lembaran Negara Republik
+Indonesia Nomor 3843) sebagaimana telah beberapa kali
+diubah terakhir dengan Undang-Undang Nomor 6 Tahun
+2009 tentang Penetapan Peraturan Pemerintah Pengganti
+Undang-Undang Nomor 2 Tahun 2008 tentang Perubahan
+Kedua atas Undang-Undang Nomor 23 Tahun 1999
+tentang Bank Indonesia Menjadi Undang-Undang
+(Lembaran Negara Republik Indonesia Tahun 2009 Nomor
+7, Tambahan Lembaran Negara Republik Indonesia Nomor
+4962);
+2. Peraturan Bank Indonesia Nomor 22/23/PBI/2020
+tentang Sistem Pembayaran (Lembaran Negara Republik
+Indonesia Tahun 2020 Nomor 311, Tambahan Lembaran
+Negara Republik Indonesia Nomor 6610);
+MEMUTUSKAN:
+Menetapkan : PERATURAN BANK INDONESIA TENTANG STANDAR
+NASIONAL SISTEM PEMBAYARAN.
+BAB I
+KETENTUAN UMUM
+Pasal 1
+Dalam Peraturan Bank Indonesia ini yang dimaksud dengan:
+1. Sistem Pembayaran adalah suatu sistem yang mencakup
+seperangkat aturan, lembaga, mekanisme, infrastruktur,
+sumber dana untuk pembayaran, dan akses ke sumber
+dana untuk pembayaran, yang digunakan untuk
+melaksanakan pemindahan dana guna memenuhi suatu
+kewajiban yang timbul dari suatu kegiatan ekonomi.
+2. Bank adalah bank umum dan bank perkreditan rakyat
+sebagaimana dimaksud dalam Undang-Undang mengenai
+perbankan, termasuk kantor cabang bank asing di
+Indonesia, dan bank umum syariah serta bank
+pembiayaan rakyat syariah sebagaimana dimaksud dalam
+Undang-Undang mengenai perbankan syariah.
+3. Lembaga Selain Bank adalah badan usaha berbadan
+hukum Indonesia bukan Bank.
+4. Penyedia Jasa Pembayaran yang selanjutnya disingkat
+PJP adalah Bank atau Lembaga Selain Bank yang
+menyediakan jasa untuk memfasilitasi transaksi
+pembayaran kepada pengguna jasa.
+5. Penyelenggara Infrastruktur Sistem Pembayaran yang
+selanjutnya disebut PIP adalah pihak yang
+menyelenggarakan infrastruktur sebagai sarana yang
+dapat digunakan untuk melakukan pemindahan dana
+bagi kepentingan anggotanya.
+6. Penyelenggara Penunjang adalah pihak yang bekerja sama
+dengan PJP dan PIP untuk menunjang penyelenggaraan
+kegiatan jasa Sistem Pembayaran.
+7. Standar Nasional Sistem Pembayaran yang selanjutnya
+disebut Standar Nasional adalah standar yang ditetapkan
+oleh Bank Indonesia untuk digunakan dalam
+penyelenggaraan Sistem Pembayaran yang dilakukan di
+wilayah Negara Kesatuan Republik Indonesia.
+8. Self-Regulatory Organization di Bidang Sistem Pembayaran
+yang selanjutnya disebut SRO adalah suatu forum atau
+institusi yang berbadan hukum Indonesia yang mewakili
+industri dan ditetapkan oleh Bank Indonesia untuk
+mendukung penyelenggaraan Sistem Pembayaran.
+BAB II
+TUJUAN KEBIJAKAN STANDAR NASIONAL DAN
+RUANG LINGKUP STANDAR NASIONAL
+Pasal 2
+(1) Kebijakan Standar Nasional bertujuan untuk:
+a. menciptakan industri Sistem Pembayaran yang sehat,
+kompetitif, dan inovatif;
+b. mendorong integrasi, interkoneksi, interoperabilitas,
+keamanan dan keandalan infrastruktur Sistem
+Pembayaran; dan/atau
+c. meningkatkan praktik pasar (market practice) yang
+sehat, efisien, dan wajar dalam penyelenggaraan
+Sistem Pembayaran.
+(2) Kebijakan Standar Nasional diterapkan dalam
+penyelenggaraan Sistem Pembayaran.
+Pasal 3
+(1) Ruang lingkup Standar Nasional terdiri atas aspek:
+a. tata kelola;
+b. manajemen risiko;
+c. standar keamanan sistem informasi;
+d. interkoneksi dan interoperabilitas; dan/atau
+e. aspek lain yang ditetapkan Bank Indonesia.
+(2) Standar Nasional sebagaimana dimaksud pada ayat (1)
+memuat:
+a. spesifikasi teknis;
+b. spesifikasi operasional; dan/atau
+c. pedoman pelaksanaan (code of practice).
+Pasal 4
+Bank Indonesia berwenang untuk:
+a. menyusun, menetapkan, dan mengelola Standar Nasional;
+b. menetapkan kebijakan atau pengaturan penerapan
+Standar Nasional; dan
+c. melakukan pengawasan terhadap penerapan Standar
+Nasional.
+Pasal 5
+Untuk melindungi kepentingan publik, kepemilikan atas
+Standar Nasional menjadi milik Bank Indonesia.
+BAB III
+PENYUSUNAN, PENETAPAN, DAN PENGELOLAAN
+STANDAR NASIONAL
+Pasal 6
+Penyusunan Standar Nasional dilakukan melalui:
+a. perencanaan Standar Nasional;
+b. penyusunan spesifikasi teknis, spesifikasi operasional,
+dan/atau pedoman pelaksanaan (code of practice)
+sebagaimana dimaksud dalam Pasal 3 ayat (2); dan/atau
+c. pelaksanaan uji coba.
+Pasal 7
+Penetapan Standar Nasional sebagaimana dimaksud dalam
+Pasal 4 huruf a dilakukan melalui ketentuan peraturan Bank
+Indonesia atau keputusan Bank Indonesia.
+Pasal 8
+Pengelolaan Standar Nasional dilakukan melalui:
+a. pelaksanaan dan pengelolaan proses sertifikasi, verifikasi,
+dan/atau pemberian rekomendasi terkait penggunaan
+Standar Nasional;
+b. penyusunan dan penerapan tata cara dan prosedur
+penyampaian salinan Standar Nasional;
+c. perencanaan dan/atau pengembangan dalam pengelolaan
+Standar Nasional; dan/atau
+d. pelaksanaan evaluasi Standar Nasional secara berkala
+dan/atau sewaktu-waktu dalam hal diperlukan.
+Pasal 9
+(1) Bank Indonesia dapat mempertimbangkan usulan standar
+yang diajukan oleh SRO atau pihak lain untuk ditetapkan
+menjadi Standar Nasional.
+(2) Dalam hal usulan standar yang diajukan oleh SRO atau
+pihak lain sebagaimana dimaksud pada ayat (1) disetujui
+Bank Indonesia dan ditetapkan menjadi Standar Nasional,
+kepemilikan atas standar beralih kepada Bank Indonesia
+pada saat standar ditetapkan sebagai Standar Nasional.
+Pasal 10
+(1) Bank Indonesia dapat menugaskan SRO atau pihak lain
+yang ditetapkan Bank Indonesia untuk menyusun
+dan/atau mengelola Standar Nasional.
+(2) Penugasan SRO atau pihak lain sebagaimana dimaksud
+pada ayat (1) dilakukan berdasarkan keputusan Bank
+Indonesia.
+Pasal 11
+(1) Pihak lain sebagaimana dimaksud dalam Pasal 10 ayat (1)
+harus memenuhi persyaratan:
+a. merupakan representasi industri Sistem Pembayaran
+yang menggunakan Standar Nasional;
+b. merupakan badan hukum Indonesia yang memiliki
+kompetensi untuk mengelola Standar Nasional; dan
+c. syarat lain yang ditetapkan Bank Indonesia.
+(2) Pihak lain yang bermaksud untuk menjadi pengelola
+Standar Nasional harus mengajukan permohonan
+penetapan secara tertulis kepada Bank Indonesia dengan
+disertai dokumen yang membuktikan pemenuhan
+persyaratan sebagaimana dimaksud pada ayat (1).
+(3) Dalam memproses permohonan penetapan sebagaimana
+dimaksud pada ayat (2), Bank Indonesia melakukan:
+a. penelitian administratif;
+b. analisis kelayakan; dan
+c. pemeriksaan lapangan (on site visit), dalam hal
+diperlukan.
+(4) Berdasarkan hasil proses permohonan penetapan
+sebagaimana dimaksud pada ayat (3), Bank Indonesia
+menyetujui atau menolak permohonan penetapan pihak
+lain sebagai pengelola Standar Nasional.
+(5) Ketentuan lebih lanjut mengenai dokumen persyaratan
+sebagaimana dimaksud pada ayat (2) dan tata cara
+pemrosesan penetapan pihak lain sebagai pengelola
+Standar Nasional sebagaimana dimaksud pada ayat (3)
+diatur dengan Peraturan Anggota Dewan Gubernur.
+Pasal 12
+SRO atau pihak lain yang diberikan penugasan oleh Bank
+Indonesia sebagaimana dimaksud dalam Pasal 10 ayat (1)
+wajib:
+a. menyusun Standar Nasional sebagaimana dimaksud
+dalam Pasal 6; dan/atau
+b. mengelola Standar Nasional sebagaimana dimaksud
+dalam Pasal 8.
+Pasal 13
+(1) SRO atau pihak lain sebagaimana dimaksud dalam Pasal
+12 wajib:
+a. melaksanakan tugas dengan sebaik-baiknya untuk
+kepentingan Bank Indonesia (fiduciary duty);
+b. memastikan keamanan dan keandalan sistem
+informasi yang digunakan dalam penyusunan
+dan/atau pengelolaan Standar Nasional;
+c. menjaga kerahasiaan data dan/atau informasi terkait
+penyusunan dan/atau pengelolaan Standar Nasional;
+d. meminta persetujuan Bank Indonesia atas hal yang
+bersifat strategis dalam pelaksanaan tugas
+penyusunan dan/atau pengelolaan Standar Nasional;
+e. melakukan upaya peningkatan pemahaman pihak
+terkait akan Standar Nasional; dan
+f. melaksanakan kewajiban lain yang ditetapkan oleh
+Bank Indonesia.
+(2) Ketentuan lebih lanjut mengenai kewajiban SRO atau
+pihak lain sebagaimana dimaksud pada ayat (1) diatur
+dengan Peraturan Anggota Dewan Gubernur.
+BAB IV
+PENERAPAN STANDAR NASIONAL
+Pasal 14
+(1) Bank Indonesia menetapkan kebijakan dan pengaturan
+penerapan Standar Nasional yang terdiri atas:
+a. para pihak dalam penerapan Standar Nasional;
+b. pentahapan pemberlakuan termasuk jangka waktu
+pemberlakuan;
+c. cakupan wilayah;
+d. pembatasan transaksi;
+e. mekanisme uji coba dan verifikasi penerapan Standar
+Nasional;
+f. ruang lingkup pemrosesan transaksi;
+g. kewajiban para pihak dalam penerapan Standar
+Nasional; dan/atau
+h. kebijakan atau pengaturan penerapan Standar
+Nasional lainnya.
+(2) Selain menetapkan kebijakan dan pengaturan penerapan
+Standar Nasional sebagaimana dimaksud pada ayat (1),
+Bank Indonesia berwenang menetapkan kebijakan skema
+harga.
+(3) Dalam menetapkan kebijakan dan pengaturan penerapan
+Standar Nasional sebagaimana dimaksud pada ayat (1)
+dan ayat (2), Bank Indonesia dapat mempertimbangkan
+masukan dan/atau usulan dari SRO atau pihak lain
+sebagaimana dimaksud dalam Pasal 10 ayat (1).
+(4) Ketentuan lebih lanjut mengenai penerapan Standar
+Nasional sebagaimana dimaksud pada ayat (1) diatur
+dengan Peraturan Anggota Dewan Gubernur.
+Pasal 15
+(1) PJP dan PIP wajib memenuhi kebijakan dan pengaturan
+penerapan Standar Nasional sebagaimana dimaksud
+dalam Pasal 14.
+(2) Pemenuhan kebijakan dan pengaturan penerapan Standar
+Nasional sebagaimana dimaksud pada ayat (1)
+diberlakukan secara mutatis mutandis kepada
+Penyelenggara Penunjang dan pihak lainnya yang bekerja
+sama dengan PJP dan/atau PIP.
+Pasal 16
+(1) Standar Nasional dapat diterapkan dalam transaksi
+pembayaran lintas batas (cross-border) berdasarkan
+kebijakan Bank Indonesia.
+(2) Ketentuan lebih lanjut mengenai penerapan Standar
+Nasional dalam transaksi pembayaran lintas batas (cross-
+border) sebagaimana dimaksud pada ayat (1) diatur
+dengan Peraturan Anggota Dewan Gubernur.
+Pasal 17
+(1) Dalam penerapan Standar Nasional, Bank Indonesia dapat
+mewajibkan PJP, PIP, Penyelenggara Penunjang, dan/atau
+pihak yang bekerja sama dengan PJP dan/atau PIP untuk:
+a. memperoleh persetujuan; atau
+b. menyampaikan laporan,
+sesuai dengan kebijakan penerapan Standar Nasional
+sebagaimana dimaksud dalam Pasal 14.
+(2) Tata cara dan mekanisme permohonan persetujuan atau
+penyampaian laporan sebagaimana dimaksud pada ayat
+(1) dilaksanakan sesuai dengan ketentuan peraturan Bank
+Indonesia mengenai sistem pembayaran.
+(3) Bank Indonesia dapat menetapkan kebijakan dalam
+pemrosesan persetujuan atau penyampaian laporan
+sebagaimana dimaksud pada ayat (2).
+(4) Ketentuan lebih lanjut mengenai kewajiban sebagaimana
+dimaksud pada ayat (1) dan pemrosesan persetujuan atau
+penyampaian laporan sebagaimana dimaksud pada ayat
+(3) diatur dengan Peraturan Anggota Dewan Gubernur.
+BAB V
+PENGAWASAN DAN SANKSI
+Pasal 18
+(1) Bank Indonesia melakukan pengawasan terhadap:
+a. pelaksanaan penyusunan dan/atau pengelolaan
+Standar Nasional oleh SRO atau pihak lain
+sebagaimana dimaksud dalam Pasal 10 ayat (1); dan
+b. penerapan Standar Nasional oleh PJP, PIP,
+Penyelenggara Penunjang, dan/atau pihak lain yang
+bekerja sama dengan PJP dan/atau PIP.
+(2) Pengawasan Bank Indonesia sebagaimana dimaksud pada
+ayat (1) dilaksanakan sesuai dengan ketentuan peraturan
+Bank Indonesia mengenai sistem pembayaran.
+Pasal 19
+(1) SRO atau pihak lain yang melanggar ketentuan
+sebagaimana dimaksud dalam Pasal 12 atau Pasal 13 ayat
+(1) dikenai sanksi administratif berupa:
+a. teguran; dan/atau
+b. penggantian kepengurusan.
+(2) PJP dan PIP yang melanggar ketentuan sebagaimana
+dimaksud dalam Pasal 15 ayat (1) dikenai sanksi
+administratif berupa:
+a. teguran;
+b. penghentian sementara, sebagian, atau seluruh
+kegiatan termasuk pelaksanaan kerja sama;
+dan/atau
+c. pencabutan izin sebagai PJP atau penetapan sebagai
+PIP.
+(3) Tata cara pengenaan sanksi administratif sebagaimana
+dimaksud pada ayat (1) dan ayat (2) dilaksanakan sesuai
+dengan ketentuan peraturan Bank Indonesia mengenai
+sistem pembayaran.
+BAB VI
+KETENTUAN LAIN-LAIN
+Pasal 20
+(1) Standar dalam penyelenggaraan Sistem Pembayaran yang
+bukan merupakan Standar Nasional dapat digunakan oleh
+PJP, PIP, dan/atau Penyelenggara Penunjang sepanjang
+tidak bertentangan dengan Peraturan Bank Indonesia ini.
+(2) Penggunaan standar sebagaimana dimaksud pada ayat (1)
+dilaksanakan sesuai dengan ketentuan peraturan Bank
+Indonesia mengenai sistem pembayaran.
+BAB VII
+KETENTUAN PERALIHAN
+Pasal 21
+Pada saat Peraturan Bank Indonesia ini mulai berlaku:
+a. standar nasional teknologi chip untuk kartu anjungan
+tunai mandiri dan/atau kartu debet; dan
+b. standar nasional QR code pembayaran (quick response
+code Indonesian standard),
+yang telah ditetapkan sebelum Peraturan Bank Indonesia ini
+berlaku, ditetapkan sebagai Standar Nasional sebagaimana
+diatur dalam Peraturan Bank Indonesia ini.
+Pasal 22
+Pada saat Peraturan Bank Indonesia ini mulai berlaku:
+a. pihak yang telah memperoleh persetujuan dari Bank
+Indonesia sebagai pengelola standar nasional teknologi
+chip untuk kartu anjungan tunai mandiri dan/atau kartu
+debet; dan
+b. pihak yang telah ditetapkan Bank Indonesia sebagai
+lembaga standar untuk standar nasional QR code
+pembayaran (quick response code Indonesian standard),
+sebelum Peraturan Bank Indonesia ini berlaku, ditetapkan
+sebagai pihak yang ditugaskan untuk melakukan pengelolaan
+Standar Nasional sebagaimana diatur dalam Peraturan Bank
+Indonesia ini.
+BAB VIII
+KETENTUAN PENUTUP
+Pasal 23
+Pada saat Peraturan Bank Indonesia ini mulai berlaku, semua
+ketentuan Peraturan Bank Indonesia mengenai standar di
+bidang Sistem Pembayaran dinyatakan tetap berlaku sepanjang
+tidak bertentangan dengan Peraturan Bank Indonesia ini.
+Pasal 24
+Peraturan Bank Indonesia ini mulai berlaku pada tanggal
+diundangkan.
+Agar setiap orang mengetahuinya, memerintahkan
+pengundangan Peraturan Bank Indonesia ini dengan
+penempatannya dalam Lembaran Negara Republik Indonesia.
+Ditetapkan di Jakarta
+pada tanggal 12 Agustus 2021
+GUBERNUR BANK INDONESIA,
+TTD
+PERRY WARJIYO
+Diundangkan di Jakarta
+pada tanggal 13 Agustus 2021
+MENTERI HUKUM DAN HAK ASASI MANUSIA
+REPUBLIK INDONESIA,
+TTD
+YASONNA H. LAOLY
+LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2021 NOMOR 181PENJELASAN
+ATAS
+PERATURAN BANK INDONESIA
+NOMOR 23/11/PBI/2021
+TENTANG
+STANDAR NASIONAL SISTEM PEMBAYARAN
+I. UMUM
+Bank Indonesia telah menginisiasi regulatory reform didasarkan pada
+enviromental scanning atas ekosistem Sistem Pembayaran dengan
+memperhatikan kompleksitas model bisnis dan risiko, praktik pengaturan
+saat ini yang cenderung rigid, kompleks, dan rule-based, serta transformasi
+pengaturan di negara lain. Dalam hal ini, reformasi pengaturan Sistem
+Pembayaran ditujukan untuk mencari titik keseimbangan antara upaya
+optimalisasi peluang inovasi digital untuk menciptakan Sistem Pembayaran
+yang cepat, mudah, murah, aman, dan andal, dengan tetap memperhatikan
+stabilitas, perluasan akses, perlindungan konsumen, praktik bisnis yang
+sehat, dan penerapan praktik terbaik (best practices).
+Selanjutnya, tindak lanjut reformasi pengaturan ini telah dilakukan
+Bank Indonesia melalui penerbitan Peraturan Bank Indonesia tentang
+Sistem Pembayaran, Peraturan Bank Indonesia tentang Penyedia Jasa
+Pembayaran, dan Peraturan Bank Indonesia tentang Penyelenggara
+Infrastruktur Sistem Pembayaran.
+Salah satu langkah untuk mendukung terciptanya industri Sistem
+Pembayaran yang sehat, kompetitif, dan inovatif dapat dilakukan melalui
+penerapan standar dalam penyelenggaraan Sistem Pembayaran. Saat ini,
+telah terdapat sejumlah standar yang ditetapkan Bank Indonesia sebagai
+Standar Nasional dalam penyelenggaraan Sistem Pembayaran. Namun-2 -
+demikian, pengaturan terkait implementasi atas Standar Nasional masih
+tersebar dalam berbagai ketentuan (scattered) dan belum terintegrasi dalam
+satu produk hukum Bank Indonesia yang bersifat induk.
+Pengaturan terkait implementasi Standar Nasional yang bersifat induk
+diperlukan untuk meningkatkan keselarasan antara satu ketentuan
+dengan ketentuan lainnya sehingga tidak menimbulkan perbedaan
+penerapan di level industri Sistem Pembayaran, yang dapat berdampak
+pada risiko operasional di industri atau risiko reputasi di Bank Indonesia.
+Peraturan Bank Indonesia tentang Sistem Pembayaran, Peraturan
+Bank Indonesia tentang Penyedia Jasa Pembayaran, dan Peraturan Bank
+Indonesia tentang Penyelenggara Infrastruktur Sistem Pembayaran telah
+mengatur secara prinsipil penerapan standar dalam penyelenggaraan
+Sistem Pembayaran termasuk Standar Nasional yang telah ditetapkan Bank
+Indonesia. Hal ini perlu diperkuat dengan pengaturan yang bersifat induk
+untuk Standar Nasional guna menciptakan industri Sistem Pembayaran
+yang sehat, kompetitif, dan inovatif, untuk mendorong integrasi,
+interkoneksi, interoperabilitas, serta keamanan dan keandalan
+infrastruktur Sistem Pembayaran, dan/atau meningkatkan praktik pasar
+(market practice) yang sehat, efisien, dan wajar dalam penyelenggaraan
+Sistem Pembayaran.
+Memperhatikan hal-hal tersebut, pengaturan terhadap Standar
+Nasional perlu ditetapkan dalam suatu Peraturan Bank Indonesia tentang
+Standar Nasional Sistem Pembayaran yang akan melengkapi reformasi
+pengaturan yang telah diinisiasi Bank Indonesia melalui penerbitan
+Peraturan Bank Indonesia tentang Sistem Pembayaran, Peraturan Bank
+Indonesia tentang Penyedia Jasa Pembayaran, dan Peraturan Bank
+Indonesia tentang Penyelenggara Infrastruktur Sistem Pembayaran.
+II. PASAL DEMI PASAL
+Pasal 1
+Cukup jelas.
+Pasal 2
+Ayat (1)
+Huruf a
+Cukup jelas.-3 -
+Huruf b
+Cukup jelas.
+Huruf c
+Meningkatkan praktik pasar (market practice) yang sehat,
+efisien, dan wajar dalam penyelenggaraan Sistem
+Pembayaran antara lain dilakukan melalui kebijakan skema
+harga dan pemenuhan prinsip perlindungan konsumen.
+Ayat (2)
+Penyelenggaraan Sistem Pembayaran termasuk pemrosesan
+transaksi pembayaran yang meliputi tahapan pratransaksi,
+inisiasi, otorisasi, kliring, penyelesaian akhir, dan pascatransaksi.
+Dalam pemrosesan transaksi pembayaran antara lain dilakukan
+pemrosesan data dan/atau informasi terkait Sistem Pembayaran,
+sebagaimana diatur dalam ketentuan peraturan Bank Indonesia
+mengenai sistem pembayaran.
+Pasal 3
+Ayat (1)
+Huruf a
+Yang dimaksud dengan “tata kelola” antara lain tata kelola
+dalam penyelenggaraan Sistem Pembayaran berupa:
+1. pelaksanaan tugas dan tanggung jawab direksi dan
+dewan komisaris;
+2. pemenuhan aspek kelembagaan; dan/atau
+3. penerapan fungsi kepatuhan dan audit internal.
+Huruf b
+Yang dimaksud dengan “manajemen risiko” antara lain
+manajemen risiko dalam pemrosesan data atau pemrosesan
+transaksi pembayaran berupa:
+1. pengawasan aktif direksi dan dewan komisaris;
+2. kebijakan dan prosedur;
+3. struktur organisasi;
+4. proses dan fungsi manajemen risiko; dan/atau
+5. pengendalian intern.-4 -
+Huruf c
+Yang dimaksud dengan “standar keamanan sistem
+informasi” antara lain standar keamanan sistem informasi
+dalam pemrosesan data atau pemrosesan transaksi
+pembayaran berupa:
+1. kebijakan dan prosedur sistem informasi;
+2. sistem yang aman dan andal; dan/atau
+3. pengamanan data dan/atau informasi.
+Huruf d
+Yang dimaksud dengan “interkoneksi dan interoperabilitas”
+antara lain interkoneksi dan interoperabilitas dalam
+pemrosesan data atau pemrosesan transaksi pembayaran
+berupa:
+1. mekanisme interkoneksi dan interoperabilitas berbagai
+instrumen dan kanal pembayaran, termasuk
+penggunaan teknologi dan infrastruktur pendukung
+pemrosesan data atau pemrosesan transaksi
+pembayaran;
+2. mekanisme keterhubungan dengan infrastruktur data
+dan infrastruktur Sistem Pembayaran; dan/atau
+3. pemrosesan transaksi pembayaran secara domestik.
+Huruf e
+Cukup jelas.
+Ayat (2)
+Huruf a
+Yang dimaksud dengan “spesifikasi teknis” antara lain
+berupa kriteria teknis perangkat keras (hardware) dan/atau
+perangkat lunak (software) yang digunakan dalam
+penyelenggaraan aktivitas, produk, dan/atau layanan.
+Huruf b
+Yang dimaksud dengan “spesifikasi operasional” antara lain
+berupa mekanisme dan/atau prosedur terkait metode atau
+proses, termasuk interaksi antara perangkat keras
+(hardware) dan perangkat lunak (software), dalam
+penyelenggaraan aktivitas, produk, dan/atau layanan.-5 -
+Huruf c
+Yang dimaksud dengan “pedoman pelaksanaan (code of
+practice)” antara lain berupa panduan implementasi,
+petunjuk, pedoman, dan/atau tata cara pelaksanaan
+kegiatan, dalam penyelenggaraan aktivitas, produk,
+dan/atau layanan.
+Pedoman pelaksanaan (code of practice) juga dapat
+mencakup antara lain pedoman pelaksanaan kegiatan,
+tugas, tanggung jawab, dan/atau perilaku pegawai PJP atau
+PIP.
+Pasal 4
+Cukup jelas.
+Pasal 5
+Cukup jelas.
+Pasal 6
+Huruf a
+Contoh kegiatan perencanaan Standar Nasional berupa
+penyusunan consultative paper, kajian, atau studi kebijakan oleh
+Bank Indonesia.
+Huruf b
+Cukup jelas.
+Huruf c
+Cukup jelas.
+Pasal 7
+Cukup jelas.
+Pasal 8
+Huruf a
+Pelaksanaan dan pengelolaan proses sertifikasi, verifikasi,
+dan/atau pemberian rekomendasi terkait penggunaan Standar
+Nasional dapat dilakukan antara lain dengan memanfaatkan-6 -
+infrastruktur yang dikelola pengelola Standar Nasional atau pihak
+lain yang bekerja sama dengan pengelola Standar Nasional,
+seperti portal atau laman.
+Huruf b
+Cukup jelas.
+Huruf c
+Cukup jelas.
+Huruf d
+Pelaksanaan evaluasi Standar Nasional antara lain untuk
+memastikan kesesuaiannya dengan perkembangan teknologi dan
+kebutuhan industri.
+Pasal 9
+Ayat (1)
+Pihak lain dapat berupa pihak yang menyusun, mengelola,
+dan/atau memiliki standar yang dapat digunakan dalam
+penyelenggaraan Sistem Pembayaran.
+Ayat (2)
+Cukup jelas.
+Pasal 10
+Cukup jelas.
+Pasal 11
+Ayat (1)
+Huruf a
+Cukup jelas.
+Huruf b
+Kompetensi untuk mengelola Standar Nasional antara lain
+berupa kemampuan dan/atau pengalaman dalam
+menyusun, mengembangkan, dan mengelola standar di
+bidang Sistem Pembayaran yang ditunjukkan antara lain
+dengan adanya struktur organisasi dan sumber daya
+manusia yang memadai, kebijakan dan prosedur tertulis,
+sistem pengendalian internal, dan pemenuhan prinsip tata
+kelola yang baik.-7 -
+Huruf c
+Cukup jelas.
+Ayat (2)
+Cukup jelas.
+Ayat (3)
+Cukup jelas.
+Ayat (4)
+Cukup jelas.
+Ayat (5)
+Cukup jelas.
+Pasal 12
+Cukup jelas.
+Pasal 13
+Ayat (1)
+Huruf a
+Yang dimaksud dengan “melaksanakan tugas dengan sebaik-
+baiknya untuk kepentingan Bank Indonesia (fiduciary duty)”
+adalah melaksanakan tugas dengan kemampuan dan
+kapabilitas terbaik yang dimiliki untuk menjaga kepentingan
+Bank Indonesia sesuai dengan tujuan pemberian tugas.
+Huruf b
+Cukup jelas.
+Huruf c
+Cukup jelas.
+Huruf d
+Hal yang bersifat strategis antara lain berupa:
+1. perencanaan dan pengembangan spesifikasi Standar
+Nasional;
+2. persyaratan, prosedur pelaksanaan, dan kategori pihak
+yang disertifikasi atau diverifikasi termasuk
+perubahannya;
+3. kerja sama dengan pihak lain dalam melaksanakan
+kegiatan penyusunan dan/atau pengelolaan Standar
+Nasional; dan/atau-8 -
+4. penyampaian usulan jenis dan besarnya biaya yang
+digunakan dalam kegiatan penyusunan dan/atau
+pengelolaan Standar Nasional.
+Huruf e
+Salah satu upaya peningkatan pemahaman pihak terkait
+antara lain melalui pelaksanaan sosialisasi dan edukasi.
+Huruf f
+Cukup jelas.
+Ayat (2)
+Cukup jelas.
+Pasal 14
+Ayat (1)
+Huruf a
+Yang dimaksud dengan ”para pihak dalam penerapan
+Standar Nasional” antara lain PJP, PIP, dan/atau
+Penyelenggara Penunjang atau pihak lainnya yang bekerja
+sama dengan PJP atau PIP, sesuai dengan aktivitas yang
+diselenggarakan.
+Huruf b
+Yang dimaksud dengan ”pentahapan pemberlakuan
+termasuk jangka waktu pemberlakuan” antara lain waktu
+dimulainya penerapan Standar Nasional atau target proporsi
+penggunaan Standar Nasional dalam jangka waktu tertentu.
+Huruf c
+Yang dimaksud dengan ”cakupan wilayah” antara lain
+penerapan Standar Nasional di wilayah tertentu.
+Huruf d
+Yang dimaksud dengan “pembatasan transaksi” antara lain
+pembatasan nominal transaksi pembayaran yang diproses
+dengan menggunakan Standar Nasional.
+Huruf e
+Yang dimaksud dengan “mekanisme uji coba dan verifikasi
+penerapan Standar Nasional” antara lain penerapan Standar
+Nasional secara terbatas dalam tahap uji coba atau piloting.-9 -
+Huruf f
+Yang dimaksud dengan “ruang lingkup pemrosesan
+transaksi” antara lain aktivitas pemrosesan transaksi
+pembayaran yang menerapkan Standar Nasional.
+Huruf g
+Yang dimaksud dengan ”kewajiban para pihak dalam
+penerapan Standar Nasional” antara lain penerapan
+manajemen risiko, pengajuan persetujuan, atau
+penyampaian laporan.
+Huruf h
+Yang dimaksud dengan ”kebijakan atau pengaturan
+penerapan Standar Nasional lainnya” antara lain uji coba
+atau piloting atas sebuah standar yang disusun dengan
+tujuan akan diusulkan menjadi Standar Nasional dan/atau
+dalam rangka pengelolaan Standar Nasional.
+Ayat (2)
+Kebijakan skema harga ditetapkan oleh Bank Indonesia dengan
+memperhatikan ketentuan peraturan Bank Indonesia dalam
+menjaga praktik pasar (market practice) yang sehat, efisien, dan
+wajar.
+Skema harga antara lain skema dan besaran harga atau biaya
+yang dikenakan dalam penerapan Standar Nasional.
+Ayat (3)
+Cukup jelas.
+Ayat (4)
+Cukup jelas.
+Pasal 15
+Cukup jelas.
+Pasal 16
+Ayat (1)
+Transaksi pembayaran lintas batas (cross-border) antara lain
+berupa:
+a. transaksi pembayaran di wilayah Negara Kesatuan Republik
+Indonesia dengan menggunakan akses ke sumber dana yang-10 -
+diterbitkan di luar wilayah Negara Kesatuan Republik
+Indonesia; atau
+b. transaksi pembayaran di luar wilayah Negara Kesatuan
+Republik Indonesia dengan menggunakan akses ke sumber
+dana yang diterbitkan di wilayah Negara Kesatuan Republik
+Indonesia.
+Kebijakan Bank Indonesia dalam penerapan Standar Nasional
+pada transaksi pembayaran lintas batas (cross-border) ditetapkan
+dengan memperhatikan kepentingan nasional antara lain aspek
+resiprokalitas, daya saing, dan manfaat untuk perekonomian.
+Contoh kebijakan Bank Indonesia dalam penerapan Standar
+Nasional pada transaksi pembayaran lintas batas (cross-border)
+yaitu kebijakan terkait kerja sama dengan penyelenggara asing
+maupun otoritas negara lain.
+Ayat (2)
+Cukup jelas.
+Pasal 17
+Ayat (1)
+Cukup jelas.
+Ayat (2)
+Termasuk dalam ketentuan peraturan Bank Indonesia mengenai
+sistem pembayaran antara lain ketentuan peraturan Bank
+Indonesia mengenai penyedia jasa pembayaran dan ketentuan
+peraturan Bank Indonesia mengenai penyelenggara infrastruktur
+sistem pembayaran.
+Ayat (3)
+Kebijakan dalam pemrosesan persetujuan atau penyampaian
+laporan antara lain terkait dengan persyaratan, mekanisme, dan
+tata cara pemrosesan dalam penerapan Standar Nasional yang
+ditetapkan dengan memperhatikan kebutuhan dan karakteristik
+dari masing-masing Standar Nasional.
+Persyaratan, mekanisme, dan tata cara pemrosesan dapat
+berupa:
+a. pengujian dan verifikasi spesifikasi dan/atau standardisasi;
+b. pengembangan, perubahan, dan pemeliharaan sistem; atau-11 -
+c. pengembangan aktivitas atau layanan, pengembangan
+produk, dan/atau pelaksanaan kerja sama.
+Ayat (4)
+Cukup jelas.
+Pasal 18
+Ayat (1)
+Cukup jelas.
+Ayat (2)
+Termasuk dalam ketentuan peraturan Bank Indonesia mengenai
+sistem pembayaran antara lain ketentuan peraturan Bank
+Indonesia mengenai penyedia jasa pembayaran dan ketentuan
+peraturan Bank Indonesia mengenai penyelenggara infrastruktur
+sistem pembayaran.
+Pasal 19
+Ayat (1)
+Cukup jelas.
+Ayat (2)
+Cukup jelas.
+Ayat (3)
+Termasuk dalam ketentuan peraturan Bank Indonesia mengenai
+sistem pembayaran antara lain ketentuan peraturan Bank
+Indonesia mengenai penyedia jasa pembayaran dan ketentuan
+peraturan Bank Indonesia mengenai penyelenggara infrastruktur
+sistem pembayaran.
+Pasal 20
+Ayat (1)
+Standar dalam penyelenggaraan Sistem Pembayaran yang bukan
+merupakan Standar Nasional antara lain standar internasional
+yang digunakan sebagai best practices dalam industri.
+Ayat (2)
+Cukup jelas.
+Pasal 21
+Cukup jelas.-12 -
+Pasal 22
+Cukup jelas.
+Pasal 23
+Cukup jelas.
+Pasal 24
+Cukup jelas.
+TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6709

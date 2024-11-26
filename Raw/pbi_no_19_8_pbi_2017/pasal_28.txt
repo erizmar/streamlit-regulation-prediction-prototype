@@ -1,0 +1,14 @@
+Pasal 28
+(1) Setiap transaksi pembayaran domestik wajib diproses
+melalui GPN (NPG).
+(2) Pemrosesan transaksi pembayaran domestik dalam
+penyelenggaraan GPN (NPG) dilaksanakan sebagai
+berikut:
+a. untuk kartu ATM dan/atau kartu debet tunduk
+pada ketentuan Bank Indonesia yang mengatur
+mengenai alat pembayaran dengan menggunakan
+kartu; dan
+b. untuk instrumen pembayaran selain kartu ATM
+dan/atau kartu debet tunduk pada Peraturan
+Anggota Dewan Gubernur yang akan ditetapkan
+kemudian oleh Bank Indonesia.

@@ -1,0 +1,10 @@
+Pasal 225
+Dalam hal pemrosesan data dan/atau informasi terkait Sistem
+Pembayaran yang dilakukan melalui pemanfaatan infrastruktur
+data pihak ketiga, PIP dan/atau pihak yang bekerja sama
+dengan PIP harus memenuhi paling sedikit:
+a. akses dan surveilans Bank Indonesia;
+b. manajemen risiko dan keamanan sistem informasi;
+c. pelindungan data;
+d. keandalan layanan; dan
+e. integritas data.

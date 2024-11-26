@@ -1,0 +1,17 @@
+Pasal 57
+(1) Penyelenggara melakukan pertukaran informasi
+sebagaimana dimaksud dalam Pasal 56 ayat (1) huruf a
+terkait hasil identifikasi Kerentanan Siber, Ancaman Siber,
+Serangan Siber, dan Insiden Siber yang dapat mengganggu
+stabilitas Sistem Keuangan ke Bank Indonesia.
+(2) Informasi hasil identifikasi yang dipertukarkan
+sebagaimana dimaksud pada ayat (1) paling sedikit
+meliputi:
+a. sumber dan pola Ancaman Siber dan Serangan Siber;
+b. celah keamanan yang berdampak pada Kerentanan
+Siber; dan
+c. pembelajaran dari cara penanganan Insiden Siber.
+(3) Bank Indonesia dapat meneruskan informasi hasil
+identifikasi Kerentanan Siber, Ancaman Siber, Serangan
+Siber, dan Insiden Siber sebagaimana dimaksud pada ayat
+(1) kepada otoritas terkait dan/atau Penyelenggara lain.

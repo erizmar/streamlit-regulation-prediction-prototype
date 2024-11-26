@@ -1,0 +1,24 @@
+Pasal 5
+(1) Penyelenggara GPN (NPG) sebagaimana dimaksud dalam
+Pasal 4 huruf a meliputi:
+a. Lembaga Standar;
+b. Lembaga Switching; dan
+c. Lembaga Services.
+(2) Pihak yang terhubung dengan GPN (NPG) sebagaimana
+dimaksud dalam Pasal 4 huruf b meliputi:
+a. Penerbit;
+b. Acquirer;
+www.peraturan.go.id2017, No.134
+-6-
+c. Penyelenggara Payment Gateway; dan
+d. pihak lainnya yang ditetapkan oleh Bank Indonesia.
+(3) Pihak yang terhubung dengan GPN (NPG) sebagaimana
+dimaksud pada ayat (2) terdiri atas bank umum, bank
+umum syariah, dan Lembaga Selain Bank.
+(4) Bank perkreditan rakyat dan bank pembiayaan rakyat
+syariah dapat terhubung dengan GPN (NPG) melalui
+bank umum atau bank umum syariah.
+(5) Ketentuan lebih lanjut mengenai hubungan antara
+penyelenggara GPN (NPG) dengan pihak yang terhubung
+dengan GPN (NPG) diatur dalam Peraturan Anggota
+Dewan Gubernur.

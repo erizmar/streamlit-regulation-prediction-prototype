@@ -1,0 +1,34 @@
+Pasal 10
+Aktivitas Penyelenggara Penunjang dalam pemrosesan
+transaksi pembayaran mencakup penyediaan:
+a. teknologi untuk pemrosesan transaksi pembayaran
+berupa:
+1. penyediaan teknologi untuk pemrosesan transaksi
+pembayaran yang meliputi penyediaan layanan
+teknologi, sistem, dan/atau platform yang digunakan
+oleh PJP dalam pelaksanaan pemrosesan transaksi
+pembayaran pada tahapan inisiasi, otorisasi, kliring
+dan/atau penyelesaian akhir; dan/atau
+2. penyediaan layanan teknologi untuk pemrosesan
+transaksi pembayaran yang meliputi penyediaan fitur
+otentikasi untuk otorisasi transaksi pembayaran,
+penyediaan teknologi pengelolaan fraud (fraud
+management system), penyediaan teknologi
+komputasi awan (cloud computing), dan penyediaan
+card management system;
+dan/atau
+b. layanan penunjang kegiatan penyelenggaraan Sistem
+Pembayaran lainnya yang meliputi:
+1. layanan penyelenggaraan pada pratransaksi dan
+pascatransaksi;
+2. kegiatan pemasaran produk dan/atau layanan
+pembayaran;
+3. penyelenggara perdagangan melalui sistem elektronik
+yang memfasilitasi pembayaran;
+4. penyediaan infrastruktur dan sistem bagi PJP lain
+untuk melakukan pemrosesan transaksi pembayaran
+(white labelling);
+5. layanan meneruskan dana (disbursement) kepada
+Penyedia Barang dan/atau Jasa; dan
+6. layanan penunjang lainnya yang terkait dengan
+penyelenggaraan aktivitas PJP.

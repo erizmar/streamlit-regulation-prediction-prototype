@@ -1,0 +1,26 @@
+Pasal 166
+(1) Dana float hanya dapat digunakan untuk memenuhi
+kewajiban PJP yang menyelenggarakan aktivitas
+penatausahaan Sumber Dana berupa penerbitan uang
+elektronik kepada pengguna uang elektronik dan Penyedia
+Barang dan/atau Jasa, dan dilarang digunakan untuk
+kepentingan lain.
+(2) Untuk memenuhi kewajiban kepada pengguna uang
+elektronik dan Penyedia Barang dan/atau Jasa
+sebagaimana dimaksud pada ayat (1), PJP yang
+menyelenggarakan aktivitas penatausahaan Sumber Dana
+berupa penerbitan uang elektronik wajib:
+a. memiliki sistem dan mekanisme pencatatan dana
+float;
+b. memiliki sistem dan mekanisme monitoring
+ketersediaan dana float;
+c. memastikan pemenuhan kewajiban secara tepat
+waktu;
+d. mencatat dana float secara terpisah dari pencatatan
+kewajiban lain yang dimiliki oleh PJP yang
+menyelenggarakan aktivitas penatausahaan Sumber
+Dana berupa penerbitan uang elektronik; dan
+e. menempatkan dana float pada rekening yang terpisah
+dari rekening operasional PJP yang
+menyelenggarakan aktivitas penatausahaan Sumber
+Dana berupa penerbitan uang elektronik.

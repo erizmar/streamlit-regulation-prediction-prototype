@@ -1,0 +1,8 @@
+Pasal 4
+Prinsip dasar pelaksanaan KKS meliputi:
+a. kejelasan peran dan tanggung jawab;
+b. strategi yang komprehensif;
+c. manajemen Risiko Siber terintegrasi dengan enterprise risk
+management;
+d. integrasi dengan budaya KKS; dan
+e. kesiapan menghadapi Insiden Siber.

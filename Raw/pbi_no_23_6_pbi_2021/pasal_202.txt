@@ -1,0 +1,9 @@
+Pasal 202
+PJP dilarang:
+a. menerima virtual currency yang digunakan sebagai
+Sumber Dana dalam pemrosesan transaksi pembayaran;
+b. melakukan pemrosesan transaksi pembayaran dengan
+menggunakan virtual currency sebagai Sumber Dana;
+dan/atau
+c. mengaitkan virtual currency dengan pemrosesan transaksi
+pembayaran.

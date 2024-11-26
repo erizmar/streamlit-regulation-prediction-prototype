@@ -1,0 +1,13 @@
+Pasal 15
+(1) Penyelenggara menerapkan manajemen Risiko Siber
+sebagaimana dimaksud dalam Pasal 14 paling sedikit
+melalui:
+a. integrasi manajemen Risiko Siber ke dalam proses
+manajemen risiko Penyelenggara;
+b. identifikasi, asesmen, mitigasi, dan evaluasi Risiko
+Siber terhadap Ancaman Siber atau Serangan Siber;
+dan
+c. pengukuran tingkat kematangan KKS secara berkala.
+(2) Ketentuan lebih lanjut mengenai pengukuran tingkat
+kematangan KKS sebagaimana dimaksud pada ayat (1)
+huruf c diatur dalam Peraturan Anggota Dewan Gubernur.

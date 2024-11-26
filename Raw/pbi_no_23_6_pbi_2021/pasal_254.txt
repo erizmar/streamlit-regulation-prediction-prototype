@@ -1,0 +1,47 @@
+Pasal 254
+(1) PJP wajib menyampaikan laporan penyelenggaraan Sistem
+Pembayaran kepada Bank Indonesia.
+(2) Laporan yang disampaikan kepada Bank Indonesia
+sebagaimana dimaksud pada ayat (1) meliputi aspek:
+a. kelembagaan;
+b. permodalan dan keuangan;
+c. tata kelola dan manajemen risiko;
+d. kapabilitas sistem informasi; dan
+e. aspek lainnya yang ditetapkan oleh Bank Indonesia.
+(3) Laporan sebagaimana dimaksud pada ayat (1) terdiri atas:
+a. laporan berkala; dan
+b. laporan insidental.
+(4) Penyampaian laporan berkala sebagaimana dimaksud
+pada ayat (3) huruf a, termasuk namun tidak terbatas
+pada:
+a. laporan harian;
+b. laporan mingguan;
+c. laporan bulanan;
+d. laporan triwulanan;
+e. laporan tahunan;
+f. laporan hasil audit sistem informasi dan pengujian
+keamanan dari auditor independen internal atau
+eksternal; dan/atau
+g. laporan perhitungan kewajiban permodalan Sistem
+Pembayaran.
+(5) Laporan insidental sebagaimana dimaksud pada ayat (3)
+huruf b, terdiri atas:
+a. laporan perubahan modal dan/atau perubahan
+struktur kepemilikan dan pengendalian serta
+perubahan susunan pengurus PJP;
+b. laporan perubahan data dan informasi pada dokumen
+yang disampaikan pada saat mengajukan
+permohonan izin kepada Bank Indonesia;
+c. laporan gangguan dalam pemrosesan transaksi
+pembayaran dan tindak lanjut yang telah dilakukan;
+d. laporan terjadinya keadaan kahar (force majeure) atas
+penyelenggaraan pemrosesan transaksi pembayaran;
+e. laporan hasil audit sistem informasi dari auditor
+independen yang dilakukan dalam hal terdapat
+perubahan yang signifikan; dan
+f. laporan lainnya yang diperlukan oleh Bank Indonesia.
+(6) Terjadinya gangguan sebagaimana dimaksud pada ayat (5)
+huruf c dan keadaan kahar (force majeure) sebagaimana
+dimaksud pada ayat (5) huruf d harus diberitahukan
+kepada Bank Indonesia paling lambat 1 (satu) jam setelah
+kejadian.

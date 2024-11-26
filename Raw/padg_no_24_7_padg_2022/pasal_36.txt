@@ -1,0 +1,14 @@
+Pasal 36
+Dalam penyelenggaraan layanan melalui agen LKD, sistem
+teknologi informasi yang digunakan paling sedikit harus
+memiliki kemampuan untuk:
+a. mendukung proses registrasi secara elektronik melalui
+agen LKD;
+b. menyampaikan informasi transaksi secara terenkripsi;
+c. menyampaikan notifikasi atas setiap transaksi Pengguna
+Jasa segera setelah transaksi terjadi;25
+d. mendukung interkoneksi antar PJP penyelenggara LKD;
+e. membatasi transaksi Pengguna Jasa secara otomatis (auto
+limit) sesuai dengan batas nilai uang elektronik dan nilai
+transaksi; dan
+f. memberlakukan batas waktu (time-out) proses transaksi.

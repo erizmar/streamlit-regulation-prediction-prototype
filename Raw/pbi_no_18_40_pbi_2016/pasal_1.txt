@@ -1,0 +1,80 @@
+Pasal 1
+Dalam Peraturan Bank Indonesia ini yang dimaksud dengan:
+1. Bank adalah bank sebagaimana dimaksud dalam
+Undang-Undang yang mengatur mengenai perbankan
+dan bank syariah sebagaimana dimaksud dalam Undang-
+Undang yang mengatur mengenai perbankan syariah.
+2. Lembaga Selain Bank adalah badan usaha bukan Bank
+yang berbadan hukum dan didirikan berdasarkan hukum
+Indonesia.
+3. Penyelenggara Jasa Sistem Pembayaran adalah Bank
+atau Lembaga Selain Bank yang menyelenggarakan
+kegiatan jasa sistem pembayaran.
+4. Penyelenggara Penunjang Transaksi Pembayaran yang
+selanjutnya disebut Penyelenggara Penunjang adalah
+pihak yang menyediakan layanan kepada Penyelenggara
+Jasa Sistem Pembayaran dalam rangka menunjang
+penyelenggaraan kegiatan jasa sistem pembayaran.
+5. Switching adalah infrastruktur yang berfungsi sebagai
+pusat dan/atau penghubung penerusan data transaksi
+pembayaran melalui jaringan yang menggunakan alat
+pembayaran dengan menggunakan kartu, uang
+elektronik, dan/atau transfer dana.
+6. Payment Gateway adalah layanan elektronik yang
+memungkinkan pedagang untuk memproses transaksi
+pembayaran dengan menggunakan alat pembayaran
+dengan menggunakan kartu, uang elektronik, dan/atau
+Proprietary Channel.
+7. Dompet Elektronik ( Electronic Wallet ) yang selanjutnya
+disebut Dompet Elektronik adalah layanan elektronik
+www.peraturan.go.id2016, No.236
+-4-
+untuk menyimpan data instrumen pembayaran antara
+lain alat pembayaran dengan menggunakan kartu
+dan/atau uang elektronik, yang dapat juga menampung
+dana, untuk melakukan pembayaran.
+8. Proprietary Channel adalah kanal pembayaran yang
+dikembangkan dan dimiliki oleh Bank secara eksklusif
+untuk kepentingan nasabah sendiri yang antara lain
+menggunakan teknologi berbasis short message service ,
+mobile, web, subscriber identity module tool kit, dan/atau
+unstructured supplementary service data.
+9. Penyelenggara Switching adalah Bank atau Lembaga
+Selain Bank yang menyelenggarakan kegiatan Switching.
+10. Penyelenggara Payment Gateway adalah Bank atau
+Lembaga Selain Bank yang menyelenggarakan kegiatan
+Payment Gateway.
+11. Penyelenggara Dompet Elektronik adalah Bank atau
+Lembaga Selain Bank yang menyelenggarakan Dompet
+Elektronik.
+12. Prinsipal adalah prinsipal sebagaimana dimaksud dalam
+ketentuan Bank Indonesia yang mengatur mengenai alat
+pembayaran dengan menggunakan kartu dan ketentuan
+Bank Indonesia yang mengatur mengenai uang
+elektronik.
+13. Penerbit adalah penerbit sebagaimana dimaksud dalam
+ketentuan Bank Indonesia yang mengatur mengenai alat
+pembayaran dengan menggunakan kartu dan ketentuan
+Bank Indonesia yang mengatur mengenai uang
+elektronik.
+14. Acquirer adalah acquirer sebagaimana dimaksud dalam
+ketentuan Bank Indonesia yang mengatur mengenai alat
+pembayaran dengan menggunakan kartu dan ketentuan
+Bank Indonesia yang mengatur mengenai uang
+elektronik.
+15. Penyelenggara Kliring adalah penyelenggara kliring
+sebagaimana dimaksud dalam ketentuan Bank Indonesia
+yang mengatur mengenai alat pembayaran dengan
+menggunakan kartu dan ketentuan Bank Indonesia yang
+mengatur mengenai uang elektronik.
+www.peraturan.go.id2016, No.236
+-5-
+16. Penyelenggara Penyelesaian Akhir adalah penyelenggara
+penyelesaian akhir sebagaimana dimaksud dalam
+ketentuan Bank Indonesia yang mengatur mengenai alat
+pembayaran dengan menggunakan kartu dan ketentuan
+Bank Indonesia yang mengatur mengenai uang
+elektronik.
+17. Penyelenggara Transfer Dana adalah penyelenggara
+transfer dana sebagaimana dimaksud dalam ketentuan
+Bank Indonesia yang mengatur mengenai transfer dana.

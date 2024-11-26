@@ -1,0 +1,15 @@
+Pasal 36
+(1) Respons sebagaimana dimaksud dalam Pasal 35 ayat (1)
+huruf a meliputi:
+a. penyusunan rencana penanganan dan pemulihan
+Insiden Siber;
+b. pelaksanaan simulasi dan uji coba penanganan dan
+pemulihan Insiden Siber;
+c. penanganan Insiden Siber; dan
+d. pelaksanaan komunikasi tindakan penanganan
+Insiden Siber.
+(2) Respons sebagaimana dimaksud pada ayat (1)
+dilaksanakan oleh Penyelenggara untuk:
+a. mempersiapkan proses penanganan Insiden Siber;
+b. mencegah perluasan dampak Insiden Siber; dan
+c. melakukan komunikasi penanganan Insiden Siber.

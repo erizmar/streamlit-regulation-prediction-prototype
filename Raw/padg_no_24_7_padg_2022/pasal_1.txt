@@ -1,0 +1,67 @@
+Pasal 1
+Dalam Peraturan Anggota Dewan Gubernur ini yang dimaksud
+dengan:
+1. Sistem Pembayaran adalah suatu sistem yang mencakup
+seperangkat aturan, lembaga, mekanisme, infrastruktur,
+sumber dana untuk pembayaran, dan akses ke sumber
+dana untuk pembayaran, yang digunakan untuk3
+melaksanakan pemindahan dana guna memenuhi suatu
+kewajiban yang timbul dari suatu kegiatan ekonomi.
+2. Bank adalah bank umum dan bank perkreditan rakyat
+sebagaimana dimaksud dalam Undang-Undang mengenai
+perbankan, termasuk kantor cabang bank asing di
+Indonesia, dan bank umum syariah serta bank
+pembiayaan rakyat syariah sebagaimana dimaksud dalam
+Undang-Undang mengenai perbankan syariah.
+3. Lembaga Selain Bank adalah badan usaha berbadan
+hukum Indonesia bukan Bank.
+4. Penyedia Jasa Pembayaran yang selanjutnya disingkat
+PJP adalah Bank atau Lembaga Selain Bank yang
+menyediakan jasa untuk memfasilitasi transaksi
+pembayaran kepada pengguna jasa.
+5. Penyelenggara Infrastruktur Sistem Pembayaran yang
+selanjutnya disebut PIP adalah pihak yang
+menyelenggarakan infrastruktur sebagai sarana yang
+dapat digunakan untuk melakukan pemindahan dana
+bagi kepentingan anggotanya.
+6. Penyelenggara Penunjang adalah pihak yang bekerja sama
+dengan PJP dan PIP untuk menunjang penyelenggaraan
+kegiatan jasa Sistem Pembayaran.
+7. Pengguna Jasa adalah pihak yang menggunakan jasa dari
+PJP.
+8. Penyedia Barang dan/atau Jasa adalah pihak yang
+menjual barang dan/atau jasa yang menerima
+pembayaran dari Pengguna Jasa.
+9. Self-Regulatory Organization di bidang Sistem Pembayaran
+yang selanjutnya disebut SRO adalah suatu forum atau
+institusi yang berbadan hukum Indonesia yang mewakili
+industri dan ditetapkan oleh Bank Indonesia untuk
+mendukung penyelenggaraan Sistem Pembayaran.
+10. Penyelenggara Sistem Pembayaran Sistemik yang
+selanjutnya disingkat PSPS adalah PJP dan PIP yang
+memiliki dampak sistemik terhadap Sistem Pembayaran
+dan/atau sistem keuangan dalam hal PJP dan PIP
+mengalami gangguan atau kegagalan.4
+11. Penyelenggara Sistem Pembayaran Kritikal yang
+selanjutnya disingkat PSPK adalah PJP dan PIP yang
+memiliki dampak kritikal terhadap Sistem Pembayaran
+dan/atau sistem keuangan dalam hal PJP dan PIP
+mengalami gangguan atau kegagalan.
+12. Penyelenggara Sistem Pembayaran Umum yang
+selanjutnya disingkat PSPU adalah PJP dan PIP yang tidak
+memiliki dampak signifikan terhadap Sistem Pembayaran
+dan/atau sistem keuangan dalam hal PJP dan PIP
+mengalami gangguan atau kegagalan.
+13. Sumber Dana untuk Pembayaran yang selanjutnya
+disebut Sumber Dana adalah sumber dana yang
+digunakan untuk memenuhi kewajiban dalam transaksi
+pembayaran dan ditatausahakan dalam suatu akun untuk
+pembayaran.
+14. Layanan Keuangan Digital yang selanjutnya disingkat LKD
+adalah kegiatan layanan jasa Sistem Pembayaran dan
+keuangan yang dilakukan oleh PJP yang
+menyelenggarakan aktivitas penatausahaan Sumber Dana
+berupa penerbitan uang elektronik melalui kerja sama
+dengan pihak ketiga serta menggunakan sarana dan
+perangkat teknologi berbasis mobile atau piranti digital
+lainnya untuk ekonomi digital dan keuangan inklusif.

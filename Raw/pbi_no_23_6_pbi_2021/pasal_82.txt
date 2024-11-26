@@ -1,0 +1,29 @@
+Pasal 82
+Pengembangan aktivitas, pengembangan produk, dan/atau
+kerja sama dengan risiko sedang sebagaimana dimaksud dalam
+Pasal 80 huruf b merupakan:
+a. pengembangan aktivitas dan/atau pengembangan produk
+dengan kriteria:
+1. berdampak pada tahapan inisiasi, otorisasi, kliring,
+dan/atau penyelesaian akhir berupa:
+a) pengembangan (enhancement) dari sistem yang
+digunakan saat ini; dan/atau
+b) pengembangan (enhancement) dari infrastruktur
+yang digunakan saat ini; atau
+2. berdampak pada tahapan pratransaksi dan/atau
+pascatransaksi berupa:
+a) pengembangan terkait fitur keamanan transaksi;
+b) pengembangan lintas batas (crossborder);
+dan/atau
+c) penggunaan sistem dan/atau infrastruktur baru
+yang belum pernah digunakan; atau
+b. pengembangan aktivitas dan/atau pengembangan produk
+yang disertai dengan kerja sama dengan kriteria
+berdampak pada tahapan pratransaksi dan/atau
+pascatransaksi serta penyediaan solusi teknologi
+informasi dan/atau layanan teknis oleh pihak lain yang
+berdampak pada keberlangsungan usaha PJP; atau
+c. kerja sama dengan selain warga negara Indonesia
+dan/atau badan hukum Indonesia yang tidak disertai
+dengan pengembangan aktivitas dan/atau pengembangan
+produk.

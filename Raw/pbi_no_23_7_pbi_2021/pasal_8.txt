@@ -1,0 +1,30 @@
+Pasal 8
+Aktivitas Penyelenggara Penunjang dalam pemrosesan transaksi
+pembayaran meliputi penyediaan:
+a. teknologi untuk pemrosesan transaksi pembayaran
+berupa:
+1. penyediaan teknologi untuk pemrosesan transaksi
+pembayaran meliputi penyediaan layanan teknologi,
+sistem, dan/atau platform yang digunakan oleh PIP-8-
+dalam pelaksanaan pemrosesan transaksi pembayaran
+pada tahapan Kliring dan/atau Penyelesaian Akhir;
+dan/atau
+2. penyediaan layanan teknologi untuk pemrosesan
+transaksi pembayaran yang meliputi penyediaan
+teknologi pengelolaan fraud (fraud management
+system), penyediaan teknologi komputasi awan (cloud
+computing), dan penyediaan card management system;
+dan/atau
+b. layanan penunjang kegiatan penyelenggaraan Sistem
+Pembayaran lainnya yang meliputi:
+1. layanan penyelenggaraan pada Pratransaksi dan
+Pascatransaksi;
+2. kegiatan pemasaran produk dan/atau layanan
+pembayaran;
+3. penyelenggara perdagangan melalui sistem elektronik
+yang memfasilitasi pembayaran;
+4. pemanfaatan infrastruktur dan sistem bagi PIP lain
+untuk melakukan pemrosesan transaksi pembayaran
+(white labelling); dan
+5. layanan penunjang lainnya yang terkait dengan
+penyelenggaraan aktivitas PIP.

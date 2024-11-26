@@ -1,0 +1,50 @@
+Pasal 48
+(1) Pemenuhan kewajiban aspek interkoneksi dan
+interoperabilitas sebagaimana dimaksud dalam Pasal 44
+huruf a angka 4 paling sedikit meliputi:
+a. kepatuhan terhadap mekanisme interkoneksi dan
+interoperabilitas, termasuk standar yang ditetapkan
+oleh Bank Indonesia;
+b. pemenuhan terhadap mekanisme keterhubungan
+dengan infrastruktur data dan infrastruktur Sistem
+Pembayaran; dan
+c. pemrosesan transaksi pembayaran secara domestik.
+(2) Pemrosesan transaksi pembayaran secara domestik
+sebagaimana dimaksud pada ayat (1) huruf c berlaku
+untuk tahapan inisiasi, otorisasi, kliring, dan penyelesaian
+akhir.
+(3) Pemrosesan transaksi pembayaran secara domestik
+sebagaimana dimaksud pada ayat (2) dilakukan untuk
+setiap transaksi yang:
+a. menggunakan akses ke Sumber Dana berupa
+instrumen dan/atau layanan yang diselenggarakan
+oleh PJP; dan
+b. dilakukan di wilayah Negara Kesatuan Republik
+Indonesia.
+(4) Sistem elektronik yang digunakan untuk pemrosesan
+transaksi pada tahapan inisiasi, otorisasi, kliring, dan
+penyelesaian akhir ditempatkan pada pusat data dan
+pusat pemulihan bencana di wilayah Negara Kesatuan
+Republik Indonesia.
+(5) Bank Indonesia menetapkan jenis akses ke Sumber Dana
+dan tahapan pemberlakuan pemrosesan transaksi secara
+domestik.
+(6) Transaksi pembayaran dapat diproses di luar wilayah
+Negara Kesatuan Republik Indonesia sepanjang
+memperoleh persetujuan Bank Indonesia.
+(7) Persetujuan Bank Indonesia untuk pemrosesan transaksi
+pembayaran di luar wilayah Negara Kesatuan Republik
+Indonesia sebagaimana dimaksud pada ayat (6) dapat
+diberikan dengan mempertimbangkan:
+a. penggunaan sistem elektronik dan/atau aktivitas
+yang terintegrasi dengan kantor pusat PJP yang
+berada di luar wilayah Negara Kesatuan Republik
+Indonesia;
+b. tingkat kesiapan industri dan infrastruktur nasional;
+dan/atau
+c. aspek lainnya yang ditetapkan Bank Indonesia.
+(8) Persetujuan Bank Indonesia diberikan sepanjang terdapat
+jaminan dari PJP bahwa pemrosesan di luar wilayah
+Negara Kesatuan Republik Indonesia tidak mengurangi
+efektivitas pengawasan, perolehan data, dan pelindungan
+data pribadi.

@@ -1,0 +1,21 @@
+Pasal 54
+(1) Penyelenggara menyampaikan data dan/atau informasi
+sebagaimana dimaksud dalam Pasal 46 huruf b kepada
+Bank Indonesia.
+(2) Data dan/atau informasi sebagaimana dimaksud pada
+ayat (1) terkait penerapan KKS meliputi area:
+a. tata kelola;
+b. pencegahan; dan
+c. penanganan.
+(3) Data dan/atau informasi sebagaimana dimaksud pada
+ayat (2) disampaikan dalam bentuk dokumen, data
+mentah, dan/atau data olahan.
+(4) Data dan/atau informasi sebagaimana dimaksud pada
+ayat (3) disampaikan melalui pelaporan secara:
+a. tahunan, meliputi:
+1. tingkat kematangan KKS; dan
+2. hasil identifikasi infrastruktur informasi vital, dan
+b. Insidental pada saat terjadi Insiden Siber.
+(5) Ketentuan lebih lanjut mengenai tata cara penyampaian
+data dan/atau informasi sebagaimana dimaksud pada
+ayat (1) diatur dalam Peraturan Anggota Dewan Gubernur.

@@ -1,0 +1,6 @@
+Pasal 22
+(1) Lembaga Services wajib mematuhi standar dan SLA
+Lembaga Services yang ditetapkan oleh Bank Indonesia.
+(2) Lembaga Services harus meminta persetujuan Bank
+Indonesia atas hal yang bersifat strategis dalam
+melaksanakan tugasnya.

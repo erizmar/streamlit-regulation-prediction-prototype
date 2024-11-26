@@ -1,0 +1,12 @@
+Pasal 27
+Pembangunan sistem pertahanan sebagaimana dimaksud
+dalam Pasal 26 ayat (1) huruf a pada aspek manusia, proses,
+dan teknologi dilakukan paling sedikit dengan:
+a. memastikan keamanan pihak internal dan pihak ketiga
+pada setiap tahapan siklus kerja serta memberikan
+edukasi KKS sesuai dengan peran dan tanggung jawab;
+b. menerapkan pengendalian keamanan untuk proses bisnis
+serta melaksanakan kebijakan, standar, dan prosedur
+pengamanan secara efektif; dan
+c. mengimplementasikan konfigurasi pengamanan terhadap
+Sistem Informasi yang digunakan.

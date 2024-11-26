@@ -1,0 +1,10 @@
+Pasal 3
+Ruang lingkup GPN (NPG) mencakup transaksi pembayaran
+secara domestik yang meliputi:
+a. interkoneksi Switching;
+b. interkoneksi dan interoperabilitas kanal pembayaran
+berupa kanal ATM, electronic data captured (EDC), agen,
+payment gateway, dan kanal pembayaran lainnya; dan
+c. interoperabilitas instrumen pembayaran berupa kartu
+ATM dan/atau kartu debet, kartu kredit, uang
+elektronik, dan instrumen pembayaran lainnya.
