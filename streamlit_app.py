@@ -9,12 +9,12 @@ from dotenv import load_dotenv
 load_dotenv()
 
 #Codespaces
-# SUPABASE_USER = os.environ.get('SUPABASE_USER')
-# SUPABASE_PASSWORD = os.environ.get('SUPABASE_PASSWORD')
+# SUPABASE_USER = os.environ.get("SUPABASE_USER")
+# SUPABASE_PASSWORD = os.environ.get("SUPABASE_PASSWORD")
 
 #Streamlit Serverless
-SUPABASE_USER = st.secrets['SUPABASE_USER']
-SUPABASE_PASSWORD = st.secrets['SUPABASE_PASSWORD']
+SUPABASE_USER = st.secrets["SUPABASE_USER"]
+SUPABASE_PASSWORD = st.secrets["SUPABASE_PASSWORD"]
 
 SUPABASE_CONNECTION = f"postgresql://{SUPABASE_USER}:{SUPABASE_PASSWORD}@aws-0-ap-southeast-1.pooler.supabase.com:6543/postgres"
 
@@ -27,13 +27,16 @@ st.header("Input Section")
 if "output" not in st.session_state:
   st.session_state.output = {}
 
+if "df_feedback" not in st.session_state:
+  st.session_state.df_feedback = {}
+
 if "feedback" not in st.session_state:
   st.session_state.feedback = ""
 
 def save_to_supabase(df, table_name):
   try:
     engine = create_engine(SUPABASE_CONNECTION)
-    df.to_sql(table_name, engine, if_exists='append', index=False)
+    df.to_sql(table_name, engine, if_exists="append", index=False)
     return "Data saved successfully to Supabase!"
   except Exception as e:
     return f"An error occurred: {e}"
@@ -62,10 +65,12 @@ trigger = st.button("Predict")
 st.header("Output Section")
 if trigger:  # Output is displayed only when the button is clicked
   st.session_state.output = {}
+  st.session_state.df_feedback = {}
   if selected_topic:
     for topic in selected_topic:
-      topic_name = topic.lower().replace(' ', '_')
+      topic_name = topic.lower().replace(" ", "_")
       st.session_state.output[topic_name] = {}
+      st.session_state.df_feedback[topic_name] = {}
 
       if not selected_regulation:
         selected_regulation = regulation_option # Default is to pick all
@@ -76,6 +81,7 @@ if trigger:  # Output is displayed only when the button is clicked
         df_prediction["feedback"] = None
 
         st.session_state.output[topic_name][regulation_name] = df_prediction
+        st.session_state.df_feedback[topic_name][regulation_name] = df_prediction
   else:
     st.write("Please choose topic.")
 else:
@@ -87,7 +93,7 @@ for topic in st.session_state.output:
     df_output = st.session_state.output[topic][regulation]
     st.write(f"Total Prediction for {regulation.upper()}: `{len(df_output)}`")
     if len(df_output) != 0:
-      df_edited = st.data_editor(
+      st.session_state.df_feedback[topic][regulation] = st.data_editor(
         df_output,
         use_container_width=True,
         hide_index=True,
@@ -101,7 +107,6 @@ for topic in st.session_state.output:
         },
         disabled=["topic_name", "regulation_name", "pasal", "pasal_text"],
       )
-      st.session_state.output[topic][regulation] = df_edited
 
 if st.session_state.output != {}:
   st.header("Describe your feedback")
@@ -121,10 +126,14 @@ if st.session_state.output != {}:
       df_issue = pd.DataFrame(data, columns=["feedback"])
 
       result = save_to_supabase(df_issue, "ciso_prediction_feedback")  # Replace with your table name
-      for topic in st.session_state.output:
-        for regulation in st.session_state.output[topic]:
-          df_output = st.session_state.output[topic][regulation]
-          result = save_to_supabase(df_output, "ciso_prediction_result")  # Replace with your table name
+
+      df_feedback = pd.DataFrame(columns=["topic_name", "regulation_name", "pasal", "pasal_text", "feedback"])
+      for topic in st.session_state.df_feedback:
+        for regulation in st.session_state.df_feedback[topic]:
+          df_append = st.session_state.df_feedback[topic][regulation]
+          df_feedback = pd.concat([df_append, df_feedback], axis=0)
+
+      result = save_to_supabase(df_feedback, "ciso_prediction_result")  # Replace with your table name
 
       # Show a little success message.
       st.success("Feedback submitted!")
